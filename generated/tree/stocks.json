@@ -1,0 +1,251 @@
+{
+  "id": "stocks",
+  "display_name": "Stocks",
+  "feeds": [
+    {
+      "id": "youtube:CNBC Television",
+      "cleaned_title": "CNBC Television",
+      "summary": "CNBC's official YouTube channel featuring interviews, market analysis, and news coverage of the stock market and business world.",
+      "title": "CNBC Television",
+      "kind": "youtube",
+      "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPWiiqhx401RAMI8gnIlNIU_XIS7kjbrrtmiTb_rQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "market analysis",
+        "business news",
+        "investing"
+      ]
+    },
+    {
+      "id": "reddit:StockMarket",
+      "cleaned_title": "StockMarket",
+      "summary": "A subreddit for discussions and news related to the stock market, investing, and trading.",
+      "title": "StockMarket",
+      "kind": "reddit",
+      "subreddit": "StockMarket",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "stock market",
+        "trade ideas",
+        "analysis",
+        "investing"
+      ]
+    },
+    {
+      "id": "youtube:Financial Education",
+      "cleaned_title": "Financial Education",
+      "summary": "A YouTube channel that covers stock market analysis, investing strategies, and personal finance tips.",
+      "title": "Financial Education",
+      "kind": "youtube",
+      "channel_id": "UCnMn36GT_H0X-w5_ckLtlgQ",
+      "thumbnail_url": "https://yt3.ggpht.com/Y16iJgJWLWwxstm9KjKbHTdV3mSZOzMF7TQTIDHROGxNsevuM32uBUppltjcQzyXdbaS14i5Nw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "stock market analysis",
+        "investing strategy",
+        "personal finance"
+      ]
+    },
+    {
+      "id": "reddit:stocks",
+      "cleaned_title": "stocks",
+      "summary": "A subreddit for discussions and news related to individual stocks, investing strategies, and market trends.",
+      "title": "stocks",
+      "kind": "reddit",
+      "subreddit": "stocks",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "investing",
+        "market news",
+        "stock discussions",
+        "financial education"
+      ]
+    },
+    {
+      "id": "feed:mbideepdives.substack.com:MBI Deep Dives",
+      "cleaned_title": "MBI Deep Dives",
+      "summary": "An investment research source focused on in-depth analyses and updates on major companies. It allows followers to stay informed about pivotal changes and trends within the stock market.",
+      "title": "MBI Deep Dives",
+      "kind": "feed",
+      "feed_url": "https://mbideepdives.substack.com/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "investment research",
+        "market updates",
+        "stock analysis"
+      ]
+    },
+    {
+      "id": "feed:thespecialsituationreport.com:The Special Situation Report",
+      "cleaned_title": "The Special Situation Report",
+      "summary": "A weekly report dedicated to special situations in US public equities, providing insights into mergers, acquisitions, and other unique opportunities in the market.",
+      "title": "The Special Situation Report",
+      "kind": "feed",
+      "feed_url": "https://www.thespecialsituationreport.com/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "mergers",
+        "acquisitions",
+        "equity analysis",
+        "market trends"
+      ]
+    },
+    {
+      "id": "feed:investmenttalk.co:Investment Talk",
+      "cleaned_title": "Investment Talk",
+      "summary": "A blog analyzing the stock market and financial behavior, offering essays that delve into the intricate relationship between finance and human nature.",
+      "title": "Investment Talk",
+      "kind": "feed",
+      "feed_url": "https://www.investmenttalk.co/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "stock market",
+        "finance",
+        "behavioral finance"
+      ]
+    },
+    {
+      "id": "feed:themacrocompass.substack.com:The Macro Compass",
+      "cleaned_title": "The Macro Compass",
+      "summary": "A platform providing financial education and macroeconomic insights, focusing on actionable investment strategies drawn from an experienced portfolio manager's perspective.",
+      "title": "The Macro Compass",
+      "kind": "feed",
+      "feed_url": "https://themacrocompass.substack.com/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "macro insights",
+        "investment strategies",
+        "financial education"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Highsnobiety",
+      "cleaned_title": "Highsnobiety",
+      "summary": "An online publication covering streetwear, sneakers, and contemporary fashion, with a focus on street style.",
+      "title": "Highsnobiety",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/highsnobiety/rss",
+      "details": "Original category: Fashion -> Street Style",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Fashion",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "streetwear",
+        "sneakers",
+        "fashion trends"
+      ]
+    },
+    {
+      "id": "youtube:THE CASUAL",
+      "cleaned_title": "THE CASUAL",
+      "summary": "A YouTube channel that showcases street style looks, outfit ideas, and fashion tips for both men and women.",
+      "title": "THE CASUAL",
+      "kind": "youtube",
+      "channel_id": "UCnnSPut3diQI4BtrraKpsnA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMJNnv2pL4pOQpGFmlymn2EjuE5Ms9g9fhjS23iMg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Street Style",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Fashion",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "street fashion",
+        "outfit ideas",
+        "fashion tips"
+      ]
+    }
+  ],
+  "child_categories": []
+}

@@ -1,0 +1,384 @@
+{
+  "id": "real_estate",
+  "display_name": "Real Estate",
+  "feeds": [
+    {
+      "id": "youtube:The Financial Diet",
+      "cleaned_title": "The Financial Diet",
+      "summary": "A YouTube channel that offers practical financial advice, career tips, and personal finance stories.",
+      "title": "The Financial Diet",
+      "kind": "youtube",
+      "channel_id": "UCSPYNpQ2fHv9HJ-q6MIMaPw",
+      "thumbnail_url": "https://yt3.ggpht.com/9jauVTcgcuPQnqUbhDNqQbPa2c9TbtvivtU-u1lhPC8JOUgIWf3-DcujOneW4nvo2kXG35lm=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "financial advice",
+        "personal finance",
+        "career tips"
+      ]
+    },
+    {
+      "id": "feed:yardi.com:The Balance Sheet - Yardi Corporate BlogThe Balance Sheet \u2013 Yardi Corporate Blog!",
+      "cleaned_title": "The Balance Sheet",
+      "summary": "A comprehensive website that covers various aspects of personal finance, including budgeting, saving, investing, and retirement planning.",
+      "title": "The Balance Sheet - Yardi Corporate BlogThe Balance Sheet \u2013 Yardi Corporate Blog!",
+      "kind": "feed",
+      "feed_url": "http://www.yardi.com/blog/feed",
+      "details": "Original category: Business -> Personal Finance",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Yardi Corporate Blog",
+      "tags": [
+        "Money",
+        "Finance",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal finance",
+        "budgeting",
+        "saving",
+        "investing"
+      ]
+    },
+    {
+      "id": "youtube:Graham Stephan",
+      "cleaned_title": "Graham Stephan",
+      "summary": "Graham Stephan is a real estate agent and investor who shares his experiences, tips, and insights on his YouTube channel.",
+      "title": "Graham Stephan",
+      "kind": "youtube",
+      "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqP6qMy7r9W8xiumT9FXrqTpbZz5DvyRvn-vzyNHtQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Graham Stephan",
+      "tags": [
+        "Money",
+        "Real Estate",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "investment",
+        "financial advice",
+        "wealth building"
+      ]
+    },
+    {
+      "id": "feed:realtor.com:Real Estate News & Insights | realtor.com\u00ae News | Real Estate News & Insights | realtor.com\u00ae",
+      "cleaned_title": "Real Estate News & Insights",
+      "summary": "Realtor.com is another well-known real estate website that offers listings, home buying tips, and market trends.",
+      "title": "Real Estate News & Insights | realtor.com\u00ae News | Real Estate News & Insights | realtor.com\u00ae",
+      "kind": "feed",
+      "feed_url": "http://www.realtor.com/news/feed/",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "market trends",
+        "buying",
+        "selling"
+      ]
+    },
+    {
+      "id": "youtube:Meet Kevin",
+      "cleaned_title": "Meet Kevin",
+      "summary": "Meet Kevin is a real estate investor and agent who provides educational content, market analysis, and investment strategies on his YouTube channel.",
+      "title": "Meet Kevin",
+      "kind": "youtube",
+      "channel_id": "UCUvvj5lwue7PspotMDjk5UA",
+      "thumbnail_url": "https://yt3.ggpht.com/Wtjkswhc_iBIVQTCNBqCYROcUeWXm2ZBsIhU8DSt5r3kA8dFxOcB7lGaA6HRbCgi4vYVCd9-Yg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Kevin",
+      "tags": [
+        "Money",
+        "Living",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate investing",
+        "investment strategies",
+        "market analysis"
+      ]
+    },
+    {
+      "id": "reddit:RealEstate",
+      "cleaned_title": "RealEstate",
+      "summary": "A subreddit dedicated to discussions, news, and advice related to real estate.",
+      "title": "RealEstate",
+      "kind": "reddit",
+      "subreddit": "RealEstate",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "landlords",
+        "mortgages",
+        "buying a house"
+      ]
+    },
+    {
+      "id": "feed:biggerpockets.com:| BiggerPockets Blog",
+      "cleaned_title": "BiggerPockets Blog",
+      "summary": "BiggerPockets is an online community and resource platform for real estate investors, offering forums, articles, and educational content.",
+      "title": "| BiggerPockets Blog",
+      "kind": "feed",
+      "feed_url": "http://www.biggerpockets.com/renewsblog/feed/",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Living",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate investing",
+        "education",
+        "market insights"
+      ]
+    },
+    {
+      "id": "feed:feeds2.feedburner.com:Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "cleaned_title": "Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "summary": "Redfin is a real estate brokerage that provides listings, home buying tools, and agent services.",
+      "title": "Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "kind": "feed",
+      "feed_url": "http://feeds2.feedburner.com/redfin_corporate?format=xml",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "home buying",
+        "brokerage",
+        "market insights"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Inman",
+      "cleaned_title": "Inman",
+      "summary": "Inman is a real estate news and information website that covers industry trends, technology, and market insights.",
+      "title": "Inman",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/inmannews",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "market trends",
+        "broker news"
+      ]
+    },
+    {
+      "id": "feed:https://blog.scoutingmagazine.org/feed/",
+      "title": "Aaron on Scouting",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.scoutingmagazine.org/feed/",
+      "summary": "Formerly known as Bryan on Scouting, Aaron on Scouting is the official site of Scouting magazine for all families and BSA volunteers.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Aaron on Scouting",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Arts & Culture",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "scouting",
+        "community service",
+        "youth development",
+        "BSA",
+        "volunteering"
+      ]
+    },
+    {
+      "id": "feed:https://www.europebyrail.eu/europe-by-rail-rss-feed.rss",
+      "title": "Europe by Rail | The Definitive Guide",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.europebyrail.eu/europe-by-rail-rss-feed.rss",
+      "summary": "Exploring Europe by rail is easy and enjoyable.",
+      "details": "Original Category: recreation -> vehicles.opml",
+      "cleaned_title": "Europe by Rail",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Real Estate",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "Europe",
+        "rail travel",
+        "trains",
+        "trips"
+      ]
+    },
+    {
+      "id": "feed:https://smallworkshop.co.uk/rss/",
+      "title": "The Small Workshop",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://smallworkshop.co.uk/rss/",
+      "summary": "shed building, hand tools, motorcycles and three wheeled vehicles.",
+      "details": "Original Category: recreation -> vehicles -> motorcycles.opml",
+      "cleaned_title": "The Small Workshop",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Crafts",
+        "DIY",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "shed building",
+        "motorcycles",
+        "tools",
+        "restoration"
+      ]
+    },
+    {
+      "id": "feed:https://www.oldhousedreams.com/feed/",
+      "title": "Old House Dreams",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.oldhousedreams.com/feed/",
+      "summary": "Specially selected historic & old houses for sale: Fixer-uppers, time capsule & move-in ready. Join the OHD community!",
+      "details": "Original Category: arts -> architecture -> houses.opml",
+      "cleaned_title": "Old House Dreams",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Architecture",
+        "History",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "historic homes",
+        "real estate",
+        "fixer-uppers"
+      ]
+    },
+    {
+      "id": "feed:https://longstride.net/feed.xml",
+      "title": "Longstride: Trail Journals",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://longstride.net/feed.xml",
+      "summary": "Hiking and trail journals from the Appalachian Trail, the Pacific Crest Trail, the Continental Divide Trail, and beyond.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "Longstride: Trail Journals",
+      "cleaned_author": "John \u201cLongstride\u201d Bafford",
+      "tags": [
+        "Living",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "hiking",
+        "Appalachian Trail",
+        "Pacific Crest Trail",
+        "journals",
+        "nature"
+      ]
+    },
+    {
+      "id": "feed:https://www.trailspotting.com/feeds/posts/default",
+      "title": "Trailspotting",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.trailspotting.com/feeds/posts/default",
+      "summary": "Curated trail reviews, route maps and recommendations for day hikes and rail trails.",
+      "details": "Original Category: recreation -> walking.opml",
+      "cleaned_title": "Trailspotting",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cities",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "hiking",
+        "trails",
+        "California",
+        "Massachusetts",
+        "New Hampshire"
+      ]
+    }
+  ],
+  "child_categories": []
+}

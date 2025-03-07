@@ -1,0 +1,389 @@
+{
+  "id": "future",
+  "display_name": "Future",
+  "feeds": [
+    {
+      "id": "substack:top:chamath_palihapitiya",
+      "title": "Chamath Palihapitiya",
+      "cleaned_title": "Chamath Palihapitiya",
+      "summary": "A thought-provoking newsletter from a venture capitalist who focuses on disruptive ideas and technologies, sharing reflections on readings and discussions in the tech sphere.",
+      "kind": "feed",
+      "feed_url": "https://chamath.substack.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Ventures",
+        "Future",
+        "_intellectual"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "disruption",
+        "venture capital",
+        "technology"
+      ]
+    },
+    {
+      "id": "substack:top:feed_me_-_emily_sundberg",
+      "title": "Feed Me - Emily Sundberg",
+      "cleaned_title": "Feed Me",
+      "summary": "A daily insight into the realm of entrepreneurship, this newsletter captures the innovative spirit of business while providing relatable anecdotes and practical advice.",
+      "kind": "feed",
+      "feed_url": "https://www.readfeedme.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Urban",
+        "Future",
+        "_personal"
+      ],
+      "cleaned_author": "Emily Sundberg",
+      "language": "en",
+      "keywords": [
+        "entrepreneurship",
+        "business trends",
+        "innovation"
+      ]
+    },
+    {
+      "id": "feed:travelbloggerbuzz.com:TravelBloggerBuzz",
+      "cleaned_title": "TravelBloggerBuzz",
+      "summary": "Exploring the travel Miles and Points blogosphere, this feed delivers a diverse mix of travel topics and insights for readers.",
+      "title": "TravelBloggerBuzz",
+      "kind": "feed",
+      "feed_url": "https://travelbloggerbuzz.com/feed/",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:feeds.feedburner.com:TrendHunter.com - Auto and Motor Trends",
+      "cleaned_title": "TrendHunter.com - Auto and Motor Trends",
+      "summary": "Motor Trend provides comprehensive coverage of the automotive industry, including car reviews, news, and videos.",
+      "title": "TrendHunter.com - Auto and Motor Trends",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/trendhunter/Auto-and-Motor-Trends",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cars",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive industry",
+        "trends",
+        "innovation"
+      ]
+    },
+    {
+      "id": "youtube:Fully Charged Show",
+      "cleaned_title": "Fully Charged Show",
+      "summary": "A YouTube channel hosted by Robert Llewellyn that explores the latest developments in electric vehicles, renewable energy, and sustainable living.",
+      "title": "Fully Charged Show",
+      "kind": "youtube",
+      "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
+      "thumbnail_url": "https://yt3.ggpht.com/qsZvJgtm2brphBw3_FLZNucmYSKvBZPXMkQbkyklEncn3j1BIMc1w0NewNITfW_Lx5oBo5B_=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Robert Llewellyn",
+      "tags": [
+        "Tech",
+        "Cars",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "electric vehicles",
+        "renewable energy",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "feed:https://www.teachthefuture.org/blog-feed.xml",
+      "title": "Teach the Future | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.teachthefuture.org/blog-feed.xml",
+      "summary": "Get inspired by ideas on teaching the future from our global team of volunteers, facilitators, trainers, academics and teachers.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Teach the Future",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "future",
+        "innovation",
+        "sustainability",
+        "global education"
+      ]
+    },
+    {
+      "id": "feed:https://alexanderobenauer.com/assets/feed/rss.xml",
+      "title": "Alexander Obenauer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alexanderobenauer.com/assets/feed/rss.xml",
+      "summary": "Exploring new and renewed ideas for how personal computing and the interfaces we think with can better serve people\u2019s lives \u2013 expanding opportunity, agency, curiosity, and creativity.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Alexander Obenauer",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Future",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://www.ben-evans.com/benedictevans?format=rss",
+      "title": "Benedict Evans \u2014 Essays",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ben-evans.com/benedictevans?format=rss",
+      "summary": "Benedict Evans shares analytical essays on emerging technology trends, exploring the implications of AI and virtual reality.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Benedict Evans \u2014 Essays",
+      "cleaned_author": "Benedict Evans",
+      "tags": [
+        "Tech",
+        "AI",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://singularityhub.com/feed/",
+      "title": "Singularity Hub",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://singularityhub.com/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Singularity Hub",
+      "cleaned_author": null,
+      "summary": "Chronicling the technological frontier, this blog covers groundbreaking breakthroughs and discussions shaping the future of technology and science.",
+      "tags": [
+        "Science",
+        "AI",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "science breakthroughs",
+        "future"
+      ]
+    },
+    {
+      "id": "feed:https://bethefuture.space/rss/",
+      "title": "be the future",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bethefuture.space/rss/",
+      "summary": "make it better don't give up.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "be the future",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Future",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "future",
+        "advocacy",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:https://www.andyhinesight.com/feed/",
+      "title": "Hinesight....for Foresight | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.andyhinesight.com/feed/",
+      "summary": "Apply foresight to help organisations make more creative, innovative, and forward-looking decisions.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Hinesight....for Foresight",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Future",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "foresight",
+        "innovation",
+        "strategic planning"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/longnow",
+      "title": "Long Now - Ideas",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/longnow",
+      "summary": "A living archive of long-term thinking.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Long Now - Ideas",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Future",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "long-term thinking",
+        "ideas",
+        "time"
+      ]
+    },
+    {
+      "id": "feed:https://thenextwavefutures.wordpress.com/feed/",
+      "title": "the next wave",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thenextwavefutures.wordpress.com/feed/",
+      "summary": "Andrew Curry's blog on futures, trends, emerging issues and scenarios.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "the next wave",
+      "cleaned_author": "Andrew Curry",
+      "tags": [
+        "Tech",
+        "Future",
+        "Soccer"
+      ],
+      "language": "en",
+      "keywords": [
+        "futures",
+        "trends",
+        "insight"
+      ]
+    },
+    {
+      "id": "feed:https://paleofuture.com/blog?format=rss",
+      "title": "Paleofuture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://paleofuture.com/blog?format=rss",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Paleofuture",
+      "cleaned_author": null,
+      "summary": "A historical examination of futurism, highlighting how past visions of the future\u2014from flying cars to utopian societies\u2014shaped our present day.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "futurism",
+        "history",
+        "cultural visions"
+      ]
+    },
+    {
+      "id": "feed:https://rmukeshgupta.com/feed/",
+      "title": "MUKESH GUPTA",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rmukeshgupta.com/feed/",
+      "summary": "Leading Transformation.",
+      "details": "Original Category: society -> self-improvement.opml",
+      "cleaned_title": "MUKESH GUPTA",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "Education",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "leadership",
+        "smart machines",
+        "strategies",
+        "practitioners",
+        "success"
+      ]
+    },
+    {
+      "id": "feed:https://www.seat31b.com/feed/",
+      "title": "Seat 31B \u2013 The World In Economy Class",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.seat31b.com/feed/",
+      "summary": "A blog that offers insights and tips for economy class travelers looking to make the most of their journeys.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "Seat 31B",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Future",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "economy class",
+        "airlines"
+      ]
+    }
+  ],
+  "child_categories": []
+}

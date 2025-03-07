@@ -1,0 +1,159 @@
+{
+  "id": "lgbtq",
+  "display_name": "LGBTQ",
+  "feeds": [
+    {
+      "id": "feed:thegistsports.com:The GIST RSS Feed (Sports News)",
+      "cleaned_title": "The GIST RSS Feed",
+      "summary": "A source focused on providing news about women's sports and significant achievements within the athletic community, highlighting pivotal stories and changing narratives.",
+      "title": "The GIST RSS Feed (Sports News)",
+      "kind": "feed",
+      "feed_url": "https://www.thegistsports.com/rss.xml",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "LGBTQ",
+        "Soccer",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "women's sports",
+        "advocacy",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:https://cupofjo.com/feed/",
+      "title": "Cup of Jo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cupofjo.com/feed/",
+      "summary": "A daily women\u2019s lifestyle site that covers style, culture, food, travel, relationships and parenting.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Cup of Jo",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "LGBTQ",
+        "Fashion",
+        "Cooking",
+        "Parenting",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "lifestyle",
+        "relationships",
+        "food"
+      ]
+    },
+    {
+      "id": "feed:https://growinguptransgender.com/feed/",
+      "title": "Growing Up Transgender",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://growinguptransgender.com/feed/",
+      "summary": "Raising our trans child.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Growing Up Transgender",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "Mental Health",
+        "Parenting",
+        "LGBTQ"
+      ],
+      "language": "en",
+      "keywords": [
+        "transgender",
+        "puberty blockers",
+        "WPATH",
+        "parenting challenges",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "feed:https://awfj.org/female-gaze/feed/",
+      "title": "The Female Gaze | an AWFJ blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://awfj.org/female-gaze/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "The Female Gaze",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to highlighting women's perspectives in film through essays, reviews, and interviews, showcasing various aspects of cinema from a female-oriented viewpoint.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "LGBTQ"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "women in film",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:https://sohannabarberaesque.tumblr.com/rss",
+      "title": "It's So Hanna-Barberaesque",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sohannabarberaesque.tumblr.com/rss",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "It's So Hanna-Barberaesque",
+      "cleaned_author": null,
+      "summary": "This blog is a tribute to Hanna-Barbera, filled with fan creations, reflections, and a dose of nostalgia for the animation legends.",
+      "tags": [
+        "Arts & Culture",
+        "LGBTQ"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hanna-Barbera",
+        "fanfiction",
+        "animation"
+      ]
+    },
+    {
+      "id": "feed:https://iheartsapphfic.com/feed/",
+      "title": "I Heart SapphFic",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://iheartsapphfic.com/feed/",
+      "summary": "Find Your Next Sapphic Fiction Read.",
+      "details": "Original Category: arts -> books -> fiction-books.opml",
+      "cleaned_title": "I Heart SapphFic",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "LGBTQ"
+      ],
+      "language": "en",
+      "keywords": [
+        "sapphic fiction",
+        "book recommendations",
+        "LGBTQ literature"
+      ]
+    }
+  ],
+  "child_categories": []
+}

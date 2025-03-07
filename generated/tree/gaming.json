@@ -1,0 +1,2449 @@
+{
+  "id": "gaming",
+  "display_name": "Gaming",
+  "feeds": [
+    {
+      "id": "feed:cosplay.kotaku.com:Kotaku",
+      "cleaned_title": "Kotaku",
+      "summary": "A popular gaming site that delivers lively news, reviews, and tips, catering to diverse gaming interests and covering the latest trends in the gaming industry.",
+      "title": "Kotaku",
+      "kind": "feed",
+      "feed_url": "http://cosplay.kotaku.com/rss",
+      "popularity_score": 2.2864468864468863,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "gaming news",
+        "game reviews",
+        "gaming culture"
+      ]
+    },
+    {
+      "title": "r/gaming",
+      "popularity_score": 6.1395334925458265,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "gaming",
+      "kind": "reddit",
+      "id": "reddit:gaming",
+      "cleaned_title": "r/gaming",
+      "cleaned_author": null,
+      "summary": "The premier subreddit for gamers, offering a vibrant community where discussions about gaming news, trends, and experiences thrive.",
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "gaming community",
+        "game discussions",
+        "gaming news"
+      ]
+    },
+    {
+      "id": "feed:polygon.com:Polygon",
+      "cleaned_title": "Polygon",
+      "summary": "A comprehensive source for news and reviews in gaming, sci-fi, and pop culture. Polygon covers video games extensively, alongside films, books, and tabletop gaming, creating a rich tapestry of entertainment coverage.",
+      "title": "Polygon",
+      "kind": "feed",
+      "feed_url": "http://www.polygon.com/rss/index.xml",
+      "popularity_score": 7.419825313575313,
+      "details": "Original category: Entertainment -> Gaming",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "video games",
+        "Monster Hunter",
+        "sci-fi",
+        "strategy"
+      ]
+    },
+    {
+      "id": "feed:feeds.ign.com:IGN",
+      "cleaned_title": "IGN",
+      "summary": "A source for the latest in gaming news, articles, and reviews, IGN covers everything from upcoming releases to in-depth analyses of popular games. With updates about Steam demos and exclusive content, it's a must-visit for gaming enthusiasts.",
+      "title": "IGN",
+      "kind": "feed",
+      "feed_url": "http://feeds.ign.com/ign/games-all",
+      "popularity_score": 4.440223665223665,
+      "details": "Original category: Entertainment -> Gaming",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "gaming",
+        "news",
+        "reviews",
+        "articles",
+        "Steam",
+        "Pokemon"
+      ]
+    },
+    {
+      "id": "reddit:nintendo",
+      "cleaned_title": "Nintendo",
+      "summary": "r/Nintendo is a vibrant community discussing all things related to Nintendo, from gaming news to member opinions on games and consoles. It\u2019s a great place for fans to share insights and news about upcoming releases and industry changes.",
+      "title": "nintendo",
+      "kind": "reddit",
+      "subreddit": "nintendo",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "Nintendo",
+        "gaming",
+        "discussion",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:eurogamer.net:Eurogamer.net Latest Articles Feed",
+      "cleaned_title": "Eurogamer.net Latest Articles Feed",
+      "summary": "An engaging feed of the latest articles from Eurogamer.net, covering the gaming industry with timely updates on games, consoles, and tech developments.",
+      "title": "Eurogamer.net Latest Articles Feed",
+      "kind": "feed",
+      "feed_url": "http://www.eurogamer.net/?format=rss",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "video games",
+        "releases",
+        "game news",
+        "PlayStation",
+        "PUBG"
+      ]
+    },
+    {
+      "id": "feed:hobbyconsolas.com:Hobby Consolas Espa\u00f1a",
+      "cleaned_title": "Hobby Consolas Espa\u00f1a",
+      "summary": "A popular source among Spanish-speaking audiences for gaming news, trailers, and entertainment updates across various platforms.",
+      "title": "Hobby Consolas Espa\u00f1a",
+      "kind": "feed",
+      "feed_url": "http://www.hobbyconsolas.com/rss",
+      "details": "Original category: Hobbies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Gaming"
+      ],
+      "language": "es",
+      "keywords": [
+        "gaming news",
+        "trailers",
+        "Netflix",
+        "entertainment",
+        "series"
+      ]
+    },
+    {
+      "id": "youtube:Linus Tech Tips",
+      "cleaned_title": "Linus Tech Tips",
+      "summary": "A YouTube channel that provides entertaining and informative tech reviews, tutorials, and PC building guides.",
+      "title": "Linus Tech Tips",
+      "kind": "youtube",
+      "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "thumbnail_url": "https://yt3.ggpht.com/Vy6KL7EM_apxPSxF0pPy5w_c87YDTOlBQo3MADDF0Wl51kwxmt9wmRotnt2xQXwlrcyO0Xe56w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 4.240078907844562,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech reviews",
+        "PC building",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:techradar.com:TechRadar - All the latest technology news",
+      "cleaned_title": "TechRadar",
+      "summary": "TechRadar provides the latest technology news and reviews, covering gadgets, smartphones, gaming, and more.",
+      "title": "TechRadar - All the latest technology news",
+      "kind": "feed",
+      "feed_url": "http://www.techradar.com/rss",
+      "details": "Original category: Tech",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.5399191406509742,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "gadgets",
+        "smartphones",
+        "gaming",
+        "reviews"
+      ]
+    },
+    {
+      "id": "youtube:GameSpot",
+      "cleaned_title": "GameSpot",
+      "summary": "GameSpot is a YouTube channel that offers game reviews, trailers, and gameplay videos for a wide range of video games.",
+      "title": "GameSpot",
+      "kind": "youtube",
+      "channel_id": "UCbu2SsF-Or3Rsn3NxqODImw",
+      "thumbnail_url": "https://yt3.ggpht.com/tSa0LOUmL4X5uAwT68EF1--WJK_ImJjjgxhLLpnmN80TkKSV7uJExUkxs0TXFdtXPN8AZIjIhQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Gaming",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "gaming",
+        "reviews",
+        "trailers",
+        "gameplay"
+      ]
+    },
+    {
+      "id": "youtube:AngryJoeShow",
+      "cleaned_title": "AngryJoeShow",
+      "summary": "AngryJoeShow is a YouTube channel that features game reviews, discussions, and rants by Joe Vargas, known for his passionate and entertaining style.",
+      "title": "AngryJoeShow",
+      "kind": "youtube",
+      "channel_id": "UCsgv2QHkT2ljEixyulzOnUQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPbz_xVpc8x_DMGAo6-DCqxbj_6V0IyHZdLS5HgrQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Gaming",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Joe Vargas",
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "game reviews",
+        "discussions",
+        "gaming"
+      ]
+    },
+    {
+      "id": "reddit:pcgaming",
+      "cleaned_title": "pcgaming",
+      "summary": "r/pcgaming is a subreddit dedicated to PC gaming, where users discuss hardware, games, and share tips and tricks.",
+      "title": "pcgaming",
+      "kind": "reddit",
+      "subreddit": "pcgaming",
+      "details": "Original category: Entertainment -> Gaming",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Local",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "PC gaming",
+        "discussions",
+        "hardware",
+        "tips"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Rock, Paper, Shotgun",
+      "cleaned_title": "Rock, Paper, Shotgun",
+      "summary": "Rock Paper Shotgun is a gaming website that focuses on PC gaming, providing news, reviews, and features.",
+      "title": "Rock, Paper, Shotgun",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/RockPaperShotgun",
+      "popularity_score": 3.485714285714286,
+      "details": "Original category: Hobbies -> Gaming",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "PC gaming",
+        "news",
+        "reviews",
+        "features"
+      ]
+    },
+    {
+      "id": "youtube:Markiplier",
+      "cleaned_title": "Markiplier",
+      "summary": "Markiplier is a popular YouTube gaming personality known for his energetic and humorous Let's Play videos, live streams, and charity work.",
+      "title": "Markiplier",
+      "kind": "youtube",
+      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNTULnMvvBzr-7CnfWVqhKOkNLA_Dn1tfzutqKLTA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Gaming",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Let's Play",
+        "gaming",
+        "charity"
+      ]
+    },
+    {
+      "id": "youtube:The Game Theorists",
+      "cleaned_title": "The Game Theorists",
+      "summary": "The Game Theorists is a YouTube channel that explores the science, history, and theories behind video games, providing entertaining and educational content.",
+      "title": "The Game Theorists",
+      "kind": "youtube",
+      "channel_id": "UCo_IB5145EVNcf8hw1Kku7w",
+      "thumbnail_url": "https://yt3.ggpht.com/3naPCRx2OyDJC3-T5OZMEscJqYxOKTN8TopYl19QGwM35rRqPSFbC6yovicQLeboIQGHCtuM=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Gaming",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "video game theories",
+        "gaming content",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:tomshw.it:Tom's Hardware",
+      "cleaned_title": "Tom's Hardware",
+      "summary": "Tom's Hardware offers news, reviews, and guides on computer hardware, including CPUs, GPUs, storage devices, and peripherals.",
+      "title": "Tom's Hardware",
+      "kind": "feed",
+      "feed_url": "http://www.tomshw.it/rss_news.xml",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware",
+        "reviews",
+        "guides",
+        "CPUs",
+        "GPUs"
+      ]
+    },
+    {
+      "id": "youtube:Gamers Nexus",
+      "cleaned_title": "Gamers Nexus",
+      "summary": "Gamers Nexus focuses on in-depth hardware reviews, benchmarks, and analysis, with a particular emphasis on PC gaming hardware.",
+      "title": "Gamers Nexus",
+      "kind": "youtube",
+      "channel_id": "UChIs72whgZI9w6d6FhwGGHA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKaTOIvrrjSZw0R_N63QxSQizomjd375Gs7dHJpHdA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "PC gaming",
+        "hardware reviews",
+        "benchmarks",
+        "NVIDIA",
+        "AMD"
+      ]
+    },
+    {
+      "id": "feed:guru3d.com:www.guru3d.com",
+      "cleaned_title": "Guru3D",
+      "summary": "Guru3D provides hardware reviews, benchmarks, and guides for CPUs, GPUs, motherboards, and other PC components.",
+      "title": "www.guru3d.com",
+      "kind": "feed",
+      "feed_url": "https://www.guru3d.com/rss.xml",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "graphics cards",
+        "CPUs",
+        "reviews",
+        "benchmarks"
+      ]
+    },
+    {
+      "id": "youtube:Hardware Unboxed",
+      "cleaned_title": "Hardware Unboxed",
+      "summary": "Hardware Unboxed offers detailed hardware reviews, comparisons, and benchmarks, with a focus on gaming performance.",
+      "title": "Hardware Unboxed",
+      "kind": "youtube",
+      "channel_id": "UCI8iQa1hv7oV_Z8D35vVuSg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKYG6wMEqX4PdvnbQryfq4m6XFU4IPxjPVuSnBcn=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "gaming hardware",
+        "reviews",
+        "performance comparisons"
+      ]
+    },
+    {
+      "id": "feed:techpowerup.com:TechPowerUp",
+      "cleaned_title": "TechPowerUp",
+      "summary": "TechPowerUp provides news, reviews, and analysis of computer hardware, including graphics cards, CPUs, and storage devices.",
+      "title": "TechPowerUp",
+      "kind": "feed",
+      "feed_url": "https://www.techpowerup.com/rss/news",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware news",
+        "reviews",
+        "CPUs",
+        "GPUs"
+      ]
+    },
+    {
+      "id": "youtube:Bitwit",
+      "cleaned_title": "Bitwit",
+      "summary": "Bitwit is a YouTube channel that covers PC hardware, gaming, and tech news, with a mix of reviews, tutorials, and build guides.",
+      "title": "Bitwit",
+      "kind": "youtube",
+      "channel_id": "UCftcLVz-jtPXoH3cWUUDwYw",
+      "thumbnail_url": "https://yt3.ggpht.com/umrRc78oH9He_JY3XX7bQyQel2_LM6veh4BbsmlzgNOlMLuxB0aGtwfJHtXbS3zc0qj5BOafJA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "PC hardware",
+        "gaming news",
+        "build guides"
+      ]
+    },
+    {
+      "id": "feed:goto10retro.com:Goto 10 RetroComputing",
+      "cleaned_title": "Goto 10 RetroComputing",
+      "summary": "A nostalgic newsletter for Atari enthusiasts, encapsulating the history and appeal of Atari gaming systems and computers through insightful articles.",
+      "title": "Goto 10 RetroComputing",
+      "kind": "feed",
+      "feed_url": "https://www.goto10retro.com/feed",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/tokyodev",
+      "title": "TokyoDev | Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/tokyodev",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "TokyoDev | Articles",
+      "cleaned_author": null,
+      "summary": "A valuable resource for developers navigating the Japanese technology industry, providing insights into workplace dynamics and career tips.",
+      "tags": [
+        "Tech",
+        "Japan",
+        "Software Design",
+        "Coding",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japan",
+        "tech",
+        "developers",
+        "multinational teams",
+        "work culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.timemachinego.com/linkmachinego/feed/",
+      "title": "LinkMachineGo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.timemachinego.com/linkmachinego/feed/",
+      "summary": "UK based, Daily Link Blog. This is Lima Mike Golf. Shall we blog?",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "LinkMachineGo",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Literature",
+        "Gaming",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "links",
+        "UK",
+        "blog",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://blognomic.com/blognomic/feed_rss1/",
+      "title": "BlogNomic: The Third Dynasty of Misty",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blognomic.com/blognomic/feed_rss1/",
+      "summary": "An online game of Nomic: the game in which changing the rules is a move.",
+      "details": "Original Category: arts -> games.opml",
+      "cleaned_title": "BlogNomic: The Third Dynasty of Misty",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Nomic game",
+        "game mechanics",
+        "rule changes"
+      ]
+    },
+    {
+      "id": "feed:https://grandtextauto.soe.ucsc.edu/feed/",
+      "title": "Grand Text Auto",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://grandtextauto.soe.ucsc.edu/feed/",
+      "summary": "A group blog about computer narrative, games, poetry, and art.",
+      "details": "Original Category: arts -> games.opml",
+      "cleaned_title": "Grand Text Auto",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "narrative games",
+        "digital art",
+        "poetry"
+      ]
+    },
+    {
+      "id": "feed:https://blog.zarfhome.com/feeds/posts/default",
+      "title": "Zarf Updates",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.zarfhome.com/feeds/posts/default",
+      "summary": "Interactive fiction, narrative in games, and so on.",
+      "details": "Original Category: arts -> games.opml",
+      "cleaned_title": "Zarf Updates",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "interactive fiction",
+        "narrative games",
+        "game updates"
+      ]
+    },
+    {
+      "id": "feed:https://www.fauxhammer.com/blog/feed/",
+      "title": "FauxHammer - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fauxhammer.com/blog/feed/",
+      "summary": "For Miniature Painters, Hobbyists and fans of Painting Games Workshop Miniatures. We also review Tools and Accessories used to support your modelling goals.",
+      "details": "Original Category: arts -> games -> tabletop-games -> war-games.opml",
+      "cleaned_title": "FauxHammer",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "War",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "miniature painting",
+        "tutorials",
+        "modeling"
+      ]
+    },
+    {
+      "id": "feed:https://magpieandoldlead.blogspot.com/feeds/posts/default",
+      "title": "Magpie and Old Lead",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://magpieandoldlead.blogspot.com/feeds/posts/default",
+      "summary": "A focused exploration of miniature painting and the intricate details involved in creating tabletop models.",
+      "details": "Original Category: arts -> games -> tabletop-games.opml",
+      "cleaned_title": "Magpie and Old Lead",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "War",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "miniatures",
+        "modeling",
+        "tabletop games"
+      ]
+    },
+    {
+      "id": "feed:http://mojobob.blogspot.com/feeds/posts/default",
+      "title": "Shouting Into The Void",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://mojobob.blogspot.com/feeds/posts/default",
+      "summary": "Fitz's Roleplaying, Wargaming and Modeling-related blather.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Shouting Into The Void",
+      "cleaned_author": "Fitz",
+      "tags": [
+        "Arts & Culture",
+        "War",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "roleplaying",
+        "wargaming",
+        "modeling"
+      ]
+    },
+    {
+      "id": "feed:http://ocalicreek.blogspot.com/feeds/posts/default",
+      "title": "Gallimore Railroading",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://ocalicreek.blogspot.com/feeds/posts/default",
+      "summary": "A blog about model trains and other hobby projects.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Gallimore Railroading",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "model trains",
+        "hobby projects",
+        "modeling"
+      ]
+    },
+    {
+      "id": "feed:https://www.jordanmechner.com/feed/",
+      "title": "Jordan Mechner - Latest News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.jordanmechner.com/feed/",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Jordan Mechner - Latest News",
+      "cleaned_author": "Jordan Mechner",
+      "summary": "Updates from the acclaimed creator of the iconic video game 'Prince of Persia'. This feed features news about his projects, art, and reflections on gaming history, appealing to both fans of retro games and graphic novels.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "Prince of Persia",
+        "artwork",
+        "video games",
+        "graphic novel"
+      ]
+    },
+    {
+      "id": "feed:https://jrients.blogspot.com/feeds/posts/default",
+      "title": "Jeffs Gameblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jrients.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Jeffs Gameblog",
+      "cleaned_author": null,
+      "summary": "A blog that explores various facets of gaming, featuring reviews and discussions about recent releases and notable titles.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "games",
+        "reviews",
+        "video games"
+      ]
+    },
+    {
+      "id": "feed:http://theotherside.timsbrannan.com/feeds/posts/default",
+      "title": "The Other Side blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://theotherside.timsbrannan.com/feeds/posts/default",
+      "summary": "The Other Side Blog is a game design blog from Timothy S. Brannan.",
+      "details": "Original Category: arts -> games -> tabletop-games.opml",
+      "cleaned_title": "The Other Side blog",
+      "cleaned_author": "Timothy S. Brannan",
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "game design",
+        "RPG",
+        "horror games"
+      ]
+    },
+    {
+      "id": "feed:https://advgamer.blogspot.com/feeds/posts/default",
+      "title": "The Adventurers Guild",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://advgamer.blogspot.com/feeds/posts/default",
+      "summary": "\u2026in which he attempted to play through all notable graphical adventure games.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "The Adventurers Guild",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "adventure games",
+        "game reviews",
+        "playthroughs"
+      ]
+    },
+    {
+      "id": "feed:https://bluerenga.blog/feed/",
+      "title": "All the Adventures | Renga in Blue",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bluerenga.blog/feed/",
+      "summary": "Wherein I play and blog about every adventure game ever made in (nearly) chronological order. These are sorted (mostly) in the order I played the games. I think they\u2019re all worth reading! How\u2026.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "All the Adventures | Renga in Blue",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "interactive fiction",
+        "game reviews",
+        "chronological order"
+      ]
+    },
+    {
+      "id": "feed:https://analogue.gg/rss.xml",
+      "title": "analogue",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://analogue.gg/rss.xml",
+      "summary": "A blog dedicated to the latest updates and insights in the gaming world, with a focus on video games.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "analogue",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "gaming news",
+        "video games",
+        "updates"
+      ]
+    },
+    {
+      "id": "feed:https://buried-treasure.org/feed/",
+      "title": "Buried Treasure",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://buried-treasure.org/feed/",
+      "summary": "Reviewing the indie games everyone else missed.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Buried Treasure",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "indie games",
+        "game reviews",
+        "hidden gems"
+      ]
+    },
+    {
+      "id": "feed:http://www.nathalielawhead.com/candybox/feed",
+      "title": "The Candybox Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.nathalielawhead.com/candybox/feed",
+      "summary": "I make art that some people call games.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "The Candybox Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "art games",
+        "gamification",
+        "creative gaming"
+      ]
+    },
+    {
+      "id": "feed:https://critical-distance.com/feed/",
+      "title": "Critical Distance",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://critical-distance.com/feed/",
+      "summary": "\"Where is all the good writing about games?\".",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Critical Distance",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "game writing",
+        "critique",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:http://crpgaddict.blogspot.com/feeds/posts/default",
+      "title": "The CRPG Addict",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://crpgaddict.blogspot.com/feeds/posts/default",
+      "summary": "A blog in which a dedicated addict plays through all PC computer role-playing games (CRPGs), in chronological order.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "The CRPG Addict",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Internet",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "CRPG",
+        "role-playing games",
+        "gaming history"
+      ]
+    },
+    {
+      "id": "feed:https://lilura1.blogspot.com/feeds/posts/default",
+      "title": "cRPG Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lilura1.blogspot.com/feeds/posts/default",
+      "summary": "Index to the cRPG blog on cRPG history, reviews, rankings and design.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "cRPG Blog",
+      "cleaned_author": "Lilura1",
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "CRPG",
+        "gaming history",
+        "game reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.filfre.net/feed/",
+      "title": "The Digital Antiquarian",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.filfre.net/feed/",
+      "summary": "A history of computer entertainment and digital culture by Jimmy Maher.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "The Digital Antiquarian",
+      "cleaned_author": "Jimmy Maher",
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital culture",
+        "gaming history",
+        "retrospective"
+      ]
+    },
+    {
+      "id": "feed:https://distantarcade.co.uk/feed/",
+      "title": "Distant Arcade",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://distantarcade.co.uk/feed/",
+      "summary": "A gaming blog. We hope you enjoy all the future blogger fun time video games action we have in store.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Distant Arcade",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "video games",
+        "gaming news",
+        "community discussions"
+      ]
+    },
+    {
+      "id": "feed:https://ephemeralenigmascom.wordpress.com/feed/",
+      "title": "Ephemeral Enigmas",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ephemeralenigmascom.wordpress.com/feed/",
+      "summary": "Giving offbeat, obscure, and forgotten games another look.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Ephemeral Enigmas",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "obscure games",
+        "gaming history",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "feed:http://www.gamerdad.com/blog/feed/",
+      "title": "GamerDad: Gaming with Children",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.gamerdad.com/blog/feed/",
+      "summary": "Video game news, views, & reviews from a parental perspective, presented by Andrew S. Bub - The GamerDad.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "GamerDad: Gaming with Children",
+      "cleaned_author": "Andrew S. Bub",
+      "tags": [
+        "Living",
+        "Tech",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "family gaming",
+        "parenting",
+        "game reviews"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/GamesThatWerent",
+      "title": "Games That Weren't: Cancelled & Unreleased Games",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/GamesThatWerent",
+      "summary": "An unreleased and cancelled video games archive with prototypes, developer history and assets for many computers and consoles of all ages.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Games That Weren't",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "cancelled games",
+        "video game history",
+        "developer insights"
+      ]
+    },
+    {
+      "id": "feed:https://gearsrealm.com/feed/",
+      "title": "GearsRealm.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gearsrealm.com/feed/",
+      "summary": "A content-rich site covering technology, gaming, and internet-related topics with reviews and insights.",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "GearsRealm.com",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "game reviews",
+        "technology",
+        "internet culture"
+      ]
+    },
+    {
+      "id": "feed:http://www.hardcoregaming101.net/feed/",
+      "title": "Hardcore Gaming 101",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.hardcoregaming101.net/feed/",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Hardcore Gaming 101",
+      "cleaned_author": null,
+      "summary": "A platform dedicated to the culture surrounding video games, offering insights into various titles and genres. It explores both popular and obscure games through reviews and features.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "video games",
+        "game culture",
+        "game reviews",
+        "gaming history"
+      ]
+    },
+    {
+      "id": "feed:https://blog.gingerbeardman.com/feed.xml",
+      "title": "\u2318I\u00a0Get\u00a0Info",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.gingerbeardman.com/feed.xml",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "\u2318I Get Info",
+      "cleaned_author": "Matt Sephton",
+      "summary": "This blog offers a unique perspective from an independent game developer and digital artist, highlighting game development, vintage Macintosh, and thought-provoking insights into Japanese culture and gaming.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "game development",
+        "digital art",
+        "vintage Macintosh",
+        "Japanese culture"
+      ]
+    },
+    {
+      "id": "feed:https://kimimithegameeatingshemonster.com/feed/",
+      "title": "Kimimi The Game-Eating She-Monster",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kimimithegameeatingshemonster.com/feed/",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Kimimi The Game-Eating She-Monster",
+      "cleaned_author": null,
+      "summary": "A blog focused on deep dives into often-overlooked games, exploring their significance and impact within the gaming world, and connecting them to broader gaming culture.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "game analysis",
+        "video games",
+        "game significance",
+        "gaming culture"
+      ]
+    },
+    {
+      "id": "feed:http://lunaticobscurity.blogspot.com/feeds/posts/default",
+      "title": "lunatic obscurity",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://lunaticobscurity.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "lunatic obscurity",
+      "cleaned_author": null,
+      "summary": "A niche blog that uncovers forgotten or lesser-known video games, providing reviews and commentary to rekindle interest in these hidden gems.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "obscure games",
+        "gaming history",
+        "video game reviews",
+        "retro games"
+      ]
+    },
+    {
+      "id": "feed:https://blog.luanti.org/feed.rss",
+      "title": "Minetest Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.luanti.org/feed.rss",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Minetest Blog",
+      "cleaned_author": "Luanti",
+      "summary": "This blog serves as the official communication channel for the Minetest community, detailing new updates, features, and engaging the audience with discussions about the game's evolution.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Minetest",
+        "game updates",
+        "gaming community",
+        "open-source games"
+      ]
+    },
+    {
+      "id": "feed:https://noescapevg.com/feed/",
+      "title": "No Escape",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://noescapevg.com/feed/",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "No Escape",
+      "cleaned_author": null,
+      "summary": "A critical exploration of digital culture and gaming, reflecting on the broader implications and criticisms surrounding contemporary video games and their narratives.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital culture",
+        "game criticism",
+        "video game narratives",
+        "social commentary"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/OnlineRaceDriver",
+      "title": "OnlineRaceDriver",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/OnlineRaceDriver",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "OnlineRaceDriver",
+      "cleaned_author": null,
+      "summary": "A comprehensive resource for sim racing enthusiasts, offering the latest news, tips, and guides on various racing games and real-world racing happenings.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "sim racing",
+        "racing games",
+        "game guides",
+        "racing news"
+      ]
+    },
+    {
+      "id": "feed:https://www.otherstrangeness.com/feed/",
+      "title": "Other Strangeness",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.otherstrangeness.com/feed/",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Other Strangeness",
+      "cleaned_author": "merritt k",
+      "summary": "This personal blog explores various facets of gaming, art, and personal reflections, showcasing the unique perspectives of its author. It offers insights into games, movies, and creative processes.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "gaming",
+        "art",
+        "movies",
+        "personal blog"
+      ]
+    },
+    {
+      "id": "feed:https://pixelpoppers.com/index.xml",
+      "title": "Pixel Poppers",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pixelpoppers.com/index.xml",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Pixel Poppers",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to gaming critiques, insights, and announcements, providing in-depth reviews and thoughts on the latest games and gaming trends of 2024.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "game reviews",
+        "gaming news",
+        "2024 games"
+      ]
+    },
+    {
+      "id": "feed:https://www.blog.radiator.debacle.us/feeds/posts/default",
+      "title": "Radiator Design Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.blog.radiator.debacle.us/feeds/posts/default",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Radiator Design Blog",
+      "cleaned_author": "Robert Yang",
+      "summary": "This blog focuses on video game design and culture through the lens of the author. It provides thoughtful analysis and announcements in the gaming sphere.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "game design",
+        "gaming culture",
+        "Robert Yang"
+      ]
+    },
+    {
+      "id": "feed:https://www.raphkoster.com/feed/",
+      "title": "Raph's Website",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.raphkoster.com/feed/",
+      "summary": "Raph Koster's personal website: MMOs, gaming, writing, art, music, books.",
+      "details": "Original Category: technology -> vr.opml",
+      "cleaned_title": "Raph's Website",
+      "cleaned_author": "Raph Koster",
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "MMOs",
+        "Raph Koster",
+        "gaming updates"
+      ]
+    },
+    {
+      "id": "feed:https://sevenoutoften.co.uk/feed/",
+      "title": "Seven Out Of Ten",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sevenoutoften.co.uk/feed/",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Seven Out Of Ten",
+      "cleaned_author": "Liam Richardson",
+      "summary": "This personal blog reflects on gaming experiences, providing critiques and personal anecdotes from the author's gaming journey in 2024.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "gaming reviews",
+        "personal gaming experiences",
+        "2024 games"
+      ]
+    },
+    {
+      "id": "feed:https://www.wurb.com/stack/feed",
+      "title": "The Stack",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.wurb.com/stack/feed",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "The Stack",
+      "cleaned_author": null,
+      "summary": "A blog celebrating retro and classic gaming, where the author delves into various old games, providing reviews and insights into their enduring charm.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "retro gaming",
+        "classic games",
+        "game reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.suppermariobroth.com/rss",
+      "title": "Supper Mario Broth",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.suppermariobroth.com/rss",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Supper Mario Broth",
+      "cleaned_author": null,
+      "summary": "A niche blog dedicated to everything related to Super Mario, offering a treasure trove of screenshots, sprites, and little-known facts from the iconic franchise.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Super Mario",
+        "gaming trivia",
+        "game sprites"
+      ]
+    },
+    {
+      "id": "feed:http://www.toomanywires.co.uk/feeds/posts/default",
+      "title": "Toomanywires",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.toomanywires.co.uk/feeds/posts/default",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Toomanywires",
+      "cleaned_author": null,
+      "summary": "A blog exploring various aspects of video games, from reviews to personal experiences. Readers can find commentary on both recent releases and nostalgic favorites.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "video games",
+        "game reviews",
+        "gaming commentary"
+      ]
+    },
+    {
+      "id": "feed:https://wfgames.net/feed/",
+      "title": "Weird Fucking Games",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://wfgames.net/feed/",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Weird Fucking Games",
+      "cleaned_author": null,
+      "summary": "This blog delves into unconventional gaming experiences, highlighting odd and experimental games that push boundaries and challenge norms.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "weird games",
+        "experimental gaming",
+        "avant-garde games"
+      ]
+    },
+    {
+      "id": "feed:http://kelvingreen.blogspot.com/feeds/posts/default",
+      "title": "Aiee! Run From Kelvin's Brainsplurge!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://kelvingreen.blogspot.com/feeds/posts/default",
+      "summary": "I'm Kelvin Green. I sometimes draw. I sometimes write. I'm trying to get better at both.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Aiee! Run From Kelvin's Brainsplurge!",
+      "cleaned_author": "Kelvin Green",
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "tabletop games",
+        "role-playing games",
+        "drawing",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:https://thealexandrian.net/feed",
+      "title": "The Alexandrian",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thealexandrian.net/feed",
+      "summary": "\u2026designed not only to be a site of news and updates, but also as a repository: Here you\u2019ll find my reviews, my politics, my stories, and my thoughts.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "The Alexandrian",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "role-playing games",
+        "game reviews",
+        "gaming philosophy"
+      ]
+    },
+    {
+      "id": "feed:https://arsludi.lamemage.com/index.php/feed/",
+      "title": "ars ludi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://arsludi.lamemage.com/index.php/feed/",
+      "summary": "if you asked Ben's brain about gaming, this is what it would say.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "ars ludi",
+      "cleaned_author": "Ben",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "game design",
+        "tabletop RPG",
+        "gaming insights"
+      ]
+    },
+    {
+      "id": "feed:http://dreamsinthelichhouse.blogspot.com/feeds/posts/default",
+      "title": "Dreams in the Lich House",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://dreamsinthelichhouse.blogspot.com/feeds/posts/default",
+      "summary": "A blog about Dungeons & Dragons, Call of Cthulhu, and fantasy and horror gaming.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Dreams in the Lich House",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "Dungeons & Dragons",
+        "horror gaming",
+        "fantasy RPG"
+      ]
+    },
+    {
+      "id": "feed:https://www.failuretolerated.com/feed.rss",
+      "title": "Failure Tolerated",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.failuretolerated.com/feed.rss",
+      "summary": "A blog dedicated to tabletop gaming with updates on project developments and insights into the creative processes behind game design.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Failure Tolerated",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "tabletop RPG",
+        "game design",
+        "crowdfunding tips"
+      ]
+    },
+    {
+      "id": "feed:https://goblinshenchman.wordpress.com/feed/",
+      "title": "Goblin's Henchman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://goblinshenchman.wordpress.com/feed/",
+      "summary": "This blog provides various insights and discussions about tabletop gaming mechanics and strategies, focusing on enhancing the play experience.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Goblin's Henchman",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "tabletop RPG",
+        "gaming strategies",
+        "game mechanics"
+      ]
+    },
+    {
+      "id": "feed:https://www.indiegamereadingclub.com/feed/",
+      "title": "The Indie Game Reading Club",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.indiegamereadingclub.com/feed/",
+      "summary": "Deep reads, play analysis, reviews and everything else about small press roleplaying today.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "The Indie Game Reading Club",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "indie games",
+        "roleplaying",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:https://www.themonstersknow.com/feed/",
+      "title": "The Monsters Know What They\u2019re Doing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.themonstersknow.com/feed/",
+      "summary": "Monster combat tactics for Dungeons & Dragons 5E.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "The Monsters Know What They\u2019re Doing",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "D&D tactics",
+        "monster combat",
+        "roleplaying"
+      ]
+    },
+    {
+      "id": "feed:https://profesnpc.blogspot.com/feeds/posts/default",
+      "title": "Professional NPC",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://profesnpc.blogspot.com/feeds/posts/default",
+      "summary": "Human by day, Dungeon Master by night.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Professional NPC",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Dungeon Master",
+        "gaming",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://haikushane.com/feed/",
+      "title": "Project Work by Shane Preece",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://haikushane.com/feed/",
+      "summary": "Board game and Dungeons and Dragons development.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Project Work by Shane Preece",
+      "cleaned_author": "Shane Preece",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "TTRPG",
+        "game development",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.rascal.news/rss/",
+      "title": "Rascal News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.rascal.news/rss/",
+      "summary": "A tabletop roleplaying game and culture outlet.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Rascal News",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "tabletop RPG",
+        "journalism",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://rolltop-indigo.blogspot.com/feeds/posts/default",
+      "title": "Rolltop Indigo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rolltop-indigo.blogspot.com/feeds/posts/default",
+      "summary": "The Blue Room Blog: RPGs, Fantasy Cartography, Cooking, Fonts, Stuff.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Rolltop Indigo",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "RPGs",
+        "fantasy cartography",
+        "cooking"
+      ]
+    },
+    {
+      "id": "feed:https://save.vs.totalpartykill.ca/atom.xml",
+      "title": "Save vs. Total Party Kill",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://save.vs.totalpartykill.ca/atom.xml",
+      "summary": "This is a blog about D&D.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Save vs. Total Party Kill",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "D&D",
+        "game design",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:https://slyflourish.com/index.xml",
+      "title": "Sly Flourish: Helping Dungeon Masters run great D&D games.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://slyflourish.com/index.xml",
+      "summary": "Weekly articles with tips, tricks, tools, and advice for the ffth edition of Dungeons & Dragons (D&D) written by the author of Return of the Lazy Dungeon Master.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Sly Flourish",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "D&D",
+        "tabletop",
+        "RPG",
+        "Dungeon Master",
+        "adventure"
+      ]
+    },
+    {
+      "id": "feed:https://www.spookyrusty.com/feeds/posts/default",
+      "title": "Spooky Rusty",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.spookyrusty.com/feeds/posts/default",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Spooky Rusty",
+      "cleaned_author": null,
+      "summary": "An eclectic blog focusing on unconventional and weird tabletop RPGs, showcasing unique adventures and themes that challenge traditional gameplay narratives and norms.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "RPG",
+        "weird",
+        "adventure",
+        "horror"
+      ]
+    },
+    {
+      "id": "feed:http://talesofthegrotesqueanddungeonesque.blogspot.com/feeds/posts/default",
+      "title": "Tales of the Grotesque and Dungeonesque",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://talesofthegrotesqueanddungeonesque.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Tales of the Grotesque and Dungeonesque",
+      "cleaned_author": null,
+      "summary": "A creative outlet dedicated to exploring dark and fantastical themes in tabletop role-playing games. The content features a cavalcade of imaginative scenarios and creatures that enrich the gaming experience.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "fantasy",
+        "RPG",
+        "tabletop",
+        "characters"
+      ]
+    },
+    {
+      "id": "feed:https://tenfootpole.org/ironspike/?feed=rss2",
+      "title": "tenfootpole.org",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tenfootpole.org/ironspike/?feed=rss2",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "tenfootpole.org",
+      "cleaned_author": null,
+      "summary": "A blog that reviews RPG adventures to help gamers decide which ones are worth their time and investment. It provides honest evaluations, making it a must-read for serious players and DMs alike.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "RPG",
+        "adventure reviews",
+        "Dungeon Master",
+        "gameplay"
+      ]
+    },
+    {
+      "id": "feed:http://throneofsalt.blogspot.com/feeds/posts/default",
+      "title": "Throne of Salt",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://throneofsalt.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Throne of Salt",
+      "cleaned_author": null,
+      "summary": "Exploring various facets of RPG design and culture, this blog dives into niche gaming topics and creative endeavors that inspire both players and game creators.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "RPG",
+        "design",
+        "games",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://towerofthearchmage.blogspot.com/feeds/posts/default",
+      "title": "Tower of the Archmage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://towerofthearchmage.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Tower of the Archmage",
+      "cleaned_author": null,
+      "summary": "A blog for those who enjoy exploring the intersection of fantasy RPG lore and gameplay mechanics. It features insights, character ideas, and innovative takes on traditional RPG elements.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "RPG",
+        "fantasy",
+        "lore",
+        "characters"
+      ]
+    },
+    {
+      "id": "feed:https://www.chicagoskirmishwargames.com/blog/feed/",
+      "title": "Chicago Skirmish Wargames",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.chicagoskirmishwargames.com/blog/feed/",
+      "summary": "Visually beautiful gaming in a casual environment.",
+      "details": "Original Category: arts -> games -> tabletop-games -> war-games.opml",
+      "cleaned_title": "Chicago Skirmish Wargames",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "wargaming",
+        "community",
+        "relaxation",
+        "miniatures"
+      ]
+    },
+    {
+      "id": "feed:https://www.josephamccullough.com/feed/",
+      "title": "Joseph A. McCullough",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.josephamccullough.com/feed/",
+      "summary": "Writer & Games Designer.",
+      "details": "Original Category: arts -> games -> tabletop-games -> war-games.opml",
+      "cleaned_title": "Joseph A. McCullough",
+      "cleaned_author": "Joseph A. McCullough",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "game design",
+        "RPG",
+        "writing",
+        "role-playing"
+      ]
+    },
+    {
+      "id": "feed:http://hiewandboardgames.blogspot.com/feeds/posts/default",
+      "title": "Hiew's Boardgame Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://hiewandboardgames.blogspot.com/feeds/posts/default",
+      "summary": "boardgames, card games, board games, hobby gaming.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "Hiew's Boardgame Blog",
+      "cleaned_author": "Hiew",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "board game reviews",
+        "Kuala Lumpur",
+        "game impressions"
+      ]
+    },
+    {
+      "id": "feed:http://akapastorguy.blogspot.com/feeds/posts/default",
+      "title": "aka pastor guy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://akapastorguy.blogspot.com/feeds/posts/default",
+      "summary": "Everything including the kitchen sink... but with special attention paid to board games, Jesus Christ, my family, being a \"professional\" (and I use that word loosely) Christian\u2026.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "aka pastor guy",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "board games",
+        "Christianity",
+        "personal reflections"
+      ]
+    },
+    {
+      "id": "feed:https://mikkosgameblog.com/feed/",
+      "title": "Gameblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mikkosgameblog.com/feed/",
+      "summary": "Mikko Saari on board games.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "Gameblog",
+      "cleaned_author": "Mikko Saari",
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "board game commentary",
+        "game reviews",
+        "Mikko Saari"
+      ]
+    },
+    {
+      "id": "feed:https://opinionatedgamers.com/feed/",
+      "title": "The Opinionated Gamers",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://opinionatedgamers.com/feed/",
+      "summary": "Reviews and Commentary on Boardgames.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "The Opinionated Gamers",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "board game reviews",
+        "community feedback",
+        "gaming commentary"
+      ]
+    },
+    {
+      "id": "feed:https://spacebiff.com/feed/",
+      "title": "SPACE-BIFF!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://spacebiff.com/feed/",
+      "summary": "Fiercely Independent. Independant? Crap.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "SPACE-BIFF!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Boston",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "board games",
+        "independent",
+        "gaming commentary"
+      ]
+    },
+    {
+      "id": "feed:https://talkingshelfspace.com/feed/",
+      "title": "Talking Shelf Space",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://talkingshelfspace.com/feed/",
+      "summary": "Collecting Modern Board Games.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "Talking Shelf Space",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "board game collections",
+        "reviews",
+        "recommendations"
+      ]
+    },
+    {
+      "id": "feed:https://taogaming.wordpress.com/feed/",
+      "title": "The Tao of Gaming",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://taogaming.wordpress.com/feed/",
+      "summary": "Boardgames and lesser pursuits.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "The Tao of Gaming",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "board games",
+        "discussions",
+        "game analysis"
+      ]
+    },
+    {
+      "id": "feed:https://www.epsilonsworld.com/feeds/posts/default",
+      "title": "Epsilon's World",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.epsilonsworld.com/feeds/posts/default",
+      "summary": "A blog focused on retro gaming and technology, sharing adventures with classic gaming consoles and related updates.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Epsilon's World",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gaming",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "retro gaming",
+        "consoles",
+        "Epsilon"
+      ]
+    },
+    {
+      "id": "feed:https://www.suffix.be/feeds/blog.xml",
+      "title": "Suffix - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.suffix.be/feeds/blog.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Suffix",
+      "cleaned_author": null,
+      "summary": "A blog that explores various topics within technology, from reading lists to fitness gear and reflections on gaming.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "fitness",
+        "gaming"
+      ]
+    },
+    {
+      "id": "feed:https://reckart.blog/rss.xml",
+      "title": "Tyler Reckart's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://reckart.blog/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Tyler Reckart's Blog",
+      "cleaned_author": "Tyler Reckart",
+      "summary": "A programmer and photographer's blog featuring technical tutorials and personal musings related to technology and gaming.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "photography",
+        "SwiftUI"
+      ]
+    },
+    {
+      "id": "feed:https://frankforce.com/feed/",
+      "title": "Killed By A Pixel",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://frankforce.com/feed/",
+      "summary": "Building Universes One Pixel at a Time.",
+      "details": "Original Category: technology -> graphics.opml",
+      "cleaned_title": "Killed By A Pixel",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gaming",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "LittleJS Jam",
+        "arcade game development",
+        "JavaScript talks"
+      ]
+    },
+    {
+      "id": "feed:https://simonschreibt.de/feed/",
+      "title": "Simon schreibt.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://simonschreibt.de/feed/",
+      "summary": "I'm a VFX Artist & Consultant writing about game art tricks that impressed me.",
+      "details": "Original Category: technology -> graphics.opml",
+      "cleaned_title": "Simon schreibt.",
+      "cleaned_author": "Simon",
+      "tags": [
+        "Tech",
+        "Gaming",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "VFX",
+        "game art",
+        "tech art"
+      ]
+    },
+    {
+      "id": "feed:http://www.actionfigurebarbecue.com/feeds/posts/default",
+      "title": "Action Figure Barbecue",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.actionfigurebarbecue.com/feeds/posts/default",
+      "summary": "Action figure reviews, toy reviews, stuff about Halloween, and Batgirl fandom all mixed together.",
+      "details": "Original Category: recreation -> toys.opml",
+      "cleaned_title": "Action Figure Barbecue",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Tennis",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "action figures",
+        "toy reviews",
+        "collecting"
+      ]
+    },
+    {
+      "id": "feed:https://thefigureinquestion.com/feed/",
+      "title": "The Figure In Question",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thefigureinquestion.com/feed/",
+      "summary": "Action Figure Reviews By Ethan Wilson.",
+      "details": "Original Category: recreation -> toys.opml",
+      "cleaned_title": "The Figure In Question",
+      "cleaned_author": "Ethan Wilson",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "action figures",
+        "reviews",
+        "collectibles"
+      ]
+    },
+    {
+      "title": "IT\u4e4b\u5bb6 \u2013 ithome.com",
+      "popularity_score": 3.8492063492063493,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.ithome.com/rss/",
+      "kind": "feed",
+      "id": "feed:http://www.ithome.com/rss/",
+      "cleaned_title": "IT\u4e4b\u5bb6",
+      "cleaned_author": null,
+      "summary": "A tech-focused outlet providing information on new developments in software and hardware, emphasizing IT industry news and product updates.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Gaming"
+      ],
+      "language": "zh",
+      "keywords": [
+        "tech news",
+        "software updates",
+        "hardware",
+        "gaming"
+      ]
+    },
+    {
+      "title": "Aftermath",
+      "popularity_score": 2.0345238095238094,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://aftermath.site/feed",
+      "kind": "feed",
+      "id": "feed:https://aftermath.site/feed",
+      "cleaned_title": "Aftermath",
+      "cleaned_author": null,
+      "summary": "A blog focusing on video games and internet culture, discussing trends, new releases, and the evolving gaming landscape.",
+      "tags": [
+        "Tech",
+        "Gaming",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "Video Games",
+        "Internet Culture",
+        "Game Reviews",
+        "Civilization"
+      ]
+    }
+  ],
+  "child_categories": []
+}

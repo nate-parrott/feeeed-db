@@ -1,0 +1,56 @@
+{
+  "id": "india",
+  "display_name": "India",
+  "feeds": [
+    {
+      "id": "substack:top:div's_book_crumbs_-_divs.bookcrumbs",
+      "title": "Div's Book Crumbs - Divs.BookCrumbs",
+      "cleaned_title": "Div's Book Crumbs",
+      "summary": "A personal journey of discovering joy through diverse literary experiences, blending indie reads with reflections on pop culture.",
+      "kind": "feed",
+      "feed_url": "https://bookcrumbsco.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fiction",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "India"
+      ],
+      "cleaned_author": "Divs.BookCrumbs",
+      "language": "en",
+      "keywords": [
+        "diverse reads",
+        "fiction"
+      ]
+    },
+    {
+      "id": "feed:culturalsurvival.org:Cultural Survival",
+      "cleaned_title": "Cultural Survival",
+      "summary": "Cultural Survival is an organization dedicated to advocating for the rights of indigenous peoples and promoting their cultural heritage, offering articles, podcasts, and resources on indigenous cultures around the world.",
+      "title": "Cultural Survival",
+      "kind": "feed",
+      "feed_url": "https://www.culturalsurvival.org/rss.xml",
+      "details": "Original category: Travel -> Culture",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "India",
+        "Russia",
+        "Brazil"
+      ],
+      "language": "en",
+      "keywords": [
+        "indigenous rights",
+        "cultural heritage",
+        "advocacy"
+      ]
+    }
+  ],
+  "child_categories": []
+}

@@ -1,0 +1,470 @@
+{
+  "id": "celebs_entertainment",
+  "display_name": "Celebs & Entertainment",
+  "feeds": [
+    {
+      "id": "substack:top:the_ankler._-_richard_rushfield",
+      "title": "The Ankler. - Richard Rushfield",
+      "cleaned_title": "The Ankler.",
+      "summary": "This newsletter delves into the entertainment industry, offering sharp insights into Hollywood's current events and navigating complex business dynamics with a critical eye.",
+      "kind": "feed",
+      "feed_url": "https://theankler.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment",
+        "_intellectual"
+      ],
+      "cleaned_author": "Richard Rushfield",
+      "language": "en",
+      "keywords": [
+        "Hollywood",
+        "entertainment industry",
+        "critique"
+      ]
+    },
+    {
+      "id": "feed:vulture.com:Vulture",
+      "cleaned_title": "Vulture",
+      "summary": "An entertainment website that covers movies, TV shows, music, and more, with a focus on pop culture.",
+      "title": "Vulture",
+      "kind": "feed",
+      "feed_url": "https://www.vulture.com/feeds/flipboard.rss",
+      "details": "Original category: Entertainment",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.502222203337979,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment",
+        "Movies",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "entertainment",
+        "recaps",
+        "pop culture"
+      ]
+    },
+    {
+      "id": "youtube:The Tonight Show Starring Jimmy Fallon",
+      "cleaned_title": "The Tonight Show Starring Jimmy Fallon",
+      "summary": "The official YouTube channel for The Tonight Show, featuring interviews, sketches, and musical performances.",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "kind": "youtube",
+      "channel_id": "UC8-Th83bH_thdKZDJCrn88g",
+      "thumbnail_url": "https://yt3.ggpht.com/Lp9cu-xgKL0QYxdJ268CaZ63SrmODmZT2uRJjwPHvoeLOvd1LLNJWUd45tYR_VW9z5APPIPJpw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "Jimmy Fallon",
+        "talk show",
+        "interviews",
+        "comedy"
+      ]
+    },
+    {
+      "id": "feed:screenshot-magazine.com:SCREENSHOT Media",
+      "cleaned_title": "SCREENSHOT Media",
+      "summary": "SCREENSHOT Media discusses contemporary politics, technology, and culture, providing a critical lens on issues that resonate with today\u2019s youth. It covers a wide range of compelling topics, from entertainment to social movements.",
+      "title": "SCREENSHOT Media",
+      "kind": "feed",
+      "feed_url": "https://screenshot-magazine.com/feed/",
+      "details": "Original category: Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "culture",
+        "technology",
+        "youth issues"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The FADER",
+      "cleaned_title": "The FADER",
+      "summary": "The FADER is an online music publication that covers emerging artists, music news, and cultural trends in the music industry.",
+      "title": "The FADER",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/TheFaderMagazine",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Celebs & Entertainment",
+        "Hip-Hop",
+        "Pop",
+        "_mainstream",
+        "_hip",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "music news",
+        "emerging artists",
+        "cultural trends",
+        "Oscars",
+        "Drake"
+      ]
+    },
+    {
+      "id": "feed:tvline.com:TVLine",
+      "cleaned_title": "TVLine",
+      "summary": "TVLine is a website that provides news, recaps, and interviews about TV shows, including the latest updates and spoilers.",
+      "title": "TVLine",
+      "kind": "feed",
+      "feed_url": "http://www.tvline.com/feed/",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "USA",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV news",
+        "TV spoilers",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:feeds.tvfanatic.com:TV Fanatic",
+      "cleaned_title": "TV Fanatic",
+      "summary": "TV Fanatic offers news, reviews, and features about TV shows, with a focus on popular series across different genres.",
+      "title": "TV Fanatic",
+      "kind": "feed",
+      "feed_url": "http://feeds.tvfanatic.com/tvfanatic",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "USA",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV news",
+        "show reviews",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:eonline.com:E! Online (US) - Top Stories",
+      "cleaned_title": "E! Online",
+      "summary": "E! Online is a popular entertainment news website that covers celebrity news, gossip, fashion, and more.",
+      "title": "E! Online (US) - Top Stories",
+      "kind": "feed",
+      "feed_url": "http://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity news",
+        "gossip",
+        "fashion"
+      ]
+    },
+    {
+      "id": "feed:tmz.com:TMZ.com",
+      "cleaned_title": "TMZ.com",
+      "summary": "TMZ is a well-known celebrity news website that provides breaking news, exclusive stories, and paparazzi videos.",
+      "title": "TMZ.com",
+      "kind": "feed",
+      "feed_url": "http://www.tmz.com/rss.xml",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity gossip",
+        "Hollywood news",
+        "exclusive stories"
+      ]
+    },
+    {
+      "id": "youtube:Entertainment Tonight",
+      "cleaned_title": "Entertainment Tonight",
+      "summary": "Entertainment Tonight is a YouTube channel that features celebrity interviews, red carpet coverage, and behind-the-scenes looks at the entertainment industry.",
+      "title": "Entertainment Tonight",
+      "kind": "youtube",
+      "channel_id": "UCdtXPiqI2cLorKaPrfpKc4g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM0ZRcq21k7a0pS30xXBlsqcYNkVX38StDzQXjqfQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity interviews",
+        "red carpet",
+        "behind-the-scenes"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:People Archives - Crypto New Media",
+      "cleaned_title": "People Archives",
+      "summary": "People is a trusted source for celebrity news, human interest stories, and exclusive interviews with celebrities.",
+      "title": "People Archives - Crypto New Media",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/CultureIndependentNewsAndBlog",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity news",
+        "human interest",
+        "exclusive interviews"
+      ]
+    },
+    {
+      "id": "reddit:Celebhub",
+      "cleaned_title": "Celebhub",
+      "summary": "r/Celebhub is a subreddit dedicated to sharing and discussing celebrity news, photos, and gossip.",
+      "title": "Celebhub",
+      "kind": "reddit",
+      "subreddit": "Celebhub",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity discussions",
+        "entertainment news",
+        "photos"
+      ]
+    },
+    {
+      "id": "feed:news.google.com:\"us weekly\" - Google News",
+      "cleaned_title": "Us Weekly",
+      "summary": "Us Weekly is a celebrity and entertainment news magazine that covers the latest celebrity gossip, fashion, and more.",
+      "title": "\"us weekly\" - Google News",
+      "kind": "feed",
+      "feed_url": "http://news.google.com/news?hl=en&gl=us&q=us%20weekly&um=1&ie=UTF-8&output=rss",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity gossip",
+        "fashion news",
+        "entertainment updates"
+      ]
+    },
+    {
+      "id": "youtube:Access Hollywood",
+      "cleaned_title": "Access Hollywood",
+      "summary": "Access Hollywood is a YouTube channel that features celebrity news, interviews, and behind-the-scenes coverage of the entertainment industry.",
+      "title": "Access Hollywood",
+      "kind": "youtube",
+      "channel_id": "UCiKGMZZmZXK-RpbKJGXgH3Q",
+      "thumbnail_url": "https://yt3.ggpht.com/3Ffp0n-8Kw4gT52GBSuItqgwX7Vul876e3JeMRr9Cf1JcUIRSOr8HdR6UZDhDzK-h_9X3Y6Ufeg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity news",
+        "interviews",
+        "entertainment coverage"
+      ]
+    },
+    {
+      "id": "feed:feeds2.feedburner.com:Just Jared",
+      "cleaned_title": "Just Jared",
+      "summary": "Just Jared is a popular celebrity news and gossip website that provides up-to-date news, photos, and exclusives.",
+      "title": "Just Jared",
+      "kind": "feed",
+      "feed_url": "http://feeds2.feedburner.com/justjared/TOvO",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity gossip",
+        "entertainment exclusives",
+        "photos"
+      ]
+    },
+    {
+      "id": "youtube:HollywoodLife",
+      "cleaned_title": "HollywoodLife",
+      "summary": "HollywoodLife is a YouTube channel that covers celebrity news, fashion, beauty, and entertainment.",
+      "title": "HollywoodLife",
+      "kind": "youtube",
+      "channel_id": "UC2rJLq19N0dGrxfib80M_fg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPoyObpobWuk9bYD9RWoBlZaXC0SBX_f23edlBzNA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity news",
+        "fashion",
+        "entertainment",
+        "red carpet"
+      ]
+    },
+    {
+      "id": "reddit:celebrities",
+      "cleaned_title": "celebrities",
+      "summary": "r/celebrities is a subreddit dedicated to discussing and sharing news, photos, and discussions about celebrities.",
+      "title": "celebrities",
+      "kind": "reddit",
+      "subreddit": "celebrities",
+      "details": "Original category: Entertainment -> Celebrity News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "celebrity news",
+        "photos",
+        "videos",
+        "celebrity discussions"
+      ]
+    },
+    {
+      "id": "feed:https://www.thecut.com/feeds/flipboard.rss",
+      "title": "The Cut",
+      "kind": "feed",
+      "feed_url": "https://www.thecut.com/feeds/flipboard.rss",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "The Cut",
+      "cleaned_author": null,
+      "summary": "An insightful publication featuring a variety of articles ranging from celebrity news to cultural commentary, shedding light on societal trends and human experiences.",
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "Kardashians",
+        "celebrity news",
+        "trending topics",
+        "culture"
+      ]
+    },
+    {
+      "title": "BuzzFeed",
+      "popularity_score": 7.3559819371069874,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.buzzfeed.com/index.xml",
+      "kind": "feed",
+      "id": "feed:http://www.buzzfeed.com/index.xml",
+      "cleaned_title": "BuzzFeed",
+      "cleaned_author": null,
+      "summary": "BuzzFeed delivers a mix of breaking news, celebrity gossip, and lighthearted quizzes, appealing to audiences looking for entertainment and viral content.",
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "quizzes",
+        "celebrity news",
+        "recipes"
+      ]
+    }
+  ],
+  "child_categories": []
+}

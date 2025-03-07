@@ -1,0 +1,1882 @@
+{
+  "id": "usa",
+  "display_name": "USA",
+  "feeds": [
+    {
+      "id": "substack:top:the_free_press_-_bari_weiss",
+      "title": "The Free Press - Bari Weiss",
+      "cleaned_title": "The Free Press",
+      "summary": "A newsletter committed to preserving the principles of American journalism, addressing pressing political issues with a focus on facts and a commitment to truth.",
+      "kind": "feed",
+      "feed_url": "https://www.thefp.com/feed",
+      "details": "Original category: Substack top newsletters about us-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "Journalism",
+        "USA",
+        "_mainstream"
+      ],
+      "cleaned_author": "Bari Weiss",
+      "language": "en",
+      "keywords": [
+        "journalism",
+        "politics",
+        "investigative reporting"
+      ]
+    },
+    {
+      "id": "substack:top:letters_from_an_american_-_heather_cox_richardson",
+      "title": "Letters from an American - Heather Cox Richardson",
+      "cleaned_title": "Letters from an American",
+      "summary": "This newsletter connects historical context to contemporary politics, offering readers a unique lens through which to understand today's issues and events.",
+      "kind": "feed",
+      "feed_url": "https://heathercoxrichardson.substack.com/feed",
+      "details": "Original category: Substack top newsletters about us-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "History",
+        "USA",
+        "_academic"
+      ],
+      "cleaned_author": "Heather Cox Richardson",
+      "language": "en",
+      "keywords": [
+        "history",
+        "politics",
+        "analysis"
+      ]
+    },
+    {
+      "id": "substack:top:the_bulwark",
+      "title": "The Bulwark",
+      "cleaned_title": "The Bulwark",
+      "summary": "Providing non-partisan analysis on American politics and culture, this newsletter is known for its critical viewpoints and robust discussions, fostering a space free from tribal affiliations.",
+      "kind": "feed",
+      "feed_url": "https://www.thebulwark.com/feed",
+      "details": "Original category: Substack top newsletters about us-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "Journalism",
+        "USA",
+        "_intellectual"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "politics",
+        "analysis",
+        "culture"
+      ]
+    },
+    {
+      "id": "substack:top:the_contrarian",
+      "title": "The Contrarian",
+      "cleaned_title": "The Contrarian",
+      "summary": "A newsletter providing bold perspectives on democracy and political issues, focusing on truth-telling in contemporary journalism.",
+      "kind": "feed",
+      "feed_url": "https://contrarian.substack.com/feed",
+      "details": "Original category: Substack top newsletters about us-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "USA"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "democracy",
+        "journalism",
+        "politics",
+        "truth"
+      ]
+    },
+    {
+      "id": "substack:top:zeteo_-_mehdi_hasan",
+      "title": "Zeteo - Mehdi Hasan",
+      "cleaned_title": "Zeteo",
+      "summary": "This newsletter seeks to tackle important questions with a commitment to media accountability and offers unfiltered news coverage.",
+      "kind": "feed",
+      "feed_url": "https://zeteo.com/feed",
+      "details": "Original category: Substack top newsletters about us-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "USA",
+        "_intellectual"
+      ],
+      "cleaned_author": "Mehdi Hasan",
+      "language": "en",
+      "keywords": [
+        "truth",
+        "media accountability",
+        "news",
+        "politics"
+      ]
+    },
+    {
+      "id": "substack:top:bald_faced_truth_by_john_canzano",
+      "title": "Bald Faced Truth by John Canzano",
+      "cleaned_title": "Bald Faced Truth",
+      "summary": "A sports columnist shares insights on college football and related topics, offering unique commentary and analysis.",
+      "kind": "feed",
+      "feed_url": "https://www.johncanzano.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "News",
+        "Living",
+        "Politics",
+        "Sports",
+        "USA",
+        "Football"
+      ],
+      "cleaned_author": "John Canzano",
+      "language": "en",
+      "keywords": [
+        "college football",
+        "sports",
+        "gambling",
+        "Pac-12"
+      ]
+    },
+    {
+      "id": "substack:top:the_airline_observer_-_brian_sumers",
+      "title": "The Airline Observer - Brian Sumers",
+      "cleaned_title": "The Airline Observer",
+      "summary": "A newsletter that delves into the airline industry, providing insights and updates aimed at professionals in the field.",
+      "kind": "feed",
+      "feed_url": "https://www.theairlineobserver.com/feed",
+      "details": "Original category: Substack top newsletters about travel",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "News",
+        "Aviation",
+        "USA"
+      ],
+      "cleaned_author": "Brian Sumers",
+      "language": "en",
+      "keywords": [
+        "airlines",
+        "business",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Atlantic",
+      "cleaned_title": "The Atlantic",
+      "summary": "A publication navigating the intersections of culture, politics, and society through thoughtful essays and investigative reporting.",
+      "title": "The Atlantic",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/TheAtlantic",
+      "popularity_score": 15.519871128593945,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Arts & Culture",
+        "USA",
+        "Words",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "culture",
+        "politics",
+        "society",
+        "investigative"
+      ]
+    },
+    {
+      "id": "feed:newyorker.com:New Yorker",
+      "cleaned_title": "New Yorker",
+      "summary": "A magazine offering a blend of reporting, commentary, criticism, and fiction, known for its in-depth articles and sharp wit.",
+      "title": "New Yorker",
+      "kind": "feed",
+      "feed_url": "http://www.newyorker.com/services/mrss/feeds/everything.xml",
+      "popularity_score": 8.205989854994,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Politics",
+        "USA",
+        "Journalism",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "commentary",
+        "reporting",
+        "fiction"
+      ]
+    },
+    {
+      "id": "feed:propublica.org:ProPublica",
+      "cleaned_title": "ProPublica",
+      "summary": "An independent, nonprofit newsroom committed to investigative journalism that shines a light on critical issues affecting the public interest.",
+      "title": "ProPublica",
+      "kind": "feed",
+      "feed_url": "https://www.propublica.org/feeds/propublica/main",
+      "popularity_score": 5.160222375998966,
+      "details": "Original category: News -> US News",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Journalism",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "investigative journalism",
+        "public interest",
+        "news articles"
+      ]
+    },
+    {
+      "id": "feed:vox.com:Vox",
+      "cleaned_title": "Vox",
+      "summary": "A digital media outlet providing explanations of current events and trends with a focus on clarity and context.",
+      "title": "Vox",
+      "kind": "feed",
+      "feed_url": "http://www.vox.com/rss/index.xml",
+      "popularity_score": 8.237969799788589,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Politics",
+        "USA",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "current events",
+        "political analysis"
+      ]
+    },
+    {
+      "id": "feed:nymag.com:New York Magazine -- Intelligencer \u2013 nymag.com",
+      "cleaned_title": "New York Magazine \u2013 Intelligencer",
+      "summary": "A collection of articles analyzing current events, politics, and pop culture, providing sharp insights into the news of the day.",
+      "title": "New York Magazine -- Intelligencer \u2013 nymag.com",
+      "kind": "feed",
+      "feed_url": "http://nymag.com/feeds/intelligencer/flipboard.rss",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 4.830178844220315,
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Politics",
+        "USA",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "pop culture",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:economist.com:Briefing \u2013 economist.com",
+      "cleaned_title": "Briefing",
+      "summary": "This feed offers concise updates on current events and insights into economics, international relations, and societal issues. It provides a critical view on America's political landscape and the global economy.",
+      "title": "Briefing \u2013 economist.com",
+      "kind": "feed",
+      "feed_url": "https://www.economist.com/briefing/rss.xml",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "News",
+        "USA",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "economy",
+        "Trump",
+        "international relations",
+        "scams"
+      ]
+    },
+    {
+      "id": "feed:feeds.guardian.co.uk:Travel | The Guardian",
+      "cleaned_title": "Travel",
+      "summary": "A well-rounded source for travel news and reviews, providing local guides to major cities and insightful tips for global travelers.",
+      "title": "Travel | The Guardian",
+      "kind": "feed",
+      "feed_url": "http://feeds.guardian.co.uk/theguardian/travel/rss",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "The Guardian",
+      "tags": [
+        "Living",
+        "News",
+        "USA",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "guides",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:feeds.a.dj.com:WSJ.com: US Business",
+      "cleaned_title": "WSJ.com: US Business",
+      "summary": "A renowned financial newspaper that provides in-depth coverage of business, markets, and global news.",
+      "title": "WSJ.com: US Business",
+      "kind": "feed",
+      "feed_url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+      "details": "Original category: News -> US News",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 6.589398861102873,
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "News",
+        "Finance",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "business news",
+        "financial analysis",
+        "markets"
+      ]
+    },
+    {
+      "id": "reddit:business",
+      "cleaned_title": "business",
+      "summary": "A subreddit for general business discussions, news, and insights from the business community.",
+      "title": "business",
+      "kind": "reddit",
+      "subreddit": "business",
+      "details": "Original category: Business",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "USA",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "business discussions",
+        "news",
+        "insights"
+      ]
+    },
+    {
+      "id": "youtube:Democracy Now!",
+      "cleaned_title": "Democracy Now!",
+      "summary": "A daily independent news program that covers a wide range of topics, including politics, social justice, and global events.",
+      "title": "Democracy Now!",
+      "kind": "youtube",
+      "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTSNodnY4pCvuhfz-gMl9qHAg8AGYDSIslmg3YYTA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "World News",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "politics",
+        "social justice"
+      ]
+    },
+    {
+      "id": "youtube:The Young Turks",
+      "cleaned_title": "The Young Turks",
+      "summary": "A progressive news and commentary YouTube channel that covers politics, current events, and social issues.",
+      "title": "The Young Turks",
+      "kind": "youtube",
+      "channel_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+      "thumbnail_url": "https://yt3.ggpht.com/f5y_0KmKhcvJI4fwO93TZYivDNFLQAb8INsIcOEDt9hajse8qWM4ZIt0bq7-3QCMQsHJgy232g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "current events",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:sports.espn.go.com:www.espn.com - TOP",
+      "cleaned_title": "ESPN Top",
+      "summary": "A popular sports news website that covers a wide range of sports including football, basketball, baseball, soccer, and more.",
+      "title": "www.espn.com - TOP",
+      "kind": "feed",
+      "feed_url": "http://sports.espn.go.com/espn/rss/news",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports news",
+        "analysis",
+        "highlights"
+      ]
+    },
+    {
+      "id": "feed:minnesota.publicradio.org:Homepage - MPR News",
+      "cleaned_title": "MPR News",
+      "summary": "A regional news outlet presenting a range of local stories, from community events to public affairs, focusing on Minnesota and the surrounding areas.",
+      "title": "Homepage - MPR News",
+      "kind": "feed",
+      "feed_url": "http://minnesota.publicradio.org/tools/rss/mprnews.php",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Minnesota",
+        "community news",
+        "public affairs",
+        "local events"
+      ]
+    },
+    {
+      "id": "reddit:cars",
+      "cleaned_title": "Cars",
+      "summary": "A subreddit dedicated to discussions, news, and everything related to cars.",
+      "title": "cars",
+      "kind": "reddit",
+      "subreddit": "cars",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "USA",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive",
+        "cars",
+        "DIY",
+        "discussions",
+        "advice"
+      ]
+    },
+    {
+      "id": "feed:caranddriver.com:Latest Content - Car and Driver",
+      "cleaned_title": "Car and Driver",
+      "summary": "Car and Driver is a trusted source for automotive news, reviews, and buying guides.",
+      "title": "Latest Content - Car and Driver",
+      "kind": "feed",
+      "feed_url": "https://www.caranddriver.com/rss/all.xml/",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "USA",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive news",
+        "car reviews",
+        "buying guides"
+      ]
+    },
+    {
+      "id": "reddit:Autos",
+      "cleaned_title": "Autos",
+      "summary": "A subreddit for car enthusiasts to discuss cars, share pictures, and engage in automotive-related discussions.",
+      "title": "Autos",
+      "kind": "reddit",
+      "subreddit": "Autos",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cars",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive discussions",
+        "community",
+        "cars"
+      ]
+    },
+    {
+      "id": "feed:thetruthaboutcars.com:TheTruthAboutCars",
+      "cleaned_title": "TheTruthAboutCars",
+      "summary": "TheTruthAboutCars provides insightful commentary and analysis on the automotive industry. This feed covers reviews, industry news, and market insights, catering to both casual readers and passionate car enthusiasts.",
+      "title": "TheTruthAboutCars",
+      "kind": "feed",
+      "feed_url": "https://www.thetruthaboutcars.com/rss/feed/all",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Cars",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive news",
+        "car reviews",
+        "industry analysis"
+      ]
+    },
+    {
+      "id": "feed:ecs.org:Education Commission of the States",
+      "cleaned_title": "Education Commission of the States",
+      "summary": "An organization that tracks education policy and provides research, analysis, and resources to inform policy decisions at the state level.",
+      "title": "Education Commission of the States",
+      "kind": "feed",
+      "feed_url": "http://www.ecs.org/feed/",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "Education",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "education policy",
+        "state policy",
+        "research",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:tvline.com:TVLine",
+      "cleaned_title": "TVLine",
+      "summary": "TVLine is a website that provides news, recaps, and interviews about TV shows, including the latest updates and spoilers.",
+      "title": "TVLine",
+      "kind": "feed",
+      "feed_url": "http://www.tvline.com/feed/",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "USA",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV news",
+        "TV spoilers",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "reddit:Netflix",
+      "cleaned_title": "Netflix",
+      "summary": "A subreddit dedicated to Netflix, where users discuss and recommend TV shows available on the streaming platform.",
+      "title": "Netflix",
+      "kind": "reddit",
+      "subreddit": "Netflix",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Netflix discussions",
+        "show recommendations",
+        "streaming"
+      ]
+    },
+    {
+      "id": "feed:feeds.tvfanatic.com:TV Fanatic",
+      "cleaned_title": "TV Fanatic",
+      "summary": "TV Fanatic offers news, reviews, and features about TV shows, with a focus on popular series across different genres.",
+      "title": "TV Fanatic",
+      "kind": "feed",
+      "feed_url": "http://feeds.tvfanatic.com/tvfanatic",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "USA",
+        "Celebs & Entertainment"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV news",
+        "show reviews",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:about.crunchbase.com:Crunchbase News",
+      "cleaned_title": "Crunchbase News",
+      "summary": "Crunchbase is a platform that provides information about startups, including funding rounds, key people, and company profiles.",
+      "title": "Crunchbase News",
+      "kind": "feed",
+      "feed_url": "https://about.crunchbase.com/news/feed/",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "startups",
+        "funding",
+        "investors",
+        "private markets"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Inman",
+      "cleaned_title": "Inman",
+      "summary": "Inman is a real estate news and information website that covers industry trends, technology, and market insights.",
+      "title": "Inman",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/inmannews",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "market trends",
+        "broker news"
+      ]
+    },
+    {
+      "id": "feed:news.google.com:\"wine spectator\" - Google News",
+      "cleaned_title": "Wine Spectator",
+      "summary": "A leading authority on wine, providing expert ratings, reviews, and news about the world of wine.",
+      "title": "\"wine spectator\" - Google News",
+      "kind": "feed",
+      "feed_url": "http://news.google.com/news?hl=en&gl=us&q=wine%20spectator&um=1&ie=UTF-8&output=rss",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "USA",
+        "Restaurants",
+        "Finance",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine",
+        "reviews",
+        "restaurant recommendations",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:latimes.com:News from California, the nation and world  - Los Angeles Times",
+      "cleaned_title": "Los Angeles Times",
+      "summary": "The largest daily newspaper in Los Angeles, covering local news, politics, entertainment, and more.",
+      "title": "News from California, the nation and world  - Los Angeles Times",
+      "kind": "feed",
+      "feed_url": "http://www.latimes.com/rss2.0.xml",
+      "details": "Original category: Local -> Los Angeles",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "Los Angeles",
+        "news",
+        "politics",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "youtube:Discover Los Angeles",
+      "cleaned_title": "Discover Los Angeles",
+      "summary": "The official YouTube channel of Discover Los Angeles, featuring videos showcasing the city's attractions, events, and culture.",
+      "title": "Discover Los Angeles",
+      "kind": "youtube",
+      "channel_id": "UCpLtpCJjGK61rzqD_frYsNA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOTYulmtTzput88txmtLJ8vTZ6Tz_99SiddZqswOw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Los Angeles",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cities",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Los Angeles",
+        "attractions",
+        "events",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:feeds.abcnews.com:ABC News: Top Stories",
+      "cleaned_title": "ABC News: Top Stories",
+      "summary": "ABC News provides breaking US news, world news, and investigative reporting.",
+      "title": "ABC News: Top Stories",
+      "kind": "feed",
+      "feed_url": "http://feeds.abcnews.com/abcnews/topstories",
+      "details": "Original category: News -> US News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "investigative reporting",
+        "US news"
+      ]
+    },
+    {
+      "id": "feed:news.google.com:\"tripadvisor\" - Google News",
+      "cleaned_title": "tripadvisor",
+      "summary": "A platform that offers user-generated reviews and recommendations for hotels, restaurants, and attractions worldwide.",
+      "title": "\"tripadvisor\" - Google News",
+      "kind": "feed",
+      "feed_url": "http://news.google.com/news?hl=en&gl=us&q=tripadvisor&um=1&ie=UTF-8&output=rss",
+      "details": "Original category: Travel -> Hotels & Accommodation",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cities",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "user reviews",
+        "travel recommendations",
+        "hotels"
+      ]
+    },
+    {
+      "id": "feed:http://www.niemanlab.org/feed/",
+      "title": "Nieman Lab",
+      "kind": "feed",
+      "feed_url": "http://www.niemanlab.org/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Nieman Lab",
+      "cleaned_author": null,
+      "summary": "Nieman Lab is a respected source for insights into the media industry, exploring trends, ideas, and innovations in journalism with a focus on the future of news.",
+      "tags": [
+        "News",
+        "Journalism",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "journalism",
+        "news",
+        "media",
+        "innovation"
+      ]
+    },
+    {
+      "id": "feed:https://nysfocus.com/feed",
+      "title": "New York Focus \u2013 nysfocus.com",
+      "kind": "feed",
+      "feed_url": "https://nysfocus.com/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "New York Focus",
+      "cleaned_author": null,
+      "summary": "New York Focus provides in-depth adversarial reporting on state politics and issues, holding power to account through investigative journalism.",
+      "tags": [
+        "Local",
+        "USA",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York",
+        "politics",
+        "investigative journalism",
+        "accountability"
+      ]
+    },
+    {
+      "id": "feed:https://talkingpointsmemo.com/feed",
+      "title": "TPM \u2013 Talking Points Memo",
+      "kind": "feed",
+      "feed_url": "https://talkingpointsmemo.com/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "TPM",
+      "cleaned_author": null,
+      "summary": "A well-established source for breaking news and analysis, TPM provides in-depth coverage of political issues and current events.",
+      "tags": [
+        "News",
+        "Politics",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "analysis",
+        "politics",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:https://nygroove.nyc/rss/",
+      "title": "The New York Groove \u2013 nygroove.nyc",
+      "kind": "feed",
+      "feed_url": "https://nygroove.nyc/rss/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "The New York Groove",
+      "cleaned_author": null,
+      "summary": "The New York Groove delivers thoughtful reporting on how to enhance life in New York City, addressing local issues and lifestyle tips.",
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "lifestyle",
+        "local news"
+      ]
+    },
+    {
+      "id": "feed:http://nrn.com/rss.xml",
+      "title": "Nation's Restaurant News \u2013 nrn.com",
+      "kind": "feed",
+      "feed_url": "http://nrn.com/rss.xml",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Nation's Restaurant News",
+      "cleaned_author": null,
+      "summary": "A reliable source for the latest trends in the restaurant industry, featuring updates on major players and market dynamics. Coverage includes notable restaurant developments and consumer insights.",
+      "tags": [
+        "Local",
+        "USA",
+        "Restaurants",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "restaurant news",
+        "Papa John's",
+        "Taco Bell",
+        "Chipotle",
+        "Sweetgreen"
+      ]
+    },
+    {
+      "id": "feed:https://www.globalnerdy.com/feed/",
+      "title": "Global Nerdy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.globalnerdy.com/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Global Nerdy",
+      "cleaned_author": null,
+      "summary": "Tampa Bay\u2019s go-to technology blog offering insights into local tech events, programming trends, and the growing impact of AI in the region.",
+      "tags": [
+        "Tech",
+        "Local",
+        "USA",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "Tampa Bay",
+        "AI",
+        "meetup",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://sfseniorbeat.com/feed/",
+      "title": "San Francisco Senior Beat",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sfseniorbeat.com/feed/",
+      "summary": "Smashing aging stereotypes through storytelling.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "San Francisco Senior Beat",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "storytelling",
+        "aging",
+        "San Francisco",
+        "seniors"
+      ]
+    },
+    {
+      "id": "feed:https://www.itsabouttv.com/feeds/posts/default",
+      "title": "It's About TV",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.itsabouttv.com/feeds/posts/default",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "It's About TV",
+      "cleaned_author": null,
+      "summary": "A blog focused on classic television, discussing the cultural impact and offerings of yesteryear's programming.",
+      "tags": [
+        "Arts & Culture",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic TV",
+        "television history",
+        "American culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.mrussellphotography.com/feed/",
+      "title": "Landscape and Nature Photography Photoblog \u2022 Michael Russell Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mrussellphotography.com/feed/",
+      "summary": "Based in the Fraser Valley of British Columbia, I photograph the landscapes and nature of Southwestern BC and the PNW's Washington State.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Michael Russell Photography",
+      "cleaned_author": "Michael Russell",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art",
+        "Canada",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "landscape",
+        "nature photography",
+        "British Columbia",
+        "Pacific Northwest"
+      ]
+    },
+    {
+      "id": "feed:https://alabamayesterdays.blogspot.com/feeds/posts/default",
+      "title": "Alabama Yesterdays",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alabamayesterdays.blogspot.com/feeds/posts/default",
+      "summary": "Random wanderings through Alabama history.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Alabama Yesterdays",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://imagesofoldhawaii.com/feed/",
+      "title": "Images of Old Hawai\u02bbi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://imagesofoldhawaii.com/feed/",
+      "summary": "Bringing People, Places, and Events in Hawai\u02bbi\u2019s past alive through text and media.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Images of Old Hawai\u02bbi",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Local",
+        "History",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hawaii",
+        "history",
+        "multimedia",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://restaurant-ingthroughhistory.com/feed/",
+      "title": "Restaurant-ing through history",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://restaurant-ingthroughhistory.com/feed/",
+      "summary": "Exploring American restaurants over the centuries.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants.opml",
+      "cleaned_title": "Restaurant-ing through history",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "History",
+        "Restaurants",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "American restaurants",
+        "culinary history",
+        "dining culture"
+      ]
+    },
+    {
+      "id": "feed:https://s-usih.org/feed/atom/",
+      "title": "Society for US Intellectual History",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://s-usih.org/feed/atom/",
+      "summary": "A scholarly platform for discussions and reflections on the intellectual history of the United States, covering a myriad of influential thinkers and their contributions.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Society for US Intellectual History",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Politics",
+        "History",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "intellectual history",
+        "US history",
+        "thinkers"
+      ]
+    },
+    {
+      "id": "feed:https://ggwash.org/rss",
+      "title": "Greater Greater Washington",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ggwash.org/rss",
+      "summary": "Builds informed and civically engaged communities who believe in a growing and inclusive Washington region and speak up for livable communities for all.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Greater Greater Washington",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Washington",
+        "community",
+        "livability"
+      ]
+    },
+    {
+      "id": "feed:https://streets.mn/feed/",
+      "title": "Streets.mn",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://streets.mn/feed/",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Streets.mn",
+      "cleaned_author": null,
+      "summary": "A platform focused on transportation and land use issues in Minnesota, Streets.mn provides insights into the revival of urban centers and local infrastructure matters.",
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "transportation",
+        "land use",
+        "Minnesota"
+      ]
+    },
+    {
+      "id": "feed:https://www.maproomblog.com/feed/",
+      "title": "The Map Room",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.maproomblog.com/feed/",
+      "summary": "Blogging about maps since 2003.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "The Map Room",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Germany",
+        "USA",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "geography",
+        "cartography",
+        "Gulf of America"
+      ]
+    },
+    {
+      "id": "feed:https://googlemapsmania.blogspot.com/feeds/posts/default",
+      "title": "Maps Mania",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://googlemapsmania.blogspot.com/feeds/posts/default",
+      "summary": "Dedicated to tracking the very best digital interactive maps on the internet and the tools used to create them.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Maps Mania",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Germany",
+        "USA",
+        "Europe",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "interactive maps",
+        "digital maps",
+        "mapping tools"
+      ]
+    },
+    {
+      "id": "feed:https://www.applemust.com/feed/",
+      "title": "Apple Must",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.applemust.com/feed/",
+      "summary": "Tips, insights and resources to help Apple's iPhone, iPad, Mac, TV, Watch and iCloud users get much more from their hardware, software and services.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Apple Must",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple tips",
+        "iPhone",
+        "iPad",
+        "Mac"
+      ]
+    },
+    {
+      "id": "feed:https://eos.org/feed",
+      "title": "Editors\u2019 Vox - Eos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://eos.org/feed",
+      "summary": "Eos is the science news magazine published by AGU [Advancing Earth and Space Science].",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Editors\u2019 Vox",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "AGU",
+        "Earth Science",
+        "Climate Change"
+      ]
+    },
+    {
+      "id": "feed:https://geotripper.blogspot.com/feeds/posts/default",
+      "title": "Geotripper",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://geotripper.blogspot.com/feeds/posts/default",
+      "summary": "I am a teacher of geology at Modesto Junior College and former president of the National Association of Geoscience Teachers, Far Western Section.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Geotripper",
+      "cleaned_author": "Geotripper",
+      "tags": [
+        "Science",
+        "Germany",
+        "USA",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "Geology",
+        "Education",
+        "Natural History"
+      ]
+    },
+    {
+      "id": "feed:https://sharonahill.com/feed/",
+      "title": "Spooky Geology",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sharonahill.com/feed/",
+      "summary": "Earth mysteries, weird locations, anomalous phenomena.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Spooky Geology",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Earth Mysteries",
+        "Geology",
+        "Anomalous Phenomena"
+      ]
+    },
+    {
+      "id": "feed:https://www.volcanocafe.org/feed/",
+      "title": "VolcanoCafe",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.volcanocafe.org/feed/",
+      "summary": "Because Volcanoes are Ewesome.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "VolcanoCafe",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Volcanoes",
+        "Earth Science",
+        "Geology"
+      ]
+    },
+    {
+      "id": "feed:https://www.airlinereporter.com/feed/",
+      "title": "AirlineReporter",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.airlinereporter.com/feed/",
+      "summary": "A Place to Share Your Passion for Airlines. Home of the AvGeek!",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "AirlineReporter",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Aviation",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "airlines",
+        "aviation",
+        "travel",
+        "aircraft",
+        "airline news"
+      ]
+    },
+    {
+      "id": "feed:https://pedestrianobservations.com/feed/",
+      "title": "Pedestrian Observations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pedestrianobservations.com/feed/",
+      "summary": "For Walkability and Good Transit, and Against Boondoggles and Pollution.",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "Pedestrian Observations",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Urban",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "walkability",
+        "transit",
+        "urban planning",
+        "environmental policy"
+      ]
+    },
+    {
+      "id": "feed:https://gregalder.com/yardposts/feed/",
+      "title": "Greg Alder's Yard Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gregalder.com/yardposts/feed/",
+      "summary": "Southern California food gardening.",
+      "details": "Original Category: recreation -> gardening.opml",
+      "cleaned_title": "Greg Alder's Yard Posts",
+      "cleaned_author": "Greg Alder",
+      "tags": [
+        "Living",
+        "Gardens",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "gardening",
+        "Southern California",
+        "fruit trees"
+      ]
+    },
+    {
+      "id": "feed:https://goodstuffnw.com/feed.rss",
+      "title": "Good Stuff NW",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://goodstuffnw.com/feed.rss",
+      "summary": "A blog that explores the connections between food sourcing and culinary experiences, showcasing seasonal recipes and local legislative updates.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Good Stuff NW",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "USA",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "food",
+        "recipes",
+        "sustainability",
+        "legislation"
+      ]
+    },
+    {
+      "id": "feed:https://www.greencaltrain.com/feed/",
+      "title": "Green Caltrain",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.greencaltrain.com/feed/",
+      "summary": "Friends of Caltrain Blog.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Green Caltrain",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "Caltrain",
+        "transportation",
+        "advocacy",
+        "funding"
+      ]
+    },
+    {
+      "id": "feed:https://bikeportland.org/feed",
+      "title": "BikePortland",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bikeportland.org/feed",
+      "summary": "Portland Oregon bicycle news, events, culture, and opinion.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "BikePortland",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Boston"
+      ],
+      "language": "en",
+      "keywords": [
+        "Portland",
+        "bicycle news",
+        "culture",
+        "local events"
+      ]
+    },
+    {
+      "id": "feed:https://davidallengreen.com/feed/",
+      "title": "The Law and Policy Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidallengreen.com/feed/",
+      "summary": "Independent commentary on law and policy from a liberal constitutionalist and critical perspective.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "The Law and Policy Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "law",
+        "policy",
+        "constitutionalism",
+        "U.S. politics"
+      ]
+    },
+    {
+      "id": "feed:https://www.scotusblog.com/feed/",
+      "title": "SCOTUSblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.scotusblog.com/feed/",
+      "summary": "Devoted to covering the US Supreme Court comprehensively, without bias according to the highest journalistic standards as a public service.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "SCOTUSblog",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Supreme Court",
+        "judicial analysis",
+        "court rulings"
+      ]
+    },
+    {
+      "id": "feed:https://laststandonzombieisland.com/feed/",
+      "title": "laststandonzombieisland",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://laststandonzombieisland.com/feed/",
+      "summary": "Weapons, Wars, Preparation and Security from a recovering gun nut turned bad writer.",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "laststandonzombieisland",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "War",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "weapons",
+        "military",
+        "security",
+        "preparation"
+      ]
+    },
+    {
+      "id": "feed:https://www.bitsaboutmoney.com/archive/rss/",
+      "title": "Bits about Money",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bitsaboutmoney.com/archive/rss/",
+      "summary": "About the modern financial infrastructure that the world sits atop of.",
+      "details": "Original Category: economics -> finance.opml",
+      "cleaned_title": "Bits about Money",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "financial infrastructure",
+        "economics",
+        "finance",
+        "debanking"
+      ]
+    },
+    {
+      "id": "feed:https://handeaux.tumblr.com/rss",
+      "title": "Cincinnati Curiosities",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://handeaux.tumblr.com/rss",
+      "summary": "Working overtime to keep alive the weird soul of the Queen City.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Cincinnati Curiosities",
+      "cleaned_author": "Greg Hand",
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Cincinnati",
+        "history",
+        "curiosities"
+      ]
+    },
+    {
+      "id": "feed:https://ephemeralnewyork.wordpress.com/feed/",
+      "title": "Ephemeral New York",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ephemeralnewyork.wordpress.com/feed/",
+      "summary": "Chronicling an ever-changing city through faded and forgotten artifacts.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Ephemeral New York",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York",
+        "history",
+        "urban exploration"
+      ]
+    },
+    {
+      "id": "feed:https://www.indybay.org/syn/generate_rss.php?news_item_status_restriction=1155",
+      "title": "San Francisco Bay Area Independent Media Center",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.indybay.org/syn/generate_rss.php?news_item_status_restriction=1155",
+      "summary": "A non-commercial, democratic collective serving as the local organizing unit of the global IMC network.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "San Francisco Bay Area Independent Media Center",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "independent media",
+        "San Francisco",
+        "activism",
+        "local news"
+      ]
+    },
+    {
+      "id": "feed:https://mass.streetsblog.org/feed",
+      "title": "StreetsblogMASS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mass.streetsblog.org/feed",
+      "summary": "Connecting people from all walks of life to information about how to reduce dependence on cars, promote human-centered, equitable, and environmentally sustainable places\u2026.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "StreetsblogMASS",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "transportation",
+        "biking",
+        "walking",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "feed:https://www.beautifulpublicdata.com/rss/",
+      "title": "Beautiful Public Data",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.beautifulpublicdata.com/rss/",
+      "summary": "A curated selection of visually interesting datasets collected by local, state and federal government agencies. By Jon Keegan.",
+      "details": "Original Category: countries -> usa -> usa-government.opml",
+      "cleaned_title": "Beautiful Public Data",
+      "cleaned_author": "Jon Keegan",
+      "tags": [
+        "Tech",
+        "Data",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "government datasets",
+        "public information"
+      ]
+    },
+    {
+      "title": "Aktuell - FAZ.NET",
+      "popularity_score": 3.2888888888888896,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.faz.net/rss/aktuell/",
+      "kind": "feed",
+      "id": "feed:http://www.faz.net/rss/aktuell/",
+      "cleaned_title": "Aktuell",
+      "cleaned_author": "FAZ.NET",
+      "summary": "A comprehensive source for current events and news across various sectors, including politics, economy, sports, and financial updates.",
+      "tags": [
+        "News",
+        "Politics",
+        "USA",
+        "Germany",
+        "World News"
+      ],
+      "language": "de",
+      "keywords": [
+        "politics",
+        "economy",
+        "sports",
+        "news"
+      ]
+    },
+    {
+      "title": "\u738b\u5fd7\u5b89",
+      "popularity_score": 3.066666666666667,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCBKDRq35-L8xev4O7ZqBeLg",
+      "kind": "youtube",
+      "id": "youtube:channel:UCBKDRq35-L8xev4O7ZqBeLg",
+      "cleaned_title": "\u738b\u5fd7\u5b89",
+      "cleaned_author": null,
+      "summary": "A blog discussing political events and social commentary focused on China and its international relations.",
+      "tags": [
+        "Politics",
+        "News",
+        "China",
+        "USA",
+        "Diplomacy"
+      ],
+      "language": "zh",
+      "keywords": [
+        "politics",
+        "China",
+        "international relations"
+      ]
+    },
+    {
+      "title": "vc.ru: \u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0437\u0430 \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u044f",
+      "popularity_score": 2.6095238095238096,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://vc.ru/rss/all",
+      "kind": "feed",
+      "id": "feed:https://vc.ru/rss/all",
+      "cleaned_title": "vc.ru: \u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0437\u0430 \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u044f",
+      "cleaned_author": null,
+      "summary": "A Russian platform covering business and technology trends, presenting insights into growth models and industry shifts within the entrepreneurial landscape.",
+      "tags": [
+        "Tech",
+        "USA",
+        "Russia",
+        "Finance"
+      ],
+      "language": "ru",
+      "keywords": [
+        "business",
+        "technology",
+        "startups"
+      ]
+    }
+  ],
+  "child_categories": []
+}

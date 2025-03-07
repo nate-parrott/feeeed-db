@@ -1,0 +1,55 @@
+{
+  "id": "justice",
+  "display_name": "Justice",
+  "feeds": [
+    {
+      "id": "substack:top:the_bear_cave_-_edwin_dorsey",
+      "title": "The Bear Cave - Edwin Dorsey",
+      "cleaned_title": "The Bear Cave",
+      "summary": "Dedicated to uncovering corporate misdeeds, this investigative newsletter sheds light on ethical issues within the business landscape and promotes accountability.",
+      "kind": "feed",
+      "feed_url": "https://thebearcave.substack.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Crime",
+        "Justice",
+        "_intellectual"
+      ],
+      "cleaned_author": "Edwin Dorsey",
+      "language": "en",
+      "keywords": [
+        "corporate misconduct",
+        "investigation",
+        "accountability"
+      ]
+    },
+    {
+      "id": "feed:http://www.scotusblog.com/feed/",
+      "title": "SCOTUSblog",
+      "kind": "feed",
+      "feed_url": "http://www.scotusblog.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "SCOTUSblog",
+      "cleaned_author": null,
+      "summary": "A comprehensive source for news and analysis on the United States Supreme Court, providing in-depth coverage on pivotal cases and judicial decisions.",
+      "tags": [
+        "Politics",
+        "Congress",
+        "Justice"
+      ],
+      "language": "en",
+      "keywords": [
+        "Supreme Court",
+        "legal analysis",
+        "justice"
+      ]
+    }
+  ],
+  "child_categories": []
+}

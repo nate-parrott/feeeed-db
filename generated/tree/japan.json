@@ -1,0 +1,87 @@
+{
+  "id": "japan",
+  "display_name": "Japan",
+  "feeds": [
+    {
+      "id": "feed:multicore.blog:Multicore",
+      "cleaned_title": "Multicore",
+      "summary": "Multicore covers the latest in technology hardware and design from Tokyo. With insights on smartphones and innovative gadgets, it attracts tech enthusiasts interested in cutting-edge developments.",
+      "title": "Multicore",
+      "kind": "feed",
+      "feed_url": "https://www.multicore.blog/feed",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Sam Byford",
+      "tags": [
+        "Tech",
+        "Mobile",
+        "Gadgets",
+        "Japan"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware design",
+        "smartphones",
+        "Oppo",
+        "E Ink",
+        "Japanese tech"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/tokyodev",
+      "title": "TokyoDev | Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/tokyodev",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "TokyoDev | Articles",
+      "cleaned_author": null,
+      "summary": "A valuable resource for developers navigating the Japanese technology industry, providing insights into workplace dynamics and career tips.",
+      "tags": [
+        "Tech",
+        "Japan",
+        "Software Design",
+        "Coding",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japan",
+        "tech",
+        "developers",
+        "multinational teams",
+        "work culture"
+      ]
+    },
+    {
+      "title": "\u6f6e\u6d41\u5468\u520a \u2013 tw93.fun",
+      "popularity_score": 4.583333333333333,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://weekly.tw93.fun/rss.xml",
+      "kind": "feed",
+      "id": "feed:https://weekly.tw93.fun/rss.xml",
+      "cleaned_title": "\u6f6e\u6d41\u5468\u520a",
+      "cleaned_author": "Tw93",
+      "summary": "A personal blog by engineer Tw93, documenting daily life and personal experiences with a creative twist.",
+      "tags": [
+        "Living",
+        "Japan",
+        "Writing"
+      ],
+      "language": "zh",
+      "keywords": [
+        "personal blog",
+        "life experiences",
+        "engineer",
+        "stories"
+      ]
+    }
+  ],
+  "child_categories": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "spain",
+  "display_name": "Spain",
+  "feeds": [
+    {
+      "id": "feed:https://useless-catalanfacts.tumblr.com/rss",
+      "title": "useless-catalanfacts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://useless-catalanfacts.tumblr.com/rss",
+      "summary": "A place to share the culture and history of the Catalan Countries, explained by Catalans.",
+      "details": "Original Category: humanities -> geography.opml",
+      "cleaned_title": "Useless Catalan Facts",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Spain",
+        "History",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://wavesofdevotion.com/feed/",
+      "title": "Waves of Devotion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://wavesofdevotion.com/feed/",
+      "summary": "The Writings and Realizations of Srila Dhanurdhara Swami.",
+      "details": "Original Category: society -> religion.opml",
+      "cleaned_title": "Waves of Devotion",
+      "cleaned_author": "Srila Dhanurdhara Swami",
+      "tags": [
+        "Living",
+        "Spain"
+      ],
+      "language": "en",
+      "keywords": [
+        "devotion",
+        "Bhakti Yoga",
+        "spirituality",
+        "faith",
+        "teachings"
+      ]
+    }
+  ],
+  "child_categories": []
+}

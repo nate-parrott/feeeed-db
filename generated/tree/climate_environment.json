@@ -1,0 +1,667 @@
+{
+  "id": "climate_environment",
+  "display_name": "Climate & Environment",
+  "feeds": [
+    {
+      "id": "substack:top:the_crucial_years_-_bill_mckibben",
+      "title": "The Crucial Years - Bill McKibben",
+      "cleaned_title": "The Crucial Years",
+      "summary": "A critical voice in the climate conversation, Bill McKibben offers insights and proposals for winning the fight against climate change.",
+      "kind": "feed",
+      "feed_url": "https://billmckibben.substack.com/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": "Bill McKibben",
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "policy",
+        "environment",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "substack:top:volts_-_david_roberts",
+      "title": "Volts - David Roberts",
+      "cleaned_title": "Volts",
+      "summary": "This newsletter blends technology, politics, and policy discussions around decarbonization, providing a community-focused approach to tackling climate challenges.",
+      "kind": "feed",
+      "feed_url": "https://www.volts.wtf/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": "David Roberts",
+      "language": "en",
+      "keywords": [
+        "decarbonization",
+        "climate policy",
+        "community",
+        "renewable energy"
+      ]
+    },
+    {
+      "id": "substack:top:heated_-_emily_atkin",
+      "title": "HEATED - Emily Atkin",
+      "cleaned_title": "HEATED",
+      "summary": "This passionate newsletter calls for urgent action on climate issues, combining sharp commentary with a focus on the people behind the climate crisis.",
+      "kind": "feed",
+      "feed_url": "https://heated.world/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top",
+        "curated"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": "Emily Atkin",
+      "language": "en",
+      "keywords": [
+        "climate crisis",
+        "activism",
+        "news",
+        "ecological impact"
+      ]
+    },
+    {
+      "id": "substack:top:the_hotshot_wake_up",
+      "title": "The Hotshot Wake Up",
+      "cleaned_title": "The Hotshot Wake Up",
+      "summary": "A practical source for information on wildfires, fire technology, and policies affecting firefighting, aimed at engaging a community concerned about wildfire safety.",
+      "kind": "feed",
+      "feed_url": "https://thehotshotwakeup.substack.com/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "wildfires",
+        "fire management",
+        "policy",
+        "firefighting"
+      ]
+    },
+    {
+      "id": "substack:top:the_mcj_newsletter_-_mcj",
+      "title": "the MCJ Newsletter - MCJ",
+      "cleaned_title": "the MCJ Newsletter",
+      "summary": "A deep dive into energy and industry transition topics, this newsletter curates community-generated solutions for tackling climate issues.",
+      "kind": "feed",
+      "feed_url": "https://newsletter.mcj.vc/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": "MCJ",
+      "language": "en",
+      "keywords": [
+        "energy transition",
+        "solutions",
+        "community",
+        "climate crisis"
+      ]
+    },
+    {
+      "id": "youtube:Our Changing Climate",
+      "cleaned_title": "Our Changing Climate",
+      "summary": "A YouTube channel that explores various environmental topics, including climate change, sustainability, and conservation.",
+      "title": "Our Changing Climate",
+      "kind": "youtube",
+      "channel_id": "UCNXvxXpDJXp-mZu3pFMzYHQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPm7RF8UKE4ZweyjGWPripW4wXr9p8jwSN5oa_Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "sustainability",
+        "pollution",
+        "environmental education"
+      ]
+    },
+    {
+      "id": "feed:india.mongabay.com:Mongabay-India",
+      "cleaned_title": "Mongabay-India",
+      "summary": "An environmental science and conservation news website that focuses on biodiversity, forests, wildlife, and more.",
+      "title": "Mongabay-India",
+      "kind": "feed",
+      "feed_url": "https://india.mongabay.com/feed/",
+      "details": "Original category: News -> Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Climate & Environment",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "environmental news",
+        "biodiversity",
+        "wildlife conservation",
+        "India"
+      ]
+    },
+    {
+      "id": "reddit:environment",
+      "cleaned_title": "environment",
+      "summary": "A subreddit dedicated to discussions, news, and articles related to the environment, sustainability, and conservation.",
+      "title": "environment",
+      "kind": "reddit",
+      "subreddit": "environment",
+      "details": "Original category: Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "environmental discussions",
+        "sustainability",
+        "conservation news"
+      ]
+    },
+    {
+      "id": "youtube:National Geographic",
+      "cleaned_title": "National Geographic",
+      "summary": "The official YouTube channel of National Geographic, featuring documentaries, explorations, and stories about the natural world and environmental issues.",
+      "title": "National Geographic",
+      "kind": "youtube",
+      "channel_id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "thumbnail_url": "https://yt3.ggpht.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "documentaries",
+        "natural history",
+        "environmental education",
+        "exploration"
+      ]
+    },
+    {
+      "id": "youtube:THE BREAKDOWN",
+      "cleaned_title": "THE BREAKDOWN",
+      "summary": "The Breakdown is a YouTube channel hosted by Shaun McBride that explores environmental issues and sustainability.",
+      "title": "THE BREAKDOWN",
+      "kind": "youtube",
+      "channel_id": "UCTNn5302BU-aBtQcsWdLsgw",
+      "thumbnail_url": "https://yt3.ggpht.com/vgJgoX5hNrHCp2dpL-GEGaRrBMQsEiCniXQvcOpw2JvY-nenvRixhPTVaig_jXMSfG3We7cW=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Shaun McBride",
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "environment",
+        "sustainability",
+        "humor"
+      ]
+    },
+    {
+      "id": "youtube:BBC Earth",
+      "cleaned_title": "BBC Earth",
+      "summary": "BBC Earth's YouTube channel showcases stunning wildlife documentaries, including footage of rare and endangered species from around the world.",
+      "title": "BBC Earth",
+      "kind": "youtube",
+      "channel_id": "UCwmZiChSryoWQCZMIQezgTg",
+      "thumbnail_url": "https://yt3.ggpht.com/ENqrWbIENEEkPzhincJKsAZNIMo0j0Y6yqp9BQizNIYqPlZrUA8fUqD49wh3BDnLFbUXdNoEV2E=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Wildlife",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "World News",
+        "Climate & Environment",
+        "Biology",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "wildlife",
+        "documentaries",
+        "nature"
+      ]
+    },
+    {
+      "id": "youtube:The Dodo",
+      "cleaned_title": "The Dodo",
+      "summary": "The Dodo's YouTube channel features heartwarming and inspiring stories about animals, including wildlife rescues, rehabilitations, and conservation efforts.",
+      "title": "The Dodo",
+      "kind": "youtube",
+      "channel_id": "UCINb0wqPz-A0dV9nARjJlOQ",
+      "thumbnail_url": "https://yt3.ggpht.com/Qh30zzYakOakdqkxoBxcgtKizM1n62XDssdR92hl69geJNbEPkAyZG1osr-BpCDP54H4EX48pA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Wildlife",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "World News",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "animal stories",
+        "rescues",
+        "conservation"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Climate Home News",
+      "cleaned_title": "Climate Home News",
+      "summary": "Climate Home News is an independent news site dedicated to bringing you the latest updates and analysis on climate change and its impacts.",
+      "title": "Climate Home News",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/ClimateHome",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "politics",
+        "environment"
+      ]
+    },
+    {
+      "id": "youtube:PBS Eons",
+      "cleaned_title": "PBS Eons",
+      "summary": "PBS Eons is a YouTube channel that explores the history of life on Earth, including episodes on climate change and its effects on the planet.",
+      "title": "PBS Eons",
+      "kind": "youtube",
+      "channel_id": "UCzR-rom72PHN9Zg7RML9EbA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMHi7nSeBdU2dg_aAdmLpyvYX1cx9-0TpqmXN_3zQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "evolution",
+        "climate change",
+        "Earth history"
+      ]
+    },
+    {
+      "id": "youtube:ClimateAdam",
+      "cleaned_title": "ClimateAdam",
+      "summary": "ClimateAdam is a YouTube channel hosted by climate scientist Adam Levy, who breaks down complex climate science topics in an engaging and accessible way.",
+      "title": "ClimateAdam",
+      "kind": "youtube",
+      "channel_id": "UCCu5wtZ5uOWZp_roz7wHPfg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPlHVo9IVo3LAw-pBJ3yAitu-9b_JGkVNOxX8OPDg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Adam Levy",
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate science",
+        "education",
+        "greenhouse gases"
+      ]
+    },
+    {
+      "id": "feed:yaleclimateconnections.org:Yale Climate Connections",
+      "cleaned_title": "Yale Climate Connections",
+      "summary": "Yale Climate Connections is a multimedia service providing daily climate news and analysis, including articles, videos, and podcasts.",
+      "title": "Yale Climate Connections",
+      "kind": "feed",
+      "feed_url": "http://www.yaleclimateconnections.org/feed/",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate news",
+        "analysis",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "youtube:Climate LAB",
+      "cleaned_title": "Climate LAB",
+      "summary": "Climate Lab is a YouTube series produced by the University of California that explores the science of climate change and its potential solutions.",
+      "title": "Climate LAB",
+      "kind": "youtube",
+      "channel_id": "UCzVNI-3TjCVBbRzJRwKbqSA",
+      "thumbnail_url": "https://yt3.ggpht.com/kHfwshmiER5qfBJyKO-HFwFUzW2UxRd-RpP8hSFtd81qncvSgxEK34eMjbla7r1OlGlyR0QcxA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate science",
+        "education",
+        "environmental solutions"
+      ]
+    },
+    {
+      "id": "feed:cleantechnica.com:CleanTechnica",
+      "cleaned_title": "CleanTechnica",
+      "summary": "A website that focuses on clean technology and renewable energy news, analysis, and insights.",
+      "title": "CleanTechnica",
+      "kind": "feed",
+      "feed_url": "http://cleantechnica.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "Cars",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "electric vehicles",
+        "renewable energy",
+        "clean tech"
+      ]
+    },
+    {
+      "id": "feed:solarpowerworldonline.com:Solar Power World",
+      "cleaned_title": "Solar Power World",
+      "summary": "A comprehensive resource for solar power news, technology, and installation insights.",
+      "title": "Solar Power World",
+      "kind": "feed",
+      "feed_url": "http://www.solarpowerworldonline.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "solar power",
+        "installation",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:windpowerengineering.com:Windpower Engineering & Development",
+      "cleaned_title": "Windpower Engineering & Development",
+      "summary": "A leading source for wind energy news, technology updates, and project developments.",
+      "title": "Windpower Engineering & Development",
+      "kind": "feed",
+      "feed_url": "http://www.windpowerengineering.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "wind energy",
+        "technology",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:hydroreview.com:Hydro Review",
+      "cleaned_title": "Hydro Review",
+      "summary": "A publication that covers hydropower news, technology advancements, and project updates.",
+      "title": "Hydro Review",
+      "kind": "feed",
+      "feed_url": "https://www.hydroreview.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "hydropower",
+        "technology",
+        "updates"
+      ]
+    },
+    {
+      "id": "feed:https://grist.org/feed/",
+      "title": "Grist",
+      "kind": "feed",
+      "feed_url": "https://grist.org/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Grist",
+      "cleaned_author": null,
+      "summary": "A thought-provoking platform dedicated to climate justice and practical solutions, Grist provides commentary on environmental issues and policies influencing sustainability.",
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "environment",
+        "sustainability",
+        "policy"
+      ]
+    },
+    {
+      "id": "feed:https://climateinstitute.ca/feed/",
+      "title": "Canadian Climate Institute - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://climateinstitute.ca/feed/",
+      "summary": "Various topics related to climate change and climate policy.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Canadian Climate Institute - Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "policy research"
+      ]
+    },
+    {
+      "id": "feed:https://glacierchange.blog/feed/",
+      "title": "From a Glacier's Perspective - AGU Blogosphere",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://glacierchange.blog/feed/",
+      "summary": "Glacier change in a world of climate change.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "From a Glacier's Perspective",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "Glaciers",
+        "Climate Change",
+        "Environmental Science"
+      ]
+    },
+    {
+      "id": "feed:https://www.southernfriedscience.com/feed/",
+      "title": "Southern Fried Science",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.southernfriedscience.com/feed/",
+      "summary": "Over 15 years of ocean science and conservation online.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Southern Fried Science",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ocean Conservation",
+        "Marine Science",
+        "Education"
+      ]
+    },
+    {
+      "id": "feed:https://www.realclimate.org/index.php/feed/langswitch_lang/en/",
+      "title": "RealClimate",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.realclimate.org/index.php/feed/langswitch_lang/en/",
+      "summary": "Climate science from climate scientists...",
+      "details": "Original Category: science -> earth-science -> atmospheric-science.opml",
+      "cleaned_title": "RealClimate",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Weather"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "research",
+        "scientific studies"
+      ]
+    },
+    {
+      "id": "feed:https://solarpunks.net/rss",
+      "title": "SOLARPUNKS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://solarpunks.net/rss",
+      "summary": "At once a vision of the future, a thoughtful provocation, and an achievable lifestyle.",
+      "details": "Original Category: science -> earth-science -> atmospheric-science.opml",
+      "cleaned_title": "SOLARPUNKS",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "sustainability",
+        "renewable energy",
+        "lifestyle"
+      ]
+    }
+  ],
+  "child_categories": []
+}

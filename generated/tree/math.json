@@ -1,0 +1,742 @@
+{
+  "id": "math",
+  "display_name": "Math",
+  "feeds": [
+    {
+      "id": "feed:export.arxiv.org:ArXiv Query: search_query=au: Bengio_Y&id_list=&start=0&max_results=100",
+      "cleaned_title": "ArXiv Query",
+      "summary": "A repository of electronic preprints in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, and statistics.",
+      "title": "ArXiv Query: search_query=au: Bengio_Y&id_list=&start=0&max_results=100",
+      "kind": "feed",
+      "feed_url": "http://export.arxiv.org/api/query?search_query=au:+Bengio_Y&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics",
+        "Math",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "preprints",
+        "research",
+        "academic publishing"
+      ]
+    },
+    {
+      "id": "feed:https://abakcus.com/feed/",
+      "title": "Abakcus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://abakcus.com/feed/",
+      "summary": "The best curation site for only math and science.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Abakcus",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "math",
+        "science",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:http://notawfulandboring.blogspot.com/feeds/posts/default",
+      "title": "Not awful and boring ideas for teaching statistics",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://notawfulandboring.blogspot.com/feeds/posts/default",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Not awful and boring ideas for teaching statistics",
+      "cleaned_author": null,
+      "summary": "This blog provides engaging and innovative ideas for teaching statistics, seeking to make the subject interesting and approachable for both teachers and students.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "teaching",
+        "statistics",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:https://www.resourceaholic.com/feeds/posts/default",
+      "title": "Resourceaholic",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.resourceaholic.com/feeds/posts/default",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Resourceaholic",
+      "cleaned_author": null,
+      "summary": "A dedicated resource for educators focusing on secondary school mathematics, providing innovative teaching ideas and practical resources to engage students effectively.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "teaching resources",
+        "education",
+        "secondary school"
+      ]
+    },
+    {
+      "id": "feed:https://rjlipton.com/feed/",
+      "title": "G\u00f6del's Lost Letter and P=NP",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rjlipton.com/feed/",
+      "summary": "a personal view of the theory of computation.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "G\u00f6del's Lost Letter and P=NP",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "computation",
+        "mathematics",
+        "theory"
+      ]
+    },
+    {
+      "id": "feed:https://johncarlosbaez.wordpress.com/feed/",
+      "title": "Azimuth",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://johncarlosbaez.wordpress.com/feed/",
+      "summary": "From math to physics to earth science and biology, computer science \u2026 centered around the theme of what scientists, engineers and programmers can do to help save a planet in crisis.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Azimuth",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "environment",
+        "engineering",
+        "mathematics",
+        "physics"
+      ]
+    },
+    {
+      "id": "feed:https://errorstatistics.com/feed/",
+      "title": "Error Statistics Philosophy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://errorstatistics.com/feed/",
+      "summary": "A scholarly blog delving into the philosophy of statistics and the nuances of epistemology, making complex topics accessible.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Error Statistics Philosophy",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "epistemology",
+        "philosophical discussions"
+      ]
+    },
+    {
+      "id": "feed:https://blog.georgeshakan.com/feed/",
+      "title": "George Shakan",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.georgeshakan.com/feed/",
+      "summary": "Math and Machine Learning Blog.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "George Shakan",
+      "cleaned_author": "George Shakan",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "data science",
+        "mathematics",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "feed:https://leancrew.com/all-this/feed/",
+      "title": "And now it\u2019s all this",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://leancrew.com/all-this/feed/",
+      "summary": "I just said what I said and it was wrong. Or was taken wrong.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "And now it\u2019s all this",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "communication",
+        "interpretation",
+        "thoughts"
+      ]
+    },
+    {
+      "id": "feed:https://blog.computationalcomplexity.org/feeds/posts/default",
+      "title": "Computational Complexity",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.computationalcomplexity.org/feeds/posts/default",
+      "summary": "Computational Complexity and other fun stuff in math and computer science.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Computational Complexity",
+      "cleaned_author": "Lance Fortnow and Bill Gasarch",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "computational complexity",
+        "math",
+        "computer science",
+        "algorithms"
+      ]
+    },
+    {
+      "id": "feed:https://incoherency.co.uk/blog/rss.xml",
+      "title": "James Stanley",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://incoherency.co.uk/blog/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "James Stanley",
+      "cleaned_author": "jes",
+      "summary": "A technical blog featuring insights into engineering challenges, software applications, and innovative tools related to geometry and design.",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "OpenCascade",
+        "AppImage",
+        "calculations"
+      ]
+    },
+    {
+      "id": "feed:https://mathspp.com/blog.rss",
+      "title": "Mathspp Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mathspp.com/blog.rss",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Mathspp Blog",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to the intersection of mathematics and programming, sharing articles and insights to keep enthusiasts informed.",
+      "tags": [
+        "Science",
+        "Math",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "programming",
+        "Python"
+      ]
+    },
+    {
+      "id": "feed:https://11011110.github.io/blog/feed.xml",
+      "title": "11011110",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://11011110.github.io/blog/feed.xml",
+      "summary": "Geometry, graphs, algorithms, and more.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "11011110",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "geometry",
+        "graphs",
+        "algorithms"
+      ]
+    },
+    {
+      "id": "feed:https://aperiodical.com/feed/",
+      "title": "The Aperiodical",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aperiodical.com/feed/",
+      "summary": "Occasional(ly) mathematical blogging.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "The Aperiodical",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "blogging",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://notstatschat.rbind.io/index.xml",
+      "title": "Biased and Inefficient",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://notstatschat.rbind.io/index.xml",
+      "summary": "I\u2019m a statistical researcher in Auckland.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Biased and Inefficient",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "research",
+        "data analysis"
+      ]
+    },
+    {
+      "id": "feed:https://gilkalai.wordpress.com/feed/",
+      "title": "Combinatorics and more",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gilkalai.wordpress.com/feed/",
+      "summary": "Gil Kalai's blog.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Combinatorics and more",
+      "cleaned_author": "Gil Kalai",
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "combinatorics",
+        "quantum computing",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://girlsangle.wordpress.com/feed/",
+      "title": "Girls' Angle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://girlsangle.wordpress.com/feed/",
+      "summary": "A Math Club for Girls.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Girls' Angle",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "math club",
+        "girls",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:https://igorpak.wordpress.com/feed/",
+      "title": "Igor Pak's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://igorpak.wordpress.com/feed/",
+      "summary": "Views on life and math.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Igor Pak's blog",
+      "cleaned_author": "Igor Pak",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "math",
+        "philosophy",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://jdh.hamkins.org/feed/",
+      "title": "Joel David Hamkins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jdh.hamkins.org/feed/",
+      "summary": "mathematics and philosophy of the infinite.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Joel David Hamkins",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "infinity",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://www.johndcook.com/blog/feed/",
+      "title": "John D. Cook Consulting",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.johndcook.com/blog/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "John D. Cook Consulting",
+      "cleaned_author": "John D. Cook",
+      "summary": "As a consultant in applied mathematics, John D. Cook shares insights on various mathematical applications in real-world scenarios.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "applied mathematics",
+        "consulting",
+        "real-world applications"
+      ]
+    },
+    {
+      "id": "feed:https://davidlowryduda.com/rss/recent.rss/",
+      "title": "MixedMath: Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidlowryduda.com/rss/recent.rss/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "MixedMath",
+      "cleaned_author": "David",
+      "summary": "MixedMath is David's personal blog that explores various mathematical subjects, including cryptography and computational methods.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "cryptography",
+        "programming",
+        "Python",
+        "CPP"
+      ]
+    },
+    {
+      "id": "feed:https://golem.ph.utexas.edu/category/atom10.xml",
+      "title": "The n-Category Caf\u00e9",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://golem.ph.utexas.edu/category/atom10.xml",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "The n-Category Caf\u00e9",
+      "cleaned_author": null,
+      "summary": "The n-Category Caf\u00e9 is a collaborative blog where mathematicians delve into topics that intertwine mathematics, physics, and philosophy.",
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "category theory",
+        "functors",
+        "AI",
+        "Borel spaces"
+      ]
+    },
+    {
+      "id": "feed:https://www.galoisrepresentations.com/feed/",
+      "title": "Persiflage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.galoisrepresentations.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Persiflage",
+      "cleaned_author": null,
+      "summary": "Persiflage covers a range of mathematical discussions, including advanced concepts like Galois representations.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "Galois representations",
+        "homology",
+        "mathematics talks"
+      ]
+    },
+    {
+      "id": "feed:https://cameroncounts.wordpress.com/feed/",
+      "title": "Peter Cameron's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cameroncounts.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Peter Cameron's Blog",
+      "cleaned_author": "Peter Cameron",
+      "summary": "Peter Cameron's Blog reflects his interests in combinatorial mathematics and various academic endeavors.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "conferences",
+        "lectures"
+      ]
+    },
+    {
+      "id": "feed:https://pbelmans.ncag.info/blog/feed/",
+      "title": "Pieter Belmans \u2014 blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pbelmans.ncag.info/blog/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Pieter Belmans",
+      "cleaned_author": null,
+      "summary": "Pieter Belmans' blog features insights into mathematical research and academic events in the field.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "algebraic geometry",
+        "workshops",
+        "Hilbert schemes"
+      ]
+    },
+    {
+      "id": "feed:https://quomodocumque.wordpress.com/feed/",
+      "title": "Quomodocumque",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://quomodocumque.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Quomodocumque",
+      "cleaned_author": null,
+      "summary": "Quomodocumque combines math with personal reflections, covering topics from family to local interests.",
+      "tags": [
+        "Living",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal blog",
+        "family",
+        "food",
+        "Orioles"
+      ]
+    },
+    {
+      "id": "feed:https://blog.tanyakhovanova.com/feed/",
+      "title": "Tanya Khovanova's Math Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.tanyakhovanova.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Tanya Khovanova's Math Blog",
+      "cleaned_author": "Tanya Khovanova",
+      "summary": "A blog dedicated to the exploration of mathematical concepts and their practical applications, intertwined with the author's personal experiences as a mathematician.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "applications",
+        "personal experiences"
+      ]
+    },
+    {
+      "id": "feed:https://terrytao.wordpress.com/feed/",
+      "title": "What's new",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://terrytao.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "What's new",
+      "cleaned_author": "Terence Tao",
+      "summary": "A blog by renowned mathematician Terence Tao providing updates on his research, expository papers, and discussions on various mathematical challenges.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "research",
+        "expository papers",
+        "open problems"
+      ]
+    },
+    {
+      "id": "feed:https://xenaproject.wordpress.com/feed/",
+      "title": "Xena",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xenaproject.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Xena",
+      "cleaned_author": null,
+      "summary": "A collaborative platform for mathematicians to learn and share insights while exploring the Lean proof assistant through practical engagement.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "Lean",
+        "learning",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://xianblog.wordpress.com/feed/",
+      "title": "Xi'an's Og",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xianblog.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Xi'an's Og",
+      "cleaned_author": null,
+      "summary": "A personal blog offering musings on various mathematical topics, occasional commentary on societal issues, and reflections on the year 2025.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal blog",
+        "mathematics",
+        "societal issues"
+      ]
+    },
+    {
+      "title": "3Blue1Brown",
+      "popularity_score": 2.1666666666666665,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "kind": "youtube",
+      "id": "youtube:channel:UCYO_jab_esuFRV4b17AJtAw",
+      "cleaned_title": "3Blue1Brown",
+      "cleaned_author": null,
+      "summary": "A mathematics educational channel that uses visual storytelling to explain complex concepts in an accessible way.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "math",
+        "education",
+        "visualization",
+        "cosmology"
+      ]
+    }
+  ],
+  "child_categories": []
+}

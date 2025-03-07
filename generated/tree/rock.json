@@ -1,0 +1,279 @@
+{
+  "id": "rock",
+  "display_name": "Rock",
+  "feeds": [
+    {
+      "id": "feed:https://josephbarulho.blogspot.com/feeds/posts/default",
+      "title": "COVA - ARGH!!!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://josephbarulho.blogspot.com/feeds/posts/default",
+      "summary": "Downloads Metal Extremo.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "COVA - ARGH!!!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal",
+        "downloads",
+        "extreme music"
+      ]
+    },
+    {
+      "id": "feed:https://greek-metal-area.blogspot.com/feeds/posts/default",
+      "title": "GREEK METAL",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://greek-metal-area.blogspot.com/feeds/posts/default",
+      "summary": "A hub for fans of Greek metal, sharing heavy sounds from various artists.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "GREEK METAL",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "Greek metal",
+        "heavy metal",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://arsoncafe.blogspot.com/feeds/posts/default",
+      "title": "Arson Cafe",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://arsoncafe.blogspot.com/feeds/posts/default",
+      "summary": "Comfort in dissonance.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "Arson Cafe",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal music",
+        "music reviews",
+        "albums"
+      ]
+    },
+    {
+      "id": "feed:http://thedeathchamber.blogspot.com/feeds/posts/default",
+      "title": "The Death Chamber",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thedeathchamber.blogspot.com/feeds/posts/default",
+      "summary": "A focused blog on the metal genre, featuring reviews and discussions of recent releases and artists within the heavy music scene.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "The Death Chamber",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal reviews",
+        "music blog",
+        "genre analysis"
+      ]
+    },
+    {
+      "id": "feed:https://jestressforgottenstories.com/feed/",
+      "title": "Jestress's Forgotten Books and Stories",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jestressforgottenstories.com/feed/",
+      "summary": "Nostalgic Children's Books.",
+      "details": "Original Category: arts -> books -> fiction-books -> childrens.opml",
+      "cleaned_title": "Jestress's Forgotten Books and Stories",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Chicago",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "children's literature",
+        "nostalgia",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:http://theotherside.timsbrannan.com/feeds/posts/default",
+      "title": "The Other Side blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://theotherside.timsbrannan.com/feeds/posts/default",
+      "summary": "The Other Side Blog is a game design blog from Timothy S. Brannan.",
+      "details": "Original Category: arts -> games -> tabletop-games.opml",
+      "cleaned_title": "The Other Side blog",
+      "cleaned_author": "Timothy S. Brannan",
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "game design",
+        "RPG",
+        "horror games"
+      ]
+    },
+    {
+      "id": "feed:http://kelvingreen.blogspot.com/feeds/posts/default",
+      "title": "Aiee! Run From Kelvin's Brainsplurge!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://kelvingreen.blogspot.com/feeds/posts/default",
+      "summary": "I'm Kelvin Green. I sometimes draw. I sometimes write. I'm trying to get better at both.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Aiee! Run From Kelvin's Brainsplurge!",
+      "cleaned_author": "Kelvin Green",
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "tabletop games",
+        "role-playing games",
+        "drawing",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:https://thealexandrian.net/feed",
+      "title": "The Alexandrian",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thealexandrian.net/feed",
+      "summary": "\u2026designed not only to be a site of news and updates, but also as a repository: Here you\u2019ll find my reviews, my politics, my stories, and my thoughts.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "The Alexandrian",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "role-playing games",
+        "game reviews",
+        "gaming philosophy"
+      ]
+    },
+    {
+      "id": "feed:http://dreamsinthelichhouse.blogspot.com/feeds/posts/default",
+      "title": "Dreams in the Lich House",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://dreamsinthelichhouse.blogspot.com/feeds/posts/default",
+      "summary": "A blog about Dungeons & Dragons, Call of Cthulhu, and fantasy and horror gaming.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Dreams in the Lich House",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "Dungeons & Dragons",
+        "horror gaming",
+        "fantasy RPG"
+      ]
+    },
+    {
+      "id": "feed:https://www.indiegamereadingclub.com/feed/",
+      "title": "The Indie Game Reading Club",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.indiegamereadingclub.com/feed/",
+      "summary": "Deep reads, play analysis, reviews and everything else about small press roleplaying today.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "The Indie Game Reading Club",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "indie games",
+        "roleplaying",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:https://slyflourish.com/index.xml",
+      "title": "Sly Flourish: Helping Dungeon Masters run great D&D games.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://slyflourish.com/index.xml",
+      "summary": "Weekly articles with tips, tricks, tools, and advice for the ffth edition of Dungeons & Dragons (D&D) written by the author of Return of the Lazy Dungeon Master.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Sly Flourish",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "D&D",
+        "tabletop",
+        "RPG",
+        "Dungeon Master",
+        "adventure"
+      ]
+    }
+  ],
+  "child_categories": []
+}

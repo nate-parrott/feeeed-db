@@ -1,0 +1,62 @@
+{
+  "id": "pop",
+  "display_name": "Pop",
+  "feeds": [
+    {
+      "id": "feed:feeds.feedburner.com:The FADER",
+      "cleaned_title": "The FADER",
+      "summary": "The FADER is an online music publication that covers emerging artists, music news, and cultural trends in the music industry.",
+      "title": "The FADER",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/TheFaderMagazine",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Celebs & Entertainment",
+        "Hip-Hop",
+        "Pop",
+        "_mainstream",
+        "_hip",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "music news",
+        "emerging artists",
+        "cultural trends",
+        "Oscars",
+        "Drake"
+      ]
+    },
+    {
+      "id": "feed:https://psychotronicpaul.blogspot.com/feeds/posts/default",
+      "title": "Way Too Damn Lazy To Write A Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://psychotronicpaul.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Way Too Damn Lazy To Write A Blog",
+      "cleaned_author": "Psychotronic Paul",
+      "summary": "A personal blog sharing insights and reflections on 20th-century pop culture, from cartoons to notable figures.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Pop"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture",
+        "cartoons",
+        "historical insights"
+      ]
+    }
+  ],
+  "child_categories": []
+}

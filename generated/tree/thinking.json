@@ -1,0 +1,325 @@
+{
+  "id": "thinking",
+  "display_name": "Thinking",
+  "feeds": [
+    {
+      "id": "feed:schoolofthought.substack.com:School of Thought",
+      "cleaned_title": "School of Thought",
+      "summary": "A blog focusing on evidence-based ideas and making them usable, emphasizing the importance of learning with visual tools.",
+      "title": "School of Thought",
+      "kind": "feed",
+      "feed_url": "https://schoolofthought.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Learning",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "evidence-based learning",
+        "visual learning",
+        "learning strategies"
+      ]
+    },
+    {
+      "id": "feed:http://www.instapaper.com/daily.rss",
+      "title": "Instapaper Daily",
+      "kind": "feed",
+      "feed_url": "http://www.instapaper.com/daily.rss",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Instapaper Daily",
+      "cleaned_author": null,
+      "summary": "This daily feed curates an eclectic mix of topical analyses and thought-provoking viewpoints, covering a range of societal and technological issues.",
+      "tags": [
+        "News",
+        "Politics",
+        "Science",
+        "Thinking",
+        "Humor",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "technology",
+        "opinion"
+      ]
+    },
+    {
+      "id": "feed:https://zettelkasten.de/feed.atom",
+      "title": "Zettelkasten knowledge and info management",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://zettelkasten.de/feed.atom",
+      "summary": "A Zettelkasten is a personal tool for thinking and writing that creates an interconnected web of thought. Its emphasis is on connection and not mere collection of ideas.",
+      "details": "Original Category: humanities.opml",
+      "cleaned_title": "Zettelkasten knowledge and info management",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Writing",
+        "Thinking",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "Zettelkasten",
+        "knowledge management",
+        "personal development"
+      ]
+    },
+    {
+      "id": "feed:https://nintil.com/rss.xml",
+      "title": "Nintil",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nintil.com/rss.xml",
+      "summary": "To estimate, compare, distinguish, discuss, and trace to its principal sources everything.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Nintil",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "analysis",
+        "comparison",
+        "science"
+      ]
+    },
+    {
+      "id": "feed:https://backreaction.blogspot.com/feeds/posts/default",
+      "title": "Sabine Hossenfelder: Backreaction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://backreaction.blogspot.com/feeds/posts/default",
+      "summary": "Science News, Physics, Science, Philosophy, Philosophy of Science.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Backreaction",
+      "cleaned_author": "Sabine Hossenfelder",
+      "tags": [
+        "Science",
+        "Physics",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "universe",
+        "physics",
+        "science",
+        "philosophy"
+      ]
+    },
+    {
+      "id": "feed:https://scottaaronson.blog/?feed=rss2",
+      "title": "Shtetl-Optimized",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scottaaronson.blog/?feed=rss2",
+      "summary": "The Blog of Scott Aaronson.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Shtetl-Optimized",
+      "cleaned_author": "Scott Aaronson",
+      "tags": [
+        "Science",
+        "AI",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "quantum computing",
+        "complexity theory",
+        "science"
+      ]
+    },
+    {
+      "id": "feed:https://slimemoldtimemold.com/feed/",
+      "title": "SLIME MOLD TIME MOLD",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://slimemoldtimemold.com/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "SLIME MOLD TIME MOLD",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to unconventional and fascinating explorations of science, particularly engaging with unusual topics and thought experiments.",
+      "tags": [
+        "Science",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "mad science",
+        "thought experiments",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:https://thinking-about-science.com/feed/",
+      "title": "Thinking about Science with David Hukins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thinking-about-science.com/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Thinking about Science with David Hukins",
+      "cleaned_author": "David Hukins",
+      "summary": "This blog aims to promote a deeper understanding of scientific concepts rather than just typical fact learning, focusing on the nature of science itself.",
+      "tags": [
+        "Science",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "science education",
+        "understanding science",
+        "concepts"
+      ]
+    },
+    {
+      "id": "feed:https://smithery.com/feed/",
+      "title": "Smithery \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://smithery.com/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Smithery",
+      "cleaned_author": null,
+      "summary": "A blog by a strategic design practice offering insights into innovation, design thinking, and the evolving landscape of creativity.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "innovation",
+        "creativity",
+        "strategy"
+      ]
+    },
+    {
+      "id": "feed:https://schwitzsplinters.blogspot.com/feeds/posts/default",
+      "title": "The Splintered Mind",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://schwitzsplinters.blogspot.com/feeds/posts/default",
+      "summary": "reflections in philosophy of psychology, broadly construed.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "The Splintered Mind",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Thinking",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "psychology",
+        "philosophy",
+        "reflection"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/longnow",
+      "title": "Long Now - Ideas",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/longnow",
+      "summary": "A living archive of long-term thinking.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Long Now - Ideas",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Future",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "long-term thinking",
+        "ideas",
+        "time"
+      ]
+    },
+    {
+      "id": "feed:https://www.overcomingbias.com/feed",
+      "title": "Overcoming Bias",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.overcomingbias.com/feed",
+      "summary": "This is a blog on why we believe and do what we do, why we pretend otherwise, how we might do better, and what our descendants might do, if they don't all die.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Overcoming Bias",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Thinking",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "cognitive bias",
+        "beliefs",
+        "behavior"
+      ]
+    },
+    {
+      "id": "feed:https://jessitron.com/feed/",
+      "title": "Jessitron \u2013 blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jessitron.com/feed/",
+      "summary": "symmathecist, in the medium of code.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Jessitron",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Software Design",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "software development",
+        "OKRs",
+        "team management"
+      ]
+    }
+  ],
+  "child_categories": []
+}

@@ -1,0 +1,108 @@
+{
+  "id": "russia",
+  "display_name": "Russia",
+  "feeds": [
+    {
+      "id": "feed:culturalsurvival.org:Cultural Survival",
+      "cleaned_title": "Cultural Survival",
+      "summary": "Cultural Survival is an organization dedicated to advocating for the rights of indigenous peoples and promoting their cultural heritage, offering articles, podcasts, and resources on indigenous cultures around the world.",
+      "title": "Cultural Survival",
+      "kind": "feed",
+      "feed_url": "https://www.culturalsurvival.org/rss.xml",
+      "details": "Original category: Travel -> Culture",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "India",
+        "Russia",
+        "Brazil"
+      ],
+      "language": "en",
+      "keywords": [
+        "indigenous rights",
+        "cultural heritage",
+        "advocacy"
+      ]
+    },
+    {
+      "id": "feed:http://lizoksbooks.blogspot.com/feeds/posts/default",
+      "title": "Lizok's Bookshelf",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://lizoksbooks.blogspot.com/feeds/posts/default",
+      "summary": "Reading ideas from Russian classic and contemporary fiction.",
+      "details": "Original Category: arts -> books -> fiction-books.opml",
+      "cleaned_title": "Lizok's Bookshelf",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Russia"
+      ],
+      "language": "en",
+      "keywords": [
+        "Russian literature",
+        "classic fiction",
+        "translations"
+      ]
+    },
+    {
+      "title": "Meduza.io",
+      "popularity_score": 4.573448773448773,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://meduza.io/feed/all",
+      "kind": "feed",
+      "id": "feed:https://meduza.io/feed/all",
+      "cleaned_title": "Meduza.io",
+      "cleaned_author": null,
+      "summary": "A platform delivering significant news and well-crafted articles about events in Russia and around the world, focusing on critical reporting.",
+      "tags": [
+        "News",
+        "World News",
+        "Journalism",
+        "Russia"
+      ],
+      "language": "ru",
+      "keywords": [
+        "news",
+        "Russia",
+        "current events",
+        "reporting"
+      ]
+    },
+    {
+      "title": "vc.ru: \u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0437\u0430 \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u044f",
+      "popularity_score": 2.6095238095238096,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://vc.ru/rss/all",
+      "kind": "feed",
+      "id": "feed:https://vc.ru/rss/all",
+      "cleaned_title": "vc.ru: \u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0437\u0430 \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u044f",
+      "cleaned_author": null,
+      "summary": "A Russian platform covering business and technology trends, presenting insights into growth models and industry shifts within the entrepreneurial landscape.",
+      "tags": [
+        "Tech",
+        "USA",
+        "Russia",
+        "Finance"
+      ],
+      "language": "ru",
+      "keywords": [
+        "business",
+        "technology",
+        "startups"
+      ]
+    }
+  ],
+  "child_categories": []
+}

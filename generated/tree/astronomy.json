@@ -1,0 +1,334 @@
+{
+  "id": "astronomy",
+  "display_name": "Astronomy",
+  "feeds": [
+    {
+      "id": "substack:top:astro_poets",
+      "title": "Astro Poets",
+      "cleaned_title": "Astro Poets",
+      "summary": "A unique blend of poetry and astrology, offering horoscopes and contemplative insights for the mystical and artistic.",
+      "kind": "feed",
+      "feed_url": "https://www.theastropoets.com/feed",
+      "details": "Original category: Substack top newsletters about literature",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Poetry",
+        "Astronomy"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "astrology",
+        "poetry"
+      ]
+    },
+    {
+      "id": "feed:astrology.com:Astrology.com Daily Horoscope",
+      "cleaned_title": "Astrology.com Daily Horoscope",
+      "summary": "A comprehensive website that offers daily horoscopes, astrology articles, and personalized readings.",
+      "title": "Astrology.com Daily Horoscope",
+      "kind": "feed",
+      "feed_url": "http://www.astrology.com/horoscopes/daily-extended.rss",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "horoscopes",
+        "astrology",
+        "daily readings",
+        "Aries",
+        "Taurus"
+      ]
+    },
+    {
+      "id": "youtube:The Leo King",
+      "cleaned_title": "The Leo King",
+      "summary": "A popular YouTube channel hosted by astrologer David Palmer, providing astrology forecasts, insights, and guidance for all zodiac signs.",
+      "title": "The Leo King",
+      "kind": "youtube",
+      "channel_id": "UCfKTTU7BQvBd3mpRoTk95kw",
+      "thumbnail_url": "https://yt3.ggpht.com/0zAz9l3VTs2swjrCuPZlINkFHyIMjQmU6CCrYa-NbYrldr4nt5NoJ2hvVBelC7BLg9UFHUi19w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "David Palmer",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "astrology forecasts",
+        "horoscopes",
+        "zodiac signs",
+        "tarot"
+      ]
+    },
+    {
+      "id": "reddit:astrology",
+      "cleaned_title": "astrology",
+      "summary": "A subreddit dedicated to astrology discussions, horoscopes, birth charts, and more.",
+      "title": "astrology",
+      "kind": "reddit",
+      "subreddit": "astrology",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "astrology discussions",
+        "horoscopes",
+        "birth charts",
+        "Saturn Return"
+      ]
+    },
+    {
+      "id": "youtube:the ASTROLOGY HUB Podcast",
+      "cleaned_title": "The Astrology Hub Podcast",
+      "summary": "A YouTube channel featuring interviews, tutorials, and insights from various astrologers, helping you deepen your understanding of astrology.",
+      "title": "the ASTROLOGY HUB Podcast",
+      "kind": "youtube",
+      "channel_id": "UCumOVjcBcn37LeYbZzaJD3w",
+      "thumbnail_url": "https://yt3.ggpht.com/iPeWzaPaPvDX3RcfIYuFX1WOERaSaSNG7CcihTfAz6J5g_pE52LvbchNZdPArRCEjlnIPm9Mqeg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "podcast",
+        "astrology insights",
+        "Jupiter in Gemini",
+        "horoscopes"
+      ]
+    },
+    {
+      "id": "youtube:Nadiya Shah",
+      "cleaned_title": "Nadiya Shah",
+      "summary": "A YouTube channel hosted by professional astrologer Nadiya Shah, offering astrology forecasts, tutorials, and spiritual insights.",
+      "title": "Nadiya Shah",
+      "kind": "youtube",
+      "channel_id": "UCKJ08TgPdcW4as_pfY4Dauw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQbKoUmBMQ0WxEDNVCqZ0UC2vGXzoUoEYcgkVUFKw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Nadiya Shah",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "astrology forecasts",
+        "spiritual insights",
+        "Venus retrograde",
+        "Pisces New Moon"
+      ]
+    },
+    {
+      "id": "reddit:AskAstrologers",
+      "cleaned_title": "AskAstrologers",
+      "summary": "A subreddit where you can ask questions, seek advice, and engage in discussions with knowledgeable astrologers.",
+      "title": "AskAstrologers",
+      "kind": "reddit",
+      "subreddit": "AskAstrologers",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "astrology questions",
+        "birth charts",
+        "astrological transits",
+        "Venus retrograde"
+      ]
+    },
+    {
+      "id": "feed:astrostyle.com:Astrostyle: Astrology and Daily, Weekly, Monthly Horoscopes by The AstroTwins",
+      "cleaned_title": "Astrostyle",
+      "summary": "A website founded by astrologers Tali and Ophira Edut, providing horoscopes, compatibility guides, and astrological insights.",
+      "title": "Astrostyle: Astrology and Daily, Weekly, Monthly Horoscopes by The AstroTwins",
+      "kind": "feed",
+      "feed_url": "http://astrostyle.com/feed/",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "The AstroTwins",
+      "tags": [
+        "Living",
+        "Astronomy",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "horoscopes",
+        "astrology",
+        "compatibility",
+        "career"
+      ]
+    },
+    {
+      "id": "feed:http://astroblogger.blogspot.com/feeds/posts/default",
+      "title": "Astroblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://astroblogger.blogspot.com/feeds/posts/default",
+      "summary": "Obscured by Clouds. The rough and ready blog of a cloud benighted biologist and amateur astronomer.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Astroblog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Astronomy",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "space",
+        "celestial events"
+      ]
+    },
+    {
+      "id": "feed:https://www.duluthnewstribune.com/lifestyle/astro-bob.rss",
+      "title": "Astro Bob | Duluth News Tribune",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.duluthnewstribune.com/lifestyle/astro-bob.rss",
+      "summary": "Bob King's 'Astro Bob' is astronomy for everyone. Mars, Milky Way, Northern Lights, constellations, star gazing and much more.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Astro Bob",
+      "cleaned_author": "Bob King",
+      "tags": [
+        "Science",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "stars",
+        "aurora",
+        "constellations"
+      ]
+    },
+    {
+      "id": "feed:https://www.drewexmachina.com/feed/",
+      "title": "Drew Ex Machina | Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.drewexmachina.com/feed/",
+      "summary": "My website is dedicated to the presentation and discussion of my past and current professional work. My areas of interest include remote sensing, spaceflight, astronomy and astrobiology.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Drew Ex Machina",
+      "cleaned_author": "Andrew LePage",
+      "tags": [
+        "Science",
+        "Astronomy",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space research",
+        "NASA",
+        "astronomy insights"
+      ]
+    },
+    {
+      "id": "feed:https://telescoper.blog/feed/",
+      "title": "In the Dark",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://telescoper.blog/feed/",
+      "summary": "A blog about the Universe, and all that surrounds it.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "In the Dark",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "universe",
+        "astrobiology",
+        "scientific reflections"
+      ]
+    },
+    {
+      "id": "feed:quantamagazine.org:Quanta Magazine",
+      "cleaned_title": "Quanta Magazine",
+      "summary": "A source that illuminates complex scientific concepts, making them accessible to a broader audience. Its intriguing articles cover a range of topics from theoretical physics to biology.",
+      "title": "Quanta Magazine",
+      "kind": "feed",
+      "feed_url": "http://www.quantamagazine.org/feed/",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular",
+        "ooh_directory"
+      ],
+      "popularity_score": 6.348774433451852,
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "mathematics",
+        "research",
+        "coral reefs",
+        "black holes"
+      ]
+    }
+  ],
+  "child_categories": []
+}

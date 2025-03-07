@@ -1,0 +1,160 @@
+{
+  "id": "china",
+  "display_name": "China",
+  "feeds": [
+    {
+      "id": "feed:coolcarsinchina.com:CoolCarsInChina.com",
+      "cleaned_title": "CoolCarsInChina",
+      "summary": "A blog showcasing unique and interesting cars found in China, featuring a range of vehicles from classic to contemporary.",
+      "title": "CoolCarsInChina.com",
+      "kind": "feed",
+      "feed_url": "https://www.coolcarsinchina.com/feed/",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cars",
+        "China"
+      ],
+      "language": "en",
+      "keywords": [
+        "Chinese cars",
+        "Dodge Challenger",
+        "Nissan Patrol",
+        "Cadillac DeVille"
+      ]
+    },
+    {
+      "title": "\u738b\u5fd7\u5b89",
+      "popularity_score": 3.066666666666667,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCBKDRq35-L8xev4O7ZqBeLg",
+      "kind": "youtube",
+      "id": "youtube:channel:UCBKDRq35-L8xev4O7ZqBeLg",
+      "cleaned_title": "\u738b\u5fd7\u5b89",
+      "cleaned_author": null,
+      "summary": "A blog discussing political events and social commentary focused on China and its international relations.",
+      "tags": [
+        "Politics",
+        "News",
+        "China",
+        "USA",
+        "Diplomacy"
+      ],
+      "language": "zh",
+      "keywords": [
+        "politics",
+        "China",
+        "international relations"
+      ]
+    },
+    {
+      "title": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7 \u2013 ruanyifeng.com",
+      "popularity_score": 2.5194444444444444,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+      "kind": "feed",
+      "id": "feed:https://www.ruanyifeng.com/blog/atom.xml",
+      "cleaned_title": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+      "cleaned_author": "Ruan YiFeng",
+      "summary": "Ruan YiFeng's blog discusses technology and internet trends, providing insights and critiques centered around the tech community's developments.",
+      "tags": [
+        "Tech",
+        "China",
+        "Internet"
+      ],
+      "language": "zh",
+      "keywords": [
+        "technology",
+        "internet culture",
+        "innovation"
+      ]
+    },
+    {
+      "title": "\u6781\u5ba2\u516c\u56ed \u2013 geekpark.net",
+      "popularity_score": 2.111111111111111,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.geekpark.net/",
+      "kind": "feed",
+      "id": "feed:http://feeds.geekpark.net/",
+      "cleaned_title": "\u6781\u5ba2\u516c\u56ed",
+      "cleaned_author": null,
+      "summary": "A technology-centric platform that discusses the latest in AI, gadgets, and innovations from China. Featuring insights on major tech figures and their products.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Gadgets",
+        "Internet",
+        "China"
+      ],
+      "language": "zh",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Gadget News",
+        "Technology Innovation"
+      ]
+    },
+    {
+      "title": "\u5c0f\u5c9b\u5927\u6d6a\u5439-\u975e\u6b63\u7ecf\u653f\u7ecf\u9891\u9053",
+      "popularity_score": 2.0984126984126985,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCYPT3wl0MgbOz63ho166KOw",
+      "kind": "youtube",
+      "id": "youtube:channel:UCYPT3wl0MgbOz63ho166KOw",
+      "cleaned_title": "\u5c0f\u5c9b\u5927\u6d6a\u5439",
+      "cleaned_author": null,
+      "summary": "A channel that explores controversial political and social issues in China, often with a humorous or satirical approach.",
+      "tags": [
+        "Politics",
+        "China",
+        "_intellectual",
+        "_alternative"
+      ],
+      "language": "zh",
+      "keywords": [
+        "China Politics",
+        "Social Issues",
+        "Satire",
+        "Controversial Discussions"
+      ]
+    },
+    {
+      "title": "China - South China Morning Post \u2013 scmp.com",
+      "popularity_score": 2.0,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.scmp.com/rss/china.xml",
+      "kind": "feed",
+      "id": "feed:http://www.scmp.com/rss/china.xml",
+      "cleaned_title": "China - South China Morning Post",
+      "cleaned_author": null,
+      "summary": "A reliable source for the latest updates on Chinese news and breaking stories affecting the region and beyond.",
+      "tags": [
+        "News",
+        "World News",
+        "China"
+      ],
+      "language": "en",
+      "keywords": [
+        "Chinese News",
+        "Current Affairs",
+        "Breaking News"
+      ]
+    }
+  ],
+  "child_categories": []
+}

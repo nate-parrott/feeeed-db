@@ -1,0 +1,637 @@
+{
+  "id": "humor",
+  "display_name": "Humor",
+  "feeds": [
+    {
+      "id": "substack:top:open_windows-_ann_telnaes",
+      "title": "Open Windows- Ann Telnaes",
+      "cleaned_title": "Open Windows",
+      "summary": "A visual storytelling project exploring current events through satirical and artistic reflections, led by a prominent illustrator.",
+      "kind": "feed",
+      "feed_url": "https://anntelnaes.substack.com/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Humor"
+      ],
+      "cleaned_author": "Ann Telnaes",
+      "language": "en",
+      "keywords": [
+        "political cartoons",
+        "illustration",
+        "satire",
+        "current events"
+      ]
+    },
+    {
+      "id": "substack:top:garrison_keillor_and_friends",
+      "title": "Garrison Keillor and Friends",
+      "cleaned_title": "Garrison Keillor and Friends",
+      "summary": "Garrison Keillor's newsletter combines humor, nostalgia, and reflections on American life. Readers can look forward to whimsical anecdotes and insights that remind us of simpler times, delivered with Keillor's characteristic charm.",
+      "kind": "feed",
+      "feed_url": "https://garrisonkeillor.substack.com/feed",
+      "details": "Original category: Substack top newsletters about humor",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Humor"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "humor",
+        "anecdotes",
+        "American life"
+      ]
+    },
+    {
+      "id": "substack:top:cartoons_hate_her",
+      "title": "Cartoons Hate Her",
+      "cleaned_title": "Cartoons Hate Her",
+      "summary": "This Substack navigates the complexities of social dynamics and online culture through the unique perspective of a self-described 'normie mom.' Combining humor with thoughtful critiques, this feed explores the absurdities of modern life.",
+      "kind": "feed",
+      "feed_url": "https://www.cartoonshateher.com/feed",
+      "details": "Original category: Substack top newsletters about humor",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Humor",
+        "Social"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "social dynamics",
+        "online culture",
+        "humor"
+      ]
+    },
+    {
+      "id": "substack:top:the_grudge_report_-_bess_kalb",
+      "title": "The Grudge Report - Bess Kalb",
+      "cleaned_title": "The Grudge Report",
+      "summary": "Bess Kalb\u2019s newsletter is a candid exploration of life and society, blending humor with personal insights. Expect a mix of wit and wisdom as she scribbles into the cosmic void, connecting with readers through shared experiences.",
+      "kind": "feed",
+      "feed_url": "https://besskalb.substack.com/feed",
+      "details": "Original category: Substack top newsletters about humor",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Humor"
+      ],
+      "cleaned_author": "Bess Kalb",
+      "language": "en",
+      "keywords": [
+        "humor",
+        "society",
+        "personal insights"
+      ]
+    },
+    {
+      "id": "substack:top:i_might_be_wrong_-_jeff_maurer",
+      "title": "I Might Be Wrong - Jeff Maurer",
+      "cleaned_title": "I Might Be Wrong",
+      "summary": "Jeff Maurer's newsletter tackles politics and comedy with equal doses of sarcasm and wit. Through humor-infused commentary, he's unafraid to take on controversial topics while also providing a dose of laughter.",
+      "kind": "feed",
+      "feed_url": "https://www.imightbewrong.org/feed",
+      "details": "Original category: Substack top newsletters about humor",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "Humor"
+      ],
+      "cleaned_author": "Jeff Maurer",
+      "language": "en",
+      "keywords": [
+        "comedy",
+        "politics",
+        "satire"
+      ]
+    },
+    {
+      "id": "substack:top:leo_skepi",
+      "title": "Leo Skepi",
+      "cleaned_title": "Leo Skepi",
+      "summary": "Leo Skepi\u2019s newsletter embraces a no-holds-barred approach to humor and commentary, focusing on untamed topics often shied away from. It's a space for raw thoughts and unfiltered observations.",
+      "kind": "feed",
+      "feed_url": "https://leoskepi.substack.com/feed",
+      "details": "Original category: Substack top newsletters about humor",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Humor"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "humor",
+        "uncensored",
+        "observations"
+      ]
+    },
+    {
+      "id": "youtube:TheStraightPipes",
+      "cleaned_title": "TheStraightPipes",
+      "summary": "TheStraightPipes is a YouTube channel that offers car reviews, comparisons, and automotive news with a humorous twist.",
+      "title": "TheStraightPipes",
+      "kind": "youtube",
+      "channel_id": "UC86SBFIAgnYL3ll2ZDgmsuA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKYydX_oMFdqOgi9AuBSgajl3OZiYuRXVTLmHVW8qw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "car reviews",
+        "YouTube",
+        "automotive news"
+      ]
+    },
+    {
+      "id": "feed:sexyloops.com:Ronan's Report",
+      "cleaned_title": "Ronan's Report",
+      "summary": "Ronan's Report shares personal stories and insights from the front lines of fly fishing in New Zealand, capturing the adventure of the sport.",
+      "title": "Ronan's Report",
+      "kind": "feed",
+      "feed_url": "http://www.sexyloops.com/blog/feed/",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Humor",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "New Zealand",
+        "fly fishing",
+        "fishing stories"
+      ]
+    },
+    {
+      "id": "youtube:TacticalBassin",
+      "cleaned_title": "TacticalBassin",
+      "summary": "A YouTube channel dedicated to providing tactical tips, techniques, and gear reviews for bass fishing.",
+      "title": "TacticalBassin",
+      "kind": "youtube",
+      "channel_id": "UCv8yAO6UKIzMEWCLzKnIbuA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaRhYv7uETxGyRucRxcEW06-FYYWBeYwpeuzj7yXrw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "bass fishing",
+        "fishing techniques",
+        "gear reviews"
+      ]
+    },
+    {
+      "id": "bluesky:did:plc:a4pqq234yw7fqbddawjo7y35",
+      "cleaned_title": "The Onion",
+      "summary": "Popular satirical news site.",
+      "title": "The Onion",
+      "kind": "bluesky",
+      "bluesky_did": "did:plc:a4pqq234yw7fqbddawjo7y35",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Humor",
+        "Journalism",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "satire",
+        "news parody",
+        "comedy"
+      ]
+    },
+    {
+      "id": "feed:http://www.instapaper.com/daily.rss",
+      "title": "Instapaper Daily",
+      "kind": "feed",
+      "feed_url": "http://www.instapaper.com/daily.rss",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Instapaper Daily",
+      "cleaned_author": null,
+      "summary": "This daily feed curates an eclectic mix of topical analyses and thought-provoking viewpoints, covering a range of societal and technological issues.",
+      "tags": [
+        "News",
+        "Politics",
+        "Science",
+        "Thinking",
+        "Humor",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "technology",
+        "opinion"
+      ]
+    },
+    {
+      "id": "feed:https://1000awesomethings.com/feed/",
+      "title": "1000 Awesome Things",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://1000awesomethings.com/feed/",
+      "summary": "A time-ticking countdown of 1000 awesome things by Neil Pasricha.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "1000 Awesome Things",
+      "cleaned_author": "Neil Pasricha",
+      "tags": [
+        "Living",
+        "Humor",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "happiness",
+        "gratitude",
+        "countdown"
+      ]
+    },
+    {
+      "id": "feed:https://www.joeydevilla.com/feed/",
+      "title": "The Adventures of Accordion Guy in the 21st Century",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.joeydevilla.com/feed/",
+      "summary": "Joey deVilla's Personal Blog.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "The Adventures of Accordion Guy in the 21st Century",
+      "cleaned_author": "Joey deVilla",
+      "tags": [
+        "Living",
+        "Humor",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal blog",
+        "life adventures"
+      ]
+    },
+    {
+      "id": "feed:https://www.borninspace.com/feed/",
+      "title": "Born In Space",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.borninspace.com/feed/",
+      "summary": "The World's First Internet Spaceship.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Born In Space",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Humor",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "quirky",
+        "strange",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.neatorama.com/feed/",
+      "title": "Neatorama",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.neatorama.com/feed/",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Neatorama",
+      "cleaned_author": null,
+      "summary": "A treasure trove of bizarre and fascinating facts, Neatorama brings together the neatest stories and curiosities from around the web, perfect for those who love learning and discovery.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "curiosities",
+        "facts",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:http://itsamadmadblog2.blogspot.com/feeds/posts/default",
+      "title": "itsamadmadblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://itsamadmadblog2.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "itsamadmadblog",
+      "cleaned_author": null,
+      "summary": "A blog that critiques and reviews films, offering personal insights and reflections on various cinematic experiences, often with a humorous twist.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "current cinema",
+        "humorous commentary"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/mcsweeneys",
+      "title": "McSweeney\u2019s Internet Tendency",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/mcsweeneys",
+      "details": "Original Category: arts -> books.opml",
+      "cleaned_title": "McSweeney\u2019s Internet Tendency",
+      "cleaned_author": null,
+      "summary": "A humorous and satirical online publication that offers a mix of essays, fiction, and cultural commentary. Known for its absurd takes on contemporary issues and literary style.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "satire",
+        "essays",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:https://multoghost.wordpress.com/feed/",
+      "title": "Multo (Ghost)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://multoghost.wordpress.com/feed/",
+      "summary": "Ghosts of story, myth, or anywhere else....",
+      "details": "Original Category: arts -> books -> fiction-books -> horror.opml",
+      "cleaned_title": "Multo",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "ghost stories",
+        "myth",
+        "legends"
+      ]
+    },
+    {
+      "id": "feed:https://mattgemmell.com/atom.xml",
+      "title": "Matt Gemmell",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mattgemmell.com/atom.xml",
+      "summary": "Thriller, Horror, and Suspense author.",
+      "details": "Original Category: arts -> books -> fiction-books -> horror.opml",
+      "cleaned_title": "Matt Gemmell",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "thriller",
+        "horror",
+        "suspense"
+      ]
+    },
+    {
+      "id": "feed:http://toomuchhorrorfiction.blogspot.com/feeds/posts/default",
+      "title": "Too Much Horror Fiction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://toomuchhorrorfiction.blogspot.com/feeds/posts/default",
+      "summary": "Collects and reviews vintage horror literature\u2014mostly from the 1960s to the early 1990s.",
+      "details": "Original Category: arts -> books -> fiction-books -> horror.opml",
+      "cleaned_title": "Too Much Horror Fiction",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage horror",
+        "literature",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:https://kevquirk.com/feed",
+      "title": "Kev Quirk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kevquirk.com/feed",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Kev Quirk",
+      "cleaned_author": null,
+      "summary": "A candid blog with personal commentary on technology, daily life, and various observations. It showcases a mix of experiences and thoughts from the author's daily activities.",
+      "tags": [
+        "Tech",
+        "Writing",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal commentary",
+        "daily life",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.cakewrecks.com/home?format=rss",
+      "title": "Cake Wrecks",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cakewrecks.com/home?format=rss",
+      "summary": "Jen started this blog in May of 2008 one night when she was bored. She honestly never thought anyone would read it.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Cake Wrecks",
+      "cleaned_author": "Jen",
+      "tags": [
+        "Living",
+        "DIY",
+        "Cooking",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "cakes",
+        "baking",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:https://www.magicaltrash.com/rss",
+      "title": "Magical Trash",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.magicaltrash.com/rss",
+      "summary": "Documenting the trash cans of Disney theme parks and resorts for 13 years.",
+      "details": "Original Category: recreation -> travel -> disney-parks.opml",
+      "cleaned_title": "Magical Trash",
+      "cleaned_author": "Steve Tanner",
+      "tags": [
+        "Living",
+        "Humor",
+        "Social",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "Disney",
+        "trash",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:https://www.loweringthebar.net/feed",
+      "title": "Lowering the Bar",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.loweringthebar.net/feed",
+      "summary": "Legal Humor. Seriously.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Lowering the Bar",
+      "cleaned_author": "Kevin Underhill",
+      "tags": [
+        "Living",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "legal humor",
+        "absurd cases",
+        "court humor"
+      ]
+    },
+    {
+      "title": "r/AskReddit",
+      "popularity_score": 5.777822284401229,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "AskReddit",
+      "kind": "reddit",
+      "id": "reddit:AskReddit",
+      "cleaned_title": "r/AskReddit",
+      "cleaned_author": null,
+      "summary": "An interactive community where users can pose thought-provoking questions and engage in discussions that explore various aspects of life and society.",
+      "tags": [
+        "Living",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "questions",
+        "discussions",
+        "community insights"
+      ]
+    },
+    {
+      "title": "xkcd",
+      "popularity_score": 3.413888888888889,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://xkcd.com/rss.xml",
+      "kind": "feed",
+      "id": "feed:http://xkcd.com/rss.xml",
+      "cleaned_title": "xkcd",
+      "cleaned_author": null,
+      "summary": "A webcomic series combining themes of math, science, and romance, known for its witty take on complexities through simple drawings.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "webcomic",
+        "math humor",
+        "science"
+      ]
+    }
+  ],
+  "child_categories": []
+}

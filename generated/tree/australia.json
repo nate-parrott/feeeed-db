@@ -1,0 +1,225 @@
+{
+  "id": "australia",
+  "display_name": "Australia",
+  "feeds": [
+    {
+      "id": "youtube:ABC News (Australia)",
+      "cleaned_title": "ABC News (Australia)",
+      "summary": "The official YouTube channel of the Australian Broadcasting Corporation (ABC) News, delivering the latest news and analysis from across Australia.",
+      "title": "ABC News (Australia)",
+      "kind": "youtube",
+      "channel_id": "UCVgO39Bk5sMo66-6o6Spn6Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM7NZfeKN0CUY5GmqT4fqzLd0CDSHB7SoIt9-6pPQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Australia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Australia",
+        "news",
+        "current affairs"
+      ]
+    },
+    {
+      "id": "reddit:australia",
+      "cleaned_title": "australia",
+      "summary": "A subreddit for discussions and news about Australia, covering a wide range of topics including politics, culture, and local events.",
+      "title": "australia",
+      "kind": "reddit",
+      "subreddit": "australia",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "Australia",
+        "discussion",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:news.google.com:\"guardian australia\" - Google News",
+      "cleaned_title": "guardian australia",
+      "summary": "The Australian edition of The Guardian, offering independent journalism and analysis on local and global issues.",
+      "title": "\"guardian australia\" - Google News",
+      "kind": "feed",
+      "feed_url": "http://news.google.com/news?hl=en&gl=us&q=guardian%20australia&um=1&ie=UTF-8&output=rss",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Australia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "australia",
+        "current affairs",
+        "analysis"
+      ]
+    },
+    {
+      "id": "youtube:7NEWS Australia",
+      "cleaned_title": "7NEWS Australia",
+      "summary": "The official YouTube channel of 7NEWS Australia, providing breaking news, current affairs, and investigative reports from across the country.",
+      "title": "7NEWS Australia",
+      "kind": "youtube",
+      "channel_id": "UC5T7D-Dh1eDGtsAFCuwv_Sw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM7UYtCFHjUVhxwjJfEhSh4aCkqIGPRT0TaZ6tV8w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "current affairs",
+        "investigative reports"
+      ]
+    },
+    {
+      "id": "youtube:Sky News Australia",
+      "cleaned_title": "Sky News Australia",
+      "summary": "Australia's 24-hour news channel delivering live news coverage, analysis, and commentary on local and international events.",
+      "title": "Sky News Australia",
+      "kind": "youtube",
+      "channel_id": "UCO0akufu9MOzyz3nvGIXAAw",
+      "thumbnail_url": "https://yt3.ggpht.com/Q-ry-JNiIiQtu7V8C3PdBFyOI-i4_bR_v8jpnkvKSAlgrLaZa40Zu1TQyfGVCGm9-49JxlOjng=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "live news",
+        "analysis",
+        "commentary"
+      ]
+    },
+    {
+      "id": "reddit:sydney",
+      "cleaned_title": "sydney",
+      "summary": "A subreddit dedicated to the city of Sydney, where locals and visitors can discuss news, events, and everything related to the city.",
+      "title": "sydney",
+      "kind": "reddit",
+      "subreddit": "sydney",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "Sydney",
+        "discussion",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:https://johnquiggin.com/feed/",
+      "title": "John Quiggin",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://johnquiggin.com/feed/",
+      "summary": "Commentary on Australian and world events from a socialist and democratic viewpoint.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "John Quiggin",
+      "cleaned_author": "John Quiggin",
+      "tags": [
+        "Politics",
+        "Australia",
+        "_left"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "Australia",
+        "economic commentary",
+        "socialism"
+      ]
+    },
+    {
+      "id": "feed:https://johnmenadue.com/feed/",
+      "title": "Pearls and Irritations \u2013 Public policy journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://johnmenadue.com/feed/",
+      "summary": "Read progressive, liberal commentary on issues that impact Australians. Our daily articles focus on politics, public policy and world affairs.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Pearls and Irritations",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "public policy",
+        "Australian politics",
+        "world affairs"
+      ]
+    },
+    {
+      "title": "r/de",
+      "popularity_score": 2.476190476190476,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "de",
+      "kind": "reddit",
+      "id": "reddit:de",
+      "cleaned_title": "r/de",
+      "cleaned_author": null,
+      "summary": "A community hub for German speakers discussing a range of topics relevant to Germany, Austria, and Switzerland, offering insights and news from local regions.",
+      "tags": [
+        "Local",
+        "Germany",
+        "Australia"
+      ],
+      "language": "de",
+      "keywords": [
+        "community",
+        "local news",
+        "Germany"
+      ]
+    }
+  ],
+  "child_categories": []
+}

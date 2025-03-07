@@ -1,0 +1,109 @@
+{
+  "id": "france",
+  "display_name": "France",
+  "feeds": [
+    {
+      "id": "substack:top:paris_by_mouth__-_meg_zimbeck",
+      "title": "PARIS BY MOUTH  - Meg Zimbeck",
+      "cleaned_title": "PARIS BY MOUTH",
+      "summary": "PARIS BY MOUTH serves as an essential guide to dining in Paris, featuring the latest recommendations and insider tips about where to eat.",
+      "kind": "feed",
+      "feed_url": "https://parisbymouth.substack.com/feed",
+      "details": "Original category: Substack top newsletters about travel",
+      "sources": [
+        "substack_top",
+        "original_feed_db"
+      ],
+      "tags": [
+        "Living",
+        "Cities",
+        "Europe",
+        "France"
+      ],
+      "cleaned_author": "Meg Zimbeck",
+      "language": "en",
+      "keywords": [
+        "Paris",
+        "restaurants",
+        "foodie guide",
+        "insider tips",
+        "dining"
+      ]
+    },
+    {
+      "id": "reddit:france",
+      "cleaned_title": "france",
+      "summary": "Join the r/france subreddit community to engage in discussions about France, its culture, history, and current events. Connect with fellow enthusiasts and gain insights into various aspects of French life.",
+      "title": "france",
+      "kind": "reddit",
+      "subreddit": "france",
+      "details": "Original category: Local -> France",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "France"
+      ],
+      "language": "fr",
+      "keywords": [
+        "French culture",
+        "discussion",
+        "current events"
+      ]
+    },
+    {
+      "id": "youtube:FRANCE 24 English",
+      "cleaned_title": "FRANCE 24 English",
+      "summary": "France 24 English is the English-language YouTube channel of France 24. Watch news, interviews, and documentaries about France and global affairs from a French perspective.",
+      "title": "FRANCE 24 English",
+      "kind": "youtube",
+      "channel_id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNNrxL3Bam46oeoN-tJlZBWkunod2b7AUNRasWbrA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Global",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News",
+        "France"
+      ],
+      "language": "en",
+      "keywords": [
+        "France",
+        "global affairs",
+        "news",
+        "interviews",
+        "documentaries"
+      ]
+    },
+    {
+      "id": "feed:farm-connexion.com:FARM Connexion",
+      "cleaned_title": "FARM Connexion",
+      "summary": "The Connexion is an English-language news website in France. Stay informed about French news, politics, culture, and lifestyle with articles tailored for English-speaking residents and visitors.",
+      "title": "FARM Connexion",
+      "kind": "feed",
+      "feed_url": "http://www.farm-connexion.com/feed/",
+      "details": "Original category: Local -> France",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "France"
+      ],
+      "language": "fr",
+      "keywords": [
+        "agriculture",
+        "machinery",
+        "trends",
+        "France"
+      ]
+    }
+  ],
+  "child_categories": []
+}

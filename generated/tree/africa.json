@@ -1,0 +1,217 @@
+{
+  "id": "africa",
+  "display_name": "Africa",
+  "feeds": [
+    {
+      "id": "feed:africanews.com:Africanews RSS",
+      "cleaned_title": "Africanews RSS",
+      "summary": "Africanews is a pan-African news outlet that covers news and current affairs from across the African continent.",
+      "title": "Africanews RSS",
+      "kind": "feed",
+      "feed_url": "http://www.africanews.com/feed/rss?themes=news",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "pan-African news",
+        "current affairs",
+        "international news"
+      ]
+    },
+    {
+      "id": "youtube:DW The 77 Percent",
+      "cleaned_title": "DW The 77 Percent",
+      "summary": "DW Africa is the YouTube channel of Deutsche Welle, a German international broadcaster. They provide news and documentaries about Africa, covering a wide range of topics.",
+      "title": "DW The 77 Percent",
+      "kind": "youtube",
+      "channel_id": "UCNtUXiCqH6nUTFeTW4qLpqw",
+      "thumbnail_url": "https://yt3.ggpht.com/Da5g860nwckFAT04f4O8oSWNv1fP71d5Iga5Qfc5zYPcFfFdRVcPgRcWzCw77-ql91gvoT6v7Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "youth issues",
+        "Africa",
+        "social challenges"
+      ]
+    },
+    {
+      "id": "feed:allafrica.com:AllAfrica News: Latest",
+      "cleaned_title": "AllAfrica News: Latest",
+      "summary": "AllAfrica is a news website that aggregates news and information from various sources across Africa. It covers a wide range of topics, including politics, business, and sports.",
+      "title": "AllAfrica News: Latest",
+      "kind": "feed",
+      "feed_url": "http://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "aggregated news",
+        "politics",
+        "business",
+        "sports"
+      ]
+    },
+    {
+      "id": "youtube:CGTN Africa",
+      "cleaned_title": "CGTN Africa",
+      "summary": "CGTN Africa is the YouTube channel of China Global Television Network. They provide news and features about Africa, with a focus on China-Africa relations and development.",
+      "title": "CGTN Africa",
+      "kind": "youtube",
+      "channel_id": "UCMeYPU1YfXjxsUa6QXWsfjg",
+      "thumbnail_url": "https://yt3.ggpht.com/HKqZu2XDiAK1EMUwmwgpuDynb63jK3e0B6SC1_tmLXzCvyMmgVSY7OCAh6iDnAHIlnqADy10Jvw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "China-Africa relations",
+        "development news",
+        "Africa"
+      ]
+    },
+    {
+      "id": "feed:un.org:Africa Renewal - African News and Analysis from the United Nations",
+      "cleaned_title": "Africa Renewal - African News and Analysis from the United Nations",
+      "summary": "Africa Renewal is a publication of the United Nations that provides news, analysis, and features on various topics related to Africa's development, including health, education, and gender equality.",
+      "title": "Africa Renewal - African News and Analysis from the United Nations",
+      "kind": "feed",
+      "feed_url": "http://www.un.org/africarenewal/rss.xml",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "United Nations",
+        "Africa development",
+        "gender equality",
+        "health"
+      ]
+    },
+    {
+      "id": "feed:africa.com:Africa.com",
+      "cleaned_title": "Africa.com",
+      "summary": "Africa.com is a website that provides news, business insights, and travel information about Africa. It covers various countries and regions across the continent.",
+      "title": "Africa.com",
+      "kind": "feed",
+      "feed_url": "http://www.africa.com/feed/",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:BBC News Africa",
+      "cleaned_title": "BBC News Africa",
+      "summary": "BBC Africa is the YouTube channel of BBC News Africa. They provide news, documentaries, and features about Africa, covering a wide range of topics and countries.",
+      "title": "BBC News Africa",
+      "kind": "youtube",
+      "channel_id": "UCvhPRRiwI1_p4OBsY0yz6mg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPd8XX0Tfxu6dYPlb9wp6gTX33qz6MUPXw2LjG3-RE=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:TRT World",
+      "cleaned_title": "TRT World",
+      "summary": "TRT World is a YouTube channel that covers global news, with a focus on stories from the Middle East, Asia, and Africa.",
+      "title": "TRT World",
+      "kind": "youtube",
+      "channel_id": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+      "thumbnail_url": "https://yt3.ggpht.com/4FK_4c1SOUGyQXgvLZ7WDJXB-sE8vVntcrTI7PYCiYkjkftELWfuRiQW_-1w6_uPbSY6T6ij=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Global",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Middle East",
+        "Asia",
+        "Africa",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "Middle East",
+        "Asia",
+        "Africa"
+      ]
+    },
+    {
+      "id": "feed:https://africasacountry.com/feed/",
+      "title": "Africa Is a Country",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://africasacountry.com/feed/",
+      "summary": "\u2026a site of opinion, analysis, and new writing on and from the African left.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Africa Is a Country",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Africa",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "African politics",
+        "social issues",
+        "opinion writing"
+      ]
+    }
+  ],
+  "child_categories": []
+}

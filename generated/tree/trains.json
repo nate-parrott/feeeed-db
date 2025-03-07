@@ -1,0 +1,235 @@
+{
+  "id": "trains",
+  "display_name": "Trains",
+  "feeds": [
+    {
+      "id": "feed:feeds.feedburner.com:Fashionista",
+      "cleaned_title": "Fashionista",
+      "summary": "A website offering fashion news, trends, and features, including coverage of emerging designers and established brands.",
+      "title": "Fashionista",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/fashionistacom",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "designers",
+        "trends"
+      ]
+    },
+    {
+      "id": "feed:wwd.com:WWDWWD",
+      "cleaned_title": "WWD",
+      "summary": "A leading source for fashion industry news, trends, and analysis, covering designers, brands, and retail.",
+      "title": "WWDWWD",
+      "kind": "feed",
+      "feed_url": "http://www.wwd.com/rss/2/news/recentstories",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Fashion",
+        "Design",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "trends",
+        "retail"
+      ]
+    },
+    {
+      "id": "feed:https://www.andyhinesight.com/feed/",
+      "title": "Hinesight....for Foresight | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.andyhinesight.com/feed/",
+      "summary": "Apply foresight to help organisations make more creative, innovative, and forward-looking decisions.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Hinesight....for Foresight",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Future",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "foresight",
+        "innovation",
+        "strategic planning"
+      ]
+    },
+    {
+      "id": "feed:http://beachburg.blogspot.com/feeds/posts/default",
+      "title": "THE BEACHBURG SUB",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://beachburg.blogspot.com/feeds/posts/default",
+      "summary": "Thoughts and musings about a lifelong fascination with railways.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "THE BEACHBURG SUB",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "railways",
+        "Ottawa",
+        "transportation",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://busandtrainuser.com/feed/",
+      "title": "BusAndTrainUser",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://busandtrainuser.com/feed/",
+      "summary": "Journeys around Britain by bus and train.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "BusAndTrainUser",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "UK",
+        "Trains",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "transportation",
+        "UK travel",
+        "bus",
+        "train"
+      ]
+    },
+    {
+      "id": "feed:https://nnrailway.blogspot.com/feeds/posts/default",
+      "title": "Carriage & Wagon News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nnrailway.blogspot.com/feeds/posts/default",
+      "summary": "A source for latest updates on carriage and wagon developments, reflecting on their significance in railway history.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Carriage & Wagon News",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Trains",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "transport",
+        "railway news",
+        "updates",
+        "carriages"
+      ]
+    },
+    {
+      "id": "feed:https://www.greencaltrain.com/feed/",
+      "title": "Green Caltrain",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.greencaltrain.com/feed/",
+      "summary": "Friends of Caltrain Blog.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Green Caltrain",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "Caltrain",
+        "transportation",
+        "advocacy",
+        "funding"
+      ]
+    },
+    {
+      "id": "feed:http://pnaerc.blogspot.com/feeds/posts/default",
+      "title": "Preserved Traction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://pnaerc.blogspot.com/feeds/posts/default",
+      "summary": "News and Updates to the Preserved North American Electric Railway Cars (PNAERC) List.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Preserved Traction",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Trains",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "electric railway",
+        "preservation",
+        "transportation",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:http://www.merseytart.com/feeds/posts/default",
+      "title": "round the rails we go",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.merseytart.com/feeds/posts/default",
+      "summary": "capturing Britain's railways, one station at a time.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "round the rails we go",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "UK",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "British railway",
+        "station visits",
+        "travel",
+        "photography"
+      ]
+    }
+  ],
+  "child_categories": []
+}

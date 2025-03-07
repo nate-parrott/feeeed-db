@@ -1,0 +1,2252 @@
+{
+  "id": "money",
+  "display_name": "Money",
+  "feeds": [
+    {
+      "id": "substack:top:lenny's_newsletter_-_lenny_rachitsky",
+      "title": "Lenny's Newsletter - Lenny Rachitsky",
+      "cleaned_title": "Lenny's Newsletter",
+      "summary": "A practical guide for professionals centered on product development and growth strategies, offering actionable advice and insights tailored for those looking to accelerate their careers.",
+      "kind": "feed",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top",
+        "original_feed_db"
+      ],
+      "tags": [
+        "Money",
+        "Education",
+        "Finance",
+        "_high_quality"
+      ],
+      "cleaned_author": "Lenny Rachitsky",
+      "language": "en",
+      "keywords": [
+        "product management",
+        "growth strategies",
+        "career advice"
+      ]
+    },
+    {
+      "id": "substack:top:noahpinion_-_noah_smith",
+      "title": "Noahpinion - Noah Smith",
+      "cleaned_title": "Noahpinion",
+      "summary": "An engaging exploration of economics, this newsletter blends insightful commentary with current events, making complex topics accessible and relevant to a broader audience.",
+      "kind": "feed",
+      "feed_url": "https://www.noahpinion.blog/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top",
+        "curated"
+      ],
+      "tags": [
+        "Money",
+        "Finance",
+        "Science",
+        "Social",
+        "_intellectual"
+      ],
+      "cleaned_author": "Noah Smith",
+      "language": "en",
+      "keywords": [
+        "economics",
+        "current events",
+        "analysis"
+      ]
+    },
+    {
+      "id": "substack:top:feed_me_-_emily_sundberg",
+      "title": "Feed Me - Emily Sundberg",
+      "cleaned_title": "Feed Me",
+      "summary": "A daily insight into the realm of entrepreneurship, this newsletter captures the innovative spirit of business while providing relatable anecdotes and practical advice.",
+      "kind": "feed",
+      "feed_url": "https://www.readfeedme.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Urban",
+        "Future",
+        "_personal"
+      ],
+      "cleaned_author": "Emily Sundberg",
+      "language": "en",
+      "keywords": [
+        "entrepreneurship",
+        "business trends",
+        "innovation"
+      ]
+    },
+    {
+      "id": "substack:top:the_bear_cave_-_edwin_dorsey",
+      "title": "The Bear Cave - Edwin Dorsey",
+      "cleaned_title": "The Bear Cave",
+      "summary": "Dedicated to uncovering corporate misdeeds, this investigative newsletter sheds light on ethical issues within the business landscape and promotes accountability.",
+      "kind": "feed",
+      "feed_url": "https://thebearcave.substack.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Crime",
+        "Justice",
+        "_intellectual"
+      ],
+      "cleaned_author": "Edwin Dorsey",
+      "language": "en",
+      "keywords": [
+        "corporate misconduct",
+        "investigation",
+        "accountability"
+      ]
+    },
+    {
+      "id": "substack:top:citrini_research",
+      "title": "Citrini Research",
+      "cleaned_title": "Citrini Research",
+      "summary": "Provides insights on thematic equity investing and macro trading, tailored for investors looking for informed strategies.",
+      "kind": "feed",
+      "feed_url": "https://www.citriniresearch.com/feed",
+      "details": "Original category: Substack top newsletters about finance",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Finance",
+        "_academic"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "investing",
+        "trading",
+        "finance",
+        "equities"
+      ]
+    },
+    {
+      "id": "substack:top:doomberg",
+      "title": "Doomberg",
+      "cleaned_title": "Doomberg",
+      "summary": "Explores critical issues in energy, finance, and geopolitics, delivering insightful analysis with each post.",
+      "kind": "feed",
+      "feed_url": "https://newsletter.doomberg.com/feed",
+      "details": "Original category: Substack top newsletters about finance",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Finance",
+        "_mainstream"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "energy",
+        "finance",
+        "geopolitics",
+        "analysis"
+      ]
+    },
+    {
+      "id": "substack:top:adam_mancini's_s&p_500_(spx/es_futures)_trade_companion",
+      "title": "Adam Mancini's S&P 500 (SPX/ES Futures) Trade Companion",
+      "cleaned_title": "Adam Mancini's S&P 500 Trade Companion",
+      "summary": "A practical resource for SPX/ES traders, sharing daily insights, strategic trade plans, and market analysis.",
+      "kind": "feed",
+      "feed_url": "https://tradecompanion.substack.com/feed",
+      "details": "Original category: Substack top newsletters about finance",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "cleaned_author": "Adam Mancini",
+      "language": "en",
+      "keywords": [
+        "trading",
+        "SPX",
+        "market analysis",
+        "strategy"
+      ]
+    },
+    {
+      "id": "substack:top:compounding_quality",
+      "title": "Compounding Quality",
+      "cleaned_title": "Compounding Quality",
+      "summary": "An ex-professional investor discusses investment strategies while sharing insights on valuable businesses.",
+      "kind": "feed",
+      "feed_url": "https://www.compoundingquality.net/feed",
+      "details": "Original category: Substack top newsletters about finance",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "investing",
+        "business",
+        "portfolio",
+        "strategies"
+      ]
+    },
+    {
+      "id": "substack:top:tic_toc's_orderflow_newsletter_-_tic_toc_trading",
+      "title": "Tic Toc's OrderFlow Newsletter - Tic Toc Trading",
+      "cleaned_title": "Tic Toc's OrderFlow Newsletter",
+      "summary": "Focuses on market research covering options, stocks, and futures, catering to traders looking for actionable insights.",
+      "kind": "feed",
+      "feed_url": "https://tictoctrading.substack.com/feed",
+      "details": "Original category: Substack top newsletters about finance",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "trading",
+        "options",
+        "stocks",
+        "futures"
+      ]
+    },
+    {
+      "id": "substack:top:elliott_confidential_-_christopher_elliott",
+      "title": "Elliott Confidential - Christopher Elliott",
+      "cleaned_title": "Elliott Confidential",
+      "summary": "Elliott Confidential reveals the often hidden truths of the travel industry, offering insights and guidance that empower travelers.",
+      "kind": "feed",
+      "feed_url": "https://www.elliottconfidential.com/feed",
+      "details": "Original category: Substack top newsletters about travel",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Journalism"
+      ],
+      "cleaned_author": "Christopher Elliott",
+      "language": "en",
+      "keywords": [
+        "travel advice",
+        "industry insights",
+        "consumer protections",
+        "travel issues",
+        "alerts"
+      ]
+    },
+    {
+      "id": "substack:top:bowtied_bum",
+      "title": "BowTied Bum",
+      "cleaned_title": "BowTied Bum",
+      "summary": "BowTied Bum shares strategies for earning through credit card churning, offering tips to navigate the world of travel rewards effectively.",
+      "kind": "feed",
+      "feed_url": "https://www.bowtiedbum.io/feed",
+      "details": "Original category: Substack top newsletters about travel",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "credit card churning",
+        "travel rewards",
+        "earning money",
+        "financial freedom",
+        "tips"
+      ]
+    },
+    {
+      "id": "substack:top:chartbook_-_adam_tooze",
+      "title": "Chartbook - Adam Tooze",
+      "cleaned_title": "Chartbook",
+      "summary": "Adam Tooze offers insightful commentary on economics, geopolitics, and historical contexts, blending analysis with thought-provoking discussions.",
+      "kind": "feed",
+      "feed_url": "https://adamtooze.substack.com/feed",
+      "details": "Original category: Substack top newsletters about history",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Finance",
+        "History"
+      ],
+      "cleaned_author": "Adam Tooze",
+      "language": "en",
+      "keywords": [
+        "Adam Tooze",
+        "economics",
+        "geopolitics"
+      ]
+    },
+    {
+      "id": "feed:economist.com:The Economist",
+      "cleaned_title": "The Economist",
+      "summary": "In-depth analysis and insights on global economics, politics, and business.",
+      "title": "The Economist",
+      "kind": "feed",
+      "feed_url": "http://www.economist.com/rss/finance_and_economics_rss.xml",
+      "popularity_score": 25.212979967372036,
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "business",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:stratechery.com:Stratechery by Ben Thompson",
+      "cleaned_title": "Stratechery",
+      "summary": "A blog by Ben Thompson analyzing the business strategies and impacts of technology companies. Stratechery offers in-depth insights, making it essential reading for those interested in tech trends.",
+      "title": "Stratechery by Ben Thompson",
+      "kind": "feed",
+      "feed_url": "https://stratechery.com/feed/",
+      "popularity_score": 4.917857142857144,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": "Ben Thompson",
+      "tags": [
+        "Tech",
+        "Money",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "business strategy",
+        "technology",
+        "Ben Thompson",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:economist.com:Business \u2013 economist.com",
+      "cleaned_title": "Business",
+      "summary": "This feed provides insights into the latest business trends, economic overviews, and corporate strategies from a global perspective. It looks at market dynamics and innovations shaping various industries.",
+      "title": "Business \u2013 economist.com",
+      "kind": "feed",
+      "feed_url": "https://www.economist.com/business/rss.xml",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Politics",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "business",
+        "economy",
+        "trends",
+        "corporate strategy",
+        "market dynamics"
+      ]
+    },
+    {
+      "id": "feed:producthunt.com:Product Hunt \u2014 The best new products, every day",
+      "cleaned_title": "Product Hunt",
+      "summary": "A daily showcase of the best new products, covering innovative startups and tools that can streamline various tasks and improve efficiency.",
+      "title": "Product Hunt \u2014 The best new products, every day",
+      "kind": "feed",
+      "feed_url": "http://www.producthunt.com/feed",
+      "popularity_score": 3.084839466089466,
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Ventures",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "new products",
+        "startups",
+        "innovation",
+        "tech tools",
+        "apps"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Points Guy",
+      "cleaned_title": "The Points Guy",
+      "summary": "A website that provides tips, news, and reviews on travel, with a focus on maximizing airline and hotel loyalty programs.",
+      "title": "The Points Guy",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/thepointsguy",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Money",
+        "Finance",
+        "Ventures"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "loyalty programs",
+        "tips"
+      ]
+    },
+    {
+      "id": "feed:feeds2.feedburner.com:Business Insider",
+      "cleaned_title": "Business Insider",
+      "summary": "A popular business news website that covers a wide range of topics including finance, technology, and markets.",
+      "title": "Business Insider",
+      "kind": "feed",
+      "feed_url": "http://feeds2.feedburner.com/businessinsider",
+      "popularity_score": 2.375297795886031,
+      "details": "Original category: Business",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Tech",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "business news",
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:feeds.a.dj.com:WSJ.com: US Business",
+      "cleaned_title": "WSJ.com: US Business",
+      "summary": "A renowned financial newspaper that provides in-depth coverage of business, markets, and global news.",
+      "title": "WSJ.com: US Business",
+      "kind": "feed",
+      "feed_url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+      "details": "Original category: News -> US News",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 6.589398861102873,
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "News",
+        "Finance",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "business news",
+        "financial analysis",
+        "markets"
+      ]
+    },
+    {
+      "id": "youtube:CNBC Television",
+      "cleaned_title": "CNBC Television",
+      "summary": "CNBC's official YouTube channel featuring interviews, market analysis, and news coverage of the stock market and business world.",
+      "title": "CNBC Television",
+      "kind": "youtube",
+      "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPWiiqhx401RAMI8gnIlNIU_XIS7kjbrrtmiTb_rQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "market analysis",
+        "business news",
+        "investing"
+      ]
+    },
+    {
+      "id": "reddit:business",
+      "cleaned_title": "business",
+      "summary": "A subreddit for general business discussions, news, and insights from the business community.",
+      "title": "business",
+      "kind": "reddit",
+      "subreddit": "business",
+      "details": "Original category: Business",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "USA",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "business discussions",
+        "news",
+        "insights"
+      ]
+    },
+    {
+      "id": "youtube:The Financial Diet",
+      "cleaned_title": "The Financial Diet",
+      "summary": "A YouTube channel that offers practical financial advice, career tips, and personal finance stories.",
+      "title": "The Financial Diet",
+      "kind": "youtube",
+      "channel_id": "UCSPYNpQ2fHv9HJ-q6MIMaPw",
+      "thumbnail_url": "https://yt3.ggpht.com/9jauVTcgcuPQnqUbhDNqQbPa2c9TbtvivtU-u1lhPC8JOUgIWf3-DcujOneW4nvo2kXG35lm=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "financial advice",
+        "personal finance",
+        "career tips"
+      ]
+    },
+    {
+      "id": "youtube:GaryVee",
+      "cleaned_title": "GaryVee",
+      "summary": "Gary Vaynerchuk's YouTube channel offers motivational content, business advice, and insights for entrepreneurs.",
+      "title": "GaryVee",
+      "kind": "youtube",
+      "channel_id": "UCctXZhXmG-kf3tlIXgVZUlw",
+      "thumbnail_url": "https://yt3.ggpht.com/4NddRokneuqTE852U1HyLitfwyulzAHpm4fHOML_Iy6qIHzizL0y0RkMdnqy1xckD6Uyrj0e=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Gary Vaynerchuk",
+      "tags": [
+        "Money",
+        "Tech",
+        "Social",
+        "Ventures"
+      ],
+      "language": "en",
+      "keywords": [
+        "entrepreneurship",
+        "business advice",
+        "social media"
+      ]
+    },
+    {
+      "id": "feed:business-breakdowns.com:Business Breakdowns",
+      "cleaned_title": "Business Breakdowns",
+      "summary": "This platform aims to simplify complex business topics through insightful breakdowns, providing valuable information for investors and business enthusiasts.",
+      "title": "Business Breakdowns",
+      "kind": "feed",
+      "feed_url": "https://www.business-breakdowns.com/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Tech",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "business insights",
+        "investing",
+        "breakdowns"
+      ]
+    },
+    {
+      "id": "feed:21hats.com:21 Hats",
+      "cleaned_title": "21 Hats",
+      "summary": "A resource for entrepreneurs providing insights on running a business, featuring personal stories and advice on navigating the complexities of entrepreneurship.",
+      "title": "21 Hats",
+      "kind": "feed",
+      "feed_url": "https://21hats.com/feed/",
+      "details": "Original category: Business",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "business tips",
+        "entrepreneurship",
+        "small business"
+      ]
+    },
+    {
+      "id": "feed:petcashpost.com:Profluence Sports by Andrew Petcash",
+      "cleaned_title": "Profluence Sports",
+      "summary": "A newsletter that dissects the evolving trends, key figures, and companies that are shaping the sports industry. Insightful analyses for those looking to understand the future of sports.",
+      "title": "Profluence Sports by Andrew Petcash",
+      "kind": "feed",
+      "feed_url": "https://www.petcashpost.com/feed",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Andrew Petcash",
+      "tags": [
+        "Money",
+        "Tech",
+        "Sports",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports trends",
+        "industry analysis",
+        "innovation"
+      ]
+    },
+    {
+      "id": "youtube:The Education Trust",
+      "cleaned_title": "The Education Trust",
+      "summary": "A YouTube channel that focuses on educational equity and policy, featuring videos on research, advocacy, and initiatives aimed at improving educational opportunities for all students.",
+      "title": "The Education Trust",
+      "kind": "youtube",
+      "channel_id": "UCiqYR2mQaHITNUtVn6kXI-g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNjRqGpizzgwLvwV1JDIM6Zlt9vu8M3P5vtGA8s=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Money",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "educational equity",
+        "YouTube content",
+        "policy advocacy"
+      ]
+    },
+    {
+      "id": "reddit:StockMarket",
+      "cleaned_title": "StockMarket",
+      "summary": "A subreddit for discussions and news related to the stock market, investing, and trading.",
+      "title": "StockMarket",
+      "kind": "reddit",
+      "subreddit": "StockMarket",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "stock market",
+        "trade ideas",
+        "analysis",
+        "investing"
+      ]
+    },
+    {
+      "id": "youtube:The Plain Bagel",
+      "cleaned_title": "The Plain Bagel",
+      "summary": "A YouTube channel that simplifies complex stock market concepts and provides educational videos for beginner investors.",
+      "title": "The Plain Bagel",
+      "kind": "youtube",
+      "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqP_2idsJUwE3-f57uhViqopNpBBm1hsO0vAO6O5jw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "stock market education",
+        "investing basics",
+        "financial literacy"
+      ]
+    },
+    {
+      "id": "youtube:Financial Education",
+      "cleaned_title": "Financial Education",
+      "summary": "A YouTube channel that covers stock market analysis, investing strategies, and personal finance tips.",
+      "title": "Financial Education",
+      "kind": "youtube",
+      "channel_id": "UCnMn36GT_H0X-w5_ckLtlgQ",
+      "thumbnail_url": "https://yt3.ggpht.com/Y16iJgJWLWwxstm9KjKbHTdV3mSZOzMF7TQTIDHROGxNsevuM32uBUppltjcQzyXdbaS14i5Nw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "stock market analysis",
+        "investing strategy",
+        "personal finance"
+      ]
+    },
+    {
+      "id": "reddit:stocks",
+      "cleaned_title": "stocks",
+      "summary": "A subreddit for discussions and news related to individual stocks, investing strategies, and market trends.",
+      "title": "stocks",
+      "kind": "reddit",
+      "subreddit": "stocks",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "investing",
+        "market news",
+        "stock discussions",
+        "financial education"
+      ]
+    },
+    {
+      "id": "feed:mbideepdives.substack.com:MBI Deep Dives",
+      "cleaned_title": "MBI Deep Dives",
+      "summary": "An investment research source focused on in-depth analyses and updates on major companies. It allows followers to stay informed about pivotal changes and trends within the stock market.",
+      "title": "MBI Deep Dives",
+      "kind": "feed",
+      "feed_url": "https://mbideepdives.substack.com/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "investment research",
+        "market updates",
+        "stock analysis"
+      ]
+    },
+    {
+      "id": "feed:thespecialsituationreport.com:The Special Situation Report",
+      "cleaned_title": "The Special Situation Report",
+      "summary": "A weekly report dedicated to special situations in US public equities, providing insights into mergers, acquisitions, and other unique opportunities in the market.",
+      "title": "The Special Situation Report",
+      "kind": "feed",
+      "feed_url": "https://www.thespecialsituationreport.com/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "mergers",
+        "acquisitions",
+        "equity analysis",
+        "market trends"
+      ]
+    },
+    {
+      "id": "feed:investmenttalk.co:Investment Talk",
+      "cleaned_title": "Investment Talk",
+      "summary": "A blog analyzing the stock market and financial behavior, offering essays that delve into the intricate relationship between finance and human nature.",
+      "title": "Investment Talk",
+      "kind": "feed",
+      "feed_url": "https://www.investmenttalk.co/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "stock market",
+        "finance",
+        "behavioral finance"
+      ]
+    },
+    {
+      "id": "feed:themacrocompass.substack.com:The Macro Compass",
+      "cleaned_title": "The Macro Compass",
+      "summary": "A platform providing financial education and macroeconomic insights, focusing on actionable investment strategies drawn from an experienced portfolio manager's perspective.",
+      "title": "The Macro Compass",
+      "kind": "feed",
+      "feed_url": "https://themacrocompass.substack.com/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "macro insights",
+        "investment strategies",
+        "financial education"
+      ]
+    },
+    {
+      "id": "feed:pomp.substack.com:The Pomp Letter",
+      "cleaned_title": "The Pomp Letter",
+      "summary": "A daily newsletter that offers a critical analysis of the intersecting realms of business, finance, and technology, engaging a large community of subscribers.",
+      "title": "The Pomp Letter",
+      "kind": "feed",
+      "feed_url": "https://pomp.substack.com/feed",
+      "details": "Original category: Business -> Stock Market",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "business insights",
+        "finance analysis",
+        "technology"
+      ]
+    },
+    {
+      "id": "youtube:Real Vision Finance",
+      "cleaned_title": "Real Vision Finance",
+      "summary": "Real Vision Finance's YouTube channel features interviews and discussions with leading economists, investors, and analysts on global economic trends and investment strategies.",
+      "title": "Real Vision Finance",
+      "kind": "youtube",
+      "channel_id": "UCBH5VZE_Y4F3CMcPIzPEB5A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqN0QUgtr9zMfOab2FUHYb_9LzvWu_7SQ6nCft3CNw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic trends",
+        "investment strategies",
+        "expert interviews"
+      ]
+    },
+    {
+      "id": "feed:theovershoot.co:The Overshoot",
+      "cleaned_title": "The Overshoot",
+      "summary": "A platform dissecting the complexities of the global economy and financial markets, offering insights to navigate current economic challenges.",
+      "title": "The Overshoot",
+      "kind": "feed",
+      "feed_url": "https://theovershoot.co/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "global economy",
+        "financial insights",
+        "market analysis"
+      ]
+    },
+    {
+      "id": "feed:profstevekeen.substack.com:Building a New Economics",
+      "cleaned_title": "Building a New Economics",
+      "summary": "This blog presents an alternative to mainstream economics by focusing on systems-based approaches. Readers seeking to explore progressive economic ideas will find insightful discussions here.",
+      "title": "Building a New Economics",
+      "kind": "feed",
+      "feed_url": "https://profstevekeen.substack.com/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "climate change",
+        "trade",
+        "macroeconomics"
+      ]
+    },
+    {
+      "id": "feed:petition.substack.com:PETITION",
+      "cleaned_title": "PETITION",
+      "summary": "This feed offers curated financial news and analysis focused on distressed investing and bankruptcy topics, providing insights that can benefit investors and industry watchers alike.",
+      "title": "PETITION",
+      "kind": "feed",
+      "feed_url": "https://petition.substack.com/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "_clickbait"
+      ],
+      "language": "en",
+      "keywords": [
+        "bankruptcy",
+        "distressed investing",
+        "financial news"
+      ]
+    },
+    {
+      "id": "feed:apricitas.io:Apricitas Economics",
+      "cleaned_title": "Apricitas Economics",
+      "summary": "Apricitas Economics provides data-driven insights into economics, business, and public policy, making it a valuable source for those interested in current economic affairs and their implications.",
+      "title": "Apricitas Economics",
+      "kind": "feed",
+      "feed_url": "https://www.apricitas.io/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "business",
+        "public policy",
+        "trade"
+      ]
+    },
+    {
+      "id": "feed:yardi.com:The Balance Sheet - Yardi Corporate BlogThe Balance Sheet \u2013 Yardi Corporate Blog!",
+      "cleaned_title": "The Balance Sheet",
+      "summary": "A comprehensive website that covers various aspects of personal finance, including budgeting, saving, investing, and retirement planning.",
+      "title": "The Balance Sheet - Yardi Corporate BlogThe Balance Sheet \u2013 Yardi Corporate Blog!",
+      "kind": "feed",
+      "feed_url": "http://www.yardi.com/blog/feed",
+      "details": "Original category: Business -> Personal Finance",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Yardi Corporate Blog",
+      "tags": [
+        "Money",
+        "Finance",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal finance",
+        "budgeting",
+        "saving",
+        "investing"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:NerdWallet",
+      "cleaned_title": "NerdWallet",
+      "summary": "A popular personal finance website that offers advice, tools, and resources to help individuals make informed financial decisions.",
+      "title": "NerdWallet",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/NerdwalletCreditCardWatch",
+      "details": "Original category: Business -> Personal Finance",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "credit cards",
+        "financial decisions",
+        "savings",
+        "loans"
+      ]
+    },
+    {
+      "id": "youtube:Graham Stephan",
+      "cleaned_title": "Graham Stephan",
+      "summary": "Graham Stephan is a real estate agent and investor who shares his experiences, tips, and insights on his YouTube channel.",
+      "title": "Graham Stephan",
+      "kind": "youtube",
+      "channel_id": "UCV6KDgJskWaEckne5aPA0aQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqP6qMy7r9W8xiumT9FXrqTpbZz5DvyRvn-vzyNHtQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Graham Stephan",
+      "tags": [
+        "Money",
+        "Real Estate",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "investment",
+        "financial advice",
+        "wealth building"
+      ]
+    },
+    {
+      "id": "reddit:personalfinance",
+      "cleaned_title": "personalfinance",
+      "summary": "A subreddit dedicated to discussions and advice on personal finance topics, including budgeting, saving, investing, and debt management.",
+      "title": "personalfinance",
+      "kind": "reddit",
+      "subreddit": "personalfinance",
+      "details": "Original category: Business -> Personal Finance",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "community",
+        "budgeting",
+        "saving",
+        "investing"
+      ]
+    },
+    {
+      "id": "youtube:Andrei Jikh",
+      "cleaned_title": "Andrei Jikh",
+      "summary": "A YouTube channel hosted by Andrei Jikh, a personal finance enthusiast, who shares insights on investing, money management, and achieving financial goals.",
+      "title": "Andrei Jikh",
+      "kind": "youtube",
+      "channel_id": "UCGy7SkBjcIAgTiwkXEtPnYg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOC0vLnl6rMoVPStORJXSZipX9-WW2WkWmu5TUO6g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Personal Finance",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Andrei Jikh",
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "investing",
+        "money management",
+        "financial independence"
+      ]
+    },
+    {
+      "id": "youtube:Y Combinator",
+      "cleaned_title": "Y Combinator",
+      "summary": "Y Combinator is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. Their YouTube channel features talks and interviews with successful startup founders.",
+      "title": "Y Combinator",
+      "kind": "youtube",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "thumbnail_url": "https://yt3.ggpht.com/mSqaIvHn4agaznTzuOZg8-cbSl8rt_K5FhkyQ_C6_VhPfXZagDrS1OvkLz9Dyax9fq7Curoo=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "WebDev",
+        "AI",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "startup",
+        "entrepreneurship",
+        "funding",
+        "mentorship"
+      ]
+    },
+    {
+      "id": "feed:about.crunchbase.com:Crunchbase News",
+      "cleaned_title": "Crunchbase News",
+      "summary": "Crunchbase is a platform that provides information about startups, including funding rounds, key people, and company profiles.",
+      "title": "Crunchbase News",
+      "kind": "feed",
+      "feed_url": "https://about.crunchbase.com/news/feed/",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "startups",
+        "funding",
+        "investors",
+        "private markets"
+      ]
+    },
+    {
+      "id": "reddit:startups",
+      "cleaned_title": "startups",
+      "summary": "A subreddit dedicated to discussing startups, sharing advice, and connecting with fellow entrepreneurs.",
+      "title": "startups",
+      "kind": "reddit",
+      "subreddit": "startups",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money"
+      ],
+      "language": "en",
+      "keywords": [
+        "entrepreneurship",
+        "business advice",
+        "startup community"
+      ]
+    },
+    {
+      "id": "feed:realtor.com:Real Estate News & Insights | realtor.com\u00ae News | Real Estate News & Insights | realtor.com\u00ae",
+      "cleaned_title": "Real Estate News & Insights",
+      "summary": "Realtor.com is another well-known real estate website that offers listings, home buying tips, and market trends.",
+      "title": "Real Estate News & Insights | realtor.com\u00ae News | Real Estate News & Insights | realtor.com\u00ae",
+      "kind": "feed",
+      "feed_url": "http://www.realtor.com/news/feed/",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "market trends",
+        "buying",
+        "selling"
+      ]
+    },
+    {
+      "id": "youtube:Meet Kevin",
+      "cleaned_title": "Meet Kevin",
+      "summary": "Meet Kevin is a real estate investor and agent who provides educational content, market analysis, and investment strategies on his YouTube channel.",
+      "title": "Meet Kevin",
+      "kind": "youtube",
+      "channel_id": "UCUvvj5lwue7PspotMDjk5UA",
+      "thumbnail_url": "https://yt3.ggpht.com/Wtjkswhc_iBIVQTCNBqCYROcUeWXm2ZBsIhU8DSt5r3kA8dFxOcB7lGaA6HRbCgi4vYVCd9-Yg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Kevin",
+      "tags": [
+        "Money",
+        "Living",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate investing",
+        "investment strategies",
+        "market analysis"
+      ]
+    },
+    {
+      "id": "reddit:RealEstate",
+      "cleaned_title": "RealEstate",
+      "summary": "A subreddit dedicated to discussions, news, and advice related to real estate.",
+      "title": "RealEstate",
+      "kind": "reddit",
+      "subreddit": "RealEstate",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "landlords",
+        "mortgages",
+        "buying a house"
+      ]
+    },
+    {
+      "id": "feed:biggerpockets.com:| BiggerPockets Blog",
+      "cleaned_title": "BiggerPockets Blog",
+      "summary": "BiggerPockets is an online community and resource platform for real estate investors, offering forums, articles, and educational content.",
+      "title": "| BiggerPockets Blog",
+      "kind": "feed",
+      "feed_url": "http://www.biggerpockets.com/renewsblog/feed/",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Living",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate investing",
+        "education",
+        "market insights"
+      ]
+    },
+    {
+      "id": "feed:feeds2.feedburner.com:Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "cleaned_title": "Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "summary": "Redfin is a real estate brokerage that provides listings, home buying tools, and agent services.",
+      "title": "Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "kind": "feed",
+      "feed_url": "http://feeds2.feedburner.com/redfin_corporate?format=xml",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "home buying",
+        "brokerage",
+        "market insights"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Inman",
+      "cleaned_title": "Inman",
+      "summary": "Inman is a real estate news and information website that covers industry trends, technology, and market insights.",
+      "title": "Inman",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/inmannews",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "market trends",
+        "broker news"
+      ]
+    },
+    {
+      "id": "feed:businessoffashion.com:Business of Fashion",
+      "cleaned_title": "Business of Fashion",
+      "summary": "A leading online platform for global fashion professionals, covering news, analysis, and insights into the fashion industry.",
+      "title": "Business of Fashion",
+      "kind": "feed",
+      "feed_url": "http://www.businessoffashion.com/feed",
+      "details": "Original category: Fashion -> Designers & Brands",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "industry insights",
+        "business"
+      ]
+    },
+    {
+      "id": "reddit:frugalmalefashion",
+      "cleaned_title": "frugalmalefashion",
+      "summary": "A subreddit dedicated to finding and sharing deals, discounts, and sales on men's fashion.",
+      "title": "frugalmalefashion",
+      "kind": "reddit",
+      "subreddit": "frugalmalefashion",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Fashion",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "discounts",
+        "men's fashion",
+        "coupons"
+      ]
+    },
+    {
+      "id": "feed:fangraphs.com:FanGraphs Baseball",
+      "cleaned_title": "FanGraphs Baseball",
+      "summary": "A website that focuses on advanced baseball statistics and analysis, providing in-depth articles and player projections.",
+      "title": "FanGraphs Baseball",
+      "kind": "feed",
+      "feed_url": "http://www.fangraphs.com/blogs/?feed=rss2",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Sports",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball analysis",
+        "statistics",
+        "player projections",
+        "FanGraphs",
+        "advanced metrics"
+      ]
+    },
+    {
+      "id": "feed:baseballprospectus.com:Baseball Prospectus",
+      "cleaned_title": "Baseball Prospectus",
+      "summary": "A website that offers in-depth analysis, statistical models, and player projections for baseball enthusiasts and fantasy baseball players.",
+      "title": "Baseball Prospectus",
+      "kind": "feed",
+      "feed_url": "https://www.baseballprospectus.com/feed/",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Baseball",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "analysis",
+        "statistics",
+        "player projections"
+      ]
+    },
+    {
+      "id": "feed:https://paulkrugman.substack.com/feed",
+      "title": "Krugman wonks out \u2013 substack.com",
+      "kind": "feed",
+      "feed_url": "https://paulkrugman.substack.com/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Krugman Wonk Out",
+      "cleaned_author": "Paul Krugman",
+      "summary": "Economic insights and critiques from Nobel laureate Paul Krugman, focusing on current events and underlying economic theories.",
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "Paul Krugman",
+        "politics",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:https://headey.net/feed.xml",
+      "title": "Olly Headey \u2014 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://headey.net/feed.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Olly Headey \u2014 Writing",
+      "cleaned_author": "Olly Headey",
+      "summary": "The thoughts and observations of a tech entrepreneur and co-founder of FreeAgent, delving into technology ethics and personal reflections.",
+      "tags": [
+        "Tech",
+        "Money",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "entrepreneurship",
+        "technology",
+        "writing",
+        "ethics"
+      ]
+    },
+    {
+      "id": "feed:https://newescapologist.co.uk/blog/feed/",
+      "title": "New Escapologist | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://newescapologist.co.uk/blog/feed/",
+      "summary": "Or: Goodbye to all that!",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "New Escapologist",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "escapism",
+        "philosophy",
+        "work culture"
+      ]
+    },
+    {
+      "id": "feed:http://feeds2.feedburner.com/optional?format=xml",
+      "title": "optional.is",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds2.feedburner.com/optional?format=xml",
+      "summary": "A platform discussing technology and economic concepts with a focus on innovation.",
+      "details": "Original Category: economics -> companies.opml",
+      "cleaned_title": "optional.is",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "annual report",
+        "optimized charging",
+        "thermal printer"
+      ]
+    },
+    {
+      "id": "feed:https://jessitron.com/feed/",
+      "title": "Jessitron \u2013 blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jessitron.com/feed/",
+      "summary": "symmathecist, in the medium of code.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Jessitron",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Software Design",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "software development",
+        "OKRs",
+        "team management"
+      ]
+    },
+    {
+      "id": "feed:https://rmukeshgupta.com/feed/",
+      "title": "MUKESH GUPTA",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rmukeshgupta.com/feed/",
+      "summary": "Leading Transformation.",
+      "details": "Original Category: society -> self-improvement.opml",
+      "cleaned_title": "MUKESH GUPTA",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "Education",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "leadership",
+        "smart machines",
+        "strategies",
+        "practitioners",
+        "success"
+      ]
+    },
+    {
+      "id": "feed:https://patentlyo.com/feed",
+      "title": "Patently-O",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://patentlyo.com/feed",
+      "summary": "The nation's leading patent law blog.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Patently-O",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "patent law",
+        "legal analysis",
+        "IP law"
+      ]
+    },
+    {
+      "id": "feed:https://blog.ericgoldman.org/feed",
+      "title": "Technology & Marketing Law Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.ericgoldman.org/feed",
+      "summary": "The areas of Internet Law, Intellectual Property and Advertising & Marketing Law.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Technology & Marketing Law Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "internet law",
+        "advertising law",
+        "intellectual property"
+      ]
+    },
+    {
+      "id": "feed:https://taxpolicy.org.uk/feed/",
+      "title": "Tax Policy Associates - Reports",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://taxpolicy.org.uk/feed/",
+      "summary": "A think tank dedicated to improving tax policy and the public understanding of tax.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Tax Policy Associates - Reports",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "tax policy",
+        "corporate fraud",
+        "legal issues"
+      ]
+    },
+    {
+      "id": "feed:https://ourincrediblejourney.tumblr.com/rss",
+      "title": "Our Incredible Journey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ourincrediblejourney.tumblr.com/rss",
+      "summary": "Putting the ack! in acquihire.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Our Incredible Journey",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Ventures",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "business",
+        "acquihire",
+        "startups"
+      ]
+    },
+    {
+      "id": "feed:https://randsinrepose.com/feed/",
+      "title": "Rands in Repose",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://randsinrepose.com/feed/",
+      "summary": "This blog is a collection of reflections on management and software development, offering insights and advice for leaders and developers alike. It emphasizes thoughtful approaches to complex work environments.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Rands in Repose",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Software Design",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "management",
+        "software",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.retailinsider.com/feed/",
+      "title": "Retail Insider",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.retailinsider.com/feed/",
+      "summary": "Taking a look behind the obvious on the high street, online and in the City.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Retail Insider",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "retail",
+        "insights",
+        "industry trends"
+      ]
+    },
+    {
+      "id": "feed:https://xplane.com/feed/",
+      "title": "X Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xplane.com/feed/",
+      "summary": "Read our latest posts on ideas for designing, facilitating, and creating lasting change for people and organizations.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "X Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Writing",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "change management",
+        "leadership",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://www.askamanager.org/feed",
+      "title": "Ask a Manager",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.askamanager.org/feed",
+      "summary": "Not sure what the hell your manager is thinking, how to ask for a raise, whether you might be in danger of getting fired, or more? Ask your workplace questions here.",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "Ask a Manager",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "workplace advice",
+        "management",
+        "career"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/StudyHacks",
+      "title": "Study Hacks - Decoding Patterns of Success - Cal Newport",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/StudyHacks",
+      "summary": "On deep work, success, productivity, work-life balance.",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "Study Hacks",
+      "cleaned_author": "Cal Newport",
+      "tags": [
+        "Money",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "productivity",
+        "work-life balance",
+        "deep work",
+        "success patterns"
+      ]
+    },
+    {
+      "id": "feed:https://mainlymacro.blogspot.com/feeds/posts/default",
+      "title": "mainly macro",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mainlymacro.blogspot.com/feeds/posts/default",
+      "summary": "Comment on macroeconomic issues.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "mainly macro",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "macroeconomic commentary",
+        "economic news",
+        "public spending"
+      ]
+    },
+    {
+      "id": "feed:https://timharford.com/feed/",
+      "title": "Tim Harford | Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://timharford.com/feed/",
+      "summary": "The Undercover Economist.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Tim Harford",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Science",
+        "Finance",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "growth",
+        "Cautionary Tales"
+      ]
+    },
+    {
+      "id": "feed:https://uneasymoney.com/feed/",
+      "title": "Uneasy Money",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://uneasymoney.com/feed/",
+      "summary": "Commentary on monetary policy in the spirit of R. G. Hawtrey.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Uneasy Money",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "monetary policy",
+        "economic theory",
+        "Hawtrey"
+      ]
+    },
+    {
+      "id": "feed:https://financialmechanic.com/feed/",
+      "title": "Financial Mechanic",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://financialmechanic.com/feed/",
+      "summary": "the money tools you need to be set free.",
+      "details": "Original Category: economics -> personal-finance.opml",
+      "cleaned_title": "Financial Mechanic",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal finance",
+        "retirement",
+        "financial readiness"
+      ]
+    },
+    {
+      "id": "feed:https://firevlondon.com/feed/",
+      "title": "FIRE v London",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://firevlondon.com/feed/",
+      "summary": "Financial independence, but in pricey London.",
+      "details": "Original Category: economics -> personal-finance.opml",
+      "cleaned_title": "FIRE v London",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Living",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "financial independence",
+        "London",
+        "housing market"
+      ]
+    },
+    {
+      "id": "feed:https://www.bankeronwheels.com/feed/",
+      "title": "Investing Guides For European And UK Investors",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bankeronwheels.com/feed/",
+      "summary": "This feed provides practical investing guides aimed at European and UK investors, focusing on strategies for smart and cost-effective investing.",
+      "details": "Original Category: economics -> personal-finance.opml",
+      "cleaned_title": "Investing Guides For European And UK Investors",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "investing",
+        "UK investors",
+        "financial guides"
+      ]
+    },
+    {
+      "id": "feed:http://feeds2.feedburner.com/Monevatorcom",
+      "title": "Monevator",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds2.feedburner.com/Monevatorcom",
+      "summary": "From passive investing with index trackers funds to choosing the cheapest investment platform or broker, Monevator is essential reading for all British investors.",
+      "details": "Original Category: economics -> personal-finance.opml",
+      "cleaned_title": "Monevator",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "investment",
+        "retirement",
+        "financial planning"
+      ]
+    },
+    {
+      "id": "feed:https://www.mrmoneymustache.com/feed/",
+      "title": "Mr. Money Mustache",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mrmoneymustache.com/feed/",
+      "summary": "Early Retirement through Badassity.",
+      "details": "Original Category: economics -> personal-finance.opml",
+      "cleaned_title": "Mr. Money Mustache",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "_alternative"
+      ],
+      "language": "en",
+      "keywords": [
+        "early retirement",
+        "frugality",
+        "money management"
+      ]
+    },
+    {
+      "id": "feed:https://awealthofcommonsense.com/feed/",
+      "title": "A Wealth of Common Sense",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://awealthofcommonsense.com/feed/",
+      "summary": "Personal Finance, Investments & Markets.",
+      "details": "Original Category: economics -> personal-finance.opml",
+      "cleaned_title": "A Wealth of Common Sense",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "finance",
+        "investments",
+        "market analysis"
+      ]
+    },
+    {
+      "id": "feed:https://www.bitsaboutmoney.com/archive/rss/",
+      "title": "Bits about Money",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bitsaboutmoney.com/archive/rss/",
+      "summary": "About the modern financial infrastructure that the world sits atop of.",
+      "details": "Original Category: economics -> finance.opml",
+      "cleaned_title": "Bits about Money",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "financial infrastructure",
+        "economics",
+        "finance",
+        "debanking"
+      ]
+    },
+    {
+      "id": "feed:https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+      "title": "Matt Levine - Bloomberg",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+      "summary": "Matt Levine is a Bloomberg Opinion columnist covering finance.",
+      "details": "Original Category: economics -> finance.opml",
+      "cleaned_title": "Matt Levine - Bloomberg",
+      "cleaned_author": "Matt Levine",
+      "tags": [
+        "Money",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "finance",
+        "economic commentary",
+        "investment banking",
+        "Bloomberg"
+      ]
+    },
+    {
+      "id": "feed:https://lethain.com/feeds.xml",
+      "title": "Irrational Exuberance",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lethain.com/feeds.xml",
+      "summary": "I\u2019m a writer and a software engineering leader.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Irrational Exuberance",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Software Design",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "engineering strategy",
+        "software development",
+        "data management"
+      ]
+    },
+    {
+      "id": "feed:https://www.rubick.com/rss.xml",
+      "title": "Jade Rubick - Rubick.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.rubick.com/rss.xml",
+      "summary": "Jade Rubick.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Jade Rubick - Rubick.com",
+      "cleaned_author": "Jade Rubick",
+      "tags": [
+        "Money",
+        "Finance",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "business management",
+        "team collaboration",
+        "cross-functional teams"
+      ]
+    },
+    {
+      "id": "feed:https://davidgerard.co.uk/blockchain/feed/",
+      "title": "Attack of the 50 Foot Blockchain",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidgerard.co.uk/blockchain/feed/",
+      "summary": "Blockchain and cryptocurrency news and analysis by David Gerard.",
+      "details": "Original Category: economics -> economics -> cryptocurrencies.opml",
+      "cleaned_title": "Attack of the 50 Foot Blockchain",
+      "cleaned_author": "David Gerard",
+      "tags": [
+        "Money",
+        "Finance",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "blockchain",
+        "cryptocurrency",
+        "economic analysis"
+      ]
+    },
+    {
+      "id": "feed:https://actuaries.blog.gov.uk/feed/",
+      "title": "Actuaries in government",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://actuaries.blog.gov.uk/feed/",
+      "summary": "News and updates from the Government Actuary's Department.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "Actuaries in government",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Money",
+        "Data",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "actuaries",
+        "government",
+        "pensions"
+      ]
+    },
+    {
+      "title": "DTF: \u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0437\u0430 \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u044f",
+      "popularity_score": 2.8511904761904763,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://dtf.ru/rss/all",
+      "kind": "feed",
+      "id": "feed:https://dtf.ru/rss/all",
+      "cleaned_title": "DTF",
+      "cleaned_author": null,
+      "summary": "A Russian-language source discussing business, technology trends, and ideas for growth and innovation.",
+      "tags": [
+        "Tech",
+        "Money",
+        "Finance",
+        "Ventures"
+      ],
+      "language": "ru",
+      "keywords": [
+        "business",
+        "technology",
+        "growth"
+      ]
+    }
+  ],
+  "child_categories": [
+    {
+      "id": "stocks",
+      "display_name": "Stocks",
+      "emoji": "\ud83d\udcc8",
+      "sfSymbol": "chart.line.uptrend.xyaxis",
+      "count": 10
+    },
+    {
+      "id": "real_estate",
+      "display_name": "Real Estate",
+      "emoji": "\ud83c\udfe2",
+      "sfSymbol": "building",
+      "count": 15
+    },
+    {
+      "id": "finance",
+      "display_name": "Finance",
+      "emoji": "\ud83d\udcb5",
+      "sfSymbol": "creditcard",
+      "count": 67
+    },
+    {
+      "id": "ventures",
+      "display_name": "Ventures",
+      "emoji": "\ud83d\ude80",
+      "sfSymbol": "arrow.up.right",
+      "count": 7
+    },
+    {
+      "id": "money",
+      "display_name": "Money",
+      "emoji": "\ud83d\udcb0",
+      "sfSymbol": "dollarsign.circle",
+      "count": 90
+    }
+  ]
+}

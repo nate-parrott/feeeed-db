@@ -1,0 +1,402 @@
+{
+  "id": "poetry",
+  "display_name": "Poetry",
+  "feeds": [
+    {
+      "id": "substack:top:astro_poets",
+      "title": "Astro Poets",
+      "cleaned_title": "Astro Poets",
+      "summary": "A unique blend of poetry and astrology, offering horoscopes and contemplative insights for the mystical and artistic.",
+      "kind": "feed",
+      "feed_url": "https://www.theastropoets.com/feed",
+      "details": "Original category: Substack top newsletters about literature",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Poetry",
+        "Astronomy"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "astrology",
+        "poetry"
+      ]
+    },
+    {
+      "id": "feed:https://8sided.blog/feed/",
+      "title": "8Sided Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://8sided.blog/feed/",
+      "summary": "a zine about sound, culture, and the punk rock dream.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "8Sided Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "punk rock",
+        "sound culture",
+        "zine"
+      ]
+    },
+    {
+      "id": "feed:https://blackhandinn2.blogspot.com/feeds/posts/default",
+      "title": "Black Hand Inn",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blackhandinn2.blogspot.com/feeds/posts/default",
+      "summary": "This is a place you can find some links of metal, punk, hardcore albums, old and new.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "Black Hand Inn",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal",
+        "punk",
+        "hardcore",
+        "albums"
+      ]
+    },
+    {
+      "id": "feed:https://italianpoetry.it/poems/index.xml",
+      "title": "Italian poetry for English speakers",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://italianpoetry.it/poems/index.xml",
+      "summary": "Aims to facilitate the appreciation of Italian poetry by English speakers who don't speak Italian.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Italian poetry for English speakers",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "Italian poetry",
+        "poems",
+        "reading",
+        "study tools",
+        "English speakers"
+      ]
+    },
+    {
+      "id": "feed:https://jasonpreu.com/feed/",
+      "title": "Jason Preu",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jasonpreu.com/feed/",
+      "summary": "Devious Bloggery.",
+      "details": "Original Category: arts -> books -> poetry.opml",
+      "cleaned_title": "Jason Preu",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "blog",
+        "literature",
+        "poetry",
+        "musings",
+        "comments"
+      ]
+    },
+    {
+      "id": "feed:https://www.davidralphlewis.co.uk/feed.xml",
+      "title": "David Ralph Lewis",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.davidralphlewis.co.uk/feed.xml",
+      "summary": "Poet and Writer from Bristol UK.",
+      "details": "Original Category: arts -> books -> writing.opml",
+      "cleaned_title": "David Ralph Lewis",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "poetry",
+        "Bristol",
+        "writer",
+        "contemporary themes"
+      ]
+    },
+    {
+      "id": "feed:https://boakandbailey.com/feed/",
+      "title": "Boak & Bailey's Beer Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://boakandbailey.com/feed/",
+      "summary": "UK beer blog running since 2007, with tasting notes, beer history, pub reports and commentary on British booze culture.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Boak & Bailey's Beer Blog",
+      "cleaned_author": "Boak & Bailey",
+      "tags": [
+        "Living",
+        "Science",
+        "Drinks",
+        "Restaurants",
+        "UK",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "craft beer",
+        "real ale",
+        "pub culture",
+        "beer history"
+      ]
+    },
+    {
+      "id": "feed:http://realpubsuk.blogspot.com/feeds/posts/default",
+      "title": "Campaign for Real Pubs",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://realpubsuk.blogspot.com/feeds/posts/default",
+      "summary": "They can still be found if you know where to look...",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Campaign for Real Pubs",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Poetry",
+        "Restaurants",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "real pubs",
+        "British pubs",
+        "local drinking"
+      ]
+    },
+    {
+      "id": "feed:https://micropubadventures.co.uk/feed/",
+      "title": "Micropub Adventures",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://micropubadventures.co.uk/feed/",
+      "summary": "Micropubs, Breweries, Pubs and more\u2026\u2026.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Micropub Adventures",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Restaurants",
+        "Poetry",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "micropubs",
+        "breweries"
+      ]
+    },
+    {
+      "id": "feed:http://propupthebar.blogspot.com/feeds/posts/default",
+      "title": "Prop Up the Bar",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://propupthebar.blogspot.com/feeds/posts/default",
+      "summary": "Travelling the land looking for the perfect pub.  Then wondering what the one around the corner is like...",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Prop Up the Bar",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Restaurants",
+        "Poetry",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "pub crawls",
+        "local experiences"
+      ]
+    },
+    {
+      "id": "feed:https://pubcurmudgeon.blogspot.com/feeds/posts/default",
+      "title": "The Pub Curmudgeon",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pubcurmudgeon.blogspot.com/feeds/posts/default",
+      "summary": "A jaundiced view of life from the darkest recess of the saloon bar...",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "The Pub Curmudgeon",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Restaurants",
+        "Poetry",
+        "Drinks"
+      ],
+      "language": "en",
+      "keywords": [
+        "pubs",
+        "culture",
+        "beer"
+      ]
+    },
+    {
+      "id": "feed:https://pubhistoryproject.co.uk/feed/",
+      "title": "Pub History Project \u2013 Leicester",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pubhistoryproject.co.uk/feed/",
+      "summary": "History and Beer.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Pub History Project \u2013 Leicester",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Restaurants",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "pub history",
+        "Leicester",
+        "beer"
+      ]
+    },
+    {
+      "id": "feed:https://chrisdyson55.blogspot.com/feeds/posts/default",
+      "title": "Real Ale, Real Music",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chrisdyson55.blogspot.com/feeds/posts/default",
+      "summary": "A celebration of the intersection of real ale and music, featuring highlights from various locations and events.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Real Ale, Real Music",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Restaurants",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "real ale",
+        "live music",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:https://retiredmartin.com/feed/",
+      "title": "retiredmartin",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://retiredmartin.com/feed/",
+      "summary": "On permanent exploration of places, pubs, people and new music.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "retiredmartin",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Poetry",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "pub culture",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/Blog-WillHawkes",
+      "title": "Will Hawkes \u2014 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/Blog-WillHawkes",
+      "summary": "Beer, food and travel journalist.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Will Hawkes \u2014 Blog",
+      "cleaned_author": "Will Hawkes",
+      "tags": [
+        "Living",
+        "Restaurants",
+        "Poetry",
+        "Drinks"
+      ],
+      "language": "en",
+      "keywords": [
+        "pubs",
+        "food",
+        "travel"
+      ]
+    },
+    {
+      "id": "feed:https://thebeernut.blogspot.com/feeds/posts/default",
+      "title": "The Beer Nut",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thebeernut.blogspot.com/feeds/posts/default",
+      "summary": "Why is that man photographing his pint?",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "The Beer Nut",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Drinks",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer culture",
+        "reviews",
+        "tasting"
+      ]
+    }
+  ],
+  "child_categories": []
+}

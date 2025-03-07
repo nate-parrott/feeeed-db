@@ -1,0 +1,1708 @@
+{
+  "id": "movies",
+  "display_name": "Movies",
+  "feeds": [
+    {
+      "title": "r/movies",
+      "popularity_score": 3.73345574884744,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "movies",
+      "kind": "reddit",
+      "id": "reddit:movies",
+      "cleaned_title": "r/movies",
+      "cleaned_author": null,
+      "summary": "A vibrant subreddit dedicated to discussions and news about films. It serves as a community hub for movie lovers to share thoughts and insights on the latest releases and industry happenings.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "movies",
+        "discussion",
+        "film news",
+        "Osgood Perkins"
+      ]
+    },
+    {
+      "id": "youtube:CinemaSins",
+      "cleaned_title": "CinemaSins",
+      "summary": "A YouTube channel that humorously points out the flaws and sins in movies.",
+      "title": "CinemaSins",
+      "kind": "youtube",
+      "channel_id": "UCYUQQgogVeQY8cMQamhHJcg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOKO4hJWaXgPHAKKEDqm61NtI8iC17O2Ak0iyy_sQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Movies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "movies",
+        "film criticism",
+        "humor",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:vulture.com:Vulture",
+      "cleaned_title": "Vulture",
+      "summary": "An entertainment website that covers movies, TV shows, music, and more, with a focus on pop culture.",
+      "title": "Vulture",
+      "kind": "feed",
+      "feed_url": "https://www.vulture.com/feeds/flipboard.rss",
+      "details": "Original category: Entertainment",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.502222203337979,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment",
+        "Movies",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "entertainment",
+        "recaps",
+        "pop culture"
+      ]
+    },
+    {
+      "id": "youtube:Screen Junkies",
+      "cleaned_title": "Screen Junkies",
+      "summary": "A YouTube channel that offers movie and TV show reviews, honest trailers, and entertaining discussions.",
+      "title": "Screen Junkies",
+      "kind": "youtube",
+      "channel_id": "UCOpcACMWblDls9Z6GERVi1A",
+      "thumbnail_url": "https://yt3.ggpht.com/TkwJQBfOe-sI_sws8ON0ddevuxmbYQ4Ya-n54eLyTu-1BVjBMtbi6kBYv_DsaS8lf-Q1RCjC=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "movie reviews",
+        "TV shows",
+        "honest trailers",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "reddit:television",
+      "cleaned_title": "television",
+      "summary": "A subreddit dedicated to discussions, news, and recommendations about TV shows.",
+      "title": "television",
+      "kind": "reddit",
+      "subreddit": "television",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV shows",
+        "television discussions",
+        "show recommendations"
+      ]
+    },
+    {
+      "id": "feed:variety.com:Variety",
+      "cleaned_title": "Variety",
+      "summary": "A leading entertainment news source that covers movies, TV shows, music, and more.",
+      "title": "Variety",
+      "kind": "feed",
+      "feed_url": "http://variety.com/feed/",
+      "details": "Original category: Arts -> Film & TV",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "entertainment news",
+        "movies",
+        "TV shows",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:/Film",
+      "cleaned_title": "/Film",
+      "summary": "A website that covers film and TV news, reviews, interviews, and features, with a focus on genre and blockbuster films.",
+      "title": "/Film",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/slashfilm",
+      "details": "Original category: Arts -> Film & TV",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "film",
+        "TV",
+        "reviews",
+        "interviews",
+        "blockbusters"
+      ]
+    },
+    {
+      "id": "youtube:Chris Stuckmann",
+      "cleaned_title": "Chris Stuckmann",
+      "summary": "A YouTube channel hosted by film critic Chris Stuckmann. He provides insightful reviews, analysis, and discussions about movies, covering a wide range of genres and eras.",
+      "title": "Chris Stuckmann",
+      "kind": "youtube",
+      "channel_id": "UCCqEeDAUf4Mg0GgEN658tkA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNmr8bmyDj1i6XGnvarUe0IGhClo1DoSyJ26qlf=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Movies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Chris Stuckmann",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "movie analysis",
+        "cinema"
+      ]
+    },
+    {
+      "id": "feed:movieenthusiast.substack.com: Movie Enthusiast ",
+      "cleaned_title": "Movie Enthusiast",
+      "summary": "Movie Enthusiast delivers a unique perspective on film through monthly critiques and discussions, capturing the essence of cinema from a thoughtful, D.C.-based viewpoint.",
+      "title": " Movie Enthusiast ",
+      "kind": "feed",
+      "feed_url": "https://movieenthusiast.substack.com/feed",
+      "details": "Original category: Entertainment -> Movies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film criticism",
+        "monthly reviews",
+        "independent cinema"
+      ]
+    },
+    {
+      "id": "feed:movienight.ink:Movie Night",
+      "cleaned_title": "Movie Night",
+      "summary": "A free weekly newsletter offering handpicked film recommendations, celebrating movies that are particularly noteworthy and deserving of attention.",
+      "title": "Movie Night",
+      "kind": "feed",
+      "feed_url": "https://www.movienight.ink/feed",
+      "details": "Original category: Entertainment -> Movies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film recommendations",
+        "weekly newsletter"
+      ]
+    },
+    {
+      "id": "feed:screencrush.com:ScreenCrush",
+      "cleaned_title": "ScreenCrush",
+      "summary": "ScreenCrush provides the latest updates and analysis from the world of movies, covering notable news stories and features related to the film industry.",
+      "title": "ScreenCrush",
+      "kind": "feed",
+      "feed_url": "https://screencrush.com/feed/",
+      "details": "Original category: Entertainment -> Movies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "movie news",
+        "film updates",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:moviemom.com:Movie Mom",
+      "cleaned_title": "Movie Mom",
+      "summary": "Movie Mom offers a parent's perspective on film and media, discussing cultural values and age appropriateness for family viewing.",
+      "title": "Movie Mom",
+      "kind": "feed",
+      "feed_url": "https://moviemom.com/feed/",
+      "details": "Original category: Entertainment -> Movies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "parenting",
+        "family movies",
+        "film reviews"
+      ]
+    },
+    {
+      "id": "feed:moviesfilmsandflix.com:Movies, Films & Flix",
+      "cleaned_title": "Movies, Films & Flix",
+      "summary": "Movies, Films & Flix dives into film analysis with a playful tone, focusing on unique discussions and insights surrounding contemporary cinema.",
+      "title": "Movies, Films & Flix",
+      "kind": "feed",
+      "feed_url": "https://moviesfilmsandflix.com/feed/",
+      "details": "Original category: Entertainment -> Movies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film podcasts",
+        "movie discussions"
+      ]
+    },
+    {
+      "id": "feed:marketingmovies.net:Marketing Movies",
+      "cleaned_title": "Marketing Movies",
+      "summary": "A source for updates and insights on film marketing trends and news.",
+      "title": "Marketing Movies",
+      "kind": "feed",
+      "feed_url": "https://marketingmovies.net/feed/",
+      "details": "Original category: Entertainment -> Movies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film marketing",
+        "movie news",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "youtube:Emergency Awesome",
+      "cleaned_title": "Emergency Awesome",
+      "summary": "Emergency Awesome is a YouTube channel that covers TV show news, theories, and breakdowns, with a focus on popular shows like Game of Thrones, The Walking Dead, and more.",
+      "title": "Emergency Awesome",
+      "kind": "youtube",
+      "channel_id": "UCDiFRMQWpcp8_KD4vwIVicw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPfREsnJHF_OeWRoRbFXEYAijjc4vtMB0yoxd0m3g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV theories",
+        "show breakdowns",
+        "pop culture"
+      ]
+    },
+    {
+      "id": "youtube:Watcher",
+      "cleaned_title": "Watcher",
+      "summary": "The Watcher is a YouTube channel hosted by TV critic and journalist Alan Sepinwall, who shares reviews, analysis, and interviews about TV shows.",
+      "title": "Watcher",
+      "kind": "youtube",
+      "channel_id": "UCircJf-FlToBNjuy9xG-i5A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNjov7HhTW1BG5vPD8BAXPd0O1bxQuFCrqytuY=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV analysis",
+        "TV reviews",
+        "shows"
+      ]
+    },
+    {
+      "id": "reddit:Netflix",
+      "cleaned_title": "Netflix",
+      "summary": "A subreddit dedicated to Netflix, where users discuss and recommend TV shows available on the streaming platform.",
+      "title": "Netflix",
+      "kind": "reddit",
+      "subreddit": "Netflix",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Netflix discussions",
+        "show recommendations",
+        "streaming"
+      ]
+    },
+    {
+      "id": "feed:https://www.newsfromme.com/feed/",
+      "title": "News From ME",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.newsfromme.com/feed/",
+      "summary": "About TV, movies, theatre, comics, news, politics and other forms of fantasy.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "News From ME",
+      "cleaned_author": "Mark Evanier",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Theater",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "Mark Evanier",
+        "TV",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:https://wearecult.rocks/feed",
+      "title": "We Are Cult",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://wearecult.rocks/feed",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "We Are Cult",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to cult media, offering reviews, interviews, and news about events in the cult scene.",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "cult movies",
+        "reviews",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:http://anthonybalducci.blogspot.com/feeds/posts/default",
+      "title": "Anthony Balducci's Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://anthonybalducci.blogspot.com/feeds/posts/default",
+      "summary": "A personal journal that reflects on various cinematic topics, exploring both classic and contemporary films.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Anthony Balducci's Journal",
+      "cleaned_author": "Anthony Balducci",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film",
+        "cinema",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:http://punkeinfilm.blogspot.com/feeds/posts/default",
+      "title": "Apocalypse Now",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://punkeinfilm.blogspot.com/feeds/posts/default",
+      "summary": "It's alright! It's alright! It's all been approved! I'm an American!",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Apocalypse Now",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film analysis",
+        "awards"
+      ]
+    },
+    {
+      "id": "feed:https://blast-o-rama.com/feed.xml",
+      "title": "blast-o-rama.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blast-o-rama.com/feed.xml",
+      "summary": "blast-o-rama is the online home of Marty Day.",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "blast-o-rama.",
+      "cleaned_author": "Marty Day",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://blast-o-rama.com/feed.xml",
+      "title": "blast-o-rama.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blast-o-rama.com/feed.xml",
+      "summary": "blast-o-rama is the online home of Marty Day.",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "blast-o-rama.",
+      "cleaned_author": "Marty Day",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://thefilmexperience.net/blog/atom.xml",
+      "title": "Blog - The Film Experience",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thefilmexperience.net/blog/atom.xml",
+      "summary": "Awards, Actresses and Cinematic Musings.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Blog - The Film Experience",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Academia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "film awards",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:https://deeperintomovies.net/journal/feed",
+      "title": "Brandon's movie memory \u2013 Deeper Into Movies",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://deeperintomovies.net/journal/feed",
+      "summary": "This is not film criticism, just my thoughts on what I\u2019ve watched, how I felt about it, and what other interesting information and opinion I found elsewhere.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Brandon's movie memory \u2013 Deeper Into Movies",
+      "cleaned_author": "Brandon",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film thoughts",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:https://breakfastintheruins.blogspot.com/feeds/posts/default?alt=rss",
+      "title": "Breakfast In The Ruins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://breakfastintheruins.blogspot.com/feeds/posts/default?alt=rss",
+      "summary": "Far Out Isn't Far Enough.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Breakfast In The Ruins",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "film history",
+        "film critiques"
+      ]
+    },
+    {
+      "id": "feed:https://www.cartoonbrew.com/feed",
+      "title": "Cartoon Brew",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cartoonbrew.com/feed",
+      "summary": "Animation News, Animated Cartoons.",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Cartoon Brew",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "animation news",
+        "cartoons"
+      ]
+    },
+    {
+      "id": "feed:https://awfj.org/cinema-citizen/feed/",
+      "title": "Cinema Citizen",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://awfj.org/cinema-citizen/feed/",
+      "summary": "An AWFJ blog by Jennifer Merin.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Cinema Citizen",
+      "cleaned_author": "Jennifer Merin",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "documentary"
+      ]
+    },
+    {
+      "id": "feed:http://cinemasparagus.blogspot.com/feeds/posts/default",
+      "title": "Cinemasparagus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://cinemasparagus.blogspot.com/feeds/posts/default",
+      "summary": "writings by craig keller.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Cinemasparagus",
+      "cleaned_author": "Craig Keller",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://cinematiccatharsis.blogspot.com/feeds/posts/default",
+      "title": "Cinematic Catharsis",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://cinematiccatharsis.blogspot.com/feeds/posts/default",
+      "summary": "Reflections on film from a pseudo-intellectual perspective.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Cinematic Catharsis",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://crazywalls.tumblr.com/rss",
+      "title": "Crazy Walls",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://crazywalls.tumblr.com/rss",
+      "summary": "Yarn time!",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Crazy Walls",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://criticafterdark.blogspot.com/feeds/posts/default",
+      "title": "Critic After Dark",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://criticafterdark.blogspot.com/feeds/posts/default",
+      "summary": "Filipino films, Hollywood, science fiction, fantasy, action, horror, comedy, French, Korean, Chinese, silent, DVD, streaming, other bizarre creatures.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Critic After Dark",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://adarkhighway.com/feed/",
+      "title": "Dark Highways",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://adarkhighway.com/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Dark Highways",
+      "cleaned_author": null,
+      "summary": "A collection of reflections on various films, highlighting favorites across different eras.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://denersteinunleashed.blogspot.com/feeds/posts/default",
+      "title": "Denerstein Unleashed",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://denersteinunleashed.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Denerstein Unleashed",
+      "cleaned_author": null,
+      "summary": "Explores Rocky Mountain cinema with thoughtful reviews and insights on films for discerning audiences.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://derrickbang.blogspot.com/feeds/posts/default",
+      "title": "Derrick Bang on Film",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://derrickbang.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Derrick Bang on Film",
+      "cleaned_author": "Derrick Bang",
+      "summary": "Insightful commentary and critiques on various films, blending humor and in-depth analysis.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://disneyweirdness.blogspot.com/feeds/posts/default",
+      "title": "Disney Weirdness",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://disneyweirdness.blogspot.com/feeds/posts/default",
+      "summary": "It's a weird world after all.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Disney Weirdness",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://laurasmiscmusings.blogspot.com/feeds/posts/default",
+      "title": "Laura's Miscellaneous Musings",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://laurasmiscmusings.blogspot.com/feeds/posts/default",
+      "summary": "Miscellaneous Musings on Classic Films and Disney.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Laura's Miscellaneous Musings",
+      "cleaned_author": "Laura",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "Disney",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:https://leonardmaltin.com/feed/",
+      "title": "Leonard Maltin's Movie Crazy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://leonardmaltin.com/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Leonard Maltin's Movie Crazy",
+      "cleaned_author": "Leonard Maltin",
+      "summary": "A blog curated by film critic Leonard Maltin, covering a wide range of movies from recent releases to classic favorites and insightful updates on film culture.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film",
+        "reviews",
+        "movie news",
+        "DVD releases"
+      ]
+    },
+    {
+      "id": "feed:https://them0vieblog.com/feed/",
+      "title": "the m0vie blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://them0vieblog.com/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "the m0vie blog",
+      "cleaned_author": "N/A",
+      "summary": "An indie film blog offering a unique perspective on cinema from an Irish nerd's viewpoint, focusing on various films with a creative twist.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "Irish cinema",
+        "film reviews",
+        "independent film"
+      ]
+    },
+    {
+      "id": "feed:https://monsterzone.org/feed/",
+      "title": "Monster Zone",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://monsterzone.org/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Monster Zone",
+      "cleaned_author": "N/A",
+      "summary": "Dedicated to exploring every aspect of monster movies and their cultural significance, from classic creatures to contemporary threats.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "monsters",
+        "horror films",
+        "pop culture"
+      ]
+    },
+    {
+      "id": "feed:https://moviecrashcourse.com/feed/",
+      "title": "The Movie Crash Course",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://moviecrashcourse.com/feed/",
+      "summary": "\u2026watching all of the movies that have ever been in any version of the 1001 movies list, in order, and reviewing them.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "The Movie Crash Course",
+      "cleaned_author": "N/A",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "classic movies",
+        "1001 movies"
+      ]
+    },
+    {
+      "id": "feed:https://mubi.com/notebook/posts.rss",
+      "title": "MUBI | Notebook",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mubi.com/notebook/posts.rss",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "MUBI | Notebook",
+      "cleaned_author": "N/A",
+      "summary": "A digital publication delving into international cinema, featuring critical essays and reflections on film culture from diverse perspectives.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film culture",
+        "cinema criticism",
+        "international films"
+      ]
+    },
+    {
+      "id": "feed:https://www.davidbordwell.net/blog/feed/",
+      "title": "Observations on film art",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.davidbordwell.net/blog/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Observations on film art",
+      "cleaned_author": "N/A",
+      "summary": "An insightful blog that reflects on various aspects of film art, from notable films to the film industry, providing meaningful analyses and commentary.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film analysis",
+        "film art",
+        "cinema insights"
+      ]
+    },
+    {
+      "id": "feed:https://prolost.com/blog?format=rss",
+      "title": "Prolost",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://prolost.com/blog?format=rss",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Prolost",
+      "cleaned_author": "N/A",
+      "summary": "A blog aimed at filmmakers, offering innovative tips and technology insights for enhancing the filmmaking process with a focus on tech tools.",
+      "tags": [
+        "Tech",
+        "Movies",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "filmmaking",
+        "technology",
+        "iPhone filmmaking"
+      ]
+    },
+    {
+      "id": "feed:https://scifiinterfaces.com/feed/",
+      "title": "Sci-fi interfaces | Stop watching sci-fi. Start using it.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scifiinterfaces.com/feed/",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Sci-fi interfaces",
+      "cleaned_author": "N/A",
+      "summary": "A unique blog that bridges the gap between science fiction and practical applications, encouraging readers to utilize concepts from sci-fi in the real world.",
+      "tags": [
+        "Tech",
+        "Movies",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "sci-fi technology",
+        "futuristic design",
+        "film tech"
+      ]
+    },
+    {
+      "id": "feed:https://dcairns.wordpress.com/feed/",
+      "title": "shadowplay",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dcairns.wordpress.com/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "shadowplay",
+      "cleaned_author": "David Cairns",
+      "summary": "This blog features thoughtful reflections on film, including critiques and explorations of cinematic themes. Cairns brings a keen eye to both classic and contemporary cinema.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film",
+        "cinema",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://extension765.com/blogs/soderblog.atom",
+      "title": "Soderblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://extension765.com/blogs/soderblog.atom",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Soderblog",
+      "cleaned_author": null,
+      "summary": "Soderblog compiles insights and musings related to film, with particular emphasis on significant cultural moments in cinema over the years.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film",
+        "reviews",
+        "cinema"
+      ]
+    },
+    {
+      "id": "feed:https://thestopbutton.com/feed/",
+      "title": "The Stop Button",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thestopbutton.com/feed/",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "The Stop Button",
+      "cleaned_author": "Andrew Wickliffe",
+      "summary": "Andrew Wickliffe's blog provides a critical lens on both television and film, exploring recent releases and offering concise reviews and commentary on the entertainment landscape.",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "reviews",
+        "TV",
+        "movies"
+      ]
+    },
+    {
+      "id": "feed:https://blog.trekcore.com/feed/",
+      "title": "TrekCore",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.trekcore.com/feed/",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "TrekCore",
+      "cleaned_author": null,
+      "summary": "TrekCore is a dedicated portal for all Star Trek fans, delivering comprehensive news, updates, and discussions around Blu-Rays, soundtracks, and the latest in Star Trek gaming.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "Star Trek",
+        "Blu-Ray",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:https://awfj.org/week-in-women/feed/",
+      "title": "The Week in Women | an AWFJ blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://awfj.org/week-in-women/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "The Week in Women",
+      "cleaned_author": "Brandy McDonnell",
+      "summary": "This blog by Brandy McDonnell highlights significant stories and achievements in film related to women, from casting news to festival accolades.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "women in film",
+        "news",
+        "celebrity"
+      ]
+    },
+    {
+      "id": "feed:https://www.worldofreel.com/blog?format=rss",
+      "title": "World of Reel",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.worldofreel.com/blog?format=rss",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "World of Reel",
+      "cleaned_author": null,
+      "summary": "World of Reel offers up-to-the-minute news and insights from the film industry, featuring early reactions and commentary on major upcoming projects and celebrity happenings.",
+      "tags": [
+        "Arts & Culture",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "film news",
+        "reviews",
+        "celebrity"
+      ]
+    },
+    {
+      "id": "feed:https://www.classicfilmtvcafe.com/feeds/posts/default",
+      "title": "Classic Film and TV Caf\u00e9",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.classicfilmtvcafe.com/feeds/posts/default",
+      "summary": "Devoted to classic movies and television series, ranging from the silent film era to the 1980s.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Classic Film and TV Caf\u00e9",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "television",
+        "silent era",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:http://www.theincredibleinman.com/feeds/posts/default",
+      "title": "The Incredible Inman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.theincredibleinman.com/feeds/posts/default",
+      "summary": "Writeups About Show Biz Stuff, Old-Timey and Otherwise.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "The Incredible Inman",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "show business",
+        "classic films",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:https://loureviews.blog/feed/",
+      "title": "LouReviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://loureviews.blog/feed/",
+      "summary": "London theatre - films, books, digital shows worldwide.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "LouReviews",
+      "cleaned_author": "Lou",
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "London theatre",
+        "film reviews",
+        "book critiques"
+      ]
+    },
+    {
+      "id": "feed:http://clamba.blogspot.com/feeds/posts/default",
+      "title": "Classic Movie Blog Association",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://clamba.blogspot.com/feeds/posts/default",
+      "summary": "The best blogs about classic film on the internet.",
+      "details": "Original Category: technology -> internet -> blogging.opml",
+      "cleaned_title": "Classic Movie Blog Association",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "movie blogs",
+        "cinema history"
+      ]
+    },
+    {
+      "id": "feed:https://www.classicmoviehub.com/blog/feed/",
+      "title": "Classic Movie Hub Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.classicmoviehub.com/blog/feed/",
+      "summary": "Watching Classic Movies and Lovin\u2019 Every Minute of It!",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Classic Movie Hub Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic movies",
+        "film reviews",
+        "classic cinema"
+      ]
+    },
+    {
+      "id": "feed:https://grandoldmovies.wordpress.com/feed/",
+      "title": "Grand Old Movies",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://grandoldmovies.wordpress.com/feed/",
+      "summary": "Blogging about Hollywood's golden-age films.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Grand Old Movies",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "golden age of Hollywood",
+        "film history",
+        "classic cinema"
+      ]
+    },
+    {
+      "id": "feed:https://greenbriarpictureshows.blogspot.com/feeds/posts/default",
+      "title": "Greenbriar Picture Shows",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://greenbriarpictureshows.blogspot.com/feeds/posts/default",
+      "summary": "Classic movie site with rare images (no web grabs!), original ads, and behind-the-scenes photos, with informative and insightful commentary.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Greenbriar Picture Shows",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "movie history",
+        "film commentary"
+      ]
+    },
+    {
+      "id": "feed:https://hometownstohollywood.com/feed/",
+      "title": "Hometowns to Hollywood",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hometownstohollywood.com/feed/",
+      "summary": "Exploring the hometowns and legacies of Hollywood's Golden Age stars.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Hometowns to Hollywood",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hollywood history",
+        "celebrity hometowns",
+        "legacy of stars"
+      ]
+    },
+    {
+      "id": "feed:https://thelastdrivein.com/feed/",
+      "title": "The Last Drive In",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thelastdrivein.com/feed/",
+      "summary": "The blog\u2019s atmosphere is one of nostalgia for those golden days when Silver Screen met tube with dials overflowing with memorable actors, writers, directors, and visionaries.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "The Last Drive In",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "nostalgia",
+        "classic cinema",
+        "film analysis"
+      ]
+    },
+    {
+      "id": "feed:https://nitrateglow.wordpress.com/feed/",
+      "title": "nitrateglow",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nitrateglow.wordpress.com/feed/",
+      "summary": "I like to viddy the old films now and then.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "nitrateglow",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "classic cinema",
+        "movie discussions"
+      ]
+    },
+    {
+      "id": "feed:https://www.outofthepastblog.com/feeds/posts/default",
+      "title": "Out of the Past",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.outofthepastblog.com/feeds/posts/default",
+      "summary": "A blog about classic film, old Hollywood stars, actors and actresses, directors, books about stars and movies and much more.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Out of the Past",
+      "cleaned_author": "Raquel",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "Hollywood stars",
+        "movie reviews",
+        "film history"
+      ]
+    },
+    {
+      "id": "feed:https://shadowsandsatin.wordpress.com/feed/",
+      "title": "shadowsandsatin",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shadowsandsatin.wordpress.com/feed/",
+      "summary": "where the worlds of film noir and pre-code collide.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "shadowsandsatin",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "film noir",
+        "pre-code films",
+        "movie analysis"
+      ]
+    },
+    {
+      "id": "feed:https://silverscenesblog.blogspot.com/feeds/posts/default",
+      "title": "Silver Scenes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silverscenesblog.blogspot.com/feeds/posts/default",
+      "summary": "Covering the world of classic movies from the silents to the mid 1960s via bios, movie reviews, rare photos and fun trivia.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Silver Scenes",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic movies",
+        "film trivia",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:https://silverscreenings.org/feed/",
+      "title": "Silver Screenings",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silverscreenings.org/feed/",
+      "summary": "Ruth's Old Movie Reviews.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Silver Screenings",
+      "cleaned_author": "Ruth",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic film reviews",
+        "old movies",
+        "film insights"
+      ]
+    },
+    {
+      "id": "feed:http://greatentertainersarchives.blogspot.com/feeds/posts/default",
+      "title": "A TRIP DOWN MEMORY LANE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://greatentertainersarchives.blogspot.com/feeds/posts/default",
+      "summary": "A nostalgic journey to the past to relive the golden days of entertainment!",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "A Trip Down Memory Lane",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "nostalgia",
+        "entertainment",
+        "classic films",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://silentlocations.com/feed/",
+      "title": "Chaplin-Keaton-Lloyd film locations (and more)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silentlocations.com/feed/",
+      "summary": "by John Bengtson \"the great detective of silent film locations\" New York Times.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Chaplin-Keaton-Lloyd Film Locations",
+      "cleaned_author": "John Bengtson",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent film",
+        "film locations",
+        "Charlie Chaplin",
+        "Buster Keaton"
+      ]
+    },
+    {
+      "id": "feed:https://gracekingsley.wordpress.com/feed/",
+      "title": "Grace Kingsley's Hollywood",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gracekingsley.wordpress.com/feed/",
+      "summary": "One hundred year old news and gossip, compiled by Lisle Foote.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Grace Kingsley's Hollywood",
+      "cleaned_author": "Lisle Foote",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hollywood history",
+        "gossip",
+        "silent era",
+        "Grace Kingsley"
+      ]
+    },
+    {
+      "id": "feed:http://silentfilmlivemusic.blogspot.com/feeds/posts/default",
+      "title": "Jeff Rapsis / Silent Film Music",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://silentfilmlivemusic.blogspot.com/feeds/posts/default",
+      "summary": "Chronicling the ongoing adventure of staging silent film screenings with live music in theaters in New England, USA and elsewhere.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Jeff Rapsis / Silent Film Music",
+      "cleaned_author": "Jeff Rapsis",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent film screenings",
+        "live music",
+        "film music",
+        "New England"
+      ]
+    },
+    {
+      "id": "feed:https://moviessilently.com/feed/",
+      "title": "Movies Silently",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://moviessilently.com/feed/",
+      "summary": "Celebrate Silent Film.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Movies Silently",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent films",
+        "film reviews",
+        "classic cinema"
+      ]
+    },
+    {
+      "id": "feed:https://silentlondon.co.uk/feed/",
+      "title": "Silent London",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silentlondon.co.uk/feed/",
+      "summary": "A place for people who love silent film.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Silent London",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent film community",
+        "film polls",
+        "silent cinema news"
+      ]
+    },
+    {
+      "id": "feed:https://silentology.wordpress.com/feed/",
+      "title": "Silent-ology",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silentology.wordpress.com/feed/",
+      "summary": "Uncovering the silent era.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Silent-ology",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent era",
+        "film history",
+        "movie rediscovery"
+      ]
+    },
+    {
+      "id": "feed:https://peoplevsarbuckle.com/feed/",
+      "title": "Spite Work: The Trials of Virginia Rappe and Fatty Arbuckle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://peoplevsarbuckle.com/feed/",
+      "summary": "A reconsideration of the Fatty Arbuckle case of 1921-22 and the life and death of the victim, Virginia Rappe.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Spite Work: The Trials of Virginia Rappe and Fatty Arbuckle",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "Crime",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fatty Arbuckle",
+        "Virginia Rappe",
+        "Hollywood scandals",
+        "silent film history"
+      ]
+    }
+  ],
+  "child_categories": []
+}

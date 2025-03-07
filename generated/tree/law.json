@@ -1,0 +1,297 @@
+{
+  "id": "law",
+  "display_name": "Law",
+  "feeds": [
+    {
+      "id": "feed:https://constitutionallyspeaking.co.za/feed/",
+      "title": "Constitutionally Speaking",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://constitutionallyspeaking.co.za/feed/",
+      "summary": "A blog that navigates political and social issues in South Africa through the lens of constitutional law, providing insightful commentary from legal scholar Pierre de Vos.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Constitutionally Speaking",
+      "cleaned_author": "Pierre de Vos",
+      "tags": [
+        "Politics",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "South Africa",
+        "constitutional law",
+        "political commentary"
+      ]
+    },
+    {
+      "id": "feed:https://www.ejiltalk.org/feed/",
+      "title": "EJIL: Talk!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ejiltalk.org/feed/",
+      "summary": "Blog of the European Journal of International Law.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "EJIL: Talk!",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Law",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "international law",
+        "EU",
+        "human rights",
+        "sanctions"
+      ]
+    },
+    {
+      "id": "feed:https://writing.kemitchell.com/feed.xml",
+      "title": "/dev/lawyer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://writing.kemitchell.com/feed.xml",
+      "summary": "law, technology, and the space between.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "/dev/lawyer",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Law",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "law",
+        "technology",
+        "LLM",
+        "code generation"
+      ]
+    },
+    {
+      "id": "feed:http://thettablog.blogspot.com/feeds/posts/default",
+      "title": "The TTABlog\u00ae",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thettablog.blogspot.com/feeds/posts/default",
+      "summary": "Keeping Tabs on the TTAB\u00ae.",
+      "details": "Original Category: politics -> government.opml",
+      "cleaned_title": "The TTABlog\u00ae",
+      "cleaned_author": "John L. Welch",
+      "tags": [
+        "Politics",
+        "Law",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "trademark",
+        "TTAB",
+        "law",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://balkin.blogspot.com/feeds/posts/default",
+      "title": "Balkinization",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://balkin.blogspot.com/feeds/posts/default",
+      "summary": "A group blog on constitutional law, theory, and politics.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Balkinization",
+      "cleaned_author": "Jack M. Balkin",
+      "tags": [
+        "Politics",
+        "Law",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "constitution",
+        "law",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:https://patentlyo.com/feed",
+      "title": "Patently-O",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://patentlyo.com/feed",
+      "summary": "The nation's leading patent law blog.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Patently-O",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "patent law",
+        "legal analysis",
+        "IP law"
+      ]
+    },
+    {
+      "id": "feed:https://www.pogowasright.org/feed/",
+      "title": "PogoWasRight.org: Privacy News & Issues",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.pogowasright.org/feed/",
+      "summary": "My attempt to increase awareness of privacy news and issues.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "PogoWasRight.org: Privacy News & Issues",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Law",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "privacy news",
+        "data protection",
+        "digital rights"
+      ]
+    },
+    {
+      "id": "feed:https://theprivacyperspective.com/feed/",
+      "title": "The Privacy Perspective",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theprivacyperspective.com/feed/",
+      "summary": "Legal blogging on the protection of privacy in the 21st century.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "The Privacy Perspective",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "privacy law",
+        "data protection",
+        "defamation cases"
+      ]
+    },
+    {
+      "id": "feed:https://scrivenerserror.blogspot.com/feeds/posts/default",
+      "title": "Scrivener's Error",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scrivenerserror.blogspot.com/feeds/posts/default",
+      "summary": "Law and reality in publishing and entertainment (seldom the same thing) from the creator's side of the slush pile.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Scrivener's Error",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Politics",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "publishing law",
+        "entertainment law",
+        "First Amendment"
+      ]
+    },
+    {
+      "id": "feed:https://blog.ericgoldman.org/feed",
+      "title": "Technology & Marketing Law Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.ericgoldman.org/feed",
+      "summary": "The areas of Internet Law, Intellectual Property and Advertising & Marketing Law.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Technology & Marketing Law Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "internet law",
+        "advertising law",
+        "intellectual property"
+      ]
+    },
+    {
+      "id": "feed:https://verfassungsblog.de/feed/",
+      "title": "Verfassungsblog \u2013 On Matters Constitutional",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://verfassungsblog.de/feed/",
+      "summary": "An academic and journalistic open access forum of debate on topical events and developments in constitutional law and politics in Germany, the emerging European constitutional space and beyond.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Verfassungsblog",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Law",
+        "Europe",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "Constitutional Law",
+        "European Politics",
+        "Legal Debates"
+      ]
+    },
+    {
+      "id": "feed:https://conversableeconomist.com/feed/",
+      "title": "Conversable Economist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://conversableeconomist.com/feed/",
+      "summary": "In Hume\u2019s spirit, I will attempt to serve as an ambassador from my world of economics, and help in \u201cfinding topics of conversation fit for the entertainment of rational creatures.\u201d.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Conversable Economist",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Finance",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "public discourse",
+        "conversational topics"
+      ]
+    }
+  ],
+  "child_categories": []
+}

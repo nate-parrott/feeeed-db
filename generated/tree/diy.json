@@ -1,0 +1,1864 @@
+{
+  "id": "diy",
+  "display_name": "DIY",
+  "feeds": [
+    {
+      "id": "reddit:DIY",
+      "cleaned_title": "DIY",
+      "summary": "A subreddit dedicated to do-it-yourself projects, where users share their creations, tips, and advice.",
+      "title": "DIY",
+      "kind": "reddit",
+      "subreddit": "DIY",
+      "details": "Original category: Hobbies -> Crafts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Serious Eats",
+      "cleaned_title": "Serious Eats",
+      "summary": "A website with a vast collection of recipes, cooking techniques, and food science articles.",
+      "title": "Serious Eats",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/seriouseatsfeaturesvideos",
+      "details": "Original category: Travel -> Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipes",
+        "cooking techniques",
+        "food science"
+      ]
+    },
+    {
+      "id": "youtube:Tasty",
+      "cleaned_title": "Tasty",
+      "summary": "A popular YouTube channel known for its quick and easy recipe videos, cooking hacks, and food inspiration.",
+      "title": "Tasty",
+      "kind": "youtube",
+      "channel_id": "UCJFp8uSYCjXOMnkUyb3CQ3Q",
+      "thumbnail_url": "https://yt3.ggpht.com/o7oCsweCTKk-hPxQnLERoEA9BChm_4KWrIYsmJFygp6td2oFRyhXPHq7F6QanU2tfqsLQ3eVrhM=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipe videos",
+        "cooking hacks",
+        "food inspiration"
+      ]
+    },
+    {
+      "id": "youtube:Babish Culinary Universe",
+      "cleaned_title": "Babish Culinary Universe",
+      "summary": "A YouTube channel where the host recreates iconic dishes from movies and TV shows, along with other delicious recipes.",
+      "title": "Babish Culinary Universe",
+      "kind": "youtube",
+      "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMZETWk42mfXsgSrIniA8upHnxl52GToDpdI_Zs=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Recipes",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture recipes",
+        "cooking"
+      ]
+    },
+    {
+      "id": "feed:makezine.com:Make: DIY Projects and Ideas for Makers",
+      "cleaned_title": "Make: DIY Projects and Ideas for Makers",
+      "summary": "A platform celebrating DIY culture, featuring a variety of projects and inspiring content for makers of all kinds.",
+      "title": "Make: DIY Projects and Ideas for Makers",
+      "kind": "feed",
+      "feed_url": "http://makezine.com/feed/",
+      "details": "Original category: Health -> Wellness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "DIY projects",
+        "making",
+        "innovation",
+        "fabrication"
+      ]
+    },
+    {
+      "id": "reddit:cars",
+      "cleaned_title": "Cars",
+      "summary": "A subreddit dedicated to discussions, news, and everything related to cars.",
+      "title": "cars",
+      "kind": "reddit",
+      "subreddit": "cars",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "USA",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive",
+        "cars",
+        "DIY",
+        "discussions",
+        "advice"
+      ]
+    },
+    {
+      "id": "youtube:ChrisFix",
+      "cleaned_title": "ChrisFix",
+      "summary": "ChrisFix is a popular YouTube channel focused on DIY car repair, maintenance, and automotive tips.",
+      "title": "ChrisFix",
+      "kind": "youtube",
+      "channel_id": "UCes1EvRjcKU4sY_UEavndBw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKbY_oBRykl9TwyEBmH1MY6q4zgj-EVvh7v6WMGsAA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "DIY car repair",
+        "maintenance",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "reddit:crafts",
+      "cleaned_title": "Crafts",
+      "summary": "The r/crafts subreddit is a community of crafters sharing their projects, ideas, and tips. It's a great place to find inspiration, ask questions, and connect with fellow craft enthusiasts.",
+      "title": "crafts",
+      "kind": "reddit",
+      "subreddit": "crafts",
+      "details": "Original category: Hobbies -> Crafts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "craft projects",
+        "creative ideas",
+        "community",
+        "inspiration",
+        "craft techniques"
+      ]
+    },
+    {
+      "id": "feed:craftsy.com:Craftsy",
+      "cleaned_title": "Craftsy",
+      "summary": "Craftsy is an online platform that offers a wide range of craft classes, patterns, and supplies. It's a great resource for learning new crafting techniques and exploring different crafts.",
+      "title": "Craftsy",
+      "kind": "feed",
+      "feed_url": "https://www.craftsy.com/feed/",
+      "details": "Original category: Hobbies -> Crafts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "craft classes",
+        "patterns",
+        "supplies",
+        "techniques",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:craftgossip.com:Craft Gossip",
+      "cleaned_title": "Craft Gossip",
+      "summary": "CraftGossip is a website that curates and shares craft-related news, tutorials, and project ideas from various sources. It covers a wide range of crafts, including paper crafts, sewing, knitting, and more.",
+      "title": "Craft Gossip",
+      "kind": "feed",
+      "feed_url": "http://craftgossip.com/feed/",
+      "details": "Original category: Hobbies -> Crafts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "craft news",
+        "tutorials",
+        "project ideas",
+        "craft reviews"
+      ]
+    },
+    {
+      "id": "youtube:Crafty Panda",
+      "cleaned_title": "Crafty Panda",
+      "summary": "Crafty Panda is a popular YouTube channel that offers a wide range of craft tutorials, DIY projects, and creative ideas. Their videos are entertaining and filled with unique craft projects for all skill levels.",
+      "title": "Crafty Panda",
+      "kind": "youtube",
+      "channel_id": "UC03RvJoIhm_fMwlUpm9ZvFw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaRgnHa3M1Y4TrIyUhvOndqNQdFQVgUimMMca-Udsg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Crafts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "YouTube channel",
+        "craft tutorials",
+        "DIY projects",
+        "entertaining content"
+      ]
+    },
+    {
+      "id": "youtube:Hobby Lobby",
+      "cleaned_title": "Hobby Lobby",
+      "summary": "Hobby Lobby is a YouTube channel associated with the popular craft store. It features craft tutorials, product reviews, and creative ideas for different crafts, making it a valuable resource for craft enthusiasts.",
+      "title": "Hobby Lobby",
+      "kind": "youtube",
+      "channel_id": "UCdtd0HcgVPoCUUdxjrx8IpQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQZPqLQaOWclhwAjYKOjKGwYrNHzWNqGs8L2q6s4Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Crafts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "craft tutorials",
+        "product reviews",
+        "decor ideas",
+        "Hobby Lobby"
+      ]
+    },
+    {
+      "id": "youtube:Jon B.",
+      "cleaned_title": "Jon B.",
+      "summary": "A popular YouTube channel featuring fishing adventures, tips, and challenges, with a focus on bass fishing.",
+      "title": "Jon B.",
+      "kind": "youtube",
+      "channel_id": "UCI6gB6eZS0c3ZrjcJq7xAtA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQPCWdmw3OtEbmPi8Ji_QYxk97j5rQtt53bkW6YEA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "DIY",
+        "Gardens",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "fishing",
+        "bass fishing",
+        "YouTube channel",
+        "adventures"
+      ]
+    },
+    {
+      "id": "reddit:frugalmalefashion",
+      "cleaned_title": "frugalmalefashion",
+      "summary": "A subreddit dedicated to finding and sharing deals, discounts, and sales on men's fashion.",
+      "title": "frugalmalefashion",
+      "kind": "reddit",
+      "subreddit": "frugalmalefashion",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Fashion",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "discounts",
+        "men's fashion",
+        "coupons"
+      ]
+    },
+    {
+      "id": "reddit:coffee",
+      "cleaned_title": "coffee",
+      "summary": "A subreddit dedicated to all things coffee, where enthusiasts share brewing tips, equipment recommendations, and discuss coffee-related topics.",
+      "title": "coffee",
+      "kind": "reddit",
+      "subreddit": "coffee",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee discussion",
+        "brewing tips",
+        "coffee enthusiasts"
+      ]
+    },
+    {
+      "id": "youtube:Seattle Coffee Gear",
+      "cleaned_title": "Seattle Coffee Gear",
+      "summary": "A YouTube channel that provides coffee machine reviews, brewing tutorials, and tips for home baristas.",
+      "title": "Seattle Coffee Gear",
+      "kind": "youtube",
+      "channel_id": "UC9VhfQi-D-7morDdwjVcJPA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOfyHjYPu2uWnAIBCOuSBBVyJJWe7WtTdR6Tyxi_g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Cooking",
+        "Drinks"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee",
+        "brewing",
+        "reviews",
+        "tutorials",
+        "home barista"
+      ]
+    },
+    {
+      "id": "youtube:Exploring Alternatives",
+      "cleaned_title": "Exploring Alternatives",
+      "summary": "A YouTube channel that explores alternative lifestyles, including tiny houses, off-grid living, and sustainable travel.",
+      "title": "Exploring Alternatives",
+      "kind": "youtube",
+      "channel_id": "UC8EQAfueDGNeqb1ALm0LjHA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNLcwQMjBrKcj8QVilLDoR9DeUUwAVg2rtSdFKmhg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Sustainability",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "tiny house",
+        "off-grid",
+        "sustainable living"
+      ]
+    },
+    {
+      "id": "feed:hackaday.com:Hackaday",
+      "cleaned_title": "Hackaday",
+      "summary": "Hackaday is a source of innovative hacks and projects, showcasing creative uses of electronics and technology for enthusiasts and makers.",
+      "title": "Hackaday",
+      "kind": "feed",
+      "feed_url": "https://hackaday.com/feed/",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.7410349623720456,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "hacks",
+        "projects",
+        "electronics",
+        "innovations"
+      ]
+    },
+    {
+      "id": "youtube:AdventureArchives",
+      "cleaned_title": "AdventureArchives",
+      "summary": "The Adventure Archives is a YouTube channel that documents epic outdoor adventures, including hiking, backpacking, and exploring remote locations.",
+      "title": "AdventureArchives",
+      "kind": "youtube",
+      "channel_id": "UClFrYG5h7Vbz-Y2CEIEU6EQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMmOCGdJJDb3DhXQT4pRMABg_jNPzfinMY4wUocbQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Adventure",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Wanderlust",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "outdoor adventures",
+        "hiking",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:https://www.theartofdoingstuff.com/feed/",
+      "title": "The Art of Doing Stuff",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.theartofdoingstuff.com/feed/",
+      "summary": "For People Who Like to Sweat, Swear & Do Stuff.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "The Art of Doing Stuff",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "DIY",
+        "puzzles",
+        "home improvement"
+      ]
+    },
+    {
+      "id": "feed:https://www.ikkaro.com/feed/",
+      "title": "Ikkaro - Homemade inventions and DIY",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ikkaro.com/feed/",
+      "summary": "The best inventions and homemade bots, scientific curiosities, techniques, engineering and more from a Maker / Hacker.",
+      "details": "Original Category: science -> engineering.opml",
+      "cleaned_title": "Ikkaro - Homemade inventions and DIY",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "DIY",
+        "Science",
+        "_intellectual"
+      ],
+      "language": "es",
+      "keywords": [
+        "DIY",
+        "inventions",
+        "experiments"
+      ]
+    },
+    {
+      "id": "feed:https://purserclub.com/rss.xml",
+      "title": "Purser Club",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://purserclub.com/rss.xml",
+      "summary": "Spend more time on the water, less time and money taking care of your boat.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Purser Club",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "sailing",
+        "boat maintenance",
+        "inboard engine",
+        "boating tips"
+      ]
+    },
+    {
+      "id": "feed:https://calbryant.uk/index.xml",
+      "title": "Cal Bryant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://calbryant.uk/index.xml",
+      "summary": "An attempt to document my projects.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Cal Bryant",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "DIY",
+        "Design",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "3D printing",
+        "FPV drone",
+        "speaker cabinets",
+        "python generator"
+      ]
+    },
+    {
+      "id": "feed:https://nyanpasu64.gitlab.io/atom.xml",
+      "title": "nyanpasu64's blog | Home",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nyanpasu64.gitlab.io/atom.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "nyanpasu64's blog",
+      "cleaned_author": null,
+      "summary": "A personal blog detailing projects and experiments in programming, hardware repair, and creativity in the realm of DSP and chiptunes.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "DIY",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "hacking",
+        "hardware",
+        "DSP",
+        "chiptune"
+      ]
+    },
+    {
+      "id": "feed:https://www.sewhistorically.com/feed/",
+      "title": "Sew Historically",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sewhistorically.com/feed/",
+      "summary": "Historical Costuming, Old-Fashioned Living, Refashion & DIY, Homemade Natural Beauty Products, Historical Hairstyles, Free Sewing Tutorials, Lace Making, Historical Cooking.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "Sew Historically",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical sewing",
+        "DIY",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "feed:https://fogblog-hermansheephouse.blogspot.com/feeds/posts/default",
+      "title": "FogBlog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fogblog-hermansheephouse.blogspot.com/feeds/posts/default",
+      "summary": "A gripping thrill-ride through the world of current traditional photography, exploring technique, darkrooms, chemicals and more.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "FogBlog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "DIY",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "traditional photography",
+        "techniques",
+        "darkrooms",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "feed:https://accidentalwoodworker.blogspot.com/feeds/posts/default",
+      "title": "Accidental Woodworker",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://accidentalwoodworker.blogspot.com/feeds/posts/default",
+      "summary": "The daily dribble from my workshop.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Accidental Woodworker",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "Writing",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "workshop",
+        "crafts",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:https://theapartmentwoodworker.com/feed/",
+      "title": "The Apartment Woodworker",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theapartmentwoodworker.com/feed/",
+      "summary": "Hand-tool Woodworking for the Urban Apartment-dweller.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "The Apartment Woodworker",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "hand tool woodworking",
+        "urban woodworking",
+        "projects",
+        "craftsmanship"
+      ]
+    },
+    {
+      "id": "feed:https://www.byhandandeye.com/feed/",
+      "title": "By Hand & Eye Online | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.byhandandeye.com/feed/",
+      "summary": "An on-line atelier (design studio) dedicated to help you unlock your potential as a builder or maker by honing your design skills.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "By Hand & Eye Online",
+      "cleaned_author": "George R. Walker & Jim Tolpin",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "Writing",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "design skills",
+        "craftsmanship",
+        "artistry"
+      ]
+    },
+    {
+      "id": "feed:https://davidffisher.com/feed/",
+      "title": "David Fisher, Carving Explorations | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidffisher.com/feed/",
+      "summary": "A blog dedicated to the art of carving, exploring techniques, tools, and design inspirations for woodworkers.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "David Fisher, Carving Explorations",
+      "cleaned_author": "David Fisher",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "wood carving",
+        "tools",
+        "design",
+        "techniques"
+      ]
+    },
+    {
+      "id": "feed:https://fagerjord.org/feed/",
+      "title": "Fagerjord.org",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fagerjord.org/feed/",
+      "summary": "Woodworking and other hobbies.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Fagerjord.org",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "hobbies",
+        "projects",
+        "tools"
+      ]
+    },
+    {
+      "id": "feed:https://toolsforworkingwood.com/store/merch_rss_start_1.php",
+      "title": "Joel's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://toolsforworkingwood.com/store/merch_rss_start_1.php",
+      "summary": "A blog dedicated to woodworking, exploring various aspects of the craft through insightful posts and practical advice.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Joel's Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "Writing",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "crafts",
+        "projects",
+        "tools"
+      ]
+    },
+    {
+      "id": "feed:https://journeymansjournel.wordpress.com/feed/",
+      "title": "Journeyman's Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://journeymansjournel.wordpress.com/feed/",
+      "summary": "This is a journal of the art of woodworking by hand.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Journeyman's Journal",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "hand tools",
+        "woodworking",
+        "techniques",
+        "craftsmanship"
+      ]
+    },
+    {
+      "id": "feed:https://blog.lostartpress.com/feed/",
+      "title": "Lost Art Press",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.lostartpress.com/feed/",
+      "summary": "A destination for woodworking enthusiasts, offering resources and insights on craftsmanship and a variety of woodworking topics.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Lost Art Press",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "craftsmanship",
+        "resources",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:https://paulsellers.com/feed/",
+      "title": "Paul Sellers' Woodworking Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://paulsellers.com/feed/",
+      "summary": "A well-known amateur woodworker. Read his popular blog for hand tool woodworking tips, updates and project previews!",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Paul Sellers' Woodworking Blog",
+      "cleaned_author": "Paul Sellers",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "hand tools",
+        "projects",
+        "tips"
+      ]
+    },
+    {
+      "id": "feed:https://pfollansbee.wordpress.com/feed/",
+      "title": "Peter Follansbee: Joiner's Notes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pfollansbee.wordpress.com/feed/",
+      "summary": "Seventeenth-century joined furniture; green wood, hand tools.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Peter Follansbee: Joiner's Notes",
+      "cleaned_author": "Peter Follansbee",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "History",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "furniture",
+        "historical techniques",
+        "hand tools"
+      ]
+    },
+    {
+      "id": "feed:https://smallworkshop.co.uk/rss/",
+      "title": "The Small Workshop",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://smallworkshop.co.uk/rss/",
+      "summary": "shed building, hand tools, motorcycles and three wheeled vehicles.",
+      "details": "Original Category: recreation -> vehicles -> motorcycles.opml",
+      "cleaned_title": "The Small Workshop",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Crafts",
+        "DIY",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "shed building",
+        "motorcycles",
+        "tools",
+        "restoration"
+      ]
+    },
+    {
+      "id": "feed:https://www.woodlifestudio.com/feed/",
+      "title": "wood\u2022life\u2022studio | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.woodlifestudio.com/feed/",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "wood\u2022life\u2022studio",
+      "cleaned_author": null,
+      "summary": "A blog reflecting on woodworking through a womanist lens, offering insights and stories from the wood shop.",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "crafts",
+        "womanist"
+      ]
+    },
+    {
+      "id": "feed:https://www.jessieathome.com/feed/",
+      "title": "Jessie at Home",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.jessieathome.com/feed/",
+      "summary": "Jessie At Home features many free crochet & knit patterns & tutorials, along with some other crafts and occasional stories about being a mom of twins.",
+      "details": "Original Category: arts -> crafts -> knitting.opml",
+      "cleaned_title": "Jessie at Home",
+      "cleaned_author": "Jessie",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "crochet",
+        "knitting",
+        "crafting"
+      ]
+    },
+    {
+      "id": "feed:https://littlecottonrabbits.typepad.co.uk/my_weblog/atom.xml",
+      "title": "Little Cotton Rabbits",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://littlecottonrabbits.typepad.co.uk/my_weblog/atom.xml",
+      "summary": "knitting like mad and living with autism in the family. Knitting patterns for toys and novelties, some free and some to buy.",
+      "details": "Original Category: arts -> crafts -> knitting.opml",
+      "cleaned_title": "Little Cotton Rabbits",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "knitting",
+        "toys",
+        "autism"
+      ]
+    },
+    {
+      "id": "feed:https://azazelx.com/feed/",
+      "title": "Azazel's Bitz Box",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://azazelx.com/feed/",
+      "summary": "Painting, Modelling, Miniatures, 1:6, Games... Whatever else I find interesting.",
+      "details": "Original Category: arts -> crafts -> modelmaking.opml",
+      "cleaned_title": "Azazel's Bitz Box",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "miniatures",
+        "modeling",
+        "painting",
+        "gaming"
+      ]
+    },
+    {
+      "id": "feed:https://doll.greatskyriver.net/rss.xml",
+      "title": "Sky River Dolls",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://doll.greatskyriver.net/rss.xml",
+      "summary": "A blog dedicated to the art of model making, and the various creative pursuits within it.",
+      "details": "Original Category: arts -> crafts -> modelmaking.opml",
+      "cleaned_title": "Sky River Dolls",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "model making",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://smallscaleworld.blogspot.com/feeds/posts/default",
+      "title": "Small Scale World",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://smallscaleworld.blogspot.com/feeds/posts/default",
+      "summary": "Plastic Toys Soldiers, everything plastic, toy or military, including farm, zoo, space, Wild West, and all other plastic toys, models and playthings, logos, lingos, company histories and nomenclature.",
+      "details": "Original Category: arts -> crafts -> modelmaking.opml",
+      "cleaned_title": "Small Scale World",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "plastic toys",
+        "modeling",
+        "military"
+      ]
+    },
+    {
+      "id": "feed:https://site-of-curiosities.blogspot.com/feeds/posts/default",
+      "title": "Ye-Olde-Site-of-Curiosities",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://site-of-curiosities.blogspot.com/feeds/posts/default",
+      "summary": "Mainly a place where I can record my current interests.",
+      "details": "Original Category: arts -> crafts -> modelmaking.opml",
+      "cleaned_title": "Ye-Olde-Site-of-Curiosities",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "projects",
+        "interests",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "feed:http://unnycoombelala.blogspot.com/feeds/posts/default",
+      "title": "Chris Ford model railways",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://unnycoombelala.blogspot.com/feeds/posts/default",
+      "summary": "A blog about model railways, model railroads, model buildings, model scenery, trains, locomotives and model layouts and diorama.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Chris Ford model railways",
+      "cleaned_author": "Chris Ford",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "model railways",
+        "scenery",
+        "trains"
+      ]
+    },
+    {
+      "id": "feed:http://nevardmedia.blogspot.com/feeds/posts/default",
+      "title": "Chris Nevard Model Railways Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://nevardmedia.blogspot.com/feeds/posts/default",
+      "summary": "I've been into photography, railways and modelling them in miniature for over 40 years.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Chris Nevard Model Railways Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "model railways",
+        "photography",
+        "model making",
+        "miniature railways"
+      ]
+    },
+    {
+      "id": "feed:https://esngblog.com/feed/",
+      "title": "esngblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://esngblog.com/feed/",
+      "summary": "The East Surrey N Gauge blog keeps you up to date with what\u2019s happening in the club, and gives news and views on N-gauge modelling generally.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "esngblog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "N-gauge",
+        "model trains",
+        "club news",
+        "modeling techniques"
+      ]
+    },
+    {
+      "id": "feed:http://ocalicreek.blogspot.com/feeds/posts/default",
+      "title": "Gallimore Railroading",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://ocalicreek.blogspot.com/feeds/posts/default",
+      "summary": "A blog about model trains and other hobby projects.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Gallimore Railroading",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "model trains",
+        "hobby projects",
+        "modeling"
+      ]
+    },
+    {
+      "id": "feed:https://paxton-road.blogspot.com/feeds/posts/default",
+      "title": "The modelling workbench of James Hilton...",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://paxton-road.blogspot.com/feeds/posts/default",
+      "summary": "James Hilton shares his modeling journey through engaging posts that highlight various projects and techniques. The blog covers a range of topics within the modeling world, providing a glimpse into the creative process.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "The modelling workbench of James Hilton",
+      "cleaned_author": "James Hilton",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "modeling techniques",
+        "projects",
+        "hobbies"
+      ]
+    },
+    {
+      "id": "feed:https://mrrminutiae.blogspot.com/feeds/posts/default",
+      "title": "Model Railroad Minutiae",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mrrminutiae.blogspot.com/feeds/posts/default",
+      "summary": "Modeling and modeling ideas for my 1939 era HO model railroad - the Royal Oak & Southern, plus other things I find of interest.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Model Railroad Minutiae",
+      "cleaned_author": "Stan Knotts",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "model railroad",
+        "1939 era",
+        "modeling ideas"
+      ]
+    },
+    {
+      "id": "feed:http://philsworkbench.blogspot.com/feeds/posts/default",
+      "title": "Phil's Workbench",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://philsworkbench.blogspot.com/feeds/posts/default",
+      "summary": "A daily updated blog typed by someone with painty hands, oil under his fingernails and the smell of solder in his nostrils who likes making all sort of models and miniatures. And fixing things.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Phil's Workbench",
+      "cleaned_author": "Phil",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "model making",
+        "DIY projects",
+        "modeling techniques"
+      ]
+    },
+    {
+      "id": "feed:https://timhalesblog.blogspot.com/feeds/posts/default",
+      "title": "Pottendorf",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://timhalesblog.blogspot.com/feeds/posts/default",
+      "summary": "Pottendorf explores various aspects of model railroading, featuring blog entries that cover both models and settings. It's a gateway into the scenic world of modeling, appealing to enthusiasts everywhere.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Pottendorf",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "model railroading",
+        "scenarios",
+        "model settings"
+      ]
+    },
+    {
+      "id": "feed:https://princestreet.wordpress.com/feed/",
+      "title": "Prince Street",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://princestreet.wordpress.com/feed/",
+      "summary": "Prince Street blog highlights the latest updates and personal experiences in the world of model railroading. The posts often feature personal anecdotes, making it relatable for hobbyists and readers.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Prince Street",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "model railroading",
+        "personal stories",
+        "hobby experiences"
+      ]
+    },
+    {
+      "id": "feed:https://southern-railway.com/feed/",
+      "title": "Southern Railway, Fisherton Sarum, Canute Road Quay & Westhill Road",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://southern-railway.com/feed/",
+      "summary": "The model railway world and mainly Southern Railway meanderings of Graham 'Muz' Muspratt.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Southern Railway",
+      "cleaned_author": "Graham 'Muz' Muspratt",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "Art",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "model railway",
+        "Southern Railway",
+        "rail modelling",
+        "train news"
+      ]
+    },
+    {
+      "id": "feed:https://westhalton.wordpress.com/feed/",
+      "title": "West Halton Sidings",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://westhalton.wordpress.com/feed/",
+      "summary": "A bit of North Lincolnshire on the North Lindsey Light Railway.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "West Halton Sidings",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "Art",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "railway modelling",
+        "North Lincolnshire",
+        "model trains"
+      ]
+    },
+    {
+      "id": "feed:https://handprinted.co.uk/blogs/blog.atom",
+      "title": "Handprinted \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://handprinted.co.uk/blogs/blog.atom",
+      "summary": "Handprinted | UK shop and studio for Batik, Screen Printing, Relief Printmaking, Art and Dyeing materials. Supplying the artist, printmaker and craftsperson. Friendly, knowledgeable advice, tutorials, instructions and videos.",
+      "details": "Original Category: arts -> art -> printing.opml",
+      "cleaned_title": "Handprinted",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "printmaking",
+        "batik",
+        "screen printing",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://www.bunniestudios.com/blog/feed/",
+      "title": "bunnie's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bunniestudios.com/blog/feed/",
+      "summary": "A blog that engages readers with various discussions around hardware through fun challenges and competitions, encouraging community interaction.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "bunnie's blog",
+      "cleaned_author": "bunnie",
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware challenges",
+        "community",
+        "bunnie's blog"
+      ]
+    },
+    {
+      "id": "feed:https://www.epsilonsworld.com/feeds/posts/default",
+      "title": "Epsilon's World",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.epsilonsworld.com/feeds/posts/default",
+      "summary": "A blog focused on retro gaming and technology, sharing adventures with classic gaming consoles and related updates.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Epsilon's World",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gaming",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "retro gaming",
+        "consoles",
+        "Epsilon"
+      ]
+    },
+    {
+      "id": "feed:https://ericmigi.com/rss.xml",
+      "title": "Eric Migicovsky's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ericmigi.com/rss.xml",
+      "summary": "I'm an inventor who loves creating new products, including Pebble (the first smartwatch) and Beeper (a universal chat app).",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Eric Migicovsky's Blog",
+      "cleaned_author": "Eric Migicovsky",
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "Pebble",
+        "Beeper",
+        "open source"
+      ]
+    },
+    {
+      "id": "feed:https://nuxx.net/blog/feed/",
+      "title": "nuxx.net",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nuxx.net/blog/feed/",
+      "summary": "Making, baking, and (un-)breaking things in Southeast Michigan.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "nuxx.net",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling",
+        "mobile photo backup",
+        "fatbike rims"
+      ]
+    },
+    {
+      "id": "feed:https://adventureite.com//feed.xml",
+      "title": "Adventuresite.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://adventureite.com//feed.xml",
+      "summary": "Family focused outdoor adventures.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "Adventuresite.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Wanderlust",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "family travel",
+        "outdoor adventures",
+        "hiking",
+        "camping"
+      ]
+    },
+    {
+      "id": "feed:https://www.thedirtbagdao.com/blog?format=rss",
+      "title": "The Dirtbag Dao \u2014 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thedirtbagdao.com/blog?format=rss",
+      "summary": "A blog about how to get in the mindset of frugal living, voluntary simplicity, and a nomadic lifestyle.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "The Dirtbag Dao \u2014 Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "frugal living",
+        "nomad lifestyle",
+        "simplicity",
+        "travel"
+      ]
+    },
+    {
+      "id": "feed:https://pmags.com/feed",
+      "title": "PMags.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pmags.com/feed",
+      "summary": "Backpacking, Camping, Hiking, and the Outdoors.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "PMags.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "outdoors",
+        "hiking",
+        "camping"
+      ]
+    },
+    {
+      "id": "feed:https://www.seat31b.com/feed/",
+      "title": "Seat 31B \u2013 The World In Economy Class",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.seat31b.com/feed/",
+      "summary": "A blog that offers insights and tips for economy class travelers looking to make the most of their journeys.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "Seat 31B",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Future",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "economy class",
+        "airlines"
+      ]
+    },
+    {
+      "id": "feed:https://www.traingeek.ca/wp/feed/",
+      "title": "Traingeek \u2013 Trains and Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.traingeek.ca/wp/feed/",
+      "summary": "I am a photographer who specializes in trains and grain elevators. I like to tell stories through my photos and my blog.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Traingeek",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "trains",
+        "stories"
+      ]
+    },
+    {
+      "id": "feed:https://zakreviews.com/feeds/all.atom.xml",
+      "title": "Zak Reviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://zakreviews.com/feeds/all.atom.xml",
+      "summary": "A blog focused on reviewing various EDC flashlights and gear, providing insights and detailed comparisons.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Zak Reviews",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "flashlights",
+        "EDC",
+        "gear reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.cakewrecks.com/home?format=rss",
+      "title": "Cake Wrecks",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cakewrecks.com/home?format=rss",
+      "summary": "Jen started this blog in May of 2008 one night when she was bored. She honestly never thought anyone would read it.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Cake Wrecks",
+      "cleaned_author": "Jen",
+      "tags": [
+        "Living",
+        "DIY",
+        "Cooking",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "cakes",
+        "baking",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:https://undina.com/feed/",
+      "title": "Undina's Looking Glass",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://undina.com/feed/",
+      "summary": "Perfumed Reflections of Life.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Undina's Looking Glass",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "perfume",
+        "fragrance",
+        "lifestyle",
+        "scent"
+      ]
+    },
+    {
+      "id": "feed:https://biketoeverything.com/feed/",
+      "title": "Bike to Everything - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://biketoeverything.com/feed/",
+      "summary": "Bike commuting for everyone.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "Bike to Everything - Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Cycling",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "bike commuting",
+        "gear reviews",
+        "bicycle tips"
+      ]
+    },
+    {
+      "id": "feed:https://www.teesche.com/feed",
+      "title": "teesche.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.teesche.com/feed",
+      "summary": "About endurance sports, habit changing experiments, self-improvement, tech stuff, and general observations.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "teesche.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Fitness",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "endurance sports",
+        "self-improvement",
+        "technology",
+        "hobbies"
+      ]
+    },
+    {
+      "id": "feed:https://feedpress.me/FIJ",
+      "title": "Food in Jars \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feedpress.me/FIJ",
+      "summary": "This site was launched in early 2009 to give Marisa a place share her interest in canning and general obsession with canning jars of all shapes and sizes.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Food in Jars",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "DIY",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "canning",
+        "preserving",
+        "homemade",
+        "recipes"
+      ]
+    },
+    {
+      "id": "feed:https://desertcanyonfarm.wpcomstaging.com/feed/",
+      "title": "Desert Canyon Farm Green Thoughts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://desertcanyonfarm.wpcomstaging.com/feed/",
+      "summary": "This blog shares insights from a farm's daily activities, focusing on sustainable practices and updates on agricultural events. From greenhouse news to eco-friendly projects, it offers a glimpse into farm life.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Desert Canyon Farm Green Thoughts",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "farming",
+        "sustainability",
+        "greenhouse"
+      ]
+    },
+    {
+      "title": "BuzzFeed",
+      "popularity_score": 7.3559819371069874,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.buzzfeed.com/index.xml",
+      "kind": "feed",
+      "id": "feed:http://www.buzzfeed.com/index.xml",
+      "cleaned_title": "BuzzFeed",
+      "cleaned_author": null,
+      "summary": "BuzzFeed delivers a mix of breaking news, celebrity gossip, and lighthearted quizzes, appealing to audiences looking for entertainment and viral content.",
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "quizzes",
+        "celebrity news",
+        "recipes"
+      ]
+    },
+    {
+      "id": "feed:adventurouskate.com:Adventurous Kate",
+      "cleaned_title": "Adventurous Kate",
+      "summary": "I teach women how to travel the world safely -- and I'm here to help you have the best trip ever.",
+      "title": "Adventurous Kate",
+      "kind": "feed",
+      "feed_url": "http://www.adventurouskate.com/feed/",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": "Kate",
+      "tags": [
+        "Living",
+        "DIY",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "solo travel",
+        "women travel",
+        "Italy",
+        "tips"
+      ]
+    }
+  ],
+  "child_categories": []
+}

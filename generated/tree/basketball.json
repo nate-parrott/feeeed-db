@@ -1,0 +1,369 @@
+{
+  "id": "basketball",
+  "display_name": "Basketball",
+  "feeds": [
+    {
+      "id": "substack:top:house_of_strauss_-_ethan_strauss",
+      "title": "House of Strauss - Ethan Strauss",
+      "cleaned_title": "House of Strauss",
+      "summary": "A platform where sports, business, and culture intersect, offering deep analysis and commentary on the NBA and beyond.",
+      "kind": "feed",
+      "feed_url": "https://www.houseofstrauss.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Living",
+        "Arts & Culture",
+        "Sports",
+        "Basketball"
+      ],
+      "cleaned_author": "Ethan Strauss",
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "media",
+        "culture",
+        "sports business"
+      ]
+    },
+    {
+      "id": "substack:top:the_stein_line_-_marc_stein",
+      "title": "The Stein Line - Marc Stein",
+      "cleaned_title": "The Stein Line",
+      "summary": "An established source for NBA insiders, offering coverage and in-depth commentary on basketball events and news since 1994.",
+      "kind": "feed",
+      "feed_url": "https://marcstein.substack.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "cleaned_author": "Marc Stein",
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "insider coverage",
+        "basketball news",
+        "Joel Embiid"
+      ]
+    },
+    {
+      "id": "youtube:NBA on TNT",
+      "cleaned_title": "NBA on TNT",
+      "summary": "The official YouTube channel of the National Basketball Association (NBA) featuring game highlights, top plays, interviews, and more.",
+      "title": "NBA on TNT",
+      "kind": "youtube",
+      "channel_id": "UCU7iRrk3xfpUk0R6VdyC1Ow",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqORpUxRXcOrYh_l-q-GwLUfr72Us4KY4z2w_luvSw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "highlights",
+        "interviews"
+      ]
+    },
+    {
+      "id": "reddit:sports",
+      "cleaned_title": "sports",
+      "summary": "A subreddit dedicated to all things sports, where users can discuss and share news, highlights, and opinions about various sports and leagues.",
+      "title": "sports",
+      "kind": "reddit",
+      "subreddit": "sports",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Hip-Hop"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports discussion",
+        "highlights",
+        "OP-ED"
+      ]
+    },
+    {
+      "id": "reddit:nba",
+      "cleaned_title": "NBA",
+      "summary": "A subreddit for NBA fans to discuss news, games, players, and everything related to basketball.",
+      "title": "nba",
+      "kind": "reddit",
+      "subreddit": "nba",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA discussion",
+        "game analysis"
+      ]
+    },
+    {
+      "id": "feed:truehoop.com:TrueHoop",
+      "cleaned_title": "TrueHoop",
+      "summary": "An award-winning blog that offers insightful and hard-hitting analysis on the NBA, providing a unique perspective on the league's dynamics since 2005.",
+      "title": "TrueHoop",
+      "kind": "feed",
+      "feed_url": "https://www.truehoop.com/feed",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Living",
+        "Basketball",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA analysis",
+        "in-depth articles",
+        "basketball news"
+      ]
+    },
+    {
+      "id": "feed:theathletic.com:Latest Headlines \u2013 The Athletic",
+      "cleaned_title": "Latest Headlines \u2013 The Athletic",
+      "summary": "A sports news outlet known for its comprehensive coverage of various sports, providing breaking news, player insights, and detailed layers of analysis.",
+      "title": "Latest Headlines \u2013 The Athletic",
+      "kind": "feed",
+      "feed_url": "https://theathletic.com/feeds/rss/news/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "The Athletic",
+        "sports coverage",
+        "breaking news"
+      ]
+    },
+    {
+      "id": "feed:thegistsports.com:The GIST RSS Feed (Sports News)",
+      "cleaned_title": "The GIST RSS Feed",
+      "summary": "A source focused on providing news about women's sports and significant achievements within the athletic community, highlighting pivotal stories and changing narratives.",
+      "title": "The GIST RSS Feed (Sports News)",
+      "kind": "feed",
+      "feed_url": "https://www.thegistsports.com/rss.xml",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "LGBTQ",
+        "Soccer",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "women's sports",
+        "advocacy",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:thesportsletter.com:The Sportsletter",
+      "cleaned_title": "The Sportsletter",
+      "summary": "A curated newsletter offering updates on key sports events, analyses, and future matchups, perfect for fans looking to stay informed and engaged.",
+      "title": "The Sportsletter",
+      "kind": "feed",
+      "feed_url": "https://www.thesportsletter.com/feed/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Basketball",
+        "Football"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports updates",
+        "event analysis",
+        "fan engagement"
+      ]
+    },
+    {
+      "id": "youtube:NBA",
+      "cleaned_title": "NBA",
+      "summary": "The official YouTube channel of the NBA, featuring game highlights, top plays, interviews, and more.",
+      "title": "NBA",
+      "kind": "youtube",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "thumbnail_url": "https://yt3.ggpht.com/urNLBJGryDamao5r0jmlTg84mIBOoaeJd6XR67j4nuRd0iRvv5g-MUgaowsWKCs8V_t4KwST=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "highlights",
+        "games",
+        "plays",
+        "basketball"
+      ]
+    },
+    {
+      "id": "youtube:JxmyHighroller",
+      "cleaned_title": "JxmyHighroller",
+      "summary": "A YouTube channel that provides entertaining and informative basketball videos, including analysis, documentaries, and rankings.",
+      "title": "JxmyHighroller",
+      "kind": "youtube",
+      "channel_id": "UC3L9XPe0_FGfRG-CMGtBvFg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMw-2tC-Zajw6X34_qGxCNG_9LvGjv3Dcf9rOBrQw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "basketball analysis",
+        "player rankings",
+        "documentaries",
+        "trades",
+        "funny videos"
+      ]
+    },
+    {
+      "id": "youtube:BBALLBREAKDOWN",
+      "cleaned_title": "BBALLBREAKDOWN",
+      "summary": "A YouTube channel that breaks down basketball plays, strategies, and player analysis in a detailed and informative manner.",
+      "title": "BBALLBREAKDOWN",
+      "kind": "youtube",
+      "channel_id": "UCSpvjDk06HLxBaw8sZw7SkA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNkWsC3lKZo43uKchxM-gvVuQjTEyuAKTOLbRhDwA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "basketball strategy",
+        "plays breakdown",
+        "NBA analysis",
+        "player insights",
+        "expert commentary"
+      ]
+    },
+    {
+      "id": "youtube:House of Highlights",
+      "cleaned_title": "House of Highlights",
+      "summary": "A popular YouTube channel that showcases the best basketball highlights, dunks, and funny moments from the NBA and beyond.",
+      "title": "House of Highlights",
+      "kind": "youtube",
+      "channel_id": "UCqQo7ewe87aYAe7ub5UqXMw",
+      "thumbnail_url": "https://yt3.ggpht.com/JFAJ04m40cSwVc7szsN5NdMU7QrqyWOSnK1a5RzG237wSIMH_sRa9fDbUc_NtbRsxko9WLTz=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "basketball highlights",
+        "dunks",
+        "funny moments",
+        "NBA",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:https://busandtrainuser.com/feed/",
+      "title": "BusAndTrainUser",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://busandtrainuser.com/feed/",
+      "summary": "Journeys around Britain by bus and train.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "BusAndTrainUser",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "UK",
+        "Trains",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "transportation",
+        "UK travel",
+        "bus",
+        "train"
+      ]
+    }
+  ],
+  "child_categories": []
+}

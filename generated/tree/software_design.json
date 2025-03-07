@@ -1,0 +1,867 @@
+{
+  "id": "software_design",
+  "display_name": "Software Design",
+  "feeds": [
+    {
+      "id": "substack:top:bytebytego_newsletter_-_alex_xu",
+      "title": "ByteByteGo Newsletter - Alex Xu",
+      "cleaned_title": "ByteByteGo Newsletter",
+      "summary": "A technology newsletter that simplifies complex systems, focusing on system design insights for developers. It attracts a community of over 1,000,000 readers eager to learn about scalability and architecture.",
+      "kind": "feed",
+      "feed_url": "https://blog.bytebytego.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top",
+        "crowdsourced_popular"
+      ],
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "popularity_score": 2.274074074074074,
+      "cleaned_author": "Alex Xu",
+      "language": "en",
+      "keywords": [
+        "system design",
+        "microservices",
+        "software architecture"
+      ]
+    },
+    {
+      "id": "feed:9to5mac.com:9to5Mac",
+      "cleaned_title": "9to5Mac",
+      "summary": "Your go-to source for exclusive Apple product scoops and software insights.",
+      "title": "9to5Mac",
+      "kind": "feed",
+      "feed_url": "http://9to5mac.com/feed/",
+      "popularity_score": 3.3016191940104984,
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "news",
+        "software"
+      ]
+    },
+    {
+      "id": "feed:stadt-bremerhaven.de:Caschys Blog \u2013 stadt-bremerhaven.de",
+      "cleaned_title": "Caschys Blog",
+      "summary": "German IT and tech news with a focus on software and gadgets.",
+      "title": "Caschys Blog \u2013 stadt-bremerhaven.de",
+      "kind": "feed",
+      "feed_url": "https://stadt-bremerhaven.de/feed",
+      "popularity_score": 2.4563492063492065,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Software Design"
+      ],
+      "language": "de",
+      "keywords": [
+        "tech news",
+        "software",
+        "gadgets",
+        "IT"
+      ]
+    },
+    {
+      "id": "feed:googletesting.blogspot.com:Google Testing Blog",
+      "cleaned_title": "Google Testing Blog",
+      "summary": "This blog focuses on testing and quality assurance in software development, offering insights and practices to enhance coding efficiency and quality.",
+      "title": "Google Testing Blog",
+      "kind": "feed",
+      "feed_url": "http://googletesting.blogspot.com/feeds/posts/default",
+      "details": "Original category: Business",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "software testing",
+        "coding practices",
+        "quality assurance"
+      ]
+    },
+    {
+      "id": "youtube:Linus Tech Tips",
+      "cleaned_title": "Linus Tech Tips",
+      "summary": "A YouTube channel that provides entertaining and informative tech reviews, tutorials, and PC building guides.",
+      "title": "Linus Tech Tips",
+      "kind": "youtube",
+      "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "thumbnail_url": "https://yt3.ggpht.com/Vy6KL7EM_apxPSxF0pPy5w_c87YDTOlBQo3MADDF0Wl51kwxmt9wmRotnt2xQXwlrcyO0Xe56w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 4.240078907844562,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech reviews",
+        "PC building",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "youtube:The Coding Train",
+      "cleaned_title": "The Coding Train",
+      "summary": "The Coding Train is a YouTube channel hosted by Daniel Shiffman, where he explores creative coding, programming tutorials, and software development projects.",
+      "title": "The Coding Train",
+      "kind": "youtube",
+      "channel_id": "UCvjgXvBlbQiydffZU7m1_aw",
+      "thumbnail_url": "https://yt3.ggpht.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Daniel Shiffman",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Coding",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "creative coding",
+        "tutorials",
+        "ml5.js",
+        "projects",
+        "Daniel Shiffman"
+      ]
+    },
+    {
+      "id": "feed:nocodeexits.substack.com:No-Code Exits",
+      "cleaned_title": "No-Code Exits",
+      "summary": "A guide for aspiring founders leveraging no-code tools and AI, featuring real-life success stories and strategies to develop profitable projects without extensive technical skills.",
+      "title": "No-Code Exits",
+      "kind": "feed",
+      "feed_url": "https://nocodeexits.substack.com/feed",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:developing.dev:The Developing Dev",
+      "cleaned_title": "The Developing Dev",
+      "summary": "Focused on providing concise, practical advice for software engineers, this blog is crafted by a seasoned engineer, aiming to help readers swiftly advance their careers.",
+      "title": "The Developing Dev",
+      "kind": "feed",
+      "feed_url": "https://www.developing.dev/feed",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:shomik.substack.com:Software Snack Bites",
+      "cleaned_title": "Software Snack Bites",
+      "summary": "A digestible take on enterprise software trends, blending brief articles and podcasts that explore current thoughts and insights from practitioners in the field.",
+      "title": "Software Snack Bites",
+      "kind": "feed",
+      "feed_url": "https://shomik.substack.com/feed",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://bergman-udl.blogspot.com/feeds/posts/default",
+      "title": "Learn Lead Grow",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bergman-udl.blogspot.com/feeds/posts/default",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Learn Lead Grow",
+      "cleaned_author": "Matt Bergman",
+      "summary": "A resourceful blog aimed at educators, focusing on innovative ways to incorporate technology into learning. It shares tools, tips, and insights into enhancing educational experiences through tech.",
+      "tags": [
+        "Tech",
+        "Education",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "technology",
+        "learning tools"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/tokyodev",
+      "title": "TokyoDev | Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/tokyodev",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "TokyoDev | Articles",
+      "cleaned_author": null,
+      "summary": "A valuable resource for developers navigating the Japanese technology industry, providing insights into workplace dynamics and career tips.",
+      "tags": [
+        "Tech",
+        "Japan",
+        "Software Design",
+        "Coding",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japan",
+        "tech",
+        "developers",
+        "multinational teams",
+        "work culture"
+      ]
+    },
+    {
+      "id": "feed:https://blog.jonudell.net/feed/",
+      "title": "Jon Udell",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.jonudell.net/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Jon Udell",
+      "cleaned_author": "Jon Udell",
+      "summary": "Jon Udell\u2019s blog focuses on strategies for navigating the internet, with insights into software design, web technologies, and online experiences.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "software",
+        "internet",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://veerle.duoh.com/design-feed.rss",
+      "title": "Veerle's Blog 4.0 | Design Homepage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://veerle.duoh.com/design-feed.rss",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Veerle's Blog 4.0",
+      "cleaned_author": "Veerle Pieters",
+      "summary": "A design blog featuring insights into the design process, along with Adobe tutorials and graphic resources.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "Adobe",
+        "tutorials",
+        "graphic design"
+      ]
+    },
+    {
+      "id": "feed:https://hypercritical.co/feeds/main",
+      "title": "Hypercritical",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hypercritical.co/feeds/main",
+      "summary": "I\u2019m a software developer, podcaster, and freelance technology writer.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Hypercritical",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "software development",
+        "technology writing",
+        "podcasting"
+      ]
+    },
+    {
+      "id": "feed:https://mjtsai.com/blog/feed/",
+      "title": "Michael Tsai - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mjtsai.com/blog/feed/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Michael Tsai - Blog",
+      "cleaned_author": "Michael Tsai",
+      "summary": "Michael Tsai's blog offers a deep dive into technology development, with insightful commentary and critiques associated with software, Apple, and broader industry practices.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple commentary",
+        "software development",
+        "technology critiques"
+      ]
+    },
+    {
+      "id": "feed:https://therealadam.com/feed.xml",
+      "title": "Adam Keys is typing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://therealadam.com/feed.xml",
+      "summary": "Developer and engineering manager at large.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Adam Keys is typing",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "developer",
+        "engineering",
+        "management"
+      ]
+    },
+    {
+      "id": "feed:https://blog.jlcarveth.dev/feed",
+      "title": "blog.jlcarveth.dev",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.jlcarveth.dev/feed",
+      "summary": "A log of my technical pursuits.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "blog.jlcarveth.dev",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "technical",
+        "development",
+        "system management"
+      ]
+    },
+    {
+      "id": "feed:https://chriswiegman.com/index.xml",
+      "title": "Chris Wiegman - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chriswiegman.com/index.xml",
+      "summary": "The full blog of Chris Wiegman including all tutorials, posts and other articles by Chris Wiegman since 2008.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Chris Wiegman - Blog",
+      "cleaned_author": "Chris Wiegman",
+      "tags": [
+        "Tech",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "development",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:https://bower.sh/rss",
+      "title": "erock's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bower.sh/rss",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "erock's blog",
+      "cleaned_author": "Eric Bower",
+      "summary": "A personal blog where Eric Bower shares reflections on programming, life in tech, and explorations in structured concurrency and development.",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing",
+        "homelab",
+        "structured concurrency",
+        "zig"
+      ]
+    },
+    {
+      "id": "feed:https://incoherency.co.uk/blog/rss.xml",
+      "title": "James Stanley",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://incoherency.co.uk/blog/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "James Stanley",
+      "cleaned_author": "jes",
+      "summary": "A technical blog featuring insights into engineering challenges, software applications, and innovative tools related to geometry and design.",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "OpenCascade",
+        "AppImage",
+        "calculations"
+      ]
+    },
+    {
+      "id": "feed:https://jerrynsh.com/rss/",
+      "title": "Jerry Ng's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jerrynsh.com/rss/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Jerry Ng's blog",
+      "cleaned_author": "Jerry Ng",
+      "summary": "A resourceful blog containing practical advice and tutorials on programming, specifically using Go. It emphasizes common challenges and solutions in software development.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "Go programming",
+        "software development",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://jvns.ca/atom.xml",
+      "title": "Julia Evans",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jvns.ca/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Julia Evans",
+      "cleaned_author": "Julia Evans",
+      "summary": "A technical blog that sheds light on software usage and terminal setups. It breaks down complex topics into digestible insights for developers.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "terminal",
+        "system setup",
+        "programming tips"
+      ]
+    },
+    {
+      "id": "feed:https://blog.ploeh.dk/rss.xml",
+      "title": "ploeh blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.ploeh.dk/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "ploeh blog",
+      "cleaned_author": null,
+      "summary": "A blog that delves into Danish software design, offering insights into encapsulation, data modeling, and dependency management.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "software design",
+        "C#",
+        "dependency inversion",
+        "data relationships"
+      ]
+    },
+    {
+      "id": "feed:https://ronjeffries.com/feed.xml",
+      "title": "RonJeffries.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ronjeffries.com/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "RonJeffries.com",
+      "cleaned_author": "Ronald E Jeffries",
+      "summary": "Ron Jeffries offers a blend of programming articles, insights on Extreme Programming, and personal reflections in a long-running blog.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "Extreme Programming",
+        "software testing"
+      ]
+    },
+    {
+      "id": "feed:https://til.simonwillison.net/tils/feed.atom",
+      "title": "Simon Willison: TIL",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://til.simonwillison.net/tils/feed.atom",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Simon Willison: TIL",
+      "cleaned_author": "Simon Willison",
+      "summary": "Simon Willison covers practical tech insights and personal learnings, focusing on Python, cloud services, and software development.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design",
+        "WebDev",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "cloud",
+        "software development",
+        "web applications"
+      ]
+    },
+    {
+      "id": "feed:https://yieldcode.blog/rss/feed.xml",
+      "title": "yield code(); - Dmitry Kudryavtsev",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://yieldcode.blog/rss/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "yield code();",
+      "cleaned_author": "Dmitry Kudryavtsev",
+      "summary": "Dmitry Kudryavtsev offers insights on programming and the software industry, providing valuable information for developers.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI commoditization",
+        "engineering management",
+        "software fragmentation"
+      ]
+    },
+    {
+      "id": "feed:https://jessitron.com/feed/",
+      "title": "Jessitron \u2013 blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jessitron.com/feed/",
+      "summary": "symmathecist, in the medium of code.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Jessitron",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Software Design",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "software development",
+        "OKRs",
+        "team management"
+      ]
+    },
+    {
+      "id": "feed:https://seldo.com/rss.xml",
+      "title": "Seldo.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://seldo.com/rss.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Seldo.com",
+      "cleaned_author": "Laurie Voss",
+      "summary": "A personal site that shares insights on software development and artificial intelligence, offering informed commentary from an experienced developer.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI",
+        "ML",
+        "web development",
+        "frameworks",
+        "crypto"
+      ]
+    },
+    {
+      "id": "feed:https://ericwbailey.design/feed/feed.xml",
+      "title": "Eric Bailey \u2013 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ericwbailey.design/feed/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Eric Bailey",
+      "cleaned_author": null,
+      "summary": "Eric Bailey combines his expertise as a developer and inclusive design advocate to deliver thought-provoking insights into web development. His writing navigates the intersection of accessibility and innovation, offering readers fresh perspectives on creating inclusive digital experiences.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development",
+        "Internet",
+        "Design",
+        "Software Design",
+        "_intellectual",
+        "_academic",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "inclusive design",
+        "web development",
+        "accessibility",
+        "CSS",
+        "localization"
+      ]
+    },
+    {
+      "id": "feed:https://randsinrepose.com/feed/",
+      "title": "Rands in Repose",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://randsinrepose.com/feed/",
+      "summary": "This blog is a collection of reflections on management and software development, offering insights and advice for leaders and developers alike. It emphasizes thoughtful approaches to complex work environments.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Rands in Repose",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Software Design",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "management",
+        "software",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.annashipman.co.uk/atom.xml",
+      "title": "Anna Shipman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.annashipman.co.uk/atom.xml",
+      "summary": "I write about tech, leadership and tech leadership.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Anna Shipman",
+      "cleaned_author": "Anna Shipman",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "leadership",
+        "technology",
+        "management"
+      ]
+    },
+    {
+      "id": "feed:https://lethain.com/feeds.xml",
+      "title": "Irrational Exuberance",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lethain.com/feeds.xml",
+      "summary": "I\u2019m a writer and a software engineering leader.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Irrational Exuberance",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Software Design",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "engineering strategy",
+        "software development",
+        "data management"
+      ]
+    },
+    {
+      "id": "feed:https://techleader.pro/atom.xml",
+      "title": "TechLeader.pro",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://techleader.pro/atom.xml",
+      "summary": "Software engineering leadership.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "TechLeader.pro",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "leadership",
+        "software engineering",
+        "technology trends"
+      ]
+    },
+    {
+      "title": "\u5947\u5ba2Solidot\u2013\u4f20\u9012\u6700\u65b0\u79d1\u6280\u60c5\u62a5",
+      "popularity_score": 3.542900042900043,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.solidot.org/index.rss",
+      "kind": "feed",
+      "id": "feed:http://www.solidot.org/index.rss",
+      "cleaned_title": "\u5947\u5ba2Solidot",
+      "cleaned_author": null,
+      "summary": "A source for the latest technology intelligence, focusing on key knowledge and significant technological updates.",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Science"
+      ],
+      "language": "zh",
+      "keywords": [
+        "technology",
+        "updates",
+        "intelligence",
+        "science"
+      ]
+    },
+    {
+      "title": "\u5c0f\u4f17\u8f6f\u4ef6 \u2013 appinn.com",
+      "popularity_score": 2.0,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://feeds.appinn.com/appinns/",
+      "kind": "feed",
+      "id": "feed:https://feeds.appinn.com/appinns/",
+      "cleaned_title": "\u5c0f\u4f17\u8f6f\u4ef6",
+      "cleaned_author": null,
+      "summary": "A blog that shares interesting and useful software recommendations, primarily focusing on small, practical, and free applications.",
+      "tags": [
+        "Tech",
+        "Software Design"
+      ],
+      "language": "zh",
+      "keywords": [
+        "Software Recommendations",
+        "Free Apps",
+        "Tech Tools"
+      ]
+    }
+  ],
+  "child_categories": []
+}

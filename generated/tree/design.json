@@ -1,0 +1,2672 @@
+{
+  "id": "design",
+  "display_name": "Design",
+  "feeds": [
+    {
+      "id": "substack:top:hidden.rsrch_-_hidden_\u24d7",
+      "title": "HIDDEN.RSRCH - HIDDEN \u24d7",
+      "cleaned_title": "HIDDEN.RSRCH",
+      "summary": "A creative exploration of past, present, and future through design and culture, offering thought-provoking insights into fashion and lifestyle.",
+      "kind": "feed",
+      "feed_url": "https://www.hiddenrsrch.com/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Design",
+        "Fashion"
+      ],
+      "cleaned_author": "HIDDEN \u24d7",
+      "language": "en",
+      "keywords": [
+        "design",
+        "lifestyle",
+        "culture",
+        "fashion trends"
+      ]
+    },
+    {
+      "id": "substack:top:home__-_india_knight",
+      "title": "Home  - India Knight",
+      "cleaned_title": "Home",
+      "summary": "India Knight shares her insights on books, food, and home life through personal journal entries and observations that blend warmth with relatable enthusiasm.",
+      "kind": "feed",
+      "feed_url": "https://indiaknight.substack.com/feed",
+      "details": "Original category: Substack top newsletters about design",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "cleaned_author": "India Knight",
+      "language": "en",
+      "keywords": [
+        "books",
+        "food",
+        "interiors",
+        "home life",
+        "shopping"
+      ]
+    },
+    {
+      "id": "substack:top:mad_about_the_house_by_kate_watson-smyth",
+      "title": "Mad About The House by Kate Watson-Smyth",
+      "cleaned_title": "Mad About The House",
+      "summary": "Mad About The House provides practical design tips and strategies while encouraging readers to discover and refine their personal interior design style.",
+      "kind": "feed",
+      "feed_url": "https://katewatsonsmyth.substack.com/feed",
+      "details": "Original category: Substack top newsletters about design",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "cleaned_author": "Kate Watson-Smyth",
+      "language": "en",
+      "keywords": [
+        "interior design",
+        "home decor",
+        "style",
+        "workshops",
+        "design tips"
+      ]
+    },
+    {
+      "id": "substack:top:ux_movement_newsletter_-_anthony",
+      "title": "UX Movement Newsletter - Anthony",
+      "cleaned_title": "UX Movement Newsletter",
+      "summary": "The UX Movement Newsletter empowers designers to enhance user experiences with actionable insights and best practices for effective design.",
+      "kind": "feed",
+      "feed_url": "https://uxmovement.substack.com/feed",
+      "details": "Original category: Substack top newsletters about design",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Design"
+      ],
+      "cleaned_author": "Anthony",
+      "language": "en",
+      "keywords": [
+        "user experience",
+        "design",
+        "best practices",
+        "user interfaces",
+        "UX"
+      ]
+    },
+    {
+      "id": "substack:top:never_sponsored_-_christopher_schwarz",
+      "title": "Never Sponsored - Christopher Schwarz",
+      "cleaned_title": "Never Sponsored",
+      "summary": "Never Sponsored delivers candid tool reviews from experienced furniture makers, ensuring that every recommendation is based on firsthand experience.",
+      "kind": "feed",
+      "feed_url": "https://neversponsored.substack.com/feed",
+      "details": "Original category: Substack top newsletters about design",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "_high_quality"
+      ],
+      "cleaned_author": "Christopher Schwarz",
+      "language": "en",
+      "keywords": [
+        "tool reviews",
+        "furniture making",
+        "honest opinions",
+        "DIY",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "substack:top:the_gardening_mind_by_jo_thompson",
+      "title": "The Gardening Mind by Jo Thompson",
+      "cleaned_title": "The Gardening Mind",
+      "summary": "The Gardening Mind brings insights from a leading garden designer, offering simple tips and strategies for gardening enthusiasts to flourish.",
+      "kind": "feed",
+      "feed_url": "https://jothompson.substack.com/feed",
+      "details": "Original category: Substack top newsletters about design",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Design"
+      ],
+      "cleaned_author": "Jo Thompson",
+      "language": "en",
+      "keywords": [
+        "gardening",
+        "design tips",
+        "community",
+        "RHS Chelsea",
+        "plants"
+      ]
+    },
+    {
+      "id": "feed:feeds2.feedburner.com:It's Nice That",
+      "cleaned_title": "It's Nice That",
+      "summary": "A vibrant showcase of the world's most inspiring and innovative design and art.",
+      "title": "It's Nice That",
+      "kind": "feed",
+      "feed_url": "http://feeds2.feedburner.com/itsnicethat/SlXC",
+      "popularity_score": 11.185272129101788,
+      "details": "Original category: Arts",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "design",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "feed:archdaily.com:ArchDaily",
+      "cleaned_title": "ArchDaily",
+      "summary": "A leading platform showcasing architectural projects, trends, and insights from around the world.",
+      "title": "ArchDaily",
+      "kind": "feed",
+      "feed_url": "http://www.archdaily.com/feed/",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.584148318825738,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Tech",
+        "Architecture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "architecture",
+        "design",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:*WALLPAPER Magazine",
+      "cleaned_title": "WALLPAPER Magazine",
+      "summary": "WALLPAPER Magazine showcases the latest in design, architecture, and lifestyle trends. It highlights innovative projects, artistic endeavors, and new ideas that influence contemporary aesthetics.",
+      "title": "*WALLPAPER Magazine",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/Wallpaperfeed",
+      "popularity_score": 2.5688573602957163,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Tech",
+        "Design",
+        "Architecture",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "architecture",
+        "lifestyle",
+        "trends"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Fashionista",
+      "cleaned_title": "Fashionista",
+      "summary": "A website offering fashion news, trends, and features, including coverage of emerging designers and established brands.",
+      "title": "Fashionista",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/fashionistacom",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "designers",
+        "trends"
+      ]
+    },
+    {
+      "id": "feed:design-milk.com:Design MilkDesign Milk",
+      "cleaned_title": "Design Milk",
+      "summary": "A website that showcases cutting-edge design, including architecture, interior design, furniture, and more.",
+      "title": "Design MilkDesign Milk",
+      "kind": "feed",
+      "feed_url": "https://design-milk.com/feed/",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 5.074525302952723,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Architecture"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "architecture",
+        "interior design",
+        "innovation",
+        "products"
+      ]
+    },
+    {
+      "id": "feed:fastcompany.com:Fast Company",
+      "cleaned_title": "Fast Company",
+      "summary": "Fast Company's dedicated section for design, featuring articles on innovative design solutions, trends, and industry news.",
+      "title": "Fast Company",
+      "kind": "feed",
+      "feed_url": "https://www.fastcompany.com/section/design/rss",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "business",
+        "innovation"
+      ]
+    },
+    {
+      "id": "youtube:The Futur",
+      "cleaned_title": "The Futur",
+      "summary": "A YouTube channel that offers educational content on design, UX, and product strategy, featuring interviews, tutorials, and industry insights.",
+      "title": "The Futur",
+      "kind": "youtube",
+      "channel_id": "UC-b3c7kxa5vU-bnmaROgvog",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKYtvuAkzT9TJa65004lS55DEYSnF7crXqwMCzOg8A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Design",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "UX",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:designboom.com:designboom | architecture & design magazine",
+      "cleaned_title": "designboom | architecture & design magazine",
+      "summary": "An online magazine that covers a wide range of design disciplines, including architecture, art, technology, and more.",
+      "title": "designboom | architecture & design magazine",
+      "kind": "feed",
+      "feed_url": "https://www.designboom.com/feed/",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Architecture"
+      ],
+      "language": "en",
+      "keywords": [
+        "architecture",
+        "design",
+        "art"
+      ]
+    },
+    {
+      "id": "reddit:Design",
+      "cleaned_title": "Design",
+      "summary": "A subreddit dedicated to design-related discussions, showcasing inspiring designs, and sharing design resources.",
+      "title": "Design",
+      "kind": "reddit",
+      "subreddit": "Design",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "discussions",
+        "resources"
+      ]
+    },
+    {
+      "id": "feed:creativebloq.com: Creative Bloq ",
+      "cleaned_title": "Creative Bloq",
+      "summary": "A website that provides design inspiration, tutorials, and resources for graphic designers, web designers, and illustrators.",
+      "title": " Creative Bloq ",
+      "kind": "feed",
+      "feed_url": "https://www.creativebloq.com/feed",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "tutorials",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "youtube:The School of Life",
+      "cleaned_title": "The School of Life",
+      "summary": "A YouTube channel that explores various aspects of design, including design philosophy, aesthetics, and the impact of design on our lives.",
+      "title": "The School of Life",
+      "kind": "youtube",
+      "channel_id": "UC7IcJI8PUf5Z3zKxnZvTBog",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQJr_SK5AgJUhOMksdrYSQCbpRKQ6htADCYOETc9A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Culture",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "philosophy",
+        "aesthetics"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Behance Featured Projects",
+      "cleaned_title": "Behance Featured Projects",
+      "summary": "A showcase of outstanding creative projects from around the globe, featured on Behance, highlighting innovative design work across various disciplines.",
+      "title": "Behance Featured Projects",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/behance/vorr",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "featured projects",
+        "art",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Dezeen",
+      "cleaned_title": "Dezeen",
+      "summary": "An architecture and design magazine that features the latest trends and innovations in design, architecture, and the built environment.",
+      "title": "Dezeen",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/dezeen",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "architecture",
+        "design",
+        "trends"
+      ]
+    },
+    {
+      "id": "youtube:The Museum of Modern Art",
+      "cleaned_title": "The Museum of Modern Art",
+      "summary": "MoMA is a renowned art museum in New York City. Their YouTube channel offers virtual tours, artist interviews, and insights into their collection of modern and contemporary visual art.",
+      "title": "The Museum of Modern Art",
+      "kind": "youtube",
+      "channel_id": "UC9CswYtb5rL31CHwyVoyJvQ",
+      "thumbnail_url": "https://yt3.ggpht.com/lqjvVXGEJF6aBY_ciSpI7QrHOHE9Mng8X1sdnrhii6bx0hLxUjg29N__c4kNoRX-qBUInGd5q3A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Visual Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "modern art",
+        "contemporary art",
+        "museum tours"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Digital Photography School",
+      "cleaned_title": "Digital Photography School",
+      "summary": "A website that offers tutorials, tips, and resources for photographers of all levels.",
+      "title": "Digital Photography School",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/DigitalPhotographySchool",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography tips",
+        "tutorials",
+        "learning",
+        "digital photography"
+      ]
+    },
+    {
+      "id": "youtube:Peter McKinnon",
+      "cleaned_title": "Peter McKinnon",
+      "summary": "A popular YouTube channel hosted by photographer Peter McKinnon, featuring tutorials, gear reviews, and creative photography ideas.",
+      "title": "Peter McKinnon",
+      "kind": "youtube",
+      "channel_id": "UC3DkFux8Iv-aYnTRWzwaiBA",
+      "thumbnail_url": "https://yt3.ggpht.com/fmoVrSCJFMwKQWCeyyQHsSOO2B8V5mUVTauWK7zNnjwPsbsM5TVAPZ91lHF32UxPoSgj_VJQyg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "gear reviews",
+        "YouTube channel",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "youtube:Tony & Chelsea Northrup",
+      "cleaned_title": "Tony & Chelsea Northrup",
+      "summary": "A YouTube channel hosted by Tony and Chelsea Northrup, offering photography tutorials, gear reviews, and tips for improving your photography skills.",
+      "title": "Tony & Chelsea Northrup",
+      "kind": "youtube",
+      "channel_id": "UCDkJEEIifDzR_2K2p9tnwYQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTzJcoXCFh633Lszlf47lRjaO_qOeLqUZbuwQuB2Hk=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography tutorials",
+        "YouTube channel",
+        "gear reviews"
+      ]
+    },
+    {
+      "id": "feed:diyphotography.net:DIYPhotography",
+      "cleaned_title": "DIYPhotography",
+      "summary": "A website that focuses on do-it-yourself photography projects, hacks, and creative techniques.",
+      "title": "DIYPhotography",
+      "kind": "feed",
+      "feed_url": "http://www.diyphotography.net/node/feed",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Design",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "DIY photography",
+        "creative techniques",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:businessoffashion.com:Business of Fashion",
+      "cleaned_title": "Business of Fashion",
+      "summary": "A leading online platform for global fashion professionals, covering news, analysis, and insights into the fashion industry.",
+      "title": "Business of Fashion",
+      "kind": "feed",
+      "feed_url": "http://www.businessoffashion.com/feed",
+      "details": "Original category: Fashion -> Designers & Brands",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "industry insights",
+        "business"
+      ]
+    },
+    {
+      "id": "feed:wwd.com:WWDWWD",
+      "cleaned_title": "WWD",
+      "summary": "A leading source for fashion industry news, trends, and analysis, covering designers, brands, and retail.",
+      "title": "WWDWWD",
+      "kind": "feed",
+      "feed_url": "http://www.wwd.com/rss/2/news/recentstories",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Fashion",
+        "Design",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "trends",
+        "retail"
+      ]
+    },
+    {
+      "id": "youtube:HYPEBEAST",
+      "cleaned_title": "HYPEBEAST",
+      "summary": "A YouTube channel focusing on streetwear, sneakers, and fashion collaborations, featuring interviews and behind-the-scenes content.",
+      "title": "HYPEBEAST",
+      "kind": "youtube",
+      "channel_id": "UCmd52DyhaO4E1Cvy4RrHuew",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPS3iVfjJqkcLw3fWvlWr5zkaIAHPKOze5Vqwd24Sg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Designers & Brands",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "streetwear",
+        "sneakers",
+        "fashion collaboration"
+      ]
+    },
+    {
+      "id": "youtube:Fashion Roadman",
+      "cleaned_title": "Fashion Roadman",
+      "summary": "A YouTube channel that explores the history of fashion, showcasing iconic designers and their contributions to the industry.",
+      "title": "Fashion Roadman",
+      "kind": "youtube",
+      "channel_id": "UCVmPyrwjL0wepDhmvgzlOcA",
+      "thumbnail_url": "https://yt3.ggpht.com/UHdKB69FoNMuR9l-OH92VGe6d4JSI5HP0KcF_64qlD5QcqrErTChPylJVPBvb5XvPTSsoHAlAg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Designers & Brands",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion history",
+        "designers",
+        "fashion trends"
+      ]
+    },
+    {
+      "id": "youtube:Fashion Channel",
+      "cleaned_title": "Fashion Channel",
+      "summary": "Fashion Channel is a YouTube channel that showcases runway shows, backstage footage, and interviews with fashion designers.",
+      "title": "Fashion Channel",
+      "kind": "youtube",
+      "channel_id": "UCepVy23t8l-CEaASZzfo9Jg",
+      "thumbnail_url": "https://yt3.ggpht.com/LDjxqjRYumJFfV1zHdPpwyV_KhQIqYFI0v5w1j420zb00iTlK4psGtJCV493P_q9BDxvOudUoGY=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "runway shows",
+        "backstage access",
+        "designer interviews"
+      ]
+    },
+    {
+      "id": "youtube:FF Channel",
+      "cleaned_title": "FF Channel",
+      "summary": "FF Channel on YouTube offers a wide range of fashion show videos, including highlights, full shows, and behind-the-scenes content.",
+      "title": "FF Channel",
+      "kind": "youtube",
+      "channel_id": "UC3T5fmgL4Kvk3kG1kF6JFeA",
+      "thumbnail_url": "https://yt3.ggpht.com/AW4fxANQyTYG89MUAdNpE3WXBl8pAvuvyWKO29FuoRvztnOhdEDAgGoM1WUhFrpCweV3zZE_=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion shows",
+        "video coverage",
+        "highlights"
+      ]
+    },
+    {
+      "id": "youtube:FashionTV",
+      "cleaned_title": "FashionTV",
+      "summary": "FashionTV is a YouTube channel that features fashion show coverage, including runway shows, backstage moments, and exclusive interviews.",
+      "title": "FashionTV",
+      "kind": "youtube",
+      "channel_id": "UCqzju-_WMKsgNx8R3QwupQQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM1XJTwOh-pAziDmuapE1KG7nHcuarmxjx3tl-2XY0=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion shows",
+        "backstage",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:fashionweekonline.com:Fashion Week Online\u00ae",
+      "cleaned_title": "Fashion Week Online",
+      "summary": "Fashion Week Online provides coverage of fashion shows worldwide, including photos, videos, and designer profiles.",
+      "title": "Fashion Week Online\u00ae",
+      "kind": "feed",
+      "feed_url": "http://fashionweekonline.com/feed",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion shows",
+        "designer profiles",
+        "London Fashion Week",
+        "AW25"
+      ]
+    },
+    {
+      "id": "youtube:TheRealRed",
+      "cleaned_title": "TheRealRed",
+      "summary": "A YouTube channel showcasing luxury fashion finds, styling tips, and insights into the world of consignment shopping.",
+      "title": "TheRealRed",
+      "kind": "youtube",
+      "channel_id": "UCaAhl0EekCUq0EIuH_EI6hQ",
+      "thumbnail_url": "https://yt3.ggpht.com/tRX8_lXWwTkspA-7mW59A0SBarYCfOIFo4sD1uS0__kazlVGNw4VHPfVH9gMbSKDM2ubHlmmIw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "luxury fashion",
+        "styling tips",
+        "consignment shopping"
+      ]
+    },
+    {
+      "id": "feed:nngroup.com:NN/g latest articles and announcements",
+      "cleaned_title": "NN/g latest articles and announcements",
+      "summary": "A leading UX research and consulting firm that publishes insightful articles on UX and product design.",
+      "title": "NN/g latest articles and announcements",
+      "kind": "feed",
+      "feed_url": "https://www.nngroup.com/feed/rss/",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Design",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "UX",
+        "user experience",
+        "product design",
+        "Nielsen Norman"
+      ]
+    },
+    {
+      "id": "feed:uxdesign.cc:UX Collective - Medium",
+      "cleaned_title": "UX Collective",
+      "summary": "A platform that curates and publishes articles, case studies, and resources on UX design and product development.",
+      "title": "UX Collective - Medium",
+      "kind": "feed",
+      "feed_url": "https://uxdesign.cc/feed",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "UX",
+        "user experience",
+        "product design",
+        "Medium"
+      ]
+    },
+    {
+      "id": "youtube:AJ&Smart",
+      "cleaned_title": "AJ&Smart",
+      "summary": "A YouTube channel that shares practical tips, case studies, and design sprints to help you improve your UX and product design skills.",
+      "title": "AJ&Smart",
+      "kind": "youtube",
+      "channel_id": "UCeB_OpLspKJGiKv1CYkWFFw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKb_uAvQ9bjZmex1BRW7TMZafssS9IzP-FZ3k2erFw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "UX",
+        "YouTube",
+        "product design",
+        "design sprints"
+      ]
+    },
+    {
+      "id": "feed:uibreakfast.com:UI Breakfast",
+      "cleaned_title": "UI Breakfast",
+      "summary": "Insights and discussions on UI and UX consulting hosted by designer Jane Portman.",
+      "title": "UI Breakfast",
+      "kind": "feed",
+      "feed_url": "https://uibreakfast.com/feed/",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Jane Portman",
+      "tags": [
+        "Tech",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "UI",
+        "UX",
+        "podcast",
+        "Jane Portman"
+      ]
+    },
+    {
+      "id": "feed:heydesigner.com:HeyDesigner",
+      "cleaned_title": "HeyDesigner",
+      "summary": "HeyDesigner serves as a useful resource for product people, UX designers, and PMs, providing insights on product design and engineering.",
+      "title": "HeyDesigner",
+      "kind": "feed",
+      "feed_url": "http://heydesigner.com/feed/",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "product design",
+        "UX",
+        "design systems",
+        "AI tools",
+        "iconography"
+      ]
+    },
+    {
+      "id": "feed:uxdesignweekly.com:UX Design Weekly",
+      "cleaned_title": "UX Design Weekly",
+      "summary": "Curated by Kenny Chen, UX Design Weekly provides a thoughtful selection of user experience links each week, catering to design enthusiasts.",
+      "title": "UX Design Weekly",
+      "kind": "feed",
+      "feed_url": "https://uxdesignweekly.com/feed/",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Kenny Chen",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "user experience",
+        "design links",
+        "curated content"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Sidebar",
+      "cleaned_title": "Sidebar",
+      "summary": "Sidebar highlights the best design links daily, serving as an efficient resource for design insights and trends.",
+      "title": "Sidebar",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/SidebarFeed",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design links",
+        "daily roundup",
+        "UX design"
+      ]
+    },
+    {
+      "id": "feed:https://cabel.com/feed/",
+      "title": "cabel.com",
+      "kind": "feed",
+      "feed_url": "https://cabel.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "cabel.com",
+      "cleaned_author": "Cabel Sasser",
+      "summary": "Cabel.com is a personal blog by Cabel Sasser, featuring reflections on creativity, experiences, and insights from the tech industry.",
+      "tags": [
+        "Tech",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "blog",
+        "tech",
+        "creativity",
+        "personal"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/FontsInUsePicks",
+      "title": "Fonts In Use: Staff Picks",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/FontsInUsePicks",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Fonts In Use: Staff Picks",
+      "cleaned_author": null,
+      "summary": "A creative exploration of typography, showcasing how fonts are utilized in various real-world applications through curated staff picks.",
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "typography",
+        "design",
+        "fonts",
+        "creative"
+      ]
+    },
+    {
+      "id": "feed:https://punyamishra.com/feed/",
+      "title": "Punya Mishra's Web | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://punyamishra.com/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Punya Mishra's Web",
+      "cleaned_author": "Punya Mishra",
+      "summary": "A blog exploring the intersection of education, creativity, technology, and design. The posts provide insightful discussions on modern educational practices and innovative uses of AI in learning.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "creativity",
+        "technology",
+        "design",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:https://mossandfog.com/feed/",
+      "title": "Moss and Fog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mossandfog.com/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Moss and Fog",
+      "cleaned_author": null,
+      "summary": "A visually-driven blog that offers a daily feast of nature, design, and creative inspiration, showcasing everything from iconic performances to stunning landscapes.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "nature",
+        "design",
+        "visual inspiration",
+        "architecture"
+      ]
+    },
+    {
+      "id": "feed:https://calbryant.uk/index.xml",
+      "title": "Cal Bryant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://calbryant.uk/index.xml",
+      "summary": "An attempt to document my projects.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Cal Bryant",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "DIY",
+        "Design",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "3D printing",
+        "FPV drone",
+        "speaker cabinets",
+        "python generator"
+      ]
+    },
+    {
+      "id": "feed:https://cennydd.com/writing?format=rss",
+      "title": "Cennydd Bowles \u00b7 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cennydd.com/writing?format=rss",
+      "summary": "Cennydd Bowles is a designer and tech ethicist. He is a principal technology adviser at the ICO, author of Future Ethics, and a visiting lecturer at the RCA and Manchester Met.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Cennydd Bowles \u00b7 Writing",
+      "cleaned_author": "Cennydd Bowles",
+      "tags": [
+        "Tech",
+        "Writing",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech ethics",
+        "Hallucinations",
+        "AI maximalism",
+        "Future Ethics"
+      ]
+    },
+    {
+      "id": "feed:https://shkspr.mobi/blog/feed/atom/",
+      "title": "Terence Eden\u2019s Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Terence Eden\u2019s Blog",
+      "cleaned_author": "Terence Eden",
+      "summary": "A blog where Terence Eden explores topics in technology and accessibility, combining personal insights with practical advice.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Aviation",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "accessibility",
+        "technology reviews",
+        "coding insights"
+      ]
+    },
+    {
+      "id": "feed:https://digicult.it/feed/",
+      "title": "DIGICULT | Digital Art, Design and Culture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://digicult.it/feed/",
+      "summary": "Since 2005, Digicult is a platform that critically examines the impact of digital technologies and science on art, design, culture and contemporary society.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "DIGICULT",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital art",
+        "contemporary society",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://neural.it/feed/",
+      "title": "Neural",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://neural.it/feed/",
+      "summary": "Critical digital culture and media arts.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "Neural",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital culture",
+        "media arts",
+        "critical analysis"
+      ]
+    },
+    {
+      "id": "feed:https://disquiet.com/feed/",
+      "title": "Disquiet",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://disquiet.com/feed/",
+      "summary": "Listening to culture. Playing with audio. Sounding out technology. Composing in code.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "Disquiet",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "audio culture",
+        "sound technology",
+        "experimental music"
+      ]
+    },
+    {
+      "id": "feed:https://www.spongefile.com/rss/",
+      "title": "Spongefile",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.spongefile.com/rss/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Spongefile",
+      "cleaned_author": null,
+      "summary": "Spongefile is a creative exploration of ideas and explanations, focusing on various design concepts and tools. With insightful content that caters to design enthusiasts, it bridges the gap between artistry and practicality.",
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "ideas",
+        "explanations",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://filmandfurniture.com/feed/",
+      "title": "Film and Furniture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://filmandfurniture.com/feed/",
+      "summary": "Furniture & decor with a story to tell. Find interiors inspiration and buy decor from your favourite films. Best Design Inspiration Blog '19.",
+      "details": "Original Category: arts -> architecture -> interior-design.opml",
+      "cleaned_title": "Film and Furniture",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Architecture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "interior design",
+        "film sets",
+        "decor"
+      ]
+    },
+    {
+      "id": "feed:https://design-is-fine.org/feed/",
+      "title": "Design is fine. History is mine.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://design-is-fine.org/feed/",
+      "summary": "Imagine a time with no computers but with lots of craftsmanship and creativity. This is my library...",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Design is fine. History is mine.",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design",
+        "_intellectual",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "artifacts",
+        "craftsmanship",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:http://josenaranja.blogspot.com/feeds/posts/default",
+      "title": "Jos\u00e9 Naranja",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://josenaranja.blogspot.com/feeds/posts/default",
+      "summary": "Notebookmaker, artjournaling, writer of irrelevant things, beginner calligrapher and dreamer. Author of The Orange Manuscript and The Nautilus Manuscript.Art, notebook, journals, travel, photography, watercolor, cuadernos, illustration, design, handwriting.",
+      "details": "Original Category: arts -> illustration.opml",
+      "cleaned_title": "Jos\u00e9 Naranja",
+      "cleaned_author": "Jos\u00e9 Naranja",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design",
+        "Writing",
+        "_artsy",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "notebooks",
+        "art",
+        "journals",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://www.wellappointeddesk.com/feed/",
+      "title": "The Well-Appointed Desk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.wellappointeddesk.com/feed/",
+      "summary": "For the love of pens, paper, office supplies and a beautiful place to work.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "The Well-Appointed Desk",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "office supplies",
+        "workspace",
+        "product reviews"
+      ]
+    },
+    {
+      "id": "feed:https://pulpcovers.com/feed/",
+      "title": "Pulp Covers",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pulpcovers.com/feed/",
+      "summary": "The Best Of The Worst.",
+      "details": "Original Category: arts -> design -> book-design.opml",
+      "cleaned_title": "Pulp Covers",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "pulp fiction",
+        "book covers",
+        "design",
+        "vintage"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/thisisnthappiness",
+      "title": "this isn't happiness\u2122 Peteski",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/thisisnthappiness",
+      "summary": "ART, PHOTOGRAPHY, DESIGN & DISAPPOINTMENT INSTAGRAM.",
+      "details": "Original Category: arts -> images.opml",
+      "cleaned_title": "this isn't happiness\u2122",
+      "cleaned_author": "Peteski",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "photography",
+        "design",
+        "disappointment"
+      ]
+    },
+    {
+      "id": "feed:https://archeyes.com/feed/",
+      "title": "ArchEyes | Architecture and Design Magazine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://archeyes.com/feed/",
+      "summary": "ArchEyes brings you a carefully edited selection of Architecture projects, news, and competitions for the architecture professional.",
+      "details": "Original Category: arts -> architecture.opml",
+      "cleaned_title": "ArchEyes",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Architecture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "architecture",
+        "design",
+        "projects",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:https://www.architectural-review.com/feed",
+      "title": "The Architectural Review",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.architectural-review.com/feed",
+      "summary": "The only global architecture magazine for the 21st century. Be inspired and provoked by incisive critiques and the thinking behind the buildings shaping architectural discourse.",
+      "details": "Original Category: arts -> architecture.opml",
+      "cleaned_title": "The Architectural Review",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Architecture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "architecture",
+        "design critiques",
+        "international topics"
+      ]
+    },
+    {
+      "id": "feed:https://spoon-tamago.com/feed/",
+      "title": "Spoon & Tamago",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://spoon-tamago.com/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Spoon & Tamago",
+      "cleaned_author": null,
+      "summary": "A blog that celebrates Japanese art, design, and culture, featuring unique projects and individuals making waves in creative fields.",
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japanese art",
+        "design",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.theviviennefiles.com/feed/",
+      "title": "The Vivienne Files",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.theviviennefiles.com/feed/",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "The Vivienne Files",
+      "cleaned_author": null,
+      "summary": "A blog that explores capsule wardrobes through the lens of art and nature, providing stylish outfit ideas inspired by visual themes.",
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "capsule wardrobe",
+        "fashion",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://www.johncoulthart.com/feuilleton/feed/",
+      "title": "{ feuilleton }",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.johncoulthart.com/feuilleton/feed/",
+      "summary": "A journal by artist and designer John Coulthart.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "{ feuilleton }",
+      "cleaned_author": "John Coulthart",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "design",
+        "culture",
+        "reflections"
+      ]
+    },
+    {
+      "id": "feed:https://bl.ag/rss/",
+      "title": "BLAG (Better Letters Magazine)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bl.ag/rss/",
+      "summary": "Adventures in sign painting.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "BLAG (Better Letters Magazine)",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "sign painting",
+        "craft",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://carlbarenbrug.com/feed/rss",
+      "title": "Carl Barenbrug",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://carlbarenbrug.com/feed/rss",
+      "summary": "Creative Director + Product Designer.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Carl Barenbrug",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "minimalism",
+        "climbing"
+      ]
+    },
+    {
+      "id": "feed:http://www.casualoptimist.com/feed/",
+      "title": "The Casual Optimist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.casualoptimist.com/feed/",
+      "summary": "Books, Design and Culture.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "The Casual Optimist",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "books",
+        "design",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/core77/blog",
+      "title": "Core77",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/core77/blog",
+      "summary": "Magazine and resource offering calendar of events, firm listings, jobs section, forums, articles and competitions.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Core77",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "professional",
+        "resources"
+      ]
+    },
+    {
+      "id": "feed:https://danmall.com/feed.xml",
+      "title": "Dan Mall\u2019s Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://danmall.com/feed.xml",
+      "summary": "Read about how to grow in design systems, design process, and design leadership.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Dan Mall\u2019s Posts",
+      "cleaned_author": "Dan Mall",
+      "tags": [
+        "Tech",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "growth",
+        "leadership"
+      ]
+    },
+    {
+      "id": "feed:https://journal.buzzusborne.com/rss",
+      "title": "Design Inspiration \u2728\ud83e\udd80",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://journal.buzzusborne.com/rss",
+      "summary": "A collection of non-digital work for inspiration.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Design Inspiration",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "non-digital",
+        "inspiration",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://jarango.com/feed.xml",
+      "title": "Jorge Arango",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jarango.com/feed.xml",
+      "summary": "Information architect, author, and educator.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Jorge Arango",
+      "cleaned_author": "Jorge Arango",
+      "tags": [
+        "Tech",
+        "Design",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "information architecture",
+        "AI",
+        "consulting"
+      ]
+    },
+    {
+      "id": "feed:https://letterformarchive.org/news/feed/",
+      "title": "Letterform Archive \u2014 News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://letterformarchive.org/news/feed/",
+      "summary": "Recent news and announcements from Letterform Archive.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Letterform Archive \u2014 News",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "typography",
+        "graphic arts",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:https://www.presentandcorrect.com/blogs/blog.atom",
+      "title": "Present & Correct",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.presentandcorrect.com/blogs/blog.atom",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Present & Correct",
+      "cleaned_author": null,
+      "summary": "Present & Correct curates a range of engaging design-related posts, celebrating the creativity and uniqueness of various design elements in a quirky, inspiring manner.",
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "inspiration",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://scottboms.com/rss",
+      "title": "Scott Boms | Documenting",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scottboms.com/rss",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Scott Boms",
+      "cleaned_author": null,
+      "summary": "A personal blog documenting the thoughts and creative works of Scott Boms, featuring insights on design and creativity.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "creativity",
+        "personal blog",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://silviamaggidesign.com/feed.xml",
+      "title": "Silvia Maggi - Designer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silviamaggidesign.com/feed.xml",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Silvia Maggi",
+      "cleaned_author": "Silvia Maggi",
+      "summary": "A blog by designer Silvia Maggi, focusing on accessible design, ethical practices, and sustainability in product development.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "accessibility",
+        "sustainability",
+        "ethics"
+      ]
+    },
+    {
+      "id": "feed:https://smithery.com/feed/",
+      "title": "Smithery \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://smithery.com/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Smithery",
+      "cleaned_author": null,
+      "summary": "A blog by a strategic design practice offering insights into innovation, design thinking, and the evolving landscape of creativity.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "innovation",
+        "creativity",
+        "strategy"
+      ]
+    },
+    {
+      "id": "feed:https://veerle.duoh.com/design-feed.rss",
+      "title": "Veerle's Blog 4.0 | Design Homepage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://veerle.duoh.com/design-feed.rss",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Veerle's Blog 4.0",
+      "cleaned_author": "Veerle Pieters",
+      "summary": "A design blog featuring insights into the design process, along with Adobe tutorials and graphic resources.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "Adobe",
+        "tutorials",
+        "graphic design"
+      ]
+    },
+    {
+      "id": "feed:https://www.wemadethis.co.uk/blog/feed/",
+      "title": "We Made This - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.wemadethis.co.uk/blog/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "We Made This",
+      "cleaned_author": null,
+      "summary": "A blog that shares creative projects and discussions surrounding design and art, celebrated for its innovative content.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "design",
+        "art",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:https://www.yankodesign.com/feed/",
+      "title": "Yanko Design",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.yankodesign.com/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Yanko Design",
+      "cleaned_author": null,
+      "summary": "A modern industrial design blog that showcases the latest trends, innovative products, and insights into design aesthetics.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "industrial design",
+        "innovation",
+        "products",
+        "trends"
+      ]
+    },
+    {
+      "id": "feed:https://rhollick.wordpress.com/feed/",
+      "title": "Making Book",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rhollick.wordpress.com/feed/",
+      "summary": "All sorts of stuff about books and book manufacturing.",
+      "details": "Original Category: arts -> design -> book-design.opml",
+      "cleaned_title": "Making Book",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "book manufacturing",
+        "book design",
+        "publishing"
+      ]
+    },
+    {
+      "id": "feed:https://spinemagazine.co/articles?format=rss",
+      "title": "SPINE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://spinemagazine.co/articles?format=rss",
+      "summary": "Spine Magazine is an online publication devoted to book cover design and book culture.",
+      "details": "Original Category: arts -> design -> book-design.opml",
+      "cleaned_title": "SPINE",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "book cover design",
+        "book culture",
+        "graphic design"
+      ]
+    },
+    {
+      "id": "feed:https://stephanieevergreen.com/blog/feed/",
+      "title": "Evergreen Data Visualization Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stephanieevergreen.com/blog/feed/",
+      "summary": "How to make high impact data visualization right inside Excel along with real life case examples organizational culture change.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "Evergreen Data Visualization Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data",
+        "Data",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "Excel",
+        "reporting",
+        "organizational culture"
+      ]
+    },
+    {
+      "id": "feed:https://flowingdata.com/feed",
+      "title": "FlowingData",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://flowingdata.com/feed",
+      "summary": "Data Visualization and Statistics.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "FlowingData",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "statistics",
+        "analytics"
+      ]
+    },
+    {
+      "id": "feed:https://www.hoverstat.es/rss.xml",
+      "title": "HOVERSTAT.ES",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hoverstat.es/rss.xml",
+      "summary": "The home of alternative design, code and content on the world wide web.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "HOVERSTAT.ES",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital design",
+        "coding",
+        "creative projects"
+      ]
+    },
+    {
+      "id": "feed:https://maggieappleton.com/rss.xml",
+      "title": "Maggie Appleton",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://maggieappleton.com/rss.xml",
+      "summary": "Maggie's digital garden filled with visual essays on programming, design, and anthropology.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "Maggie Appleton",
+      "cleaned_author": "Maggie Appleton",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Education",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "design",
+        "anthropology"
+      ]
+    },
+    {
+      "id": "feed:https://stamen.com/feed/",
+      "title": "Stamen | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stamen.com/feed/",
+      "summary": "A blog dedicated to the art of storytelling through data visualization, showcasing innovative maps and design projects that help reveal complex narratives.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "Stamen",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Data",
+        "Photos",
+        "_artsy",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "mapping",
+        "design",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://uxknowledgebase.com/feed",
+      "title": "UX Knowledge Base Sketch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://uxknowledgebase.com/feed",
+      "summary": "For UX designers and anyone interested in UX design, UI design (and some related fields) or in sketching.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "UX Knowledge Base Sketch",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "UX design",
+        "UI design",
+        "best practices",
+        "sketching"
+      ]
+    },
+    {
+      "id": "feed:https://theapartmentwoodworker.com/feed/",
+      "title": "The Apartment Woodworker",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theapartmentwoodworker.com/feed/",
+      "summary": "Hand-tool Woodworking for the Urban Apartment-dweller.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "The Apartment Woodworker",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "hand tool woodworking",
+        "urban woodworking",
+        "projects",
+        "craftsmanship"
+      ]
+    },
+    {
+      "id": "feed:http://nevardmedia.blogspot.com/feeds/posts/default",
+      "title": "Chris Nevard Model Railways Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://nevardmedia.blogspot.com/feeds/posts/default",
+      "summary": "I've been into photography, railways and modelling them in miniature for over 40 years.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Chris Nevard Model Railways Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "model railways",
+        "photography",
+        "model making",
+        "miniature railways"
+      ]
+    },
+    {
+      "id": "feed:http://philsworkbench.blogspot.com/feeds/posts/default",
+      "title": "Phil's Workbench",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://philsworkbench.blogspot.com/feeds/posts/default",
+      "summary": "A daily updated blog typed by someone with painty hands, oil under his fingernails and the smell of solder in his nostrils who likes making all sort of models and miniatures. And fixing things.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Phil's Workbench",
+      "cleaned_author": "Phil",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Crafts",
+        "DIY",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "model making",
+        "DIY projects",
+        "modeling techniques"
+      ]
+    },
+    {
+      "id": "feed:https://www.sightunseen.com/feed/",
+      "title": "Sight Unseen",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sightunseen.com/feed/",
+      "summary": "An online magazine that uncovers what\u2019s new and next in design and the visual arts, with a focus on independent makers working outside traditional disciplinary boundaries.",
+      "details": "Original Category: arts -> architecture -> interior-design.opml",
+      "cleaned_title": "Sight Unseen",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Architecture"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "visual arts",
+        "independent makers"
+      ]
+    },
+    {
+      "id": "feed:https://medium.com/feed/@cityofsound",
+      "title": "Dan Hill \u2013 Medium",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://medium.com/feed/@cityofsound",
+      "summary": "Designer, urbanist, etc. Director of Melbourne School of Design. Previously, Swedish gov, Arup, UCL IIPP, Fabrica, Helsinki Design Lab, BBC etc.",
+      "details": "Original Category: humanities -> urbanism.opml",
+      "cleaned_title": "Dan Hill \u2013 Medium",
+      "cleaned_author": "Dan Hill",
+      "tags": [
+        "Living",
+        "Urban",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "urbanism",
+        "design",
+        "city"
+      ]
+    },
+    {
+      "id": "feed:https://somethingaboutmaps.wordpress.com/feed/",
+      "title": "somethingaboutmaps",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://somethingaboutmaps.wordpress.com/feed/",
+      "summary": "My name is Daniel Huffman, and I am a cartographer.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "somethingaboutmaps",
+      "cleaned_author": "Daniel Huffman",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Germany",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "cartography",
+        "maps",
+        "Kickstarter",
+        "ebooks"
+      ]
+    },
+    {
+      "id": "feed:https://transitmap.net/feed/",
+      "title": "Transit Maps",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://transitmap.net/feed/",
+      "summary": "A site devoted to the design and social impact of transit maps - subway maps, metro maps, bus maps, rail maps, ferry maps and more!",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "Transit Maps",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Design",
+        "Urban",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "transit maps",
+        "subway maps",
+        "urban design"
+      ]
+    },
+    {
+      "id": "feed:https://512pixels.net/feed/",
+      "title": "512 Pixels",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://512pixels.net/feed/",
+      "summary": "Covering Apple, computer history, space, design and lots of other fine nerdery.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "512 Pixels",
+      "cleaned_author": "Stephen Hackett",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Design",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "computing",
+        "technology",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://evermorestud.io/feed/",
+      "title": "EvermoreStudio",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://evermorestud.io/feed/",
+      "summary": "A creative blog showcasing various art projects and design patterns, emphasizing hands-on artwork and cultural designs.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "EvermoreStudio",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art projects",
+        "design patterns",
+        "Celtic art"
+      ]
+    },
+    {
+      "id": "feed:https://planb.nicecupoftea.org/feed/",
+      "title": "PlanB \u2013 Powered by tea",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://planb.nicecupoftea.org/feed/",
+      "summary": "Powered by tea.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "PlanB \u2013 Powered by Tea",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "prototyping",
+        "Japan",
+        "Mythic Beasts",
+        "Sonic Pi"
+      ]
+    },
+    {
+      "id": "feed:https://tomarmitage.com/index.xml",
+      "title": "Tom Armitage \u00bb Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tomarmitage.com/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Tom Armitage \u00bb Blog",
+      "cleaned_author": "Tom Armitage",
+      "summary": "The blog of a freelance technologist, designer, and writer, showcasing thoughts on work processes, projects, and the freelance lifestyle.",
+      "tags": [
+        "Tech",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "freelance technologist",
+        "project notes",
+        "worknotes"
+      ]
+    },
+    {
+      "id": "feed:http://momentsingraphics.de/RSS.xml",
+      "title": "Moments in Graphics | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://momentsingraphics.de/RSS.xml",
+      "summary": "I strive to make graphics research more accessible by providing additional information. It is about interesting works of others as well as my own work.",
+      "details": "Original Category: technology -> graphics.opml",
+      "cleaned_title": "Moments in Graphics",
+      "cleaned_author": "Christoph Peters",
+      "tags": [
+        "Tech",
+        "Design",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "radiometry",
+        "path tracing",
+        "polynomial roots"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/brad-frosts-blog",
+      "title": "Brad Frost | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/brad-frosts-blog",
+      "summary": "Design Systems Consulting, Web Development, Workshops, and Music.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Brad Frost | Blog",
+      "cleaned_author": "Brad Frost",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design systems",
+        "web development",
+        "workshops",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://clagnut.com/feeds/summaries.xml",
+      "title": "Clagnut by Richard Rutter",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://clagnut.com/feeds/summaries.xml",
+      "summary": "The online home and blog of Richard Rutter, cofounder of Clearleft and Fontdeck. Here he writes about web typography, human-centred design, Brighton, music and occasionally cycling.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Clagnut",
+      "cleaned_author": "Richard Rutter",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "typography",
+        "development",
+        "Brighton",
+        "cycling"
+      ]
+    },
+    {
+      "id": "feed:https://dbushell.com/rss.xml",
+      "title": "David Bushell \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dbushell.com/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "David Bushell \u2013 Blog",
+      "cleaned_author": "David Bushell",
+      "summary": "David Bushell's insights into web design and front-end development covering a range of topics in the field.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "front-end development",
+        "blog"
+      ]
+    },
+    {
+      "id": "feed:https://darn.es/rss.xml",
+      "title": "David Darnes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://darn.es/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "David Darnes",
+      "cleaned_author": "David Darnes",
+      "summary": "This blog highlights the expertise of David Darnes in design systems and front-end development across various platforms.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design systems",
+        "front-end development",
+        "Writing"
+      ]
+    },
+    {
+      "id": "feed:https://ericwbailey.design/feed/feed.xml",
+      "title": "Eric Bailey \u2013 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ericwbailey.design/feed/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Eric Bailey",
+      "cleaned_author": null,
+      "summary": "Eric Bailey combines his expertise as a developer and inclusive design advocate to deliver thought-provoking insights into web development. His writing navigates the intersection of accessibility and innovation, offering readers fresh perspectives on creating inclusive digital experiences.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development",
+        "Internet",
+        "Design",
+        "Software Design",
+        "_intellectual",
+        "_academic",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "inclusive design",
+        "web development",
+        "accessibility",
+        "CSS",
+        "localization"
+      ]
+    },
+    {
+      "id": "feed:https://blog.jim-nielsen.com/feed.xml",
+      "title": "Jim Nielsen\u2019s Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Jim Nielsen\u2019s Blog",
+      "cleaned_author": null,
+      "summary": "A blog where Jim Nielsen shares his knowledge on web development and design principles.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "CSS",
+        "blog"
+      ]
+    },
+    {
+      "id": "feed:https://www.carryology.com/feed/",
+      "title": "Carryology | Exploring Better Ways to Carry",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.carryology.com/feed/",
+      "summary": "We share insights, ideas and inspiration about bags, luggage, wallets and other goods that help you carry, with the hope that you can keep the things that are most precious to you close by when you go out to conquer the world.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Carryology | Exploring Better Ways to Carry",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "bags",
+        "travel",
+        "gear"
+      ]
+    },
+    {
+      "title": "Abduzeedo",
+      "popularity_score": 2.2333333333333334,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.feedburner.com/abduzeedo?format=xml",
+      "kind": "feed",
+      "id": "feed:http://feeds.feedburner.com/abduzeedo?format=xml",
+      "cleaned_title": "Abduzeedo",
+      "cleaned_author": null,
+      "summary": "An inspiration feed showcasing creative design ideas and projects ranging from web design to branding.",
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "inspiration",
+        "branding",
+        "creative"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Colossal",
+      "cleaned_title": "Colossal",
+      "summary": "Colossal showcases the intersection of art, design, and technology. Explore their website for captivating visual art projects, installations, and creative innovations.",
+      "title": "Colossal",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/colossal",
+      "details": "Original category: Arts",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular",
+        "ooh_directory"
+      ],
+      "popularity_score": 2.112351808170532,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "design",
+        "visual culture",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:swiss-miss.com:swissmiss",
+      "cleaned_title": "swissmiss",
+      "summary": "A creative design blog that curates innovative ideas and projects in design, run by a Swiss designer based in New York City.",
+      "title": "swissmiss",
+      "kind": "feed",
+      "feed_url": "http://www.swiss-miss.com/feed",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": "Tina Roth Eisenberg",
+      "tags": [
+        "Arts & Culture",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "creativity",
+        "innovation",
+        "New York"
+      ]
+    }
+  ],
+  "child_categories": []
+}

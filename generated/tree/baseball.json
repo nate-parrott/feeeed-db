@@ -1,0 +1,236 @@
+{
+  "id": "baseball",
+  "display_name": "Baseball",
+  "feeds": [
+    {
+      "id": "feed:mlb.com:MLB News",
+      "cleaned_title": "MLB News",
+      "summary": "The official website of Major League Baseball (MLB), providing news, scores, stats, and highlights from the world of baseball.",
+      "title": "MLB News",
+      "kind": "feed",
+      "feed_url": "https://www.mlb.com/feeds/news/rss.xml",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "MLB news",
+        "baseball stats",
+        "scores"
+      ]
+    },
+    {
+      "id": "feed:theathletic.com:Latest Headlines \u2013 The Athletic",
+      "cleaned_title": "Latest Headlines \u2013 The Athletic",
+      "summary": "A sports news outlet known for its comprehensive coverage of various sports, providing breaking news, player insights, and detailed layers of analysis.",
+      "title": "Latest Headlines \u2013 The Athletic",
+      "kind": "feed",
+      "feed_url": "https://theathletic.com/feeds/rss/news/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "The Athletic",
+        "sports coverage",
+        "breaking news"
+      ]
+    },
+    {
+      "id": "feed:fangraphs.com:FanGraphs Baseball",
+      "cleaned_title": "FanGraphs Baseball",
+      "summary": "A website that focuses on advanced baseball statistics and analysis, providing in-depth articles and player projections.",
+      "title": "FanGraphs Baseball",
+      "kind": "feed",
+      "feed_url": "http://www.fangraphs.com/blogs/?feed=rss2",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Sports",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball analysis",
+        "statistics",
+        "player projections",
+        "FanGraphs",
+        "advanced metrics"
+      ]
+    },
+    {
+      "id": "youtube:MLB",
+      "cleaned_title": "MLB",
+      "summary": "The official YouTube channel of Major League Baseball, featuring game highlights, player interviews, and behind-the-scenes content.",
+      "title": "MLB",
+      "kind": "youtube",
+      "channel_id": "UCoLrcjPV5PbUrUyXq5mjc_A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPyvPmL2bD-z5AiFPy8XoOkyXtO0HmiMLGZcD1dhQc=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "MLB",
+        "highlights",
+        "player interviews",
+        "behind the scenes",
+        "baseball excitement"
+      ]
+    },
+    {
+      "id": "reddit:baseball",
+      "cleaned_title": "baseball",
+      "summary": "A subreddit dedicated to baseball, where fans can discuss the latest news, share opinions, and engage in game threads.",
+      "title": "baseball",
+      "kind": "reddit",
+      "subreddit": "baseball",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Sports",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball",
+        "MLB",
+        "discussions",
+        "fan community",
+        "game threads"
+      ]
+    },
+    {
+      "id": "youtube:Jomboy Media",
+      "cleaned_title": "Jomboy Media",
+      "summary": "A YouTube channel that provides entertaining breakdowns and analysis of baseball games, including umpire reactions, player mic'd up moments, and more.",
+      "title": "Jomboy Media",
+      "kind": "youtube",
+      "channel_id": "UCl9E4Zxa8CVr2LBLD0_TaNg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMOVf4_HnLEqzm_hBGhs_tEEzopLNHBKl743W6p1Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Baseball",
+        "Sports",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball",
+        "analysis",
+        "umpire",
+        "player mic'd up"
+      ]
+    },
+    {
+      "id": "feed:baseballprospectus.com:Baseball Prospectus",
+      "cleaned_title": "Baseball Prospectus",
+      "summary": "A website that offers in-depth analysis, statistical models, and player projections for baseball enthusiasts and fantasy baseball players.",
+      "title": "Baseball Prospectus",
+      "kind": "feed",
+      "feed_url": "https://www.baseballprospectus.com/feed/",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Baseball",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "analysis",
+        "statistics",
+        "player projections"
+      ]
+    },
+    {
+      "id": "youtube:Pitching Ninja",
+      "cleaned_title": "Pitching Ninja",
+      "summary": "A YouTube channel dedicated to showcasing the art of pitching in baseball, featuring slow-motion breakdowns, pitching tips, and analysis of pitching mechanics.",
+      "title": "Pitching Ninja",
+      "kind": "youtube",
+      "channel_id": "UCAgLUO68gPXGgg5cpqfV-tA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOaqGGieVpj-Jj1ZhuZHsVpUel2OfHDF7tO07Rb=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Baseball",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "pitching",
+        "analysis",
+        "mechanics"
+      ]
+    },
+    {
+      "id": "reddit:Homeplate",
+      "cleaned_title": "Homeplate",
+      "summary": "A subreddit focused on the technical aspects of baseball, including pitching, hitting, fielding, and coaching strategies.",
+      "title": "Homeplate",
+      "kind": "reddit",
+      "subreddit": "Homeplate",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Baseball",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "pitching mechanics",
+        "community",
+        "discussions"
+      ]
+    }
+  ],
+  "child_categories": []
+}

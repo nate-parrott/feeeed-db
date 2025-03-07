@@ -1,0 +1,1967 @@
+{
+  "id": "internet",
+  "display_name": "Internet",
+  "feeds": [
+    {
+      "id": "substack:top:the_pragmatic_engineer_-_gergely_orosz",
+      "title": "The Pragmatic Engineer - Gergely Orosz",
+      "cleaned_title": "The Pragmatic Engineer",
+      "summary": "A focused look at the inner workings of Big Tech and startups, this newsletter offers valuable insights for software engineers and managers, presenting relevant industry trends and expert commentary.",
+      "kind": "feed",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top",
+        "original_feed_db"
+      ],
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Coding",
+        "Internet",
+        "_intellectual"
+      ],
+      "cleaned_author": "Gergely Orosz",
+      "language": "en",
+      "keywords": [
+        "software engineering",
+        "Big Tech",
+        "startups"
+      ]
+    },
+    {
+      "id": "feed:theverge.com:The Verge",
+      "cleaned_title": "The Verge",
+      "summary": "A website that covers the latest news, reviews, and features on technology, including the Internet and its impact on society.",
+      "title": "The Verge",
+      "kind": "feed",
+      "feed_url": "http://www.theverge.com/rss/full.xml",
+      "popularity_score": 100.84921108509366,
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "reviews",
+        "features",
+        "impact"
+      ]
+    },
+    {
+      "id": "feed:feeds.wired.com:Wired",
+      "cleaned_title": "Wired",
+      "summary": "A digital media website that covers technology, science, and culture, with articles and features on Internet-related topics and trends.",
+      "title": "Wired",
+      "kind": "feed",
+      "feed_url": "http://feeds.wired.com/wired/index",
+      "popularity_score": 17.5996244126489,
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "analysis",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:krebsonsecurity.com:Krebs on Security",
+      "cleaned_title": "Krebs on Security",
+      "summary": "A blog focusing on cybersecurity news and investigations, offering deep dives into vulnerabilities and threats.",
+      "title": "Krebs on Security",
+      "kind": "feed",
+      "feed_url": "http://krebsonsecurity.com/feed/",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.652429631833218,
+      "cleaned_author": "Brian Krebs",
+      "tags": [
+        "Tech",
+        "Cybersecurity",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity",
+        "data breaches",
+        "security news"
+      ]
+    },
+    {
+      "id": "feed:theregister.co.uk:The Register",
+      "cleaned_title": "The Register",
+      "summary": "A sarcastic tech news site that delivers biting commentary and analysis on current events in the IT sector and beyond.",
+      "title": "The Register",
+      "kind": "feed",
+      "feed_url": "http://www.theregister.co.uk/excerpts.rss",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech news",
+        "IT",
+        "cybersecurity",
+        "analysis",
+        "hacking"
+      ]
+    },
+    {
+      "id": "feed:mashable.com:Mashable",
+      "cleaned_title": "Mashable",
+      "summary": "A digital media website that focuses on technology, digital culture, and entertainment, with a section dedicated to Internet-related topics.",
+      "title": "Mashable",
+      "kind": "feed",
+      "feed_url": "https://mashable.com/feeds/rss/social-media",
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.923591125760805,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "digital culture",
+        "entertainment",
+        "online trends"
+      ]
+    },
+    {
+      "id": "feed:notboring.co:Not Boring by Packy McCormick",
+      "cleaned_title": "Not Boring",
+      "summary": "Tech strategy and analysis presented in an engaging manner, focusing on the latest trends and insights in the technology industry.",
+      "title": "Not Boring by Packy McCormick",
+      "kind": "feed",
+      "feed_url": "https://www.notboring.co/feed",
+      "details": "Original category: Business",
+      "sources": [
+        "original_feed_db",
+        "curated"
+      ],
+      "cleaned_author": "Packy McCormick",
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech analysis",
+        "business strategy",
+        "trend insights"
+      ]
+    },
+    {
+      "id": "youtube:Screen Junkies",
+      "cleaned_title": "Screen Junkies",
+      "summary": "A YouTube channel that offers movie and TV show reviews, honest trailers, and entertaining discussions.",
+      "title": "Screen Junkies",
+      "kind": "youtube",
+      "channel_id": "UCOpcACMWblDls9Z6GERVi1A",
+      "thumbnail_url": "https://yt3.ggpht.com/TkwJQBfOe-sI_sws8ON0ddevuxmbYQ4Ya-n54eLyTu-1BVjBMtbi6kBYv_DsaS8lf-Q1RCjC=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "movie reviews",
+        "TV shows",
+        "honest trailers",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "reddit:television",
+      "cleaned_title": "television",
+      "summary": "A subreddit dedicated to discussions, news, and recommendations about TV shows.",
+      "title": "television",
+      "kind": "reddit",
+      "subreddit": "television",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV shows",
+        "television discussions",
+        "show recommendations"
+      ]
+    },
+    {
+      "id": "youtube:Mrwhosetheboss",
+      "cleaned_title": "Mrwhosetheboss",
+      "summary": "Mrwhosetheboss is a YouTube channel that provides reviews, comparisons, and tips on the latest tech gadgets and innovations.",
+      "title": "Mrwhosetheboss",
+      "kind": "youtube",
+      "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "thumbnail_url": "https://yt3.ggpht.com/enyLBm1Sy8mVRXJJLWHT2z64nqxJGt2g61A9xnxpUjO2YAUovHaY_JT3rnAg0j6Qij9iaHQlAg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech reviews",
+        "gadgets",
+        "comparisons",
+        "tips"
+      ]
+    },
+    {
+      "id": "youtube:Mango Street",
+      "cleaned_title": "Mango Street",
+      "summary": "A YouTube channel hosted by photographers Rachel and Daniel, providing tutorials, tips, and creative ideas for photography.",
+      "title": "Mango Street",
+      "kind": "youtube",
+      "channel_id": "UC5bp5_6h-ZxkBz6S_33ZUVg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaRha_6AD4Hc4gmL7Skip13Sh9DfckSbj0xCCssr0w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Tech",
+        "WebDev",
+        "Gadgets",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "tutorials",
+        "creative ideas"
+      ]
+    },
+    {
+      "id": "youtube:Watcher",
+      "cleaned_title": "Watcher",
+      "summary": "The Watcher is a YouTube channel hosted by TV critic and journalist Alan Sepinwall, who shares reviews, analysis, and interviews about TV shows.",
+      "title": "Watcher",
+      "kind": "youtube",
+      "channel_id": "UCircJf-FlToBNjuy9xG-i5A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNjov7HhTW1BG5vPD8BAXPd0O1bxQuFCrqytuY=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "TV analysis",
+        "TV reviews",
+        "shows"
+      ]
+    },
+    {
+      "id": "youtube:Real Vision Finance",
+      "cleaned_title": "Real Vision Finance",
+      "summary": "Real Vision Finance's YouTube channel features interviews and discussions with leading economists, investors, and analysts on global economic trends and investment strategies.",
+      "title": "Real Vision Finance",
+      "kind": "youtube",
+      "channel_id": "UCBH5VZE_Y4F3CMcPIzPEB5A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqN0QUgtr9zMfOab2FUHYb_9LzvWu_7SQ6nCft3CNw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic trends",
+        "investment strategies",
+        "expert interviews"
+      ]
+    },
+    {
+      "id": "feed:hothardware.com:HotHardware.com News Rss Feed",
+      "cleaned_title": "HotHardware.com News",
+      "summary": "HotHardware.com offers news on the latest in technology and hardware. Their articles discuss everything from product reviews to the impacts of tech, like the recent changes in Google's search features.",
+      "title": "HotHardware.com News Rss Feed",
+      "kind": "feed",
+      "feed_url": "https://hothardware.com/rss/news.aspx",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware news",
+        "Lenovo ThinkPad",
+        "Valve VR headset",
+        "Mars exploration"
+      ]
+    },
+    {
+      "id": "feed:blog.stackoverflow.com:Stack Overflow Blog",
+      "cleaned_title": "Stack Overflow Blog",
+      "summary": "A question and answer site for programmers, where you can find solutions to coding problems and seek help from the community.",
+      "title": "Stack Overflow Blog",
+      "kind": "feed",
+      "feed_url": "http://blog.stackoverflow.com/feed/",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:technically.substack.com:Technically",
+      "cleaned_title": "Technically",
+      "summary": "An informative resource exploring various software concepts that enhances understanding for those eager to learn about technology and its applications.",
+      "title": "Technically",
+      "kind": "feed",
+      "feed_url": "https://technically.substack.com/feed",
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:Computerphile",
+      "cleaned_title": "Computerphile",
+      "summary": "A YouTube channel that explores various computer science and Internet-related topics, featuring interviews with experts and in-depth explanations.",
+      "title": "Computerphile",
+      "kind": "youtube",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqN8YG6ACSnlzJYYrIIsiyDUmh9M9Wf4PNSOoc4wQw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "computer science",
+        "technology",
+        "YouTube",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:digitalnative.substack.com:Digital Native",
+      "cleaned_title": "Digital Native",
+      "summary": "Focused on the intersection of people and technology, this blog explores how technological advancements shape consumer behavior and the digital landscape.",
+      "title": "Digital Native",
+      "kind": "feed",
+      "feed_url": "https://digitalnative.substack.com/feed",
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "consumer psychology",
+        "AI",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:theteardown.substack.com:The Teardown",
+      "cleaned_title": "The Teardown",
+      "summary": "A blog offering candid analyses of how technology impacts daily life, exploring its disruptive and beneficial effects on our surroundings.",
+      "title": "The Teardown",
+      "kind": "feed",
+      "feed_url": "https://theteardown.substack.com/feed",
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "analysis",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "feed:thatwastheweek.substack.com:That Was The Week",
+      "cleaned_title": "That Was The Week",
+      "summary": "A curated weekly recap focusing on developments in tech, startups, and investing, complemented by video and podcast content for subscribers.",
+      "title": "That Was The Week",
+      "kind": "feed",
+      "feed_url": "https://thatwastheweek.substack.com/feed",
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech news",
+        "startups",
+        "investing"
+      ]
+    },
+    {
+      "id": "feed:http://pxlnv.com/feed/",
+      "title": "Pixel Envy \u2013 pxlnv.com",
+      "kind": "feed",
+      "feed_url": "http://pxlnv.com/feed/",
+      "sources": [
+        "ooh_directory",
+        "curated"
+      ],
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Pixel Envy",
+      "cleaned_author": null,
+      "summary": "Pixel Envy features commentary on technology trends, offering readers succinct insights into recent developments across various tech topics.",
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "trends",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://spyglass.org/rss/",
+      "title": "Spyglass",
+      "kind": "feed",
+      "feed_url": "https://spyglass.org/rss/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Spyglass",
+      "cleaned_author": "M.G. Siegler",
+      "summary": "Spyglass features thoughtful commentary and analysis on technology and media, exploring contemporary issues from a unique perspective.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "media",
+        "commentary"
+      ]
+    },
+    {
+      "id": "feed:https://kk.org/cooltools/feed/",
+      "title": "Cool Tools",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kk.org/cooltools/feed/",
+      "summary": "Cool tools really work. A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Cool Tools",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Internet",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "tools",
+        "gadgets",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.eff.org/rss/updates.xml",
+      "title": "Deeplinks Blog | Electronic Frontier Foundation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.eff.org/rss/updates.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Deeplinks Blog | Electronic Frontier Foundation",
+      "cleaned_author": null,
+      "summary": "A blog from the Electronic Frontier Foundation focused on the intersection of technology, privacy, and civil liberties, providing important updates and analysis.",
+      "tags": [
+        "Tech",
+        "Activism",
+        "Cybersecurity",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "privacy",
+        "internet rights",
+        "EFF",
+        "technology",
+        "civil liberties"
+      ]
+    },
+    {
+      "title": "Pluralistic: Daily links from Cory Doctorow",
+      "popularity_score": 3.4294927536231885,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://pluralistic.net/feed/",
+      "kind": "feed",
+      "id": "feed:https://pluralistic.net/feed/",
+      "cleaned_title": "Pluralistic",
+      "cleaned_author": "Cory Doctorow",
+      "summary": "A blog that provides daily insights and links curated by Cory Doctorow, focusing on privacy, technology, and social issues without ads or tracking.",
+      "tags": [
+        "Tech",
+        "News",
+        "Internet",
+        "Security",
+        "Activism",
+        "Journalism",
+        "_intellectual",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://anderegg.ca/feed.xml",
+      "title": "anderegg.ca",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://anderegg.ca/feed.xml",
+      "summary": "Something (slightly) less boring than nothing.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "anderegg.ca",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "Social",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://blog.tomayac.com/feed/feed.xml",
+      "title": "Blogccasion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.tomayac.com/feed/feed.xml",
+      "summary": "The personal blog of Thomas Steiner.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Blogccasion",
+      "cleaned_author": "Thomas Steiner",
+      "tags": [
+        "Tech",
+        "AI",
+        "WebDev",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI inference",
+        "Web extensions",
+        "Eleventy",
+        "UK Competition and Markets Authority",
+        "Web Conf 2024"
+      ]
+    },
+    {
+      "id": "feed:https://www.robinsloan.com/lab.xml",
+      "title": "Dragoncatcher the blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.robinsloan.com/lab.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Dragoncatcher the blog",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to technology, focusing on various topics including personal projects, software development, and insights into app creation.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "apps",
+        "software",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://joshcollinsworth.com/api/rss.xml",
+      "title": "Josh Collinsworth | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://joshcollinsworth.com/api/rss.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Josh Collinsworth",
+      "cleaned_author": null,
+      "summary": "A thoughtful blog exploring technology and personal reflections, including recent musings on open source and the nuances of language.",
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "open source",
+        "language",
+        "reflections"
+      ]
+    },
+    {
+      "id": "feed:https://justin.searls.co/atom.xml",
+      "title": "justin\u2024searls\u2024co",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://justin.searls.co/atom.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "justin\u2024searls\u2024co",
+      "cleaned_author": "Justin Searls",
+      "summary": "A personal blog where Justin Searls shares insights on technology, artificial intelligence, and personal experiences with wit and candor.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI",
+        "technology",
+        "personal experiences",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://meyerweb.com/eric/thoughts/rss2/full",
+      "title": "meyerweb.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://meyerweb.com/eric/thoughts/rss2/full",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "meyerweb.com",
+      "cleaned_author": "Eric A. Meyer",
+      "summary": "A blog by CSS expert Eric A. Meyer, encompassing web standards, technology, and various cultural and personal observations.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "web standards",
+        "technology",
+        "personal observations"
+      ]
+    },
+    {
+      "id": "feed:https://netwars.pelicancrossing.net/feed/",
+      "title": "net.wars",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://netwars.pelicancrossing.net/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "net.wars",
+      "cleaned_author": null,
+      "summary": "A blog that delves into the intersection of technology, privacy, and freedom, discussing current issues related to computing.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Security"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "privacy",
+        "freedom",
+        "computing"
+      ]
+    },
+    {
+      "id": "feed:https://www.nextbigfuture.com/feed",
+      "title": "NextBigFuture.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nextbigfuture.com/feed",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "NextBigFuture",
+      "cleaned_author": null,
+      "summary": "A technology blog dissecting breakthrough ideas in science and the implications for the future, from AI advancements to space exploration.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Space",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "science",
+        "AI",
+        "space",
+        "future"
+      ]
+    },
+    {
+      "id": "feed:https://theoverspill.blog/feed/",
+      "title": "The Overspill: when there's more that I want to say",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theoverspill.blog/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "The Overspill",
+      "cleaned_author": "Charles Arthur",
+      "summary": "A collection of insights and observations on technology trends, covering the latest developments in the tech industry with a critical approach.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology trends",
+        "observations",
+        "tech industry news"
+      ]
+    },
+    {
+      "id": "feed:https://www.oreilly.com/radar/feed/index.xml",
+      "title": "Radar \u2013 O\u2019Reilly",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.oreilly.com/radar/feed/index.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Radar",
+      "cleaned_author": null,
+      "summary": "A blog that tracks important trends at the intersection of business and technology, providing insights into emerging developments and their implications.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "business trends",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:https://researchbuzz.me/feed/",
+      "title": "ResearchBuzz",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://researchbuzz.me/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "ResearchBuzz",
+      "cleaned_author": null,
+      "summary": "A valuable source of news and resources focusing on social media, search engines, and databases, serving as an essential guide since 1998.",
+      "tags": [
+        "Tech",
+        "Social",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "social media news",
+        "search engines",
+        "archives"
+      ]
+    },
+    {
+      "id": "feed:https://www.borninspace.com/feed/",
+      "title": "Born In Space",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.borninspace.com/feed/",
+      "summary": "The World's First Internet Spaceship.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Born In Space",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Humor",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "quirky",
+        "strange",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:http://xml.onfocus.com/posts",
+      "title": "onfocus by Paul Bausch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://xml.onfocus.com/posts",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "onfocus",
+      "cleaned_author": "Paul Bausch",
+      "summary": "A personal blog by web developer Paul Bausch, where he shares insights on technology, media, and current events. It offers a unique perspective on topics affecting the web development community and beyond.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "media",
+        "technology",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:https://webcurios.co.uk/feed/",
+      "title": "webcurios",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://webcurios.co.uk/feed/",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "webcurios",
+      "cleaned_author": null,
+      "summary": "A collection of fascinating links and discoveries from the web, delivered in a concise format. It serves as a window into the quirky and valuable content circulating online.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "links",
+        "discoveries",
+        "online content"
+      ]
+    },
+    {
+      "id": "feed:https://podnews.net/rss",
+      "title": "Podnews podcasting news",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://podnews.net/rss",
+      "summary": "Daily news about the global podcasting and on-demand audio industry.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "Podnews podcasting news",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "podcasting",
+        "industry news",
+        "audio"
+      ]
+    },
+    {
+      "id": "feed:https://www.bythom.com/newsviews/index.xml",
+      "title": "Cameras and Photography Explained | News/Views | Thom Hogan",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bythom.com/newsviews/index.xml",
+      "summary": "News and opinions about photography and the camera industry by Thom Hogan, with pointers to his gear specific sites.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Cameras and Photography Explained",
+      "cleaned_author": "Thom Hogan",
+      "tags": [
+        "Tech",
+        "Cinema",
+        "Photos",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "camera industry",
+        "news",
+        "insights",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://fromearthtothestars.com/feed/",
+      "title": "From Earth to the Stars",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fromearthtothestars.com/feed/",
+      "summary": "The Asimov's Science Fiction Magazine Author & Editor Blog.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "From Earth to the Stars",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "Asimov's Science Fiction",
+        "author interviews",
+        "science fiction updates"
+      ]
+    },
+    {
+      "id": "feed:http://crpgaddict.blogspot.com/feeds/posts/default",
+      "title": "The CRPG Addict",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://crpgaddict.blogspot.com/feeds/posts/default",
+      "summary": "A blog in which a dedicated addict plays through all PC computer role-playing games (CRPGs), in chronological order.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "The CRPG Addict",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Internet",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "CRPG",
+        "role-playing games",
+        "gaming history"
+      ]
+    },
+    {
+      "id": "feed:https://hypertexthero.com/index.xml",
+      "title": "Hypertexthero",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hypertexthero.com/index.xml",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Hypertexthero",
+      "cleaned_author": null,
+      "summary": "An eclectic blog that covers a variety of topics related to hypertext and interactive content, often intertwining literature, creativity, and digital design.",
+      "tags": [
+        "Arts & Culture",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "hypertext",
+        "interactive media",
+        "digital creativity",
+        "visualization"
+      ]
+    },
+    {
+      "id": "feed:https://feedpress.me/thetechnium",
+      "title": "The Technium",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feedpress.me/thetechnium",
+      "summary": "Making the Inevitable Obvious.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "The Technium",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Science",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "trends",
+        "analysis",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://taoofmac.com/atom.xml",
+      "title": "Tao of Mac",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://taoofmac.com/atom.xml",
+      "summary": "Keeping Things Simple.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Tao of Mac",
+      "cleaned_author": "Rui Carmo",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "blog",
+        "Rui Carmo",
+        "Apple"
+      ]
+    },
+    {
+      "id": "feed:https://nwn.blogs.com/nwn/atom.xml",
+      "title": "New World Notes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nwn.blogs.com/nwn/atom.xml",
+      "summary": "The Internet's longest-running metaverse news and culture site. From Wagner James Au, author of \"The Making of Second Life\".",
+      "details": "Original Category: technology -> vr.opml",
+      "cleaned_title": "New World Notes",
+      "cleaned_author": "Wagner James Au",
+      "tags": [
+        "Tech",
+        "Social",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "metaverse",
+        "VR",
+        "Wagner James Au"
+      ]
+    },
+    {
+      "id": "feed:https://www.aiweirdness.com/rss/",
+      "title": "AI Weirdness",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.aiweirdness.com/rss/",
+      "summary": "The weird side of artificial intelligence.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "AI Weirdness",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "weirdness",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "feed:https://leapfrog.nl/blog/feed/",
+      "title": "Leapfroglog - A weblog by Kars Alfrink.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://leapfrog.nl/blog/feed/",
+      "summary": "A weblog that shares insights on AI and machine learning, emphasizing practical applications and theoretical discussions in technology.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Leapfroglog",
+      "cleaned_author": "Kars Alfrink",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI",
+        "machine learning",
+        "Kars Alfrink"
+      ]
+    },
+    {
+      "id": "feed:https://replicate.com/blog/rss",
+      "title": "Replicate \u2013\u00a0Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://replicate.com/blog/rss",
+      "summary": "We\u2019re making machine learning easier and safer to use.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Replicate",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "machine learning",
+        "AI",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://cheapskatesguide.org/cheapskates-guide-rss-feed.xml",
+      "title": "The Cheapskate's Guide to Computers and the Internet",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cheapskatesguide.org/cheapskates-guide-rss-feed.xml",
+      "summary": "A practical guide for budget-conscious readers looking to save money on computers and online services, featuring tips and personal anecdotes.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "The Cheapskate's Guide to Computers and the Internet",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "saving money",
+        "computing tips",
+        "Linux Mint"
+      ]
+    },
+    {
+      "id": "feed:https://bonfirenetworks.org/feed/feed.xml",
+      "title": "Bonfire",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bonfirenetworks.org/feed/feed.xml",
+      "summary": "A federated social network for individuals and communities to design, operate and control their own digital lives.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Bonfire",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "community",
+        "social network",
+        "digital space"
+      ]
+    },
+    {
+      "id": "feed:https://offby1.website/feeds/all.atom.xml",
+      "title": "Ideas.Offby1",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://offby1.website/feeds/all.atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Ideas.Offby1",
+      "cleaned_author": null,
+      "summary": "A blog that explores various technology topics with a focus on practical applications and tools. Recent posts discuss workplace dynamics, remote server management, and coding best practices.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "development",
+        "remote management"
+      ]
+    },
+    {
+      "id": "feed:https://www.skrasser.com/feed.xml",
+      "title": "Sven Krasser's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.skrasser.com/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Sven Krasser's Blog",
+      "cleaned_author": "Sven Krasser",
+      "summary": "A blog focused on technology and cybersecurity, featuring insights into malware detection and retro computing.",
+      "tags": [
+        "Tech",
+        "Cybersecurity",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "malware",
+        "Commodore 64",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "feed:https://soup.agnescameron.info/feed.xml",
+      "title": "things from the room in the back",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soup.agnescameron.info/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "things from the room in the back",
+      "cleaned_author": null,
+      "summary": "A quirky blog that offers a mix of thoughts and explorations on technology, food, and societal issues.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "society",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://xavd.id/blog/feeds/rss.xml",
+      "title": "xavd.id | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xavd.id/blog/feeds/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "xavd.id",
+      "cleaned_author": null,
+      "summary": "A diverse collection of insights covering various topics, ideal for those who enjoy a broad range of subjects.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "media",
+        "SNL",
+        "CA propositions",
+        "changelogs",
+        "versioning"
+      ]
+    },
+    {
+      "id": "feed:https://erinkissane.com/feed.rss",
+      "title": "Erin Kissane's internet website lol",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://erinkissane.com/feed.rss",
+      "summary": "Erin Kissane provides updates and reflections on internet culture and the ramifications of technology.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "Erin Kissane's internet website lol",
+      "cleaned_author": "Erin Kissane",
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "entropy",
+        "fediverse",
+        "governance"
+      ]
+    },
+    {
+      "id": "feed:https://blog.archive.org/feed/",
+      "title": "Internet Archive Blogs",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.archive.org/feed/",
+      "summary": "A blog from the team at archive.org.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "Internet Archive Blogs",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "History",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "artist residency",
+        "AI copyright",
+        "public domain"
+      ]
+    },
+    {
+      "id": "feed:https://mediocregopher.com/feed.xml",
+      "title": "mediocregopher's lil web corner",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mediocregopher.com/feed.xml",
+      "summary": "I publish posts about projects I'm working on and things that interest me.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "mediocregopher's lil web corner",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "projects",
+        "technology",
+        "development"
+      ]
+    },
+    {
+      "id": "feed:https://blog.geocities.institute/feed",
+      "title": "One Terabyte of Kilobyte Age",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.geocities.institute/feed",
+      "summary": "Digging through the Geocities Torrent.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "One Terabyte of Kilobyte Age",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Geocities",
+        "nostalgia",
+        "web archives"
+      ]
+    },
+    {
+      "id": "feed:https://waxy.org/feed/",
+      "title": "Waxy.org - Andy Baio lives here",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://waxy.org/feed/",
+      "summary": "Waxy.org is the personal sandbox of Andy Baio. I made XOXO, Upcoming, Belong.io, Playfic, Kind of Bloop, helped build Kickstarter, and a bunch of other stuff too.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "Waxy.org",
+      "cleaned_author": "Andy Baio",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "technology",
+        "internet culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.content-technologist.com/rss/",
+      "title": "The Content Technologist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.content-technologist.com/rss/",
+      "summary": "Building better content operations. Understanding how algorithms process content. Weekly newsletter & resource by award-winning strategist Deborah Carver.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "The Content Technologist",
+      "cleaned_author": "Deborah Carver",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "content strategy",
+        "algorithms",
+        "SEO",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "feed:https://philna.sh/feed.xml",
+      "title": "Phil Nash | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://philna.sh/feed.xml",
+      "summary": "A developer, speaker, blogger, developer advocate, sausage dog owner and beer lover.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Phil Nash",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "JavaScript",
+        "Node.js",
+        "web development",
+        "form data",
+        "pagination"
+      ]
+    },
+    {
+      "id": "feed:https://cloudfour.com/feed/",
+      "title": "Cloud Four \u2013 Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cloudfour.com/feed/",
+      "summary": "We share what we learn so we can build a better web, together.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Cloud Four \u2013 Articles",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "responsive design",
+        "progressive web apps",
+        "web development",
+        "tips"
+      ]
+    },
+    {
+      "id": "feed:https://ericwbailey.design/feed/feed.xml",
+      "title": "Eric Bailey \u2013 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ericwbailey.design/feed/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Eric Bailey",
+      "cleaned_author": null,
+      "summary": "Eric Bailey combines his expertise as a developer and inclusive design advocate to deliver thought-provoking insights into web development. His writing navigates the intersection of accessibility and innovation, offering readers fresh perspectives on creating inclusive digital experiences.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development",
+        "Internet",
+        "Design",
+        "Software Design",
+        "_intellectual",
+        "_academic",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "inclusive design",
+        "web development",
+        "accessibility",
+        "CSS",
+        "localization"
+      ]
+    },
+    {
+      "id": "feed:http://scripting.com/rss.xml",
+      "title": "Scripting News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://scripting.com/rss.xml",
+      "summary": "It's even worse than it appears..",
+      "details": "Original Category: technology -> internet -> blogging.opml",
+      "cleaned_title": "Scripting News",
+      "cleaned_author": "Dave Winer",
+      "tags": [
+        "Tech",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "blogging",
+        "Dave Winer",
+        "internet culture",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://davidgerard.co.uk/blockchain/feed/",
+      "title": "Attack of the 50 Foot Blockchain",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidgerard.co.uk/blockchain/feed/",
+      "summary": "Blockchain and cryptocurrency news and analysis by David Gerard.",
+      "details": "Original Category: economics -> economics -> cryptocurrencies.opml",
+      "cleaned_title": "Attack of the 50 Foot Blockchain",
+      "cleaned_author": "David Gerard",
+      "tags": [
+        "Money",
+        "Finance",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "blockchain",
+        "cryptocurrency",
+        "economic analysis"
+      ]
+    },
+    {
+      "id": "feed:https://theblockchainsocialist.com/feed/",
+      "title": "The Blockchain Socialist - Blog Archives",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theblockchainsocialist.com/feed/",
+      "summary": "Exploring the intersection between blockchain and left politics.",
+      "details": "Original Category: economics -> economics -> cryptocurrencies.opml",
+      "cleaned_title": "The Blockchain Socialist",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Tech",
+        "Internet",
+        "Social",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "blockchain",
+        "left politics",
+        "community",
+        "governance"
+      ]
+    },
+    {
+      "title": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+      "popularity_score": 10.017099567099567,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.feedburner.com/ruanyifeng",
+      "kind": "feed",
+      "id": "feed:http://feeds.feedburner.com/ruanyifeng",
+      "cleaned_title": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+      "cleaned_author": "\u962e\u4e00\u5cf0",
+      "summary": "A blog focused on technology and internet trends, offering insightful commentary and analysis on the current state of the industry, including discussions on NFTs, 6G technology, and AI's impact on the internet.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "zh",
+      "keywords": [
+        "technology",
+        "internet trends",
+        "AI",
+        "6G",
+        "NFTs"
+      ]
+    },
+    {
+      "title": "heise online News",
+      "popularity_score": 6.21626984126984,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.heise.de/rss/heise.rdf",
+      "kind": "feed",
+      "id": "feed:https://www.heise.de/rss/heise.rdf",
+      "cleaned_title": "heise online News",
+      "cleaned_author": null,
+      "summary": "A comprehensive source for technology news, offering insightful reports on developments in the computer and digital sector from a European perspective.",
+      "tags": [
+        "Tech",
+        "Germany",
+        "Internet"
+      ],
+      "language": "de",
+      "keywords": [
+        "technology news",
+        "computer industry",
+        "data privacy"
+      ]
+    },
+    {
+      "title": "r/apple",
+      "popularity_score": 4.33452380952381,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "apple",
+      "kind": "reddit",
+      "id": "reddit:apple",
+      "cleaned_title": "r/apple",
+      "cleaned_author": null,
+      "summary": "An unofficial community centered around Apple where enthusiasts discuss devices, software updates, and share advice.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Internet",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "community",
+        "devices",
+        "advice"
+      ]
+    },
+    {
+      "title": "IT\u4e4b\u5bb6 \u2013 ithome.com",
+      "popularity_score": 3.8492063492063493,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.ithome.com/rss/",
+      "kind": "feed",
+      "id": "feed:http://www.ithome.com/rss/",
+      "cleaned_title": "IT\u4e4b\u5bb6",
+      "cleaned_author": null,
+      "summary": "A tech-focused outlet providing information on new developments in software and hardware, emphasizing IT industry news and product updates.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Gaming"
+      ],
+      "language": "zh",
+      "keywords": [
+        "tech news",
+        "software updates",
+        "hardware",
+        "gaming"
+      ]
+    },
+    {
+      "title": "V2EX-\u6700\u70ed\u4e3b\u9898 \u2013 rsshub.app",
+      "popularity_score": 3.1,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://rsshub.app/v2ex/topics/hot",
+      "kind": "feed",
+      "id": "feed:https://rsshub.app/v2ex/topics/hot",
+      "cleaned_title": "V2EX\u2014\u6700\u70ed\u4e3b\u9898",
+      "cleaned_author": null,
+      "summary": "A platform featuring trending discussions and topics of interest, predominantly in Chinese, catered to enthusiasts and tech-savvy individuals.",
+      "tags": [
+        "Tech",
+        "Living",
+        "Internet",
+        "Social"
+      ],
+      "language": "zh",
+      "keywords": [
+        "technology",
+        "trending",
+        "discussions"
+      ]
+    },
+    {
+      "title": "Golem.de",
+      "popularity_score": 2.591190476190476,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.golem.de/rss.php?feed=RSS1.0",
+      "kind": "feed",
+      "id": "feed:http://www.golem.de/rss.php?feed=RSS1.0",
+      "cleaned_title": "Golem.de",
+      "cleaned_author": null,
+      "summary": "An online news source providing the latest updates and expert commentary on developments in information technology, focusing on in-depth analyses and reviews.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Science"
+      ],
+      "language": "de",
+      "keywords": [
+        "IT news",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "title": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7 \u2013 ruanyifeng.com",
+      "popularity_score": 2.5194444444444444,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+      "kind": "feed",
+      "id": "feed:https://www.ruanyifeng.com/blog/atom.xml",
+      "cleaned_title": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+      "cleaned_author": "Ruan YiFeng",
+      "summary": "Ruan YiFeng's blog discusses technology and internet trends, providing insights and critiques centered around the tech community's developments.",
+      "tags": [
+        "Tech",
+        "China",
+        "Internet"
+      ],
+      "language": "zh",
+      "keywords": [
+        "technology",
+        "internet culture",
+        "innovation"
+      ]
+    },
+    {
+      "title": "Hacker News \u2013 ycombinator.com",
+      "popularity_score": 2.448764399851356,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://news.ycombinator.com/rss",
+      "kind": "feed",
+      "id": "feed:https://news.ycombinator.com/rss",
+      "cleaned_title": "Hacker News",
+      "cleaned_author": null,
+      "summary": "A social news website focusing on technology and entrepreneurship, offering a curated collection of news articles and discussions generated by readers.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Internet",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "startups",
+        "news"
+      ]
+    },
+    {
+      "title": "\u5c11\u6570\u6d3e - \u70ed\u95e8\u6587\u7ae0 \u2013 mifaw.com",
+      "popularity_score": 2.354761904761905,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928",
+      "kind": "feed",
+      "id": "feed:https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928",
+      "cleaned_title": "\u5c11\u6570\u6d3e",
+      "cleaned_author": null,
+      "summary": "A curated collection of trending articles from Mifaw, covering various topics including technology and lifestyle insights.",
+      "tags": [
+        "Tech",
+        "Living",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "zh",
+      "keywords": [
+        "AI",
+        "trending",
+        "experience",
+        "reviews"
+      ]
+    },
+    {
+      "title": "\u6781\u5ba2\u516c\u56ed \u2013 geekpark.net",
+      "popularity_score": 2.111111111111111,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.geekpark.net/",
+      "kind": "feed",
+      "id": "feed:http://feeds.geekpark.net/",
+      "cleaned_title": "\u6781\u5ba2\u516c\u56ed",
+      "cleaned_author": null,
+      "summary": "A technology-centric platform that discusses the latest in AI, gadgets, and innovations from China. Featuring insights on major tech figures and their products.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Gadgets",
+        "Internet",
+        "China"
+      ],
+      "language": "zh",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Gadget News",
+        "Technology Innovation"
+      ]
+    },
+    {
+      "title": "Aftermath",
+      "popularity_score": 2.0345238095238094,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://aftermath.site/feed",
+      "kind": "feed",
+      "id": "feed:https://aftermath.site/feed",
+      "cleaned_title": "Aftermath",
+      "cleaned_author": null,
+      "summary": "A blog focusing on video games and internet culture, discussing trends, new releases, and the evolving gaming landscape.",
+      "tags": [
+        "Tech",
+        "Gaming",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "Video Games",
+        "Internet Culture",
+        "Game Reviews",
+        "Civilization"
+      ]
+    }
+  ],
+  "child_categories": []
+}

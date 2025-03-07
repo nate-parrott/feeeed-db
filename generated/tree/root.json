@@ -1,0 +1,60 @@
+{
+  "root_categories": [
+    {
+      "id": "tech",
+      "display_name": "Tech",
+      "emoji": "\ud83d\udcbb",
+      "sfSymbol": "desktopcomputer",
+      "count": 453
+    },
+    {
+      "id": "news",
+      "display_name": "News",
+      "emoji": "\ud83d\udcf0",
+      "sfSymbol": "newspaper",
+      "count": 77
+    },
+    {
+      "id": "arts_culture",
+      "display_name": "Arts & Culture",
+      "emoji": "\ud83c\udfa8",
+      "sfSymbol": "paintpalette",
+      "count": 921
+    },
+    {
+      "id": "money",
+      "display_name": "Money",
+      "emoji": "\ud83d\udcb0",
+      "sfSymbol": "dollarsign.circle",
+      "count": 90
+    },
+    {
+      "id": "living",
+      "display_name": "Living",
+      "emoji": "\ud83c\udfe1",
+      "sfSymbol": "house",
+      "count": 452
+    },
+    {
+      "id": "science",
+      "display_name": "Science",
+      "emoji": "\ud83d\udd2c",
+      "sfSymbol": "microscope",
+      "count": 251
+    },
+    {
+      "id": "politics",
+      "display_name": "Politics",
+      "emoji": "\ud83d\uddf3\ufe0f",
+      "sfSymbol": "building.columns",
+      "count": 107
+    },
+    {
+      "id": "local",
+      "display_name": "Local",
+      "emoji": "\ud83d\udccd",
+      "sfSymbol": "mappin.and.ellipse",
+      "count": 143
+    }
+  ]
+}

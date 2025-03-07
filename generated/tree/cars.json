@@ -1,0 +1,399 @@
+{
+  "id": "cars",
+  "display_name": "Cars",
+  "feeds": [
+    {
+      "id": "reddit:ModelCars",
+      "cleaned_title": "ModelCars",
+      "summary": "A subreddit dedicated to the hobby of building and collecting model cars, where users share their creations and discuss techniques.",
+      "title": "ModelCars",
+      "kind": "reddit",
+      "subreddit": "ModelCars",
+      "details": "Original category: Hobbies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:jalopnik.com:Jalopnik",
+      "cleaned_title": "Jalopnik",
+      "summary": "Jalopnik is a website that covers all things automotive, including car news, reviews, and features.",
+      "title": "Jalopnik",
+      "kind": "feed",
+      "feed_url": "https://jalopnik.com/rss",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cars"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive news",
+        "car reviews",
+        "driving tips",
+        "vehicle maintenance"
+      ]
+    },
+    {
+      "id": "youtube:Doug DeMuro",
+      "cleaned_title": "Doug DeMuro",
+      "summary": "Doug DeMuro is a popular YouTuber known for his in-depth car reviews and quirky car-related content.",
+      "title": "Doug DeMuro",
+      "kind": "youtube",
+      "channel_id": "UCsqjHFMB_JYTaEnf_vmTNqg",
+      "thumbnail_url": "https://yt3.ggpht.com/VEn5laroY5PD1B7HVUwdcuI56QAoldcecE6299L-l8KpvFkfjfoAG1cPHmh3OckNJxzaCJb1ag=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cars"
+      ],
+      "language": "en",
+      "keywords": [
+        "car reviews",
+        "automotive humor",
+        "quirky car content",
+        "vehicle comparison"
+      ]
+    },
+    {
+      "id": "reddit:cars",
+      "cleaned_title": "Cars",
+      "summary": "A subreddit dedicated to discussions, news, and everything related to cars.",
+      "title": "cars",
+      "kind": "reddit",
+      "subreddit": "cars",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "USA",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive",
+        "cars",
+        "DIY",
+        "discussions",
+        "advice"
+      ]
+    },
+    {
+      "id": "feed:caranddriver.com:Latest Content - Car and Driver",
+      "cleaned_title": "Car and Driver",
+      "summary": "Car and Driver is a trusted source for automotive news, reviews, and buying guides.",
+      "title": "Latest Content - Car and Driver",
+      "kind": "feed",
+      "feed_url": "https://www.caranddriver.com/rss/all.xml/",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "USA",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive news",
+        "car reviews",
+        "buying guides"
+      ]
+    },
+    {
+      "id": "youtube:Engineering Explained",
+      "cleaned_title": "Engineering Explained",
+      "summary": "Engineering Explained is a YouTube channel that focuses on explaining the engineering behind cars and automotive technology.",
+      "title": "Engineering Explained",
+      "kind": "youtube",
+      "channel_id": "UClqhvGmHcvWL9w3R48t9QXQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKZKwJ5be5LBkhR4393YZNI1xhUVtZOzdCACkB-xPw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Cars",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "engineering",
+        "automotive technology",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:TrendHunter.com - Auto and Motor Trends",
+      "cleaned_title": "TrendHunter.com - Auto and Motor Trends",
+      "summary": "Motor Trend provides comprehensive coverage of the automotive industry, including car reviews, news, and videos.",
+      "title": "TrendHunter.com - Auto and Motor Trends",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/trendhunter/Auto-and-Motor-Trends",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cars",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive industry",
+        "trends",
+        "innovation"
+      ]
+    },
+    {
+      "id": "youtube:TheStraightPipes",
+      "cleaned_title": "TheStraightPipes",
+      "summary": "TheStraightPipes is a YouTube channel that offers car reviews, comparisons, and automotive news with a humorous twist.",
+      "title": "TheStraightPipes",
+      "kind": "youtube",
+      "channel_id": "UC86SBFIAgnYL3ll2ZDgmsuA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKYydX_oMFdqOgi9AuBSgajl3OZiYuRXVTLmHVW8qw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "car reviews",
+        "YouTube",
+        "automotive news"
+      ]
+    },
+    {
+      "id": "youtube:ChrisFix",
+      "cleaned_title": "ChrisFix",
+      "summary": "ChrisFix is a popular YouTube channel focused on DIY car repair, maintenance, and automotive tips.",
+      "title": "ChrisFix",
+      "kind": "youtube",
+      "channel_id": "UCes1EvRjcKU4sY_UEavndBw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKbY_oBRykl9TwyEBmH1MY6q4zgj-EVvh7v6WMGsAA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cars",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "DIY car repair",
+        "maintenance",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "reddit:Autos",
+      "cleaned_title": "Autos",
+      "summary": "A subreddit for car enthusiasts to discuss cars, share pictures, and engage in automotive-related discussions.",
+      "title": "Autos",
+      "kind": "reddit",
+      "subreddit": "Autos",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cars",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive discussions",
+        "community",
+        "cars"
+      ]
+    },
+    {
+      "id": "feed:thetruthaboutcars.com:TheTruthAboutCars",
+      "cleaned_title": "TheTruthAboutCars",
+      "summary": "TheTruthAboutCars provides insightful commentary and analysis on the automotive industry. This feed covers reviews, industry news, and market insights, catering to both casual readers and passionate car enthusiasts.",
+      "title": "TheTruthAboutCars",
+      "kind": "feed",
+      "feed_url": "https://www.thetruthaboutcars.com/rss/feed/all",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Cars",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive news",
+        "car reviews",
+        "industry analysis"
+      ]
+    },
+    {
+      "id": "feed:mycarquest.com:MyCarQuest.com",
+      "cleaned_title": "MyCarQuest",
+      "summary": "A blog focused on classic cars and the automotive hobby, discussing various issues such as design, repair costs, and specific models.",
+      "title": "MyCarQuest.com",
+      "kind": "feed",
+      "feed_url": "https://mycarquest.com/feed",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cars"
+      ],
+      "language": "en",
+      "keywords": [
+        "car design",
+        "classic cars",
+        "Karmann Ghia",
+        "car repairs"
+      ]
+    },
+    {
+      "id": "feed:coolcarsinchina.com:CoolCarsInChina.com",
+      "cleaned_title": "CoolCarsInChina",
+      "summary": "A blog showcasing unique and interesting cars found in China, featuring a range of vehicles from classic to contemporary.",
+      "title": "CoolCarsInChina.com",
+      "kind": "feed",
+      "feed_url": "https://www.coolcarsinchina.com/feed/",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cars",
+        "China"
+      ],
+      "language": "en",
+      "keywords": [
+        "Chinese cars",
+        "Dodge Challenger",
+        "Nissan Patrol",
+        "Cadillac DeVille"
+      ]
+    },
+    {
+      "id": "youtube:Fully Charged Show",
+      "cleaned_title": "Fully Charged Show",
+      "summary": "A YouTube channel hosted by Robert Llewellyn that explores the latest developments in electric vehicles, renewable energy, and sustainable living.",
+      "title": "Fully Charged Show",
+      "kind": "youtube",
+      "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
+      "thumbnail_url": "https://yt3.ggpht.com/qsZvJgtm2brphBw3_FLZNucmYSKvBZPXMkQbkyklEncn3j1BIMc1w0NewNITfW_Lx5oBo5B_=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Robert Llewellyn",
+      "tags": [
+        "Tech",
+        "Cars",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "electric vehicles",
+        "renewable energy",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "feed:cleantechnica.com:CleanTechnica",
+      "cleaned_title": "CleanTechnica",
+      "summary": "A website that focuses on clean technology and renewable energy news, analysis, and insights.",
+      "title": "CleanTechnica",
+      "kind": "feed",
+      "feed_url": "http://cleantechnica.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "Cars",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "electric vehicles",
+        "renewable energy",
+        "clean tech"
+      ]
+    },
+    {
+      "id": "feed:https://oilpressure.com/feed/",
+      "title": "Oilpressure",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://oilpressure.com/feed/",
+      "summary": "Speed is Life.",
+      "details": "Original Category: recreation -> vehicles -> cars.opml",
+      "cleaned_title": "Oilpressure",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cars"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive",
+        "racing",
+        "car culture"
+      ]
+    }
+  ],
+  "child_categories": []
+}

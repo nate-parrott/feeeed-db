@@ -1,0 +1,182 @@
+{
+  "id": "backend_development",
+  "display_name": "Backend Development",
+  "feeds": [
+    {
+      "id": "feed:https://www.paleblueapps.com/rockandnull/rss/",
+      "title": "Rock and Null",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.paleblueapps.com/rockandnull/rss/",
+      "summary": "Tech, software and whatever comes to mind.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "Rock and Null",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "software",
+        "Jetpack Compose",
+        "code reviews"
+      ]
+    },
+    {
+      "id": "feed:https://adamj.eu/tech/atom.xml",
+      "title": "Adam Johnson",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://adamj.eu/tech/atom.xml",
+      "summary": "I'm an author and solo consultant working with Ansible, AWS, Django, and Python.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "Adam Johnson",
+      "cleaned_author": "Adam Johnson",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ansible",
+        "AWS",
+        "Django",
+        "Python",
+        "development tips"
+      ]
+    },
+    {
+      "id": "feed:https://james.brooks.page/rss/feed.xml",
+      "title": "James Brooks - Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://james.brooks.page/rss/feed.xml",
+      "summary": "Sometimes I write things and put them here.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "James Brooks",
+      "cleaned_author": "James Brooks",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "developer tools",
+        "Cloudflare",
+        "Laravel",
+        "technical writing"
+      ]
+    },
+    {
+      "id": "feed:https://blog.laravel.com/feed",
+      "title": "The Laravel Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.laravel.com/feed",
+      "summary": "The official blog for Laravel updates developers on new features, releases, and community news. It covers a wide range of topics from backend development to best practices in using this popular PHP framework.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "The Laravel Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Laravel",
+        "PHP",
+        "updates",
+        "features"
+      ]
+    },
+    {
+      "id": "feed:https://michaelhebblethwaite.com/index.xml",
+      "title": "Michael's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://michaelhebblethwaite.com/index.xml",
+      "summary": "The personal website and blog of Michael Hebblethwaite, a web developer based in Nagoya, Japan.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "Michael's Blog",
+      "cleaned_author": "Michael Hebblethwaite",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ruby on Rails",
+        "web development",
+        "Japan",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://pawelurbanek.com/feed.xml",
+      "title": "Pawe\u0142 U.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pawelurbanek.com/feed.xml",
+      "summary": "Ruby on Rails Web Development Consultant Full Stack Blog.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "Pawe\u0142 U.",
+      "cleaned_author": "Pawe\u0142 U.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ruby on Rails",
+        "performance",
+        "consulting",
+        "database"
+      ]
+    },
+    {
+      "id": "feed:https://railsnotes.xyz/feed.xml",
+      "title": "RailsNotes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://railsnotes.xyz/feed.xml",
+      "summary": "A collection of the Ruby on Rails guides you wished you had, when you were first starting out.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "RailsNotes",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ruby on Rails",
+        "guides",
+        "development",
+        "best practices"
+      ]
+    }
+  ],
+  "child_categories": []
+}

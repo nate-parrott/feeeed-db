@@ -1,0 +1,1182 @@
+{
+  "id": "fiction",
+  "display_name": "Fiction",
+  "feeds": [
+    {
+      "id": "substack:top:chuck_palahniuk's_plot_spoiler",
+      "title": "Chuck Palahniuk's Plot Spoiler",
+      "cleaned_title": "Chuck Palahniuk's Plot Spoiler",
+      "summary": "A provocative space for experimental fiction and personal writing lessons from the acclaimed author of Fight Club.",
+      "kind": "feed",
+      "feed_url": "https://chuckpalahniuk.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fiction",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Fiction"
+      ],
+      "cleaned_author": "Chuck Palahniuk",
+      "language": "en",
+      "keywords": [
+        "fiction",
+        "writing lessons"
+      ]
+    },
+    {
+      "id": "substack:top:alphabet_soup_-_etgar_keret",
+      "title": "Alphabet Soup - Etgar Keret",
+      "cleaned_title": "Alphabet Soup",
+      "summary": "A creative mix of stories and reflections, showcasing the literary imagination of one of contemporary literature's unique voices.",
+      "kind": "feed",
+      "feed_url": "https://etgarkeret.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fiction",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Fiction"
+      ],
+      "cleaned_author": "Etgar Keret",
+      "language": "en",
+      "keywords": [
+        "short stories",
+        "creative writing"
+      ]
+    },
+    {
+      "id": "substack:top:beth_brower_scribbles_away",
+      "title": "Beth Brower Scribbles Away",
+      "cleaned_title": "Beth Brower Scribbles Away",
+      "summary": "A delightful twice-monthly publication featuring scenes and stories, inviting readers into the imaginative world of St. Crispian's.",
+      "kind": "feed",
+      "feed_url": "https://bethbrower.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fiction",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Fiction"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "short stories",
+        "literary publication"
+      ]
+    },
+    {
+      "id": "feed:theparisreview.org:The Paris Review",
+      "cleaned_title": "The Paris Review",
+      "summary": "A literary magazine that publishes fiction, poetry, and interviews with renowned authors.",
+      "title": "The Paris Review",
+      "kind": "feed",
+      "feed_url": "http://www.theparisreview.org/blog/feed/",
+      "details": "Original category: Hobbies -> Reading",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.0949338296112487,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "literature",
+        "fiction",
+        "poetry",
+        "authors",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:goodreads.com:Goodreads Blog",
+      "cleaned_title": "Goodreads Blog",
+      "summary": "A social cataloging website that allows users to track their reading, discover new books, and connect with other readers.",
+      "title": "Goodreads Blog",
+      "kind": "feed",
+      "feed_url": "http://www.goodreads.com/blog/list_rss.xml",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.478959566389279,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Nonfiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "reading",
+        "book recommendations",
+        "book trends",
+        "reading community"
+      ]
+    },
+    {
+      "id": "youtube:* e m m i e *",
+      "cleaned_title": "* e m m i e *",
+      "summary": "A YouTube community of book lovers who create videos about book recommendations, reviews, and discussions.",
+      "title": "* e m m i e *",
+      "kind": "youtube",
+      "channel_id": "UCMFSTAyvpl_yBXmq6JPfhBQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ny0XcC_br_NhVrX10PT5KLGgKWWXTf-Axgg492bgqGGitz2JdCBwq2r4IU-3VFrwTsxIK6H7Hg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Nonfiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "book reviews",
+        "reading vlogs",
+        "TBR lists",
+        "book discussions"
+      ]
+    },
+    {
+      "id": "youtube:PeruseProject",
+      "cleaned_title": "PeruseProject",
+      "summary": "PeruseProject is a YouTube channel run by Regan, who shares book reviews, recommendations, and reading vlogs.",
+      "title": "PeruseProject",
+      "kind": "youtube",
+      "channel_id": "UCy6Qlkv2hif7KPtmMmNUGUw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNBBEhCABDhykrNNIQ8EJNFyK1DmThAp7OIN4y_AA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Regan",
+      "tags": [
+        "Living",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "book reviews",
+        "reading vlogs",
+        "fantasy",
+        "romance",
+        "TBR"
+      ]
+    },
+    {
+      "id": "reddit:BookRecommendations",
+      "cleaned_title": "BookRecommendations",
+      "summary": "The r/BookRecommendations subreddit is a great place to find and share book recommendations across various genres and interests.",
+      "title": "BookRecommendations",
+      "kind": "reddit",
+      "subreddit": "BookRecommendations",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "book recommendations",
+        "reading",
+        "genres"
+      ]
+    },
+    {
+      "id": "feed:bookpage.com:BookPage | Discover your next great book!",
+      "cleaned_title": "BookPage",
+      "summary": "BookPage is a website that provides book reviews, author interviews, and book-related articles to help readers discover new books and authors.",
+      "title": "BookPage | Discover your next great book!",
+      "kind": "feed",
+      "feed_url": "https://bookpage.com/feed",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "book reviews",
+        "author interviews",
+        "reading"
+      ]
+    },
+    {
+      "id": "youtube:Merphy Napier",
+      "cleaned_title": "Merphy Napier",
+      "summary": "Merphy Napier is a YouTuber who creates book-related content, including book reviews, discussions, and recommendations.",
+      "title": "Merphy Napier",
+      "kind": "youtube",
+      "channel_id": "UC7FW6FYqPLeQIXMSulBfOLw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOT9xiPqt7UaJzPWwzlP4W5qrENEcMX_9sfWHRLorI=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Merphy Napier",
+      "tags": [
+        "Living",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "book reviews",
+        "discussion",
+        "reading"
+      ]
+    },
+    {
+      "id": "feed:https://darrensmusicblog.com/feed/",
+      "title": "Darren's music blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://darrensmusicblog.com/feed/",
+      "summary": "News, reviews, interviews and more. From classic rock to contemporary folk.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Darren's music blog",
+      "cleaned_author": "Darren",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Fiction",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "music reviews",
+        "interviews",
+        "classic rock"
+      ]
+    },
+    {
+      "id": "feed:https://galacticjourney.org/feed/",
+      "title": "Galactic Journey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://galacticjourney.org/feed/",
+      "summary": "55 years ago: Science Fact and Fiction.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Galactic Journey",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction",
+        "retrospective",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://meblogwritegood.com/feed/",
+      "title": "Me Blog Write Good",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://meblogwritegood.com/feed/",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Me Blog Write Good",
+      "cleaned_author": null,
+      "summary": "A light-hearted retrospective that humorously explores various episodes of a beloved show, focusing on its quirks and memorable moments.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://dulltooldimbulb.blogspot.com/feeds/posts/default",
+      "title": "Dull Tool Dim Bulb",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dulltooldimbulb.blogspot.com/feeds/posts/default",
+      "summary": "Jim Linderman blog about surface, wear, form and authenticity in self-taught art, outsider art, antique american folk art, antiques and photography.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Dull Tool Dim Bulb",
+      "cleaned_author": "Jim Linderman",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "outsider art",
+        "folk art",
+        "photography",
+        "antiques"
+      ]
+    },
+    {
+      "id": "feed:https://hatemeditations.com/feed/",
+      "title": "Hate Meditations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hatemeditations.com/feed/",
+      "summary": "Armchair rhetoric on extreme metal.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "Hate Meditations",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal",
+        "extreme music",
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "feed:https://disassociated.com/feed/",
+      "title": "disassociated.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://disassociated.com/feed/",
+      "summary": "Stories, storytellers, literature, novels, books, fiction, adaptations. Literary awards, prizes, events, news.",
+      "details": "Original Category: arts -> books -> fiction-books.opml",
+      "cleaned_title": "disassociated.com",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "stories",
+        "literature",
+        "adaptations"
+      ]
+    },
+    {
+      "id": "feed:https://enchantedprose.com/feed/",
+      "title": "Enchanted Prose",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://enchantedprose.com/feed/",
+      "summary": "A blog for beautiful fiction, memoirs, inspiration.",
+      "details": "Original Category: arts -> books -> fiction-books.opml",
+      "cleaned_title": "Enchanted Prose",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "beautiful writing",
+        "memoirs",
+        "narrative"
+      ]
+    },
+    {
+      "id": "feed:https://www.cobblerandbard.com/feed/",
+      "title": "Matt Weber \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cobblerandbard.com/feed/",
+      "summary": "Writer of science fiction & fantasy.",
+      "details": "Original Category: arts -> books -> writing.opml",
+      "cleaned_title": "Matt Weber \u2013 Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction",
+        "fantasy",
+        "writing",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://www.conscienceround.com/feed",
+      "title": "Conscience Round",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.conscienceround.com/feed",
+      "summary": "Personal blog + stories.",
+      "details": "Original Category: arts -> books -> fiction.opml",
+      "cleaned_title": "Conscience Round",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal blog",
+        "stories",
+        "prose",
+        "reflection",
+        "stream-of-consciousness"
+      ]
+    },
+    {
+      "id": "feed:http://danleo.blogspot.com/feeds/posts/default",
+      "title": "Dan Leo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://danleo.blogspot.com/feeds/posts/default",
+      "summary": "Dan Leo's goddam blog...",
+      "details": "Original Category: arts -> books -> fiction.opml",
+      "cleaned_title": "Dan Leo",
+      "cleaned_author": "Dan Leo",
+      "tags": [
+        "Arts & Culture",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "blog",
+        "creative writing",
+        "fiction",
+        "personal stories",
+        "anecdotes"
+      ]
+    },
+    {
+      "id": "feed:https://precastreinforced.co.uk/feed/",
+      "title": "Ray Newman, writer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://precastreinforced.co.uk/feed/",
+      "summary": "A writer, editor and content designer based in Bristol.",
+      "details": "Original Category: arts -> books -> fiction.opml",
+      "cleaned_title": "Ray Newman, writer",
+      "cleaned_author": "Ray Newman",
+      "tags": [
+        "Arts & Culture",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing",
+        "fiction",
+        "Bristol",
+        "short stories",
+        "editorial insights"
+      ]
+    },
+    {
+      "id": "feed:http://moonlight-detective.blogspot.com/feeds/posts/default",
+      "title": "Beneath the Stains of Time",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://moonlight-detective.blogspot.com/feeds/posts/default",
+      "summary": "Welcome to the niche corner, dedicated to the great detective stories of yore and their neo-classical descendants.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Beneath the Stains of Time",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "detective stories",
+        "classic crime fiction",
+        "modern mysteries"
+      ]
+    },
+    {
+      "id": "feed:http://bitterteaandmystery.blogspot.com/feeds/posts/default",
+      "title": "Bitter Tea and Mystery",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://bitterteaandmystery.blogspot.com/feeds/posts/default",
+      "summary": "Where I list what I read and my reactions. Mystery is my genre, leaning towards \u00a0traditional mysteries and police procedurals.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Bitter Tea and Mystery",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "mystery",
+        "traditional mysteries",
+        "police procedurals"
+      ]
+    },
+    {
+      "id": "feed:https://www.criminalelement.com/feed/",
+      "title": "Criminal Element",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.criminalelement.com/feed/",
+      "summary": "Mysteries, Thrillers, and all things Killer!",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Criminal Element",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "mysteries",
+        "thrillers",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:https://crossexaminingcrime.wordpress.com/feed/",
+      "title": "Cross Examining Crime",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://crossexaminingcrime.wordpress.com/feed/",
+      "summary": "A comprehensive blog that tracks various aspects of crime fiction, from reviews to themed discussions, making it a must-read for enthusiasts.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Cross Examining Crime",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "crime fiction",
+        "reviews",
+        "discussion"
+      ]
+    },
+    {
+      "id": "feed:https://multoghost.wordpress.com/feed/",
+      "title": "Multo (Ghost)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://multoghost.wordpress.com/feed/",
+      "summary": "Ghosts of story, myth, or anywhere else....",
+      "details": "Original Category: arts -> books -> fiction-books -> horror.opml",
+      "cleaned_title": "Multo",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "ghost stories",
+        "myth",
+        "legends"
+      ]
+    },
+    {
+      "id": "feed:https://mysteryfile.com/blog/?feed=rss2",
+      "title": "Mystery*File",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mysteryfile.com/blog/?feed=rss2",
+      "summary": "Devoted to mystery and detective fiction.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Mystery*File",
+      "cleaned_author": "Steve Lewis",
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "mystery",
+        "detective fiction",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:http://thepassingtramp.blogspot.com/feeds/posts/default",
+      "title": "The Passing Tramp",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thepassingtramp.blogspot.com/feeds/posts/default",
+      "summary": "Wandering through the mystery genre, book by book.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "The Passing Tramp",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "mystery genre",
+        "book reviews",
+        "critical analysis"
+      ]
+    },
+    {
+      "id": "feed:https://prettysinister.blogspot.com/feeds/posts/default",
+      "title": "Pretty Sinister Books",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://prettysinister.blogspot.com/feeds/posts/default",
+      "summary": "Crime, Supernatural and Adventure fiction. Obscure, Forgotten and Well Worth Reading.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Pretty Sinister Books",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "crime fiction",
+        "supernatural",
+        "adventure"
+      ]
+    },
+    {
+      "id": "feed:https://spywrite.com/feed/podcast/",
+      "title": "Spy Write",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://spywrite.com/feed/podcast/",
+      "summary": "Reviewing and collecting spy fiction and nonfiction.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Spy Write",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "spy fiction",
+        "literature",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:https://donherron.com/feed/",
+      "title": "Up and Down These Mean Streets",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://donherron.com/feed/",
+      "summary": "In 1977 Don Herron began leading The Dashiell Hammett Tour, now the longest-running literary tour in the nation.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Up and Down These Mean Streets",
+      "cleaned_author": "Don Herron",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "Dashiell Hammett",
+        "literary tour",
+        "crime fiction"
+      ]
+    },
+    {
+      "id": "feed:https://jestressforgottenstories.com/feed/",
+      "title": "Jestress's Forgotten Books and Stories",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jestressforgottenstories.com/feed/",
+      "summary": "Nostalgic Children's Books.",
+      "details": "Original Category: arts -> books -> fiction-books -> childrens.opml",
+      "cleaned_title": "Jestress's Forgotten Books and Stories",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Chicago",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "children's literature",
+        "nostalgia",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.mrripleysenchantedbooks.com/feeds/posts/default",
+      "title": "Mr Ripleys Enchanted Books",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mrripleysenchantedbooks.com/feeds/posts/default",
+      "summary": "A blog about books and reading, the enjoyment of a good story. A place you can find children's and young adult literature reviews, news and giveaways.",
+      "details": "Original Category: arts -> books -> fiction-books -> childrens.opml",
+      "cleaned_title": "Mr Ripleys Enchanted Books",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Chicago"
+      ],
+      "language": "en",
+      "keywords": [
+        "children's books",
+        "book reviews",
+        "literary competitions"
+      ]
+    },
+    {
+      "id": "feed:https://mattgemmell.com/atom.xml",
+      "title": "Matt Gemmell",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mattgemmell.com/atom.xml",
+      "summary": "Thriller, Horror, and Suspense author.",
+      "details": "Original Category: arts -> books -> fiction-books -> horror.opml",
+      "cleaned_title": "Matt Gemmell",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "thriller",
+        "horror",
+        "suspense"
+      ]
+    },
+    {
+      "id": "feed:http://toomuchhorrorfiction.blogspot.com/feeds/posts/default",
+      "title": "Too Much Horror Fiction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://toomuchhorrorfiction.blogspot.com/feeds/posts/default",
+      "summary": "Collects and reviews vintage horror literature\u2014mostly from the 1960s to the early 1990s.",
+      "details": "Original Category: arts -> books -> fiction-books -> horror.opml",
+      "cleaned_title": "Too Much Horror Fiction",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage horror",
+        "literature",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:http://wormwoodiana.blogspot.com/feeds/posts/default",
+      "title": "Wormwoodiana",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://wormwoodiana.blogspot.com/feeds/posts/default",
+      "summary": "This blog is devoted to fantasy, supernatural and decadent literature.",
+      "details": "Original Category: arts -> books -> fiction-books -> fantasy.opml",
+      "cleaned_title": "Wormwoodiana",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "fantasy literature",
+        "supernatural",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://apilgriminnarnia.com/feed/",
+      "title": "A Pilgrim in Narnia",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://apilgriminnarnia.com/feed/",
+      "summary": "a journey through the imaginative worlds of C.S. Lewis, J.R.R. Tolkien, and the Inklings.",
+      "details": "Original Category: arts -> books -> fiction-books -> fantasy.opml",
+      "cleaned_title": "A Pilgrim in Narnia",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "C.S. Lewis",
+        "Tolkien",
+        "literature analysis"
+      ]
+    },
+    {
+      "id": "feed:http://tolkienandfantasy.blogspot.com/feeds/posts/default",
+      "title": "Tolkien and Fantasy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://tolkienandfantasy.blogspot.com/feeds/posts/default",
+      "summary": "Musings on Tolkien and modern fantasy literature.",
+      "details": "Original Category: arts -> books -> fiction-books -> fantasy.opml",
+      "cleaned_title": "Tolkien and Fantasy",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "Tolkien",
+        "fantasy literature",
+        "Book recommendations"
+      ]
+    },
+    {
+      "id": "feed:https://classicsofsciencefiction.com/feed/",
+      "title": "Classics of Science Fiction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://classicsofsciencefiction.com/feed/",
+      "summary": "Remembering the Best Short Science Fiction.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Classics of Science Fiction",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction classics",
+        "short stories",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://fromearthtothestars.com/feed/",
+      "title": "From Earth to the Stars",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fromearthtothestars.com/feed/",
+      "summary": "The Asimov's Science Fiction Magazine Author & Editor Blog.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "From Earth to the Stars",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "Asimov's Science Fiction",
+        "author interviews",
+        "science fiction updates"
+      ]
+    },
+    {
+      "id": "feed:http://mporcius.blogspot.com/feeds/posts/default",
+      "title": "MPorcius Fiction Log",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://mporcius.blogspot.com/feeds/posts/default",
+      "summary": "Brief and spoilertastic notes on fiction I have read.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "MPorcius Fiction Log",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "fiction reviews",
+        "reading notes",
+        "science fiction"
+      ]
+    },
+    {
+      "id": "feed:https://sciencefictionruminations.com/feed/",
+      "title": "Science Fiction and Other Suspect Ruminations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sciencefictionruminations.com/feed/",
+      "summary": "Reviews of Vintage Science Fiction (1945-1985).",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Science Fiction and Other Suspect Ruminations",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction",
+        "reviews",
+        "vintage literature"
+      ]
+    },
+    {
+      "id": "feed:https://reactormag.com/feed/",
+      "title": "Tor.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://reactormag.com/feed/",
+      "summary": "Science fiction. Fantasy. The universe. And related subjects.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Tor.com",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction",
+        "fantasy",
+        "literature",
+        "media"
+      ]
+    },
+    {
+      "id": "feed:https://climbingmyfamilytree.blogspot.com/feeds/posts/default",
+      "title": "Climbing My Family Tree",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://climbingmyfamilytree.blogspot.com/feeds/posts/default",
+      "summary": "Genealogy research and commentary by Marian Burk Wood, speaker and author of \"Planning a Future for Your Family's Past.\".",
+      "details": "Original Category: humanities -> history -> genealogy.opml",
+      "cleaned_title": "Climbing My Family Tree",
+      "cleaned_author": "Marian Burk Wood",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "genealogy",
+        "family history"
+      ]
+    },
+    {
+      "id": "feed:https://nutfieldgenealogy.blogspot.com/feeds/posts/default",
+      "title": "Nutfield Genealogy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nutfieldgenealogy.blogspot.com/feeds/posts/default",
+      "summary": "Genealogy, local history and historical research in New England.",
+      "details": "Original Category: humanities -> history -> genealogy.opml",
+      "cleaned_title": "Nutfield Genealogy",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "genealogy",
+        "local history"
+      ]
+    },
+    {
+      "id": "feed:https://fossilhuntress.blogspot.com/feeds/posts/default",
+      "title": "Fossil Huntress",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fossilhuntress.blogspot.com/feeds/posts/default",
+      "summary": "Musings in natural history meant to captivate, educate & inspire. Deepen your world.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Fossil Huntress",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Fiction",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fossils",
+        "Natural History",
+        "Education"
+      ]
+    },
+    {
+      "id": "feed:https://brooksandbecks.blogspot.com/feeds/posts/default",
+      "title": "Becks and Brown Trout, Bamboo too",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brooksandbecks.blogspot.com/feeds/posts/default",
+      "summary": "A blog about fly fishing the becks and rivers of North Yorkshire.",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "Becks and Brown Trout, Bamboo too",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Fiction",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "fly fishing",
+        "North Yorkshire",
+        "bamboo rods"
+      ]
+    },
+    {
+      "id": "feed:https://feelinglistless.blogspot.com/feeds/posts/default",
+      "title": "feeling listless",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feelinglistless.blogspot.com/feeds/posts/default",
+      "summary": "\"Poverty of goods is easily cured; poverty of the mind is irreparable.\".",
+      "details": "Original Category: economics -> companies -> bbc.opml",
+      "cleaned_title": "feeling listless",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "reviews",
+        "documentaries",
+        "cultural reflections"
+      ]
+    }
+  ],
+  "child_categories": []
+}

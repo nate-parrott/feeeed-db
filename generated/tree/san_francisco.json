@@ -1,0 +1,53 @@
+{
+  "id": "san_francisco",
+  "display_name": "San Francisco",
+  "feeds": [
+    {
+      "id": "feed:sfist.com:SFist - San Francisco News, Restaurants, Events, & Sports",
+      "cleaned_title": "SFist",
+      "summary": "A local news and culture website covering the San Francisco Bay Area with a focus on city life, events, and local happenings.",
+      "title": "SFist - San Francisco News, Restaurants, Events, & Sports",
+      "kind": "feed",
+      "feed_url": "http://www.sfist.com/index.rdf",
+      "details": "Original category: Local -> SF Bay Area",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "San Francisco"
+      ],
+      "language": "en",
+      "keywords": [
+        "San Francisco",
+        "local events",
+        "restaurants"
+      ]
+    },
+    {
+      "id": "reddit:bayarea",
+      "cleaned_title": "bayarea",
+      "summary": "A subreddit dedicated to discussions, news, and events related to the San Francisco Bay Area.",
+      "title": "bayarea",
+      "kind": "reddit",
+      "subreddit": "bayarea",
+      "details": "Original category: Local -> SF Bay Area",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "San Francisco"
+      ],
+      "language": "en",
+      "keywords": [
+        "Bay Area",
+        "community news",
+        "events"
+      ]
+    }
+  ],
+  "child_categories": []
+}

@@ -1,0 +1,365 @@
+{
+  "id": "fitness",
+  "display_name": "Fitness",
+  "feeds": [
+    {
+      "id": "reddit:Fitness",
+      "cleaned_title": "Fitness",
+      "summary": "A subreddit focused on fitness, exercise, and physical well-being, featuring discussions, workout routines, and motivational content.",
+      "title": "Fitness",
+      "kind": "reddit",
+      "subreddit": "Fitness",
+      "details": "Original category: Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "fitness",
+        "exercise",
+        "well-being",
+        "workouts",
+        "motivation"
+      ]
+    },
+    {
+      "id": "youtube:ATHLEAN-X\u2122",
+      "cleaned_title": "ATHLEAN-X\u2122",
+      "summary": "Athlean-X is a YouTube channel hosted by Jeff Cavaliere, a renowned fitness trainer, providing science-based workout tips, exercise demonstrations, and nutrition advice.",
+      "title": "ATHLEAN-X\u2122",
+      "kind": "youtube",
+      "channel_id": "UCe0TLA0EsQbE-MjuHXevj2A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPJQs0KTb3_VDJvF93gEU1iaAl8Uz-2HMAmQQTtBg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Fitness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Jeff Cavaliere",
+      "tags": [
+        "Living",
+        "Fitness",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "fitness tips",
+        "exercise routines",
+        "nutrition advice",
+        "workouts"
+      ]
+    },
+    {
+      "id": "youtube:Yoga With Adriene",
+      "cleaned_title": "Yoga With Adriene",
+      "summary": "Yoga with Adriene is a popular YouTube channel offering yoga practices for all levels, with a focus on mindfulness, flexibility, and overall well-being.",
+      "title": "Yoga With Adriene",
+      "kind": "youtube",
+      "channel_id": "UCFKE7WVJfvaHW5q283SxchA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMjL_sxyKbuze9liPIXaM5EYxXGxa69J3bE79aP2Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Wellness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Adriene Mishler",
+      "tags": [
+        "Living",
+        "Health",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "yoga practices",
+        "mindfulness",
+        "well-being",
+        "accessible yoga"
+      ]
+    },
+    {
+      "id": "feed:menshealth.com:Latest Content - Men's Health",
+      "cleaned_title": "Men's Health",
+      "summary": "Men's Health offers a wide range of fitness articles, workout routines, nutrition tips, and advice for men looking to improve their health and fitness.",
+      "title": "Latest Content - Men's Health",
+      "kind": "feed",
+      "feed_url": "http://www.menshealth.com/events-promotions/washpofeed",
+      "details": "Original category: Health -> Fitness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Fitness",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "fitness articles",
+        "workout routines",
+        "nutrition tips",
+        "health advice"
+      ]
+    },
+    {
+      "id": "youtube:blogilates",
+      "cleaned_title": "Blogilates",
+      "summary": "Blogilates is a popular YouTube channel hosted by Cassey Ho, offering fun and effective workout routines, challenges, and fitness tips.",
+      "title": "blogilates",
+      "kind": "youtube",
+      "channel_id": "UCIJwWYOfsCfz6PjxbONYXSg",
+      "thumbnail_url": "https://yt3.ggpht.com/Xu2hZGsG0G1IaFErBLZE-7dLBHZlQV2hHW1VfDf3qkoTZgHhES19wGPGEMcijZpkMAip-ngzjOY=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Fitness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Cassey Ho",
+      "tags": [
+        "Living",
+        "Tech",
+        "Fitness",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "workout",
+        "fitness tips",
+        "challenges",
+        "exercise"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Nerd Fitness: Helping You Lose Weight, Get Stronger, Live Better.",
+      "cleaned_title": "Nerd Fitness",
+      "summary": "Nerd Fitness combines fitness and nerd culture to provide workout plans, articles, and resources for geeks and gamers looking to get fit.",
+      "title": "Nerd Fitness: Helping You Lose Weight, Get Stronger, Live Better.",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/NerdFitnessBlog",
+      "details": "Original category: Health -> Fitness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Fitness",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "workout",
+        "diet",
+        "fitness",
+        "geek culture"
+      ]
+    },
+    {
+      "id": "feed:precisionnutrition.com:Precision Nutrition",
+      "cleaned_title": "Precision Nutrition",
+      "summary": "A website that offers evidence-based nutrition and fitness coaching, with articles, guides, and resources to help individuals make sustainable changes to their diet and lifestyle.",
+      "title": "Precision Nutrition",
+      "kind": "feed",
+      "feed_url": "http://www.precisionnutrition.com/feed",
+      "details": "Original category: Health -> Nutrition",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "nutrition",
+        "coaching",
+        "health"
+      ]
+    },
+    {
+      "id": "youtube:Simnett Nutrition",
+      "cleaned_title": "Simnett Nutrition",
+      "summary": "A YouTube channel hosted by a certified nutritionist that provides informative videos on plant-based nutrition, healthy recipes, and fitness tips.",
+      "title": "Simnett Nutrition",
+      "kind": "youtube",
+      "channel_id": "UCpyhJZhJQWKDdJCR07jPY-Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNnZlEk3teLm-CaRLFOmRPdc5OeqTFpnM5_TYZH2g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Nutrition",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "nutrition",
+        "plant-based",
+        "healthy recipes",
+        "fitness tips"
+      ]
+    },
+    {
+      "id": "youtube:Fit Men Cook",
+      "cleaned_title": "Fit Men Cook",
+      "summary": "A YouTube channel hosted by Kevin Curry, offering healthy and flavorful recipes specifically designed for men who want to eat well and stay fit.",
+      "title": "Fit Men Cook",
+      "kind": "youtube",
+      "channel_id": "UCtaNepQqDZc0a-dfRlt7UZg",
+      "thumbnail_url": "https://yt3.ggpht.com/z6X_3W9xdSpi9jlTPUpx8yIlKeiGr-NCrquRofHhZhpyA8am3jn3ZpG-gsF6_hYT8mMyaBFvbW8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Healthy Eating",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Kevin Curry",
+      "tags": [
+        "Living",
+        "Cooking",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "healthy recipes",
+        "fitness meal prep",
+        "nutrition tips"
+      ]
+    },
+    {
+      "id": "feed:https://practicalbetterments.com/feed.xml",
+      "title": "Practical betterments",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://practicalbetterments.com/feed.xml",
+      "summary": "A collection of one-off actions to improve your life continuously \u2014 however marginally.",
+      "details": "Original Category: society -> self-improvement.opml",
+      "cleaned_title": "Practical betterments",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Health",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "life improvement",
+        "practical tips",
+        "small changes",
+        "betterment",
+        "daily actions"
+      ]
+    },
+    {
+      "id": "feed:https://heavywhalley.wordpress.com/feed/",
+      "title": "Old mans thoughts and tales",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://heavywhalley.wordpress.com/feed/",
+      "summary": "Mountain Rescue Specialist. Environmentalist. Spent 37 years with RAF Mountain Rescue and 3 years with a civilian Team.",
+      "details": "Original Category: recreation -> walking.opml",
+      "cleaned_title": "Old mans thoughts and tales",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Fitness",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mountain rescue",
+        "personal stories",
+        "nature",
+        "environmentalism",
+        "adventures"
+      ]
+    },
+    {
+      "id": "feed:http://swoleateveryheight.blogspot.com/feeds/posts/default",
+      "title": "Swole at Every Height",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://swoleateveryheight.blogspot.com/feeds/posts/default",
+      "summary": "Strength and conditioning by Cody Lefever.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Swole at Every Height",
+      "cleaned_author": "Cody Lefever",
+      "tags": [
+        "Living",
+        "Science",
+        "Fitness",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "strength training",
+        "conditioning",
+        "health"
+      ]
+    },
+    {
+      "id": "feed:https://www.teesche.com/feed",
+      "title": "teesche.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.teesche.com/feed",
+      "summary": "About endurance sports, habit changing experiments, self-improvement, tech stuff, and general observations.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "teesche.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Fitness",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "endurance sports",
+        "self-improvement",
+        "technology",
+        "hobbies"
+      ]
+    },
+    {
+      "id": "feed:https://critter.blog/feed/",
+      "title": "Mike Crittenden \u2013 Call me Critter",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://critter.blog/feed/",
+      "summary": "Mike Crittenden's blog offers personal reflections and insights on clean living, communication, and the pursuit of achievement in a professional environment.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Mike Crittenden \u2013 Call me Critter",
+      "cleaned_author": "Mike Crittenden",
+      "tags": [
+        "Living",
+        "Health",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal development",
+        "clean eating",
+        "communication"
+      ]
+    }
+  ],
+  "child_categories": []
+}

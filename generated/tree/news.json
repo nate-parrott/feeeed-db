@@ -1,0 +1,2097 @@
+{
+  "id": "news",
+  "display_name": "News",
+  "feeds": [
+    {
+      "id": "substack:top:bald_faced_truth_by_john_canzano",
+      "title": "Bald Faced Truth by John Canzano",
+      "cleaned_title": "Bald Faced Truth",
+      "summary": "A sports columnist shares insights on college football and related topics, offering unique commentary and analysis.",
+      "kind": "feed",
+      "feed_url": "https://www.johncanzano.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "News",
+        "Living",
+        "Politics",
+        "Sports",
+        "USA",
+        "Football"
+      ],
+      "cleaned_author": "John Canzano",
+      "language": "en",
+      "keywords": [
+        "college football",
+        "sports",
+        "gambling",
+        "Pac-12"
+      ]
+    },
+    {
+      "id": "substack:top:the_airline_observer_-_brian_sumers",
+      "title": "The Airline Observer - Brian Sumers",
+      "cleaned_title": "The Airline Observer",
+      "summary": "A newsletter that delves into the airline industry, providing insights and updates aimed at professionals in the field.",
+      "kind": "feed",
+      "feed_url": "https://www.theairlineobserver.com/feed",
+      "details": "Original category: Substack top newsletters about travel",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "News",
+        "Aviation",
+        "USA"
+      ],
+      "cleaned_author": "Brian Sumers",
+      "language": "en",
+      "keywords": [
+        "airlines",
+        "business",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "substack:top:the_counteroffensive_with_tim_mak",
+      "title": "The Counteroffensive with Tim Mak",
+      "cleaned_title": "The Counteroffensive",
+      "summary": "A war correspondent's first-hand account from Kyiv, sharing human stories that portray the impact of war and the struggle for democracy.",
+      "kind": "feed",
+      "feed_url": "https://www.counteroffensive.news/feed",
+      "details": "Original category: Substack top newsletters about international",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "News",
+        "World News",
+        "Journalism"
+      ],
+      "cleaned_author": "Tim Mak",
+      "language": "en",
+      "keywords": [
+        "Tim Mak",
+        "Ukraine",
+        "war",
+        "democracy"
+      ]
+    },
+    {
+      "id": "feed:guardian.co.uk:The Guardian",
+      "cleaned_title": "The Guardian",
+      "summary": "Global news with a focus on ethical journalism and diverse perspectives.",
+      "title": "The Guardian",
+      "kind": "feed",
+      "feed_url": "http://www.guardian.co.uk/rssfeed/0,,1,00.xml",
+      "popularity_score": 14.264209821302197,
+      "details": "Original category: News -> Global",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "global",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:nytimes.com:New York Times \u2013 nytimes.com",
+      "cleaned_title": "New York Times",
+      "summary": "Renowned news coverage with a global perspective on various topics.",
+      "title": "New York Times \u2013 nytimes.com",
+      "kind": "feed",
+      "feed_url": "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "popularity_score": 19.580611061387646,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "politics",
+        "analysis",
+        "world events"
+      ]
+    },
+    {
+      "title": "r/worldnews",
+      "popularity_score": 53.664271063009,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "worldnews",
+      "kind": "reddit",
+      "id": "reddit:worldnews",
+      "cleaned_title": "r/worldnews",
+      "cleaned_author": null,
+      "summary": "A subreddit dedicated to major global news stories, providing diverse perspectives while excluding internal US news, making it a resource for international events.",
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "international affairs",
+        "world events"
+      ]
+    },
+    {
+      "id": "feed:propublica.org:ProPublica",
+      "cleaned_title": "ProPublica",
+      "summary": "An independent, nonprofit newsroom committed to investigative journalism that shines a light on critical issues affecting the public interest.",
+      "title": "ProPublica",
+      "kind": "feed",
+      "feed_url": "https://www.propublica.org/feeds/propublica/main",
+      "popularity_score": 5.160222375998966,
+      "details": "Original category: News -> US News",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Journalism",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "investigative journalism",
+        "public interest",
+        "news articles"
+      ]
+    },
+    {
+      "id": "feed:axios.com:Axios",
+      "cleaned_title": "Axios",
+      "summary": "A news outlet known for its quick and concise reporting style, covering a wide range of current events and significant developments.",
+      "title": "Axios",
+      "kind": "feed",
+      "feed_url": "https://www.axios.com/feeds/feed.rss",
+      "popularity_score": 4.832831465919701,
+      "details": "Original category: News",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news updates",
+        "current events",
+        "Axios reporting"
+      ]
+    },
+    {
+      "id": "feed:vox.com:Vox",
+      "cleaned_title": "Vox",
+      "summary": "A digital media outlet providing explanations of current events and trends with a focus on clarity and context.",
+      "title": "Vox",
+      "kind": "feed",
+      "feed_url": "http://www.vox.com/rss/index.xml",
+      "popularity_score": 8.237969799788589,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Politics",
+        "USA",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "current events",
+        "political analysis"
+      ]
+    },
+    {
+      "id": "feed:newyorker.com:The New Yorker",
+      "cleaned_title": "The New Yorker",
+      "summary": "A renowned magazine covering a variety of topics including culture, politics, and the arts. Known for its in-depth journalism and commentary, it offers critical insights and thoughtful perspectives on current events.",
+      "title": "The New Yorker",
+      "kind": "feed",
+      "feed_url": "https://www.newyorker.com/feed/rss",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Politics",
+        "News",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Trump",
+        "E.P.A.",
+        "Oscars",
+        "Berlin Film Festival",
+        "cartoon"
+      ]
+    },
+    {
+      "id": "feed:nymag.com:New York Magazine -- Intelligencer \u2013 nymag.com",
+      "cleaned_title": "New York Magazine \u2013 Intelligencer",
+      "summary": "A collection of articles analyzing current events, politics, and pop culture, providing sharp insights into the news of the day.",
+      "title": "New York Magazine -- Intelligencer \u2013 nymag.com",
+      "kind": "feed",
+      "feed_url": "http://nymag.com/feeds/intelligencer/flipboard.rss",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 4.830178844220315,
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Politics",
+        "USA",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "pop culture",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:economist.com:Briefing \u2013 economist.com",
+      "cleaned_title": "Briefing",
+      "summary": "This feed offers concise updates on current events and insights into economics, international relations, and societal issues. It provides a critical view on America's political landscape and the global economy.",
+      "title": "Briefing \u2013 economist.com",
+      "kind": "feed",
+      "feed_url": "https://www.economist.com/briefing/rss.xml",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "News",
+        "USA",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "economy",
+        "Trump",
+        "international relations",
+        "scams"
+      ]
+    },
+    {
+      "id": "feed:thespinoff.co.nz:The Spinoff",
+      "cleaned_title": "The Spinoff",
+      "summary": "A New Zealand publication that delves into pop culture, politics, and social issues through thoughtful features and criticism. The Spinoff engages its audience with diverse perspectives on contemporary matters.",
+      "title": "The Spinoff",
+      "kind": "feed",
+      "feed_url": "https://thespinoff.co.nz/feed",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Arts & Culture",
+        "Social",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "New Zealand",
+        "culture",
+        "politics",
+        "features",
+        "criticism"
+      ]
+    },
+    {
+      "id": "feed:feeds.bbci.co.uk:BBC News - World \u2013 bbci.co.uk",
+      "cleaned_title": "BBC News - World",
+      "summary": "A global news service providing coverage of significant events from around the world, maintaining a commitment to impartial journalism.",
+      "title": "BBC News - World \u2013 bbci.co.uk",
+      "kind": "feed",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "popularity_score": 4.836643046831403,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "reporting",
+        "world events"
+      ]
+    },
+    {
+      "id": "feed:skysports.com:SkySports | News",
+      "cleaned_title": "SkySports",
+      "summary": "A source for the latest news in Formula 1, delivering reports on race results, driver performances, and updates from the paddock.",
+      "title": "SkySports | News",
+      "kind": "feed",
+      "feed_url": "http://www.skysports.com/rss/0,20514,12433,00.xml",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Sports",
+        "Football"
+      ],
+      "language": "en",
+      "keywords": [
+        "Formula 1",
+        "racing news",
+        "drivers",
+        "F1 testing",
+        "team updates"
+      ]
+    },
+    {
+      "id": "feed:foreignpolicy.com:FP Foreign Policy",
+      "cleaned_title": "FP Foreign Policy",
+      "summary": "A global magazine offering in-depth articles and perspectives on international relations and policy issues shaping the world today.",
+      "title": "FP Foreign Policy",
+      "kind": "feed",
+      "feed_url": "http://foreignpolicy.com/feed/",
+      "popularity_score": 1.9315557729941288,
+      "details": "Original category: News -> Global",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "foreign policy",
+        "international relations",
+        "Ukraine",
+        "Trump",
+        "security"
+      ]
+    },
+    {
+      "id": "feed:feeds.guardian.co.uk:Travel | The Guardian",
+      "cleaned_title": "Travel",
+      "summary": "A well-rounded source for travel news and reviews, providing local guides to major cities and insightful tips for global travelers.",
+      "title": "Travel | The Guardian",
+      "kind": "feed",
+      "feed_url": "http://feeds.guardian.co.uk/theguardian/travel/rss",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "The Guardian",
+      "tags": [
+        "Living",
+        "News",
+        "USA",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "guides",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:skift.com:Skift",
+      "cleaned_title": "Skift",
+      "summary": "A leading source for travel news, particularly focused on airline and hotel industries, providing in-depth reporting on trends and changes in tourism.",
+      "title": "Skift",
+      "kind": "feed",
+      "feed_url": "http://skift.com/feed/",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Living",
+        "Aviation",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel news",
+        "tourism",
+        "airlines"
+      ]
+    },
+    {
+      "id": "feed:nytimes.com:New York Times - Travel",
+      "cleaned_title": "New York Times Travel",
+      "summary": "The travel section of the New York Times provides comprehensive coverage of travel news, interesting destinations, and practical advice for travelers.",
+      "title": "New York Times - Travel",
+      "kind": "feed",
+      "feed_url": "http://www.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Living",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel news",
+        "insights",
+        "advice"
+      ]
+    },
+    {
+      "id": "feed:feeds.a.dj.com:WSJ.com: US Business",
+      "cleaned_title": "WSJ.com: US Business",
+      "summary": "A renowned financial newspaper that provides in-depth coverage of business, markets, and global news.",
+      "title": "WSJ.com: US Business",
+      "kind": "feed",
+      "feed_url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+      "details": "Original category: News -> US News",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 6.589398861102873,
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "News",
+        "Finance",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "business news",
+        "financial analysis",
+        "markets"
+      ]
+    },
+    {
+      "id": "feed:newsrss.bbc.co.uk:BBC News - Home",
+      "cleaned_title": "BBC News",
+      "summary": "The BBC's dedicated news website for the latest UK news, top stories, analysis, and in-depth features.",
+      "title": "BBC News - Home",
+      "kind": "feed",
+      "feed_url": "http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml",
+      "popularity_score": 7.399602249602248,
+      "details": "Original category: News -> UK News",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "BBC",
+        "UK news",
+        "analysis"
+      ]
+    },
+    {
+      "id": "youtube:BBC News",
+      "cleaned_title": "BBC News",
+      "summary": "The official YouTube channel of BBC News, providing breaking news, analysis, interviews, and documentaries.",
+      "title": "BBC News",
+      "kind": "youtube",
+      "channel_id": "UC16niRr50-MSBwiO3YDb3RA",
+      "thumbnail_url": "https://yt3.ggpht.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.1797961300498367,
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "interviews",
+        "analysis",
+        "headlines",
+        "reports"
+      ]
+    },
+    {
+      "id": "youtube:CNN",
+      "cleaned_title": "CNN",
+      "summary": "CNN is a popular American news channel that covers a wide range of topics, including politics, and has a YouTube channel with over 12 million subscribers.",
+      "title": "CNN",
+      "kind": "youtube",
+      "channel_id": "UCupvZG-5ko_eiXAupbDfxWw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPEaVGYE_oLTIjTs3wo4zuxdEd0xsu2QhoIa7DfNA=s240-c-k-c0xffffffff-no-rj-mo",
+      "popularity_score": 2.134056050494406,
+      "details": "Original category: News",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "politics",
+        "coverage"
+      ]
+    },
+    {
+      "title": "r/news",
+      "popularity_score": 4.601578320456727,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "news",
+      "kind": "reddit",
+      "id": "reddit:news",
+      "cleaned_title": "r/news",
+      "cleaned_author": null,
+      "summary": "This subreddit serves as a community for sharing and discussing news articles on current events from the U.S. and around the world.",
+      "tags": [
+        "News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "current events",
+        "discussion"
+      ]
+    },
+    {
+      "id": "reddit:UpliftingNews",
+      "cleaned_title": "UpliftingNews",
+      "summary": "A subreddit dedicated to sharing positive and uplifting news stories from around the world.",
+      "title": "UpliftingNews",
+      "kind": "reddit",
+      "subreddit": "UpliftingNews",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News"
+      ],
+      "language": "en",
+      "keywords": [
+        "uplifting news",
+        "positivity",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "youtube:VICE News",
+      "cleaned_title": "VICE News",
+      "summary": "A YouTube channel that covers news and documentaries on a wide range of topics, including politics, culture, and technology.",
+      "title": "VICE News",
+      "kind": "youtube",
+      "channel_id": "UCZaT_X_mc0BI-djXOlfhqWQ",
+      "thumbnail_url": "https://yt3.ggpht.com/7Rovb42ic91FtDS7hu-xfJVGtDLJXpkurMaKGisFKNRq0seH_qZ74ihhB5YRfEao0I5xiZnu=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News"
+      ],
+      "language": "en",
+      "keywords": [
+        "documentaries",
+        "news",
+        "culture"
+      ]
+    },
+    {
+      "id": "youtube:Democracy Now!",
+      "cleaned_title": "Democracy Now!",
+      "summary": "A daily independent news program that covers a wide range of topics, including politics, social justice, and global events.",
+      "title": "Democracy Now!",
+      "kind": "youtube",
+      "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTSNodnY4pCvuhfz-gMl9qHAg8AGYDSIslmg3YYTA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "World News",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "politics",
+        "social justice"
+      ]
+    },
+    {
+      "id": "youtube:The Young Turks",
+      "cleaned_title": "The Young Turks",
+      "summary": "A progressive news and commentary YouTube channel that covers politics, current events, and social issues.",
+      "title": "The Young Turks",
+      "kind": "youtube",
+      "channel_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+      "thumbnail_url": "https://yt3.ggpht.com/f5y_0KmKhcvJI4fwO93TZYivDNFLQAb8INsIcOEDt9hajse8qWM4ZIt0bq7-3QCMQsHJgy232g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "current events",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:sports.espn.go.com:www.espn.com - TOP",
+      "cleaned_title": "ESPN Top",
+      "summary": "A popular sports news website that covers a wide range of sports including football, basketball, baseball, soccer, and more.",
+      "title": "www.espn.com - TOP",
+      "kind": "feed",
+      "feed_url": "http://sports.espn.go.com/espn/rss/news",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports news",
+        "analysis",
+        "highlights"
+      ]
+    },
+    {
+      "id": "reddit:sports",
+      "cleaned_title": "sports",
+      "summary": "A subreddit dedicated to all things sports, where users can discuss and share news, highlights, and opinions about various sports and leagues.",
+      "title": "sports",
+      "kind": "reddit",
+      "subreddit": "sports",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Hip-Hop"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports discussion",
+        "highlights",
+        "OP-ED"
+      ]
+    },
+    {
+      "id": "feed:mlb.com:MLB News",
+      "cleaned_title": "MLB News",
+      "summary": "The official website of Major League Baseball (MLB), providing news, scores, stats, and highlights from the world of baseball.",
+      "title": "MLB News",
+      "kind": "feed",
+      "feed_url": "https://www.mlb.com/feeds/news/rss.xml",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "MLB news",
+        "baseball stats",
+        "scores"
+      ]
+    },
+    {
+      "id": "feed:truehoop.com:TrueHoop",
+      "cleaned_title": "TrueHoop",
+      "summary": "An award-winning blog that offers insightful and hard-hitting analysis on the NBA, providing a unique perspective on the league's dynamics since 2005.",
+      "title": "TrueHoop",
+      "kind": "feed",
+      "feed_url": "https://www.truehoop.com/feed",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Living",
+        "Basketball",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA analysis",
+        "in-depth articles",
+        "basketball news"
+      ]
+    },
+    {
+      "id": "feed:theathletic.com:Latest Headlines \u2013 The Athletic",
+      "cleaned_title": "Latest Headlines \u2013 The Athletic",
+      "summary": "A sports news outlet known for its comprehensive coverage of various sports, providing breaking news, player insights, and detailed layers of analysis.",
+      "title": "Latest Headlines \u2013 The Athletic",
+      "kind": "feed",
+      "feed_url": "https://theathletic.com/feeds/rss/news/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "The Athletic",
+        "sports coverage",
+        "breaking news"
+      ]
+    },
+    {
+      "id": "feed:thegistsports.com:The GIST RSS Feed (Sports News)",
+      "cleaned_title": "The GIST RSS Feed",
+      "summary": "A source focused on providing news about women's sports and significant achievements within the athletic community, highlighting pivotal stories and changing narratives.",
+      "title": "The GIST RSS Feed (Sports News)",
+      "kind": "feed",
+      "feed_url": "https://www.thegistsports.com/rss.xml",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "LGBTQ",
+        "Soccer",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "women's sports",
+        "advocacy",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:thesportsletter.com:The Sportsletter",
+      "cleaned_title": "The Sportsletter",
+      "summary": "A curated newsletter offering updates on key sports events, analyses, and future matchups, perfect for fans looking to stay informed and engaged.",
+      "title": "The Sportsletter",
+      "kind": "feed",
+      "feed_url": "https://www.thesportsletter.com/feed/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Basketball",
+        "Football"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports updates",
+        "event analysis",
+        "fan engagement"
+      ]
+    },
+    {
+      "id": "feed:india.mongabay.com:Mongabay-India",
+      "cleaned_title": "Mongabay-India",
+      "summary": "An environmental science and conservation news website that focuses on biodiversity, forests, wildlife, and more.",
+      "title": "Mongabay-India",
+      "kind": "feed",
+      "feed_url": "https://india.mongabay.com/feed/",
+      "details": "Original category: News -> Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Climate & Environment",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "environmental news",
+        "biodiversity",
+        "wildlife conservation",
+        "India"
+      ]
+    },
+    {
+      "id": "feed:thetruthaboutcars.com:TheTruthAboutCars",
+      "cleaned_title": "TheTruthAboutCars",
+      "summary": "TheTruthAboutCars provides insightful commentary and analysis on the automotive industry. This feed covers reviews, industry news, and market insights, catering to both casual readers and passionate car enthusiasts.",
+      "title": "TheTruthAboutCars",
+      "kind": "feed",
+      "feed_url": "https://www.thetruthaboutcars.com/rss/feed/all",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Cars",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive news",
+        "car reviews",
+        "industry analysis"
+      ]
+    },
+    {
+      "id": "youtube:CNBC International",
+      "cleaned_title": "CNBC International",
+      "summary": "CNBC International's YouTube channel covers the latest economic news, market updates, and interviews with industry experts.",
+      "title": "CNBC International",
+      "kind": "youtube",
+      "channel_id": "UCo7a6riBFJ3tkeHjvkXPn1g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPmGw2g3okHgqNR9eeXqrJPqfQIZWB_VijukZyeJ80=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic news",
+        "market updates",
+        "expert interviews"
+      ]
+    },
+    {
+      "id": "feed:wwd.com:WWDWWD",
+      "cleaned_title": "WWD",
+      "summary": "A leading source for fashion industry news, trends, and analysis, covering designers, brands, and retail.",
+      "title": "WWDWWD",
+      "kind": "feed",
+      "feed_url": "http://www.wwd.com/rss/2/news/recentstories",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Fashion",
+        "Design",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "trends",
+        "retail"
+      ]
+    },
+    {
+      "id": "feed:dailycoffeenews.com:Daily Coffee News by Roast Magazine",
+      "cleaned_title": "Daily Coffee News by Roast Magazine",
+      "summary": "A news website that covers the specialty coffee industry, featuring articles on coffee sourcing, roasting, and brewing techniques.",
+      "title": "Daily Coffee News by Roast Magazine",
+      "kind": "feed",
+      "feed_url": "http://dailycoffeenews.com/feed/",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "specialty coffee",
+        "business news",
+        "coffee trends"
+      ]
+    },
+    {
+      "id": "feed:scmp.com:Hong Kong - South China Morning Post",
+      "cleaned_title": "South China Morning Post",
+      "summary": "South China Morning Post is a Hong Kong-based newspaper that covers news and analysis on Hong Kong, China, and the rest of Asia.",
+      "title": "Hong Kong - South China Morning Post",
+      "kind": "feed",
+      "feed_url": "http://www.scmp.com/rss/hong_kong.xml",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Asia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hong Kong",
+        "China",
+        "news",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Japan Times: All Stories",
+      "cleaned_title": "The Japan Times",
+      "summary": "Japan Times is an English-language newspaper that provides news and insights on Japan and Asia.",
+      "title": "The Japan Times: All Stories",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/japantimes",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Asia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japan",
+        "news",
+        "sports",
+        "features"
+      ]
+    },
+    {
+      "id": "youtube:ABC News (Australia)",
+      "cleaned_title": "ABC News (Australia)",
+      "summary": "The official YouTube channel of the Australian Broadcasting Corporation (ABC) News, delivering the latest news and analysis from across Australia.",
+      "title": "ABC News (Australia)",
+      "kind": "youtube",
+      "channel_id": "UCVgO39Bk5sMo66-6o6Spn6Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM7NZfeKN0CUY5GmqT4fqzLd0CDSHB7SoIt9-6pPQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Australia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Australia",
+        "news",
+        "current affairs"
+      ]
+    },
+    {
+      "id": "feed:news.google.com:\"guardian australia\" - Google News",
+      "cleaned_title": "guardian australia",
+      "summary": "The Australian edition of The Guardian, offering independent journalism and analysis on local and global issues.",
+      "title": "\"guardian australia\" - Google News",
+      "kind": "feed",
+      "feed_url": "http://news.google.com/news?hl=en&gl=us&q=guardian%20australia&um=1&ie=UTF-8&output=rss",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Australia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "australia",
+        "current affairs",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:ft.com:UK homepage",
+      "cleaned_title": "UK homepage",
+      "summary": "An aggregation of significant news updates from the UK, this feed provides insights into current affairs and political developments affecting the nation.",
+      "title": "UK homepage",
+      "kind": "feed",
+      "feed_url": "http://www.ft.com/rss/home/uk",
+      "details": "Original category: News -> UK News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:DW News",
+      "cleaned_title": "DW News",
+      "summary": "DW News is a YouTube channel that provides news and analysis on global events, with a particular emphasis on European perspectives.",
+      "title": "DW News",
+      "kind": "youtube",
+      "channel_id": "UCknLrEdhRCp1aegoMqRaCZg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMiAkwjCNDMQ09AZ4BAaIg0djLTgB_3i0uUjgKPQOU=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Global",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.6944688455846215,
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Europe"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "analysis",
+        "European news"
+      ]
+    },
+    {
+      "id": "youtube:FRANCE 24 English",
+      "cleaned_title": "FRANCE 24 English",
+      "summary": "France 24 English is the English-language YouTube channel of France 24. Watch news, interviews, and documentaries about France and global affairs from a French perspective.",
+      "title": "FRANCE 24 English",
+      "kind": "youtube",
+      "channel_id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNNrxL3Bam46oeoN-tJlZBWkunod2b7AUNRasWbrA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Global",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News",
+        "France"
+      ],
+      "language": "en",
+      "keywords": [
+        "France",
+        "global affairs",
+        "news",
+        "interviews",
+        "documentaries"
+      ]
+    },
+    {
+      "id": "feed:independent.co.uk:The Independent",
+      "cleaned_title": "The Independent",
+      "summary": "An online news outlet providing independent journalism and in-depth reporting on UK news and global events.",
+      "title": "The Independent",
+      "kind": "feed",
+      "feed_url": "http://www.independent.co.uk/rss",
+      "details": "Original category: News -> UK News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "UK",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "UK news",
+        "independent journalism",
+        "events",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:dailymail.co.uk:Home | Mail Online",
+      "cleaned_title": "Mail Online",
+      "summary": "A popular UK newspaper offering a mix of news, celebrity gossip, and entertainment stories.",
+      "title": "Home | Mail Online",
+      "kind": "feed",
+      "feed_url": "http://www.dailymail.co.uk/home/index.rss",
+      "details": "Original category: News -> UK News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "UK",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "celebrity gossip",
+        "viral videos"
+      ]
+    },
+    {
+      "id": "feed:metro.co.uk:News \u2013 Metro",
+      "cleaned_title": "Metro",
+      "summary": "A free UK newspaper offering concise news, entertainment, and lifestyle articles.",
+      "title": "News \u2013 Metro",
+      "kind": "feed",
+      "feed_url": "http://metro.co.uk/news/feed/",
+      "details": "Original category: News -> UK News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "UK",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "lifestyle",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "youtube:TRT World",
+      "cleaned_title": "TRT World",
+      "summary": "TRT World is a YouTube channel that covers global news, with a focus on stories from the Middle East, Asia, and Africa.",
+      "title": "TRT World",
+      "kind": "youtube",
+      "channel_id": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+      "thumbnail_url": "https://yt3.ggpht.com/4FK_4c1SOUGyQXgvLZ7WDJXB-sE8vVntcrTI7PYCiYkjkftELWfuRiQW_-1w6_uPbSY6T6ij=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Global",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Middle East",
+        "Asia",
+        "Africa",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "Middle East",
+        "Asia",
+        "Africa"
+      ]
+    },
+    {
+      "id": "feed:feeds.abcnews.com:ABC News: Top Stories",
+      "cleaned_title": "ABC News: Top Stories",
+      "summary": "ABC News provides breaking US news, world news, and investigative reporting.",
+      "title": "ABC News: Top Stories",
+      "kind": "feed",
+      "feed_url": "http://feeds.abcnews.com/abcnews/topstories",
+      "details": "Original category: News -> US News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "investigative reporting",
+        "US news"
+      ]
+    },
+    {
+      "id": "feed:yaleclimateconnections.org:Yale Climate Connections",
+      "cleaned_title": "Yale Climate Connections",
+      "summary": "Yale Climate Connections is a multimedia service providing daily climate news and analysis, including articles, videos, and podcasts.",
+      "title": "Yale Climate Connections",
+      "kind": "feed",
+      "feed_url": "http://www.yaleclimateconnections.org/feed/",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate news",
+        "analysis",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "feed:http://www.instapaper.com/daily.rss",
+      "title": "Instapaper Daily",
+      "kind": "feed",
+      "feed_url": "http://www.instapaper.com/daily.rss",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Instapaper Daily",
+      "cleaned_author": null,
+      "summary": "This daily feed curates an eclectic mix of topical analyses and thought-provoking viewpoints, covering a range of societal and technological issues.",
+      "tags": [
+        "News",
+        "Politics",
+        "Science",
+        "Thinking",
+        "Humor",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "technology",
+        "opinion"
+      ]
+    },
+    {
+      "id": "feed:https://simpleflying.com/feed/",
+      "title": "Simple Flying",
+      "kind": "feed",
+      "feed_url": "https://simpleflying.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Simple Flying",
+      "cleaned_author": null,
+      "summary": "An independent voice in aviation, Simple Flying provides comprehensive news and insights into the airline industry, covering everything from operational updates to travel trends.",
+      "tags": [
+        "News",
+        "Tech",
+        "Aviation",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "aviation news",
+        "airlines",
+        "travel"
+      ]
+    },
+    {
+      "id": "feed:http://www.niemanlab.org/feed/",
+      "title": "Nieman Lab",
+      "kind": "feed",
+      "feed_url": "http://www.niemanlab.org/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Nieman Lab",
+      "cleaned_author": null,
+      "summary": "Nieman Lab is a respected source for insights into the media industry, exploring trends, ideas, and innovations in journalism with a focus on the future of news.",
+      "tags": [
+        "News",
+        "Journalism",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "journalism",
+        "news",
+        "media",
+        "innovation"
+      ]
+    },
+    {
+      "id": "feed:https://www.semafor.com/rss.xml",
+      "title": "Semafor",
+      "kind": "feed",
+      "feed_url": "https://www.semafor.com/rss.xml",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Semafor",
+      "cleaned_author": null,
+      "summary": "Semafor provides comprehensive coverage of breaking news, analysis, and video content, catering to a global audience.",
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "analysis",
+        "videos",
+        "global"
+      ]
+    },
+    {
+      "id": "feed:https://bellingcat.com/feed/",
+      "title": "bellingcat",
+      "kind": "feed",
+      "feed_url": "https://bellingcat.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "bellingcat",
+      "cleaned_author": null,
+      "summary": "Bellingcat is renowned for its groundbreaking online investigations and open-source intelligence work, covering critical global issues.",
+      "tags": [
+        "News",
+        "Journalism",
+        "Crime",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "investigations",
+        "open source",
+        "global issues",
+        "journalism"
+      ]
+    },
+    {
+      "id": "feed:https://talkingpointsmemo.com/feed",
+      "title": "TPM \u2013 Talking Points Memo",
+      "kind": "feed",
+      "feed_url": "https://talkingpointsmemo.com/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "TPM",
+      "cleaned_author": null,
+      "summary": "A well-established source for breaking news and analysis, TPM provides in-depth coverage of political issues and current events.",
+      "tags": [
+        "News",
+        "Politics",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "analysis",
+        "politics",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:https://www.platformer.news/feed",
+      "title": "Platformer",
+      "kind": "feed",
+      "feed_url": "https://www.platformer.news/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Platformer",
+      "cleaned_author": null,
+      "summary": "Platformer provides insightful news on the intersection of Silicon Valley and democratic processes, analyzing technology's impact on society.",
+      "tags": [
+        "News",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "Silicon Valley",
+        "technology",
+        "democracy"
+      ]
+    },
+    {
+      "id": "feed:https://www.caribbeansignal.com/feed/",
+      "title": "caribbeansignal.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.caribbeansignal.com/feed/",
+      "summary": "Separating signal from noise.",
+      "details": "Original Category: countries.opml",
+      "cleaned_title": "caribbeansignal.com",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Caribbean news",
+        "politics",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:https://www.palestinechronicle.com/feed/",
+      "title": "Palestine Chronicle LIVE BLOG",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.palestinechronicle.com/feed/",
+      "summary": "\u2026a 501(c)3 non-profit organization whose mission is to educate the general public by providing a forum that strives to highlight issues of relevance to human rights, national struggles, freedom and democracy\u2026.",
+      "details": "Original Category: arts -> news.opml",
+      "cleaned_title": "Palestine Chronicle LIVE BLOG",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Politics",
+        "Middle East",
+        "Activism",
+        "Journalism",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "Palestine",
+        "Middle East",
+        "human rights",
+        "Israel",
+        "conflict"
+      ]
+    },
+    {
+      "title": "Pluralistic: Daily links from Cory Doctorow",
+      "popularity_score": 3.4294927536231885,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://pluralistic.net/feed/",
+      "kind": "feed",
+      "id": "feed:https://pluralistic.net/feed/",
+      "cleaned_title": "Pluralistic",
+      "cleaned_author": "Cory Doctorow",
+      "summary": "A blog that provides daily insights and links curated by Cory Doctorow, focusing on privacy, technology, and social issues without ads or tracking.",
+      "tags": [
+        "Tech",
+        "News",
+        "Internet",
+        "Security",
+        "Activism",
+        "Journalism",
+        "_intellectual",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://publishingperspectives.com/feed/",
+      "title": "Publishing Perspectives",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://publishingperspectives.com/feed/",
+      "summary": "News and information about the international book publishing industry, book sales, rights deals, and more.",
+      "details": "Original Category: arts -> books -> publishing.opml",
+      "cleaned_title": "Publishing Perspectives",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Journalism",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "publishing news",
+        "book market",
+        "rights deals"
+      ]
+    },
+    {
+      "id": "feed:https://dailynous.com/feed/",
+      "title": "Daily Nous",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dailynous.com/feed/",
+      "summary": "news for & about the philosophy profession.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Daily Nous",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Academia",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy news",
+        "philosophy profession",
+        "academia"
+      ]
+    },
+    {
+      "id": "feed:https://www.londonreconnections.com/feed/",
+      "title": "London Reconnections",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.londonreconnections.com/feed/",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "London Reconnections",
+      "cleaned_author": null,
+      "summary": "Focusing on transport in London and surrounding areas, London Reconnections offers in-depth discussions and analyses about the evolution of the city's transport systems. Readers can expect a blend of policy insights and community discussions that highlight the intricacies of urban transportation.",
+      "tags": [
+        "Local",
+        "News",
+        "London",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "transport",
+        "London",
+        "urban planning",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "feed:https://www.fromthemurkydepths.co.uk/feed/",
+      "title": "Murky Depths",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fromthemurkydepths.co.uk/feed/",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "Murky Depths",
+      "cleaned_author": null,
+      "summary": "A local news source offering updates and commentary on various developments in London, providing insights into urban change and community issues.",
+      "tags": [
+        "News",
+        "Local",
+        "London",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "London",
+        "urban development"
+      ]
+    },
+    {
+      "id": "feed:https://greenwichwire.co.uk/feed/",
+      "title": "853",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://greenwichwire.co.uk/feed/",
+      "summary": "Public interest news for Greenwich and SE London, funded by you.",
+      "details": "Original Category: countries -> uk -> london -> areas.opml",
+      "cleaned_title": "853",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "London",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "local news",
+        "Greenwich",
+        "Southeast London"
+      ]
+    },
+    {
+      "title": "Deadline",
+      "popularity_score": 30.870951643330653,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://deadline.com/feed/rss/",
+      "kind": "feed",
+      "id": "feed:https://deadline.com/feed/rss/",
+      "cleaned_title": "Deadline",
+      "cleaned_author": null,
+      "summary": "A go-to source for breaking news in Hollywood entertainment, covering significant industry updates and celebrity insights.",
+      "tags": [
+        "News"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hollywood",
+        "entertainment news",
+        "celebrity updates"
+      ]
+    },
+    {
+      "title": "tagesschau.de",
+      "popularity_score": 3.0666666666666664,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.tagesschau.de/xml/rss2",
+      "kind": "feed",
+      "id": "feed:http://www.tagesschau.de/xml/rss2",
+      "cleaned_title": "tagesschau.de",
+      "cleaned_author": null,
+      "summary": "Germany's leading news source, providing comprehensive coverage of current affairs and significant events both locally and internationally.",
+      "tags": [
+        "News",
+        "Germany",
+        "World News"
+      ],
+      "language": "de",
+      "keywords": [
+        "news",
+        "current affairs",
+        "Germany"
+      ]
+    },
+    {
+      "title": "Meduza.io",
+      "popularity_score": 4.573448773448773,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://meduza.io/feed/all",
+      "kind": "feed",
+      "id": "feed:https://meduza.io/feed/all",
+      "cleaned_title": "Meduza.io",
+      "cleaned_author": null,
+      "summary": "A platform delivering significant news and well-crafted articles about events in Russia and around the world, focusing on critical reporting.",
+      "tags": [
+        "News",
+        "World News",
+        "Journalism",
+        "Russia"
+      ],
+      "language": "ru",
+      "keywords": [
+        "news",
+        "Russia",
+        "current events",
+        "reporting"
+      ]
+    },
+    {
+      "title": "Aktuell - FAZ.NET",
+      "popularity_score": 3.2888888888888896,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.faz.net/rss/aktuell/",
+      "kind": "feed",
+      "id": "feed:http://www.faz.net/rss/aktuell/",
+      "cleaned_title": "Aktuell",
+      "cleaned_author": "FAZ.NET",
+      "summary": "A comprehensive source for current events and news across various sectors, including politics, economy, sports, and financial updates.",
+      "tags": [
+        "News",
+        "Politics",
+        "USA",
+        "Germany",
+        "World News"
+      ],
+      "language": "de",
+      "keywords": [
+        "politics",
+        "economy",
+        "sports",
+        "news"
+      ]
+    },
+    {
+      "title": "\u738b\u5fd7\u5b89",
+      "popularity_score": 3.066666666666667,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCBKDRq35-L8xev4O7ZqBeLg",
+      "kind": "youtube",
+      "id": "youtube:channel:UCBKDRq35-L8xev4O7ZqBeLg",
+      "cleaned_title": "\u738b\u5fd7\u5b89",
+      "cleaned_author": null,
+      "summary": "A blog discussing political events and social commentary focused on China and its international relations.",
+      "tags": [
+        "Politics",
+        "News",
+        "China",
+        "USA",
+        "Diplomacy"
+      ],
+      "language": "zh",
+      "keywords": [
+        "politics",
+        "China",
+        "international relations"
+      ]
+    },
+    {
+      "title": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "popularity_score": 2.967857142857143,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "kind": "feed",
+      "id": "feed:https://www.aljazeera.com/xml/rss/all.xml",
+      "cleaned_title": "Al Jazeera",
+      "cleaned_author": null,
+      "summary": "A trusted source for breaking news and global updates, Al Jazeera covers important stories from around the world.",
+      "tags": [
+        "News",
+        "Politics",
+        "Middle East",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "breaking news",
+        "global news"
+      ]
+    },
+    {
+      "title": "ZEIT ONLINE | Nachrichten, News, Hintergr\u00fcnde und Debatten",
+      "popularity_score": 2.577380952380952,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://newsfeed.zeit.de/index",
+      "kind": "feed",
+      "id": "feed:http://newsfeed.zeit.de/index",
+      "cleaned_title": "ZEIT ONLINE",
+      "cleaned_author": null,
+      "summary": "A prominent German news outlet offering comprehensive articles, commentary, and analyses across political, economic, and cultural topics.",
+      "tags": [
+        "News",
+        "Germany",
+        "Europe"
+      ],
+      "language": "de",
+      "keywords": [
+        "current events",
+        "politics",
+        "society"
+      ]
+    },
+    {
+      "title": "\u0420\u0418\u0410 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u2013 ria.ru",
+      "popularity_score": 2.1666666666666665,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://ria.ru/export/rss2/index.xml",
+      "kind": "feed",
+      "id": "feed:http://ria.ru/export/rss2/index.xml",
+      "cleaned_title": "\u0420\u0418\u0410 \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+      "cleaned_author": null,
+      "summary": "A major Russian news agency providing comprehensive coverage of current events in Russia and around the world.",
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "ru",
+      "keywords": [
+        "news",
+        "Russia",
+        "current events",
+        "updates"
+      ]
+    },
+    {
+      "title": "China - South China Morning Post \u2013 scmp.com",
+      "popularity_score": 2.0,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.scmp.com/rss/china.xml",
+      "kind": "feed",
+      "id": "feed:http://www.scmp.com/rss/china.xml",
+      "cleaned_title": "China - South China Morning Post",
+      "cleaned_author": null,
+      "summary": "A reliable source for the latest updates on Chinese news and breaking stories affecting the region and beyond.",
+      "tags": [
+        "News",
+        "World News",
+        "China"
+      ],
+      "language": "en",
+      "keywords": [
+        "Chinese News",
+        "Current Affairs",
+        "Breaking News"
+      ]
+    }
+  ],
+  "child_categories": [
+    {
+      "id": "usa",
+      "display_name": "USA",
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "sfSymbol": "flag.fill",
+      "count": 75
+    },
+    {
+      "id": "uk",
+      "display_name": "UK",
+      "emoji": "\ud83c\uddec\ud83c\udde7",
+      "sfSymbol": "flag.fill",
+      "count": 50
+    },
+    {
+      "id": "canada",
+      "display_name": "Canada",
+      "emoji": "\ud83c\udde8\ud83c\udde6",
+      "sfSymbol": "flag.fill",
+      "count": 6
+    },
+    {
+      "id": "china",
+      "display_name": "China",
+      "emoji": "\ud83c\udde8\ud83c\uddf3",
+      "sfSymbol": "flag.fill",
+      "count": 6
+    },
+    {
+      "id": "japan",
+      "display_name": "Japan",
+      "emoji": "\ud83c\uddef\ud83c\uddf5",
+      "sfSymbol": "flag.fill",
+      "count": 3
+    },
+    {
+      "id": "india",
+      "display_name": "India",
+      "emoji": "\ud83c\uddee\ud83c\uddf3",
+      "sfSymbol": "flag.fill",
+      "count": 2
+    },
+    {
+      "id": "australia",
+      "display_name": "Australia",
+      "emoji": "\ud83c\udde6\ud83c\uddfa",
+      "sfSymbol": "flag.fill",
+      "count": 9
+    },
+    {
+      "id": "france",
+      "display_name": "France",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "sfSymbol": "flag.fill",
+      "count": 4
+    },
+    {
+      "id": "germany",
+      "display_name": "Germany",
+      "emoji": "\ud83c\udde9\ud83c\uddea",
+      "sfSymbol": "flag.fill",
+      "count": 18
+    },
+    {
+      "id": "spain",
+      "display_name": "Spain",
+      "emoji": "\ud83c\uddea\ud83c\uddf8",
+      "sfSymbol": "flag.fill",
+      "count": 2
+    },
+    {
+      "id": "russia",
+      "display_name": "Russia",
+      "emoji": "\ud83c\uddf7\ud83c\uddfa",
+      "sfSymbol": "flag.fill",
+      "count": 4
+    },
+    {
+      "id": "middle_east",
+      "display_name": "Middle East",
+      "emoji": "\ud83d\udd4c",
+      "sfSymbol": "sun.dust.fill",
+      "count": 3
+    },
+    {
+      "id": "europe",
+      "display_name": "Europe",
+      "emoji": "\ud83c\uddea\ud83c\uddfa",
+      "sfSymbol": "flag.fill",
+      "count": 10
+    },
+    {
+      "id": "asia",
+      "display_name": "Asia",
+      "emoji": "\ud83c\udf0f",
+      "sfSymbol": "globe.asia.australia.fill",
+      "count": 9
+    },
+    {
+      "id": "africa",
+      "display_name": "Africa",
+      "emoji": "\ud83c\udf0d",
+      "sfSymbol": "globe.europe.africa.fill",
+      "count": 9
+    },
+    {
+      "id": "war",
+      "display_name": "War",
+      "emoji": "\u2694\ufe0f",
+      "sfSymbol": "shield",
+      "count": 12
+    },
+    {
+      "id": "trains",
+      "display_name": "Trains",
+      "emoji": "\ud83d\ude84",
+      "sfSymbol": "tram.fill",
+      "count": 9
+    },
+    {
+      "id": "aviation",
+      "display_name": "Aviation",
+      "emoji": "\u2708\ufe0f",
+      "sfSymbol": "airplane",
+      "count": 12
+    },
+    {
+      "id": "world_news",
+      "display_name": "World News",
+      "emoji": "\ud83c\udf0e",
+      "sfSymbol": "globe",
+      "count": 42
+    },
+    {
+      "id": "journalism",
+      "display_name": "Journalism",
+      "emoji": "\ud83d\udcdd",
+      "sfSymbol": "pencil",
+      "count": 52
+    },
+    {
+      "id": "crime",
+      "display_name": "Crime",
+      "emoji": "\ud83d\udea8",
+      "sfSymbol": "exclamationmark.triangle",
+      "count": 12
+    },
+    {
+      "id": "olympics",
+      "display_name": "Olympics",
+      "emoji": "\ud83c\udfc5",
+      "sfSymbol": "medal",
+      "count": 3
+    },
+    {
+      "id": "climate_environment",
+      "display_name": "Climate & Environment",
+      "emoji": "\ud83c\udf0d",
+      "sfSymbol": "leaf.circle",
+      "count": 27
+    },
+    {
+      "id": "weather",
+      "display_name": "Weather",
+      "emoji": "\u2601\ufe0f",
+      "sfSymbol": "cloud.sun",
+      "count": 4
+    }
+  ]
+}

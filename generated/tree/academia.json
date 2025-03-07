@@ -1,0 +1,1009 @@
+{
+  "id": "academia",
+  "display_name": "Academia",
+  "feeds": [
+    {
+      "id": "feed:chess.com:Chess.com Articles",
+      "cleaned_title": "Chess.com Articles",
+      "summary": "A website where you can play chess online, learn strategies, and participate in chess-related discussions and events.",
+      "title": "Chess.com Articles",
+      "kind": "feed",
+      "feed_url": "http://www.chess.com/rss/articles",
+      "details": "Original category: Hobbies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:publishersweekly.com:PublishersWeekly.com Publisher News Articles",
+      "cleaned_title": "PublishersWeekly.com Publisher News Articles",
+      "summary": "This site offers important updates and articles on publishing trends, providing insights for industry professionals and book lovers alike.",
+      "title": "PublishersWeekly.com Publisher News Articles",
+      "kind": "feed",
+      "feed_url": "https://www.publishersweekly.com/pw/feeds/section/industry-news/publisher-news/index.xml",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "publishing news",
+        "industry trends",
+        "book publishing"
+      ]
+    },
+    {
+      "id": "youtube:Reedsy",
+      "cleaned_title": "Reedsy",
+      "summary": "Reedsy is a YouTube channel that offers valuable advice and resources for authors, covering topics such as writing, publishing, book marketing, and self-publishing.",
+      "title": "Reedsy",
+      "kind": "youtube",
+      "channel_id": "UCpo0MkTAyEl73PmIVs8CQvQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMh1Z4SLXqT6zQ4f-4i5LESmzfmT5LKVG2GZoLq-g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing resources",
+        "publishing advice",
+        "author tips"
+      ]
+    },
+    {
+      "id": "reddit:Publishing",
+      "cleaned_title": "Publishing",
+      "summary": "r/Publishing is a subreddit dedicated to discussions about the publishing industry, including news, trends, and tips for authors and aspiring publishers.",
+      "title": "Publishing",
+      "kind": "reddit",
+      "subreddit": "Publishing",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "publishing discussions",
+        "industry news",
+        "author tips"
+      ]
+    },
+    {
+      "id": "youtube:The Self-Publishing with Dale Podcast",
+      "cleaned_title": "The Self-Publishing with Dale Podcast",
+      "summary": "Self-Publishing with Dale is a YouTube channel that provides tutorials, tips, and strategies for self-published authors, covering topics such as book formatting, cover design, and book promotion.",
+      "title": "The Self-Publishing with Dale Podcast",
+      "kind": "youtube",
+      "channel_id": "UCl9CjdZQtzufqgYx0CidSbA",
+      "thumbnail_url": "https://yt3.ggpht.com/FJiRQvFXg8BCbDMZ76VgxFs8UueoQctSpr6jrSkg8PJbg7yzIVp4oVKgRxxSZX-VjUAYM1MzWg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Dale",
+      "tags": [
+        "Arts & Culture",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "self-publishing advice",
+        "author tutorials",
+        "book marketing"
+      ]
+    },
+    {
+      "id": "feed:daily.jstor.org:JSTOR Daily",
+      "cleaned_title": "JSTOR Daily",
+      "summary": "A digital library that provides access to academic journals, books, and primary sources in the humanities, social sciences, and natural sciences.",
+      "title": "JSTOR Daily",
+      "kind": "feed",
+      "feed_url": "http://daily.jstor.org/feed/",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db",
+        "curated"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "academic research",
+        "scholarly articles",
+        "humanities",
+        "social sciences"
+      ]
+    },
+    {
+      "id": "reddit:AskAcademia",
+      "cleaned_title": "AskAcademia",
+      "summary": "A subreddit where academics and researchers can ask and answer questions related to academic life, research methodologies, publishing, and more.",
+      "title": "AskAcademia",
+      "kind": "reddit",
+      "subreddit": "AskAcademia",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "academic questions",
+        "research advice",
+        "PhD guidance"
+      ]
+    },
+    {
+      "id": "feed:mattsclancy.substack.com:What's New Under the Sun",
+      "cleaned_title": "What's New Under the Sun",
+      "summary": "A thoughtful exploration of academia's insights into innovation, focusing on government funding and research dynamics.",
+      "title": "What's New Under the Sun",
+      "kind": "feed",
+      "feed_url": "https://mattsclancy.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "innovation",
+        "R&D",
+        "government funding"
+      ]
+    },
+    {
+      "id": "feed:gradingforgrowth.com:Grading for Growth",
+      "cleaned_title": "Grading for Growth",
+      "summary": "A research-based blog discussing innovative grading practices in higher education, emphasizing alternative and constructive approaches.",
+      "title": "Grading for Growth",
+      "kind": "feed",
+      "feed_url": "https://gradingforgrowth.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "grading reform",
+        "higher education"
+      ]
+    },
+    {
+      "id": "feed:freaktakes.com:FreakTakes",
+      "cleaned_title": "FreakTakes",
+      "summary": "A resource for aspiring researchers, offering insights into the operations of historically significant R&D organizations.",
+      "title": "FreakTakes",
+      "kind": "feed",
+      "feed_url": "https://www.freaktakes.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "research",
+        "innovation",
+        "R&D"
+      ]
+    },
+    {
+      "id": "feed:pershmail.substack.com:Pershmail",
+      "cleaned_title": "Pershmail",
+      "summary": "A blog reflecting on teaching methodologies and mathematical concepts, inviting debate around educational practices.",
+      "title": "Pershmail",
+      "kind": "feed",
+      "feed_url": "https://pershmail.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "teaching",
+        "math",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:joshuadolezal.substack.com:The Recovering Academic",
+      "cleaned_title": "The Recovering Academic",
+      "summary": "A personal narrative on rediscovering life and writing after leaving academia, blending reflections and experiences in higher education.",
+      "title": "The Recovering Academic",
+      "kind": "feed",
+      "feed_url": "https://joshuadolezal.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "academia",
+        "personal growth",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:loleen.substack.com:Academia Made Easier",
+      "cleaned_title": "Academia Made Easier",
+      "summary": "A blog serving educators in academia with tips on productivity, teaching strategies, and achieving a work-life balance.",
+      "title": "Academia Made Easier",
+      "kind": "feed",
+      "feed_url": "https://loleen.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "productivity",
+        "teaching",
+        "work-life balance"
+      ]
+    },
+    {
+      "id": "feed:scholarstage.substack.com:Scholar's Stage",
+      "cleaned_title": "Scholar's Stage",
+      "summary": "A platform for in-depth discussions on international politics, history, and insights on the Communist Party of China and American conservatism.",
+      "title": "Scholar's Stage",
+      "kind": "feed",
+      "feed_url": "https://scholarstage.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "Academia",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "China",
+        "politics",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:insidehighered.com:Inside Higher Ed",
+      "cleaned_title": "Inside Higher Ed",
+      "summary": "A leading source for news, analysis, and opinion on higher education institutions and issues.",
+      "title": "Inside Higher Ed",
+      "kind": "feed",
+      "feed_url": "http://www.insidehighered.com/rss/feed/ihe",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Living",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "higher education",
+        "news",
+        "analysis"
+      ]
+    },
+    {
+      "id": "reddit:Economics",
+      "cleaned_title": "Economics",
+      "summary": "A subreddit dedicated to the study and discussion of economics, featuring news, articles, and academic papers.",
+      "title": "Economics",
+      "kind": "reddit",
+      "subreddit": "Economics",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Finance",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic discussions",
+        "educational resources",
+        "forums"
+      ]
+    },
+    {
+      "id": "reddit:AskEconomics",
+      "cleaned_title": "AskEconomics",
+      "summary": "A subreddit where users can ask questions and engage in discussions about economics, economic theory, and related topics.",
+      "title": "AskEconomics",
+      "kind": "reddit",
+      "subreddit": "AskEconomics",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic questions",
+        "policy discussions",
+        "theory exploration"
+      ]
+    },
+    {
+      "id": "feed:nngroup.com:NN/g latest articles and announcements",
+      "cleaned_title": "NN/g latest articles and announcements",
+      "summary": "A leading UX research and consulting firm that publishes insightful articles on UX and product design.",
+      "title": "NN/g latest articles and announcements",
+      "kind": "feed",
+      "feed_url": "https://www.nngroup.com/feed/rss/",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Design",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "UX",
+        "user experience",
+        "product design",
+        "Nielsen Norman"
+      ]
+    },
+    {
+      "id": "feed:https://scholars-stage.org/feed/",
+      "title": "The Scholar's Stage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scholars-stage.org/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "The Scholar's Stage",
+      "cleaned_author": null,
+      "summary": "A commentary on historical and contemporary issues, blending academic insights with personal observations.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Academia",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "politics",
+        "China",
+        "India",
+        "cultural commentary"
+      ]
+    },
+    {
+      "id": "feed:https://crookedtimber.org/feed/",
+      "title": "Crooked Timber",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://crookedtimber.org/feed/",
+      "summary": "Out of the crooked timber of humanity, no straight thing was ever made.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Crooked Timber",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Arts & Culture",
+        "Physics",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "critique",
+        "philosophy",
+        "society"
+      ]
+    },
+    {
+      "id": "feed:https://michael9murray.wordpress.com/feed/",
+      "title": "michael9murray | Outside the Academy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://michael9murray.wordpress.com/feed/",
+      "summary": "Not held back by economically-constrained academic horizons but also to read outside the box, think around corners.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "michael9murray | Outside the Academy",
+      "cleaned_author": "Michael Murray",
+      "tags": [
+        "Arts & Culture",
+        "Academia",
+        "Physics",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "academic",
+        "creativity",
+        "thought-provoking"
+      ]
+    },
+    {
+      "id": "feed:https://www.its-her-factory.com/feed/",
+      "title": "it's her factory",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.its-her-factory.com/feed/",
+      "summary": "philosophy, pop music, sound studies, feminism.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "it's her factory",
+      "cleaned_author": "Robin James",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Academia",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "feminism",
+        "pop music",
+        "modern rock",
+        "music industry",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://www.newthingsunderthesun.com/rss.xml",
+      "title": "New Things Under the Sun",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.newthingsunderthesun.com/rss.xml",
+      "summary": "A living literature review on social science research about innovation.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "New Things Under the Sun",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "innovation",
+        "social science",
+        "government funding"
+      ]
+    },
+    {
+      "id": "feed:https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
+      "title": "Not Even Wrong",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
+      "summary": "Not Even Wrong provides critical commentary on current scientific discourse, addressing various topics related to academia and physics with a focus on clarity and engagement.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Not Even Wrong",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics",
+        "Academia",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific critique",
+        "academic discourse",
+        "physics"
+      ]
+    },
+    {
+      "id": "feed:https://thonyc.wordpress.com/feed/",
+      "title": "The Renaissance Mathematicus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thonyc.wordpress.com/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "The Renaissance Mathematicus",
+      "cleaned_author": null,
+      "summary": "The Renaissance Mathematicus offers insights into the history of mathematics, exploring influential figures and developments that shaped the field across eras.",
+      "tags": [
+        "Arts & Culture",
+        "Academia",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history of mathematics",
+        "scientific figures",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://retractionwatch.com/feed/",
+      "title": "Retraction Watch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://retractionwatch.com/feed/",
+      "summary": "Tracking retractions as a window into the scientific process.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Retraction Watch",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Journalism",
+        "Academia",
+        "_intellectual",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific integrity",
+        "research retractions",
+        "academic scrutiny"
+      ]
+    },
+    {
+      "id": "feed:https://statmodeling.stat.columbia.edu/feed/",
+      "title": "Statistical Modeling, Causal Inference, and Social Science",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://statmodeling.stat.columbia.edu/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Statistical Modeling, Causal Inference, and Social Science",
+      "cleaned_author": null,
+      "summary": "Focused on statistical methodologies and their applications in social science, this blog discusses important topics in statistical modeling and causal inference.",
+      "tags": [
+        "Science",
+        "Data",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "social science",
+        "causal inference"
+      ]
+    },
+    {
+      "id": "feed:http://thefilmexperience.net/blog/atom.xml",
+      "title": "Blog - The Film Experience",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thefilmexperience.net/blog/atom.xml",
+      "summary": "Awards, Actresses and Cinematic Musings.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Blog - The Film Experience",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Academia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "film awards",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:https://cstonline.net/feed/",
+      "title": "CST Online | Television Studies Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cstonline.net/feed/",
+      "summary": "We are a blog devoted to international TV studies.",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "CST Online | Television Studies Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "television studies",
+        "media analysis",
+        "international TV",
+        "critical research"
+      ]
+    },
+    {
+      "id": "feed:https://newescapologist.co.uk/blog/feed/",
+      "title": "New Escapologist | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://newescapologist.co.uk/blog/feed/",
+      "summary": "Or: Goodbye to all that!",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "New Escapologist",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "escapism",
+        "philosophy",
+        "work culture"
+      ]
+    },
+    {
+      "id": "feed:https://sarahwerner.net/blog/feed/",
+      "title": "Wynken de Worde",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sarahwerner.net/blog/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Wynken de Worde",
+      "cleaned_author": "Sarah Werner",
+      "summary": "Wynken de Worde is a blog focused on early modern books, reading practices, and digital tools. Run by Sarah Werner, it provides insights into the historical context of literature and the evolving world of book production and scholarship.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "early modern books",
+        "reading practices",
+        "digital tools"
+      ]
+    },
+    {
+      "id": "feed:https://apilgriminnarnia.com/feed/",
+      "title": "A Pilgrim in Narnia",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://apilgriminnarnia.com/feed/",
+      "summary": "a journey through the imaginative worlds of C.S. Lewis, J.R.R. Tolkien, and the Inklings.",
+      "details": "Original Category: arts -> books -> fiction-books -> fantasy.opml",
+      "cleaned_title": "A Pilgrim in Narnia",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "C.S. Lewis",
+        "Tolkien",
+        "literature analysis"
+      ]
+    },
+    {
+      "id": "feed:https://dailynous.com/feed/",
+      "title": "Daily Nous",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dailynous.com/feed/",
+      "summary": "news for & about the philosophy profession.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Daily Nous",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Academia",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy news",
+        "philosophy profession",
+        "academia"
+      ]
+    },
+    {
+      "id": "feed:https://fantasticanachronism.com/atom.xml",
+      "title": "Fantastic Anachronism",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fantasticanachronism.com/atom.xml",
+      "summary": "Out of time man.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Fantastic Anachronism",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Academia",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "historical themes",
+        "contemporary thoughts"
+      ]
+    },
+    {
+      "id": "feed:https://www.hughrundle.net/rss/",
+      "title": "Information Flaneur",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hughrundle.net/rss/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Information Flaneur",
+      "cleaned_author": null,
+      "summary": "A blog that delves into the intersections of libraries, information science, and computational theory. It offers insights and reflections on the evolving landscape of information management.",
+      "tags": [
+        "Tech",
+        "Academia",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "libraries",
+        "information science",
+        "computation"
+      ]
+    },
+    {
+      "id": "feed:https://v5.chriskrycho.com/journal/feed.xml",
+      "title": "Sympolymathesy, by Chris Krycho\u2014Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://v5.chriskrycho.com/journal/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Sympolymathesy",
+      "cleaned_author": "Chris Krycho",
+      "summary": "A journal exploring the intersection of theology, technology, and ethics, offering reflections on personal and societal themes.",
+      "tags": [
+        "Tech",
+        "Politics",
+        "Academia",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "ethics",
+        "technology",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:https://jessitron.com/feed/",
+      "title": "Jessitron \u2013 blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jessitron.com/feed/",
+      "summary": "symmathecist, in the medium of code.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Jessitron",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Software Design",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "software development",
+        "OKRs",
+        "team management"
+      ]
+    },
+    {
+      "id": "feed:https://balkin.blogspot.com/feeds/posts/default",
+      "title": "Balkinization",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://balkin.blogspot.com/feeds/posts/default",
+      "summary": "A group blog on constitutional law, theory, and politics.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Balkinization",
+      "cleaned_author": "Jack M. Balkin",
+      "tags": [
+        "Politics",
+        "Law",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "constitution",
+        "law",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:https://www.askamanager.org/feed",
+      "title": "Ask a Manager",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.askamanager.org/feed",
+      "summary": "Not sure what the hell your manager is thinking, how to ask for a raise, whether you might be in danger of getting fired, or more? Ask your workplace questions here.",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "Ask a Manager",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "workplace advice",
+        "management",
+        "career"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/StudyHacks",
+      "title": "Study Hacks - Decoding Patterns of Success - Cal Newport",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/StudyHacks",
+      "summary": "On deep work, success, productivity, work-life balance.",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "Study Hacks",
+      "cleaned_author": "Cal Newport",
+      "tags": [
+        "Money",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "productivity",
+        "work-life balance",
+        "deep work",
+        "success patterns"
+      ]
+    },
+    {
+      "id": "feed:http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+      "title": "The Enlightened Economist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+      "summary": "Economics and business books.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "The Enlightened Economist",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics books",
+        "business literature",
+        "critical analysis"
+      ]
+    }
+  ],
+  "child_categories": []
+}

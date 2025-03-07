@@ -1,0 +1,760 @@
+{
+  "id": "activism",
+  "display_name": "Activism",
+  "feeds": [
+    {
+      "id": "substack:top:footnotes_by_jemar_tisby",
+      "title": "Footnotes by Jemar Tisby",
+      "cleaned_title": "Footnotes",
+      "summary": "This newsletter offers a thoughtful exploration of race, faith, and social justice through a historical lens. Jemar Tisby writes with purpose, aiming to equip readers as effective advocates for racial equity and understanding.",
+      "kind": "feed",
+      "feed_url": "https://jemartisby.substack.com/feed",
+      "details": "Original category: Substack top newsletters about history",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "Activism"
+      ],
+      "cleaned_author": "Jemar Tisby",
+      "language": "en",
+      "keywords": [
+        "race",
+        "faith",
+        "justice"
+      ]
+    },
+    {
+      "id": "substack:top:agent131711\u2019s_substack_-_agent131711:_read_this!_(substack)",
+      "title": "Agent131711\u2019s Substack - Agent131711: READ THIS! (Substack)",
+      "cleaned_title": "Agent131711\u2019s Substack",
+      "summary": "Agent131711's Substack takes readers on a journey through controversial and often uncomfortable truths, presented with a humorous twist. This newsletter aims to enlighten while keeping the dialogue lighthearted.",
+      "kind": "feed",
+      "feed_url": "https://chemtrails.substack.com/feed",
+      "details": "Original category: Substack top newsletters about education",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "Activism"
+      ],
+      "cleaned_author": "Agent131711",
+      "language": "en",
+      "keywords": [
+        "truth",
+        "humor",
+        "controversy"
+      ]
+    },
+    {
+      "id": "youtube:Democracy Now!",
+      "cleaned_title": "Democracy Now!",
+      "summary": "A daily independent news program that covers a wide range of topics, including politics, social justice, and global events.",
+      "title": "Democracy Now!",
+      "kind": "youtube",
+      "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTSNodnY4pCvuhfz-gMl9qHAg8AGYDSIslmg3YYTA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "World News",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "politics",
+        "social justice"
+      ]
+    },
+    {
+      "id": "youtube:The Young Turks",
+      "cleaned_title": "The Young Turks",
+      "summary": "A progressive news and commentary YouTube channel that covers politics, current events, and social issues.",
+      "title": "The Young Turks",
+      "kind": "youtube",
+      "channel_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+      "thumbnail_url": "https://yt3.ggpht.com/f5y_0KmKhcvJI4fwO93TZYivDNFLQAb8INsIcOEDt9hajse8qWM4ZIt0bq7-3QCMQsHJgy232g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "current events",
+        "social issues"
+      ]
+    },
+    {
+      "id": "reddit:environment",
+      "cleaned_title": "environment",
+      "summary": "A subreddit dedicated to discussions, news, and articles related to the environment, sustainability, and conservation.",
+      "title": "environment",
+      "kind": "reddit",
+      "subreddit": "environment",
+      "details": "Original category: Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "environmental discussions",
+        "sustainability",
+        "conservation news"
+      ]
+    },
+    {
+      "id": "feed:localmedia.org:Local Media Association + Local Media Foundation",
+      "cleaned_title": "Local Media Association + Local Media Foundation",
+      "summary": "The Local News Association is an organization that supports and promotes local journalism, providing resources and insights for local news outlets.",
+      "title": "Local Media Association + Local Media Foundation",
+      "kind": "feed",
+      "feed_url": "https://www.localmedia.org/feed/",
+      "details": "Original category: Local",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Journalism",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "local journalism",
+        "media support",
+        "community engagement"
+      ]
+    },
+    {
+      "id": "youtube:Localish",
+      "cleaned_title": "Localish",
+      "summary": "Localish is a YouTube channel that showcases heartwarming and inspiring stories from local communities, highlighting the people, places, and events that make them unique.",
+      "title": "Localish",
+      "kind": "youtube",
+      "channel_id": "UCTyC11PsbR-CMXSG9M1na1g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQoejwmDCZA1OVCRIYQBH_EW47mgUmqnS60ZuI9=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Activism",
+        "Soccer"
+      ],
+      "language": "en",
+      "keywords": [
+        "community stories",
+        "inspiring locals",
+        "cultural diversity"
+      ]
+    },
+    {
+      "id": "feed:culturalsurvival.org:Cultural Survival",
+      "cleaned_title": "Cultural Survival",
+      "summary": "Cultural Survival is an organization dedicated to advocating for the rights of indigenous peoples and promoting their cultural heritage, offering articles, podcasts, and resources on indigenous cultures around the world.",
+      "title": "Cultural Survival",
+      "kind": "feed",
+      "feed_url": "https://www.culturalsurvival.org/rss.xml",
+      "details": "Original category: Travel -> Culture",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "India",
+        "Russia",
+        "Brazil"
+      ],
+      "language": "en",
+      "keywords": [
+        "indigenous rights",
+        "cultural heritage",
+        "advocacy"
+      ]
+    },
+    {
+      "id": "curated:gothamist",
+      "title": "Gothamist",
+      "kind": "feed",
+      "sources": [
+        "curated"
+      ],
+      "summary": "Local news and culture from New York City.",
+      "feed_url": "https://gothamist.com/feed",
+      "cleaned_title": "Gothamist",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cities",
+        "Activism",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "local news",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://nysfocus.com/feed",
+      "title": "New York Focus \u2013 nysfocus.com",
+      "kind": "feed",
+      "feed_url": "https://nysfocus.com/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "New York Focus",
+      "cleaned_author": null,
+      "summary": "New York Focus provides in-depth adversarial reporting on state politics and issues, holding power to account through investigative journalism.",
+      "tags": [
+        "Local",
+        "USA",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York",
+        "politics",
+        "investigative journalism",
+        "accountability"
+      ]
+    },
+    {
+      "id": "feed:https://www.palestinechronicle.com/feed/",
+      "title": "Palestine Chronicle LIVE BLOG",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.palestinechronicle.com/feed/",
+      "summary": "\u2026a 501(c)3 non-profit organization whose mission is to educate the general public by providing a forum that strives to highlight issues of relevance to human rights, national struggles, freedom and democracy\u2026.",
+      "details": "Original Category: arts -> news.opml",
+      "cleaned_title": "Palestine Chronicle LIVE BLOG",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Politics",
+        "Middle East",
+        "Activism",
+        "Journalism",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "Palestine",
+        "Middle East",
+        "human rights",
+        "Israel",
+        "conflict"
+      ]
+    },
+    {
+      "id": "feed:https://www.eff.org/rss/updates.xml",
+      "title": "Deeplinks Blog | Electronic Frontier Foundation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.eff.org/rss/updates.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Deeplinks Blog | Electronic Frontier Foundation",
+      "cleaned_author": null,
+      "summary": "A blog from the Electronic Frontier Foundation focused on the intersection of technology, privacy, and civil liberties, providing important updates and analysis.",
+      "tags": [
+        "Tech",
+        "Activism",
+        "Cybersecurity",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "privacy",
+        "internet rights",
+        "EFF",
+        "technology",
+        "civil liberties"
+      ]
+    },
+    {
+      "title": "Pluralistic: Daily links from Cory Doctorow",
+      "popularity_score": 3.4294927536231885,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://pluralistic.net/feed/",
+      "kind": "feed",
+      "id": "feed:https://pluralistic.net/feed/",
+      "cleaned_title": "Pluralistic",
+      "cleaned_author": "Cory Doctorow",
+      "summary": "A blog that provides daily insights and links curated by Cory Doctorow, focusing on privacy, technology, and social issues without ads or tracking.",
+      "tags": [
+        "Tech",
+        "News",
+        "Internet",
+        "Security",
+        "Activism",
+        "Journalism",
+        "_intellectual",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://asadrahman.io/feed/",
+      "title": "asadrahman.io",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://asadrahman.io/feed/",
+      "summary": "Asad's online home.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "asadrahman.io",
+      "cleaned_author": "Asad Rahman",
+      "tags": [
+        "Tech",
+        "AI",
+        "Activism",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://olu.online/feed/?type=rss",
+      "title": "Olu Online | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://olu.online/feed/?type=rss",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Olu Online",
+      "cleaned_author": null,
+      "summary": "A reflective blog exploring the intersections of technology, social justice, and personal growth through thoughtful commentary and weekly updates.",
+      "tags": [
+        "Tech",
+        "Activism",
+        "Social",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech ethics",
+        "social justice",
+        "personal development"
+      ]
+    },
+    {
+      "id": "feed:https://ploum.net/atom.xml",
+      "title": "Ploum.net",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ploum.net/atom.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Ploum.net",
+      "cleaned_author": "Lionel Dricot",
+      "summary": "A philosophical blog that tackles various issues related to technology, culture, and societal impacts, encouraging critical reflection and dialogue.",
+      "tags": [
+        "Arts & Culture",
+        "Activism",
+        "Physics"
+      ],
+      "language": "fr",
+      "keywords": [
+        "technology",
+        "philosophy",
+        "society",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://we-make-money-not-art.com/feed/",
+      "title": "We Make Money Not Art",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://we-make-money-not-art.com/feed/",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "We Make Money Not Art",
+      "cleaned_author": null,
+      "summary": "A blog exploring contemporary art, politics, and innovation, with thoughtful critiques of modern culture and technology.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Activism",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "art criticism",
+        "politics in art",
+        "cultural innovation"
+      ]
+    },
+    {
+      "id": "feed:https://sippey.com/rss.xml",
+      "title": "Michael Sippey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sippey.com/rss.xml",
+      "summary": "A long-running personal blog where Michael Sippey shares his insights on politics, culture, and personal reflections, inviting readers into his contemplative world.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Michael Sippey",
+      "cleaned_author": "Michael Sippey",
+      "tags": [
+        "Politics",
+        "Journalism",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "personal",
+        "reflections"
+      ]
+    },
+    {
+      "id": "feed:https://captainawkward.com/feed/",
+      "title": "CaptainAwkward.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://captainawkward.com/feed/",
+      "summary": "Don't need to be cool to be kind.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "CaptainAwkward.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "Mental Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "relationships",
+        "friendship advice",
+        "ADHD",
+        "couples",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:https://growinguptransgender.com/feed/",
+      "title": "Growing Up Transgender",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://growinguptransgender.com/feed/",
+      "summary": "Raising our trans child.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Growing Up Transgender",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "Mental Health",
+        "Parenting",
+        "LGBTQ"
+      ],
+      "language": "en",
+      "keywords": [
+        "transgender",
+        "puberty blockers",
+        "WPATH",
+        "parenting challenges",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "feed:https://www.huckmag.com/feed.rss",
+      "title": "Huck",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.huckmag.com/feed.rss",
+      "summary": "Celebrates independence, seeking out the artists, activists and creative pioneers who are challenging mainstream culture.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Huck",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Activism",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "independent artists",
+        "New York culture",
+        "Bad Bunny",
+        "creative pioneers",
+        "historical context"
+      ]
+    },
+    {
+      "id": "feed:https://thepatronsaintofsuperheroes.wordpress.com/feed/",
+      "title": "The Patron Saint of Superheroes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thepatronsaintofsuperheroes.wordpress.com/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The Patron Saint of Superheroes",
+      "cleaned_author": "Chris Gavaler",
+      "summary": "Exploring the intricate relationship between comics, pop culture, and political discourse, Chris Gavaler offers an insightful look at how superheroes reflect societal issues and narratives.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "superheroes",
+        "politics",
+        "pop culture",
+        "comics"
+      ]
+    },
+    {
+      "id": "feed:http://kenmacleod.blogspot.com/feeds/posts/default",
+      "title": "The Early Days of a Better Nation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://kenmacleod.blogspot.com/feeds/posts/default",
+      "summary": "Ken MacLeod's comments.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "The Early Days of a Better Nation",
+      "cleaned_author": "Ken MacLeod",
+      "tags": [
+        "Politics",
+        "Activism",
+        "Science",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ken MacLeod",
+        "future visions",
+        "social commentary"
+      ]
+    },
+    {
+      "id": "feed:https://hugoclub.blogspot.com/feeds/posts/default",
+      "title": "Hugo Book Club Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hugoclub.blogspot.com/feeds/posts/default",
+      "summary": "Discussion of Hugo Award nominees for best novel, other science fiction novels, and analysis of the awards.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Hugo Book Club Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Literature",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hugo Awards",
+        "book reviews",
+        "science fiction"
+      ]
+    },
+    {
+      "id": "feed:https://bethefuture.space/rss/",
+      "title": "be the future",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bethefuture.space/rss/",
+      "summary": "make it better don't give up.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "be the future",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Future",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "future",
+        "advocacy",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:https://soif.org.uk/blog/feed/",
+      "title": "School of International Futures - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soif.org.uk/blog/feed/",
+      "summary": "This blog focuses on the future of international policy and governance, exploring vital themes like intergenerational solidarity and traditional governance through posts that highlight initiatives and dialogues around future generations.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "School of International Futures",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "History",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "future",
+        "governance",
+        "intergenerational",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "feed:https://drewdevault.com/blog/index.xml",
+      "title": "Drew DeVault's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://drewdevault.com/blog/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Drew DeVault's blog",
+      "cleaned_author": "Drew DeVault",
+      "summary": "Drew DeVault blogs about free software, transparency in governance, and inclusive practices, intertwining personal insights with broader discussions relevant to the tech community.",
+      "tags": [
+        "Tech",
+        "Data",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "intellectual property",
+        "FOSDEM",
+        "transparency",
+        "neurodivergence"
+      ]
+    },
+    {
+      "id": "feed:https://www.newwaysministry.org/feed/",
+      "title": "New Ways Ministry - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.newwaysministry.org/feed/",
+      "summary": "a daily blog of Catholic LGBTQ news, opinion, and spirituality.",
+      "details": "Original Category: society -> religion.opml",
+      "cleaned_title": "New Ways Ministry - Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "LGBTQ+",
+        "Catholic Church",
+        "faith"
+      ]
+    },
+    {
+      "id": "feed:https://theblockchainsocialist.com/feed/",
+      "title": "The Blockchain Socialist - Blog Archives",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theblockchainsocialist.com/feed/",
+      "summary": "Exploring the intersection between blockchain and left politics.",
+      "details": "Original Category: economics -> economics -> cryptocurrencies.opml",
+      "cleaned_title": "The Blockchain Socialist",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Tech",
+        "Internet",
+        "Social",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "blockchain",
+        "left politics",
+        "community",
+        "governance"
+      ]
+    },
+    {
+      "id": "feed:https://www.katebelgrave.com/feed/",
+      "title": "Kate Belgrave",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.katebelgrave.com/feed/",
+      "summary": "Talking with people dealing with public sector cuts.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "Kate Belgrave",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "Activism",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "public sector",
+        "cuts",
+        "advocacy"
+      ]
+    }
+  ],
+  "child_categories": []
+}

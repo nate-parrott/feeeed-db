@@ -1,0 +1,728 @@
+{
+  "id": "physics",
+  "display_name": "Physics",
+  "feeds": [
+    {
+      "id": "reddit:Science",
+      "cleaned_title": "Science",
+      "summary": "A subreddit for the discussion of scientific research, news, and related topics across various disciplines.",
+      "title": "Science",
+      "kind": "reddit",
+      "subreddit": "Science",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Biology",
+        "Physics",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific research",
+        "community discussions",
+        "latest publications"
+      ]
+    },
+    {
+      "id": "feed:export.arxiv.org:ArXiv Query: search_query=au: Bengio_Y&id_list=&start=0&max_results=100",
+      "cleaned_title": "ArXiv Query",
+      "summary": "A repository of electronic preprints in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, and statistics.",
+      "title": "ArXiv Query: search_query=au: Bengio_Y&id_list=&start=0&max_results=100",
+      "kind": "feed",
+      "feed_url": "http://export.arxiv.org/api/query?search_query=au:+Bengio_Y&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics",
+        "Math",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "preprints",
+        "research",
+        "academic publishing"
+      ]
+    },
+    {
+      "id": "feed:https://abakcus.com/feed/",
+      "title": "Abakcus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://abakcus.com/feed/",
+      "summary": "The best curation site for only math and science.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Abakcus",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "math",
+        "science",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:https://ploum.net/atom.xml",
+      "title": "Ploum.net",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ploum.net/atom.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Ploum.net",
+      "cleaned_author": "Lionel Dricot",
+      "summary": "A philosophical blog that tackles various issues related to technology, culture, and societal impacts, encouraging critical reflection and dialogue.",
+      "tags": [
+        "Arts & Culture",
+        "Activism",
+        "Physics"
+      ],
+      "language": "fr",
+      "keywords": [
+        "technology",
+        "philosophy",
+        "society",
+        "cultural critique"
+      ]
+    },
+    {
+      "title": "Aeon | a world of ideas",
+      "popularity_score": 6.421125116713352,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://aeon.co/feed.rss",
+      "kind": "feed",
+      "id": "feed:https://aeon.co/feed.rss",
+      "cleaned_title": "Aeon",
+      "cleaned_author": null,
+      "summary": "A deep dive into thought-provoking essays and videos that encourage exploration and consideration of diverse ideas and cultures.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Physics",
+        "Photos",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "ideas",
+        "culture",
+        "essays"
+      ]
+    },
+    {
+      "id": "feed:https://crookedtimber.org/feed/",
+      "title": "Crooked Timber",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://crookedtimber.org/feed/",
+      "summary": "Out of the crooked timber of humanity, no straight thing was ever made.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Crooked Timber",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Arts & Culture",
+        "Physics",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "critique",
+        "philosophy",
+        "society"
+      ]
+    },
+    {
+      "id": "feed:https://michael9murray.wordpress.com/feed/",
+      "title": "michael9murray | Outside the Academy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://michael9murray.wordpress.com/feed/",
+      "summary": "Not held back by economically-constrained academic horizons but also to read outside the box, think around corners.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "michael9murray | Outside the Academy",
+      "cleaned_author": "Michael Murray",
+      "tags": [
+        "Arts & Culture",
+        "Academia",
+        "Physics",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "academic",
+        "creativity",
+        "thought-provoking"
+      ]
+    },
+    {
+      "id": "feed:https://4gravitons.com/feed/",
+      "title": "4 gravitons",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://4gravitons.com/feed/",
+      "summary": "The trials and tribulations of four gravitons and a physicist.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "4 gravitons",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "physics",
+        "science",
+        "creativity",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:https://asymptotia.com/feed/",
+      "title": "Asymptotia",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://asymptotia.com/feed/",
+      "summary": "A personal blog accompanying a physicist's journey through complex topics in science, presented with nuance and depth.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Asymptotia",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "personal blog",
+        "physicist"
+      ]
+    },
+    {
+      "id": "feed:https://johncarlosbaez.wordpress.com/feed/",
+      "title": "Azimuth",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://johncarlosbaez.wordpress.com/feed/",
+      "summary": "From math to physics to earth science and biology, computer science \u2026 centered around the theme of what scientists, engineers and programmers can do to help save a planet in crisis.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Azimuth",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "environment",
+        "engineering",
+        "mathematics",
+        "physics"
+      ]
+    },
+    {
+      "id": "feed:https://condensedconcepts.blogspot.com/feeds/posts/default",
+      "title": "Condensed concepts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://condensedconcepts.blogspot.com/feeds/posts/default",
+      "summary": "Ruminations on emergent phenomena in condensed phases of matter.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Condensed Concepts",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "emergent phenomena",
+        "condensed matter physics",
+        "quantum states"
+      ]
+    },
+    {
+      "id": "feed:https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
+      "title": "Not Even Wrong",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
+      "summary": "Not Even Wrong provides critical commentary on current scientific discourse, addressing various topics related to academia and physics with a focus on clarity and engagement.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Not Even Wrong",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics",
+        "Academia",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific critique",
+        "academic discourse",
+        "physics"
+      ]
+    },
+    {
+      "id": "feed:https://backreaction.blogspot.com/feeds/posts/default",
+      "title": "Sabine Hossenfelder: Backreaction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://backreaction.blogspot.com/feeds/posts/default",
+      "summary": "Science News, Physics, Science, Philosophy, Philosophy of Science.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Backreaction",
+      "cleaned_author": "Sabine Hossenfelder",
+      "tags": [
+        "Science",
+        "Physics",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "universe",
+        "physics",
+        "science",
+        "philosophy"
+      ]
+    },
+    {
+      "id": "feed:https://newescapologist.co.uk/blog/feed/",
+      "title": "New Escapologist | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://newescapologist.co.uk/blog/feed/",
+      "summary": "Or: Goodbye to all that!",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "New Escapologist",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "escapism",
+        "philosophy",
+        "work culture"
+      ]
+    },
+    {
+      "id": "feed:https://aestheticsforbirds.com/feed/",
+      "title": "Aesthetics for Birds",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aestheticsforbirds.com/feed/",
+      "summary": "An aesthetics and philosophy of art blog for a general audience: theories, terms, art and cultural criticism, interviews, roundtables, news.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Aesthetics for Birds",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "art philosophy",
+        "cultural criticism",
+        "theory"
+      ]
+    },
+    {
+      "id": "feed:https://bluelabyrinths.com/feed/",
+      "title": "Blue Labyrinths",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bluelabyrinths.com/feed/",
+      "summary": "An online magazine focusing on literature, philosophy, and a collection of interesting ideas.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Blue Labyrinths",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Physics",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "culture",
+        "ideas"
+      ]
+    },
+    {
+      "id": "feed:https://ofresonance.tumblr.com/rss",
+      "title": "of Resonance",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ofresonance.tumblr.com/rss",
+      "summary": "A sub-continuation of This Space. This space of resonance.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "of Resonance",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "literature",
+        "existentialism"
+      ]
+    },
+    {
+      "id": "feed:https://edwardfeser.blogspot.com/feeds/posts/default",
+      "title": "Edward Feser",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://edwardfeser.blogspot.com/feeds/posts/default",
+      "summary": "\"One of the best contemporary writers on philosophy\" National Review.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Edward Feser",
+      "cleaned_author": "Edward Feser",
+      "tags": [
+        "Arts & Culture",
+        "Physics",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "current events",
+        "philosophical debates"
+      ]
+    },
+    {
+      "id": "feed:https://ndpr.nd.edu/reviews.atom",
+      "title": "Notre Dame Philosophical Reviews | University of Notre Dame",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ndpr.nd.edu/reviews.atom",
+      "summary": "Entirely devoted to publishing substantive, high-quality scholarly philosophy books reviews.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Notre Dame Philosophical Reviews",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Physics",
+        "Literature",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "book reviews",
+        "scholarship"
+      ]
+    },
+    {
+      "id": "feed:https://v5.chriskrycho.com/journal/feed.xml",
+      "title": "Sympolymathesy, by Chris Krycho\u2014Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://v5.chriskrycho.com/journal/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Sympolymathesy",
+      "cleaned_author": "Chris Krycho",
+      "summary": "A journal exploring the intersection of theology, technology, and ethics, offering reflections on personal and societal themes.",
+      "tags": [
+        "Tech",
+        "Politics",
+        "Academia",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "ethics",
+        "technology",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:https://www.science.org/blogs/pipeline/feed",
+      "title": "In the Pipeline by Derek Lowe | Science | AAAS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.science.org/blogs/pipeline/feed",
+      "summary": "Derek Lowe\u2019s editorially independent blog on drug discovery and the pharma industry.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "In the Pipeline by Derek Lowe",
+      "cleaned_author": "Derek Lowe",
+      "tags": [
+        "Science",
+        "Physics",
+        "Health",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "drug discovery",
+        "pharmaceuticals",
+        "biomedical research"
+      ]
+    },
+    {
+      "id": "feed:https://www.science.org/blogs/pipeline/feed",
+      "title": "In the Pipeline by Derek Lowe | Science | AAAS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.science.org/blogs/pipeline/feed",
+      "summary": "Derek Lowe\u2019s editorially independent blog on drug discovery and the pharma industry.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "In the Pipeline by Derek Lowe",
+      "cleaned_author": "Derek Lowe",
+      "tags": [
+        "Science",
+        "Physics",
+        "Health",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "drug discovery",
+        "pharmaceuticals",
+        "biomedical research"
+      ]
+    },
+    {
+      "id": "feed:https://gilkalai.wordpress.com/feed/",
+      "title": "Combinatorics and more",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gilkalai.wordpress.com/feed/",
+      "summary": "Gil Kalai's blog.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Combinatorics and more",
+      "cleaned_author": "Gil Kalai",
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "combinatorics",
+        "quantum computing",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://jdh.hamkins.org/feed/",
+      "title": "Joel David Hamkins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jdh.hamkins.org/feed/",
+      "summary": "mathematics and philosophy of the infinite.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Joel David Hamkins",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "infinity",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://golem.ph.utexas.edu/category/atom10.xml",
+      "title": "The n-Category Caf\u00e9",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://golem.ph.utexas.edu/category/atom10.xml",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "The n-Category Caf\u00e9",
+      "cleaned_author": null,
+      "summary": "The n-Category Caf\u00e9 is a collaborative blog where mathematicians delve into topics that intertwine mathematics, physics, and philosophy.",
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "category theory",
+        "functors",
+        "AI",
+        "Borel spaces"
+      ]
+    },
+    {
+      "id": "feed:https://makoism.com/rss/",
+      "title": "Makoism",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://makoism.com/rss/",
+      "summary": "An experiment of interesting finds. So it goes.",
+      "details": "Original Category: society -> self-improvement.opml",
+      "cleaned_title": "Makoism",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "self-improvement",
+        "personal growth",
+        "reflections",
+        "insights",
+        "life advice"
+      ]
+    },
+    {
+      "id": "feed:https://lrb.co.uk/feeds/rss",
+      "title": "LRB Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lrb.co.uk/feeds/rss",
+      "summary": "Europe\u2019s leading magazine of ideas, published twice a month.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "LRB Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Physics",
+        "History",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "Literary Critique",
+        "Political Essays",
+        "Cultural Commentary"
+      ]
+    },
+    {
+      "title": "Nature",
+      "popularity_score": 2.378787878787879,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.nature.com/nature/current_issue/rss",
+      "kind": "feed",
+      "id": "feed:http://www.nature.com/nature/current_issue/rss",
+      "cleaned_title": "Nature",
+      "cleaned_author": null,
+      "summary": "One of the leading international scientific journals, publishing significant research and advances in all areas of science and technology.",
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "research",
+        "innovation"
+      ]
+    },
+    {
+      "id": "feed:quantamagazine.org:Quanta Magazine",
+      "cleaned_title": "Quanta Magazine",
+      "summary": "A source that illuminates complex scientific concepts, making them accessible to a broader audience. Its intriguing articles cover a range of topics from theoretical physics to biology.",
+      "title": "Quanta Magazine",
+      "kind": "feed",
+      "feed_url": "http://www.quantamagazine.org/feed/",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular",
+        "ooh_directory"
+      ],
+      "popularity_score": 6.348774433451852,
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "mathematics",
+        "research",
+        "coral reefs",
+        "black holes"
+      ]
+    }
+  ],
+  "child_categories": []
+}

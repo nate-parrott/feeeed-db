@@ -1,0 +1,408 @@
+{
+  "id": "nyc",
+  "display_name": "NYC",
+  "feeds": [
+    {
+      "id": "feed:feeds.feedburner.com:Eater - New York",
+      "cleaned_title": "Eater",
+      "summary": "A blog offering insights into New York City's vibrant restaurant and nightlife scene. Readers can discover the latest openings and notable culinary highlights.",
+      "title": "Eater - New York",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/eater/nyc",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.7595419669077423,
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Restaurants",
+        "Cities",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "restaurants",
+        "New York",
+        "nightlife",
+        "food"
+      ]
+    },
+    {
+      "id": "youtube:Jomboy Media",
+      "cleaned_title": "Jomboy Media",
+      "summary": "A YouTube channel that provides entertaining breakdowns and analysis of baseball games, including umpire reactions, player mic'd up moments, and more.",
+      "title": "Jomboy Media",
+      "kind": "youtube",
+      "channel_id": "UCl9E4Zxa8CVr2LBLD0_TaNg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMOVf4_HnLEqzm_hBGhs_tEEzopLNHBKl743W6p1Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Baseball",
+        "Sports",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball",
+        "analysis",
+        "umpire",
+        "player mic'd up"
+      ]
+    },
+    {
+      "id": "youtube:ActionKid",
+      "cleaned_title": "ActionKid",
+      "summary": "A YouTube channel that showcases walking tours and street views of various neighborhoods in New York City.",
+      "title": "ActionKid",
+      "kind": "youtube",
+      "channel_id": "UCBkcw8h7epT_bK0QzuY2Bmg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNnRYRvKOppwDdCbg8u8tnBvgym_6KjSVabcrFgsA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "reddit:nyc",
+      "title": "r/nyc",
+      "kind": "reddit",
+      "subreddit": "nyc",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "r/nyc",
+      "cleaned_author": null,
+      "summary": "A dynamic subreddit dedicated to everything about New York City, where users engage in discussions ranging from local events to civic matters.",
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "reddit:AskNYC",
+      "cleaned_title": "AskNYC",
+      "summary": "A subreddit where you can ask questions and get recommendations about living, visiting, and experiencing New York City.",
+      "title": "AskNYC",
+      "kind": "reddit",
+      "subreddit": "AskNYC",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:timeout.com:Time Out New York",
+      "cleaned_title": "Time Out New York",
+      "summary": "A website that provides information on events, entertainment, and things to do in New York City.",
+      "title": "Time Out New York",
+      "kind": "feed",
+      "feed_url": "http://www.timeout.com/newyork/blog/feed.rss",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:forgotten-ny.com:Forgotten New York",
+      "cleaned_title": "Forgotten New York",
+      "summary": "An exploration of New York City's hidden gems and lost treasures, Forgotten New York takes readers on a nostalgic journey through the city's overlooked nooks and crannies. It's a charming tribute to the bygone eras and vibrant history of the Big Apple.",
+      "title": "Forgotten New York",
+      "kind": "feed",
+      "feed_url": "http://forgotten-ny.com/feed/",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC",
+        "History",
+        "Urban",
+        "_hip",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "hidden gems",
+        "history",
+        "local culture",
+        "nooks and crannies"
+      ]
+    },
+    {
+      "id": "feed:newyorkyimby.com:New York YIMBY",
+      "cleaned_title": "New York YIMBY",
+      "summary": "A platform advocating for positive new developments across the NYC metropolitan area, providing updates on construction and housing.",
+      "title": "New York YIMBY",
+      "kind": "feed",
+      "feed_url": "http://www.newyorkyimby.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:overheardinnewyork.com:Overheard In New York",
+      "cleaned_title": "Overheard In New York",
+      "summary": "A collection of humorous and candid quotes overheard throughout New York City, capturing the city's quirky and sometimes profound observations.",
+      "title": "Overheard In New York",
+      "kind": "feed",
+      "feed_url": "http://www.overheardinnewyork.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:foundny.com:FOUND NY",
+      "cleaned_title": "FOUND NY",
+      "summary": "A curated source for quality recommendations and practical information about New York City and its surroundings, drawing from an experienced editorial team.",
+      "title": "FOUND NY",
+      "kind": "feed",
+      "feed_url": "https://www.foundny.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:annekadet.substack.com:CAF\u00c9 ANNE",
+      "cleaned_title": "CAF\u00c9 ANNE",
+      "summary": "A lighthearted blog that shares whimsical perspectives on everyday experiences in New York City, making it both relatable and entertaining.",
+      "title": "CAF\u00c9 ANNE",
+      "kind": "feed",
+      "feed_url": "https://annekadet.substack.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:katiehonan.substack.com:What's Good? ",
+      "cleaned_title": "What's Good?",
+      "summary": "A local blog focusing on New York City, occasionally commenting on broader news topics. The posts tend to explore current events and the city's atmosphere with multifaceted perspectives.",
+      "title": "What's Good? ",
+      "kind": "feed",
+      "feed_url": "https://katiehonan.substack.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York",
+        "local news",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:maximumnewyork.com:Maximum New York",
+      "cleaned_title": "Maximum New York",
+      "summary": "This blog emphasizes the ongoing developments in New York City, advocating for progressive reforms in housing and governance, tackling the challenges of urban living in a changing landscape.",
+      "title": "Maximum New York",
+      "kind": "feed",
+      "feed_url": "https://www.maximumnewyork.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "housing crisis",
+        "urban development",
+        "NYC news"
+      ]
+    },
+    {
+      "id": "feed:ryanmandelbirder.substack.com:eyy i'm walkin here",
+      "cleaned_title": "eyy i'm walkin here",
+      "summary": "This newsletter offers a unique blend of nature and urban living, with a particular focus on NYC's avian life, contemplating environmental issues interwoven with city life.",
+      "title": "eyy i'm walkin here",
+      "kind": "feed",
+      "feed_url": "https://ryanmandelbirder.substack.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "nature",
+        "birds",
+        "New York City"
+      ]
+    },
+    {
+      "id": "feed:thethornnyc.substack.com:The NYC Thorn ",
+      "cleaned_title": "The NYC Thorn",
+      "summary": "A grassroots publication from members of NYC-DSA that provides a weekly summary of political happenings and local governance issues, aiming to raise awareness among New Yorkers.",
+      "title": "The NYC Thorn ",
+      "kind": "feed",
+      "feed_url": "https://thethornnyc.substack.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "local governance",
+        "NYC news"
+      ]
+    },
+    {
+      "id": "curated:gothamist",
+      "title": "Gothamist",
+      "kind": "feed",
+      "sources": [
+        "curated"
+      ],
+      "summary": "Local news and culture from New York City.",
+      "feed_url": "https://gothamist.com/feed",
+      "cleaned_title": "Gothamist",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cities",
+        "Activism",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "local news",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:http://www.wnyc.org/feeds/channels/wnyc-news",
+      "title": "WNYC News",
+      "kind": "feed",
+      "feed_url": "http://www.wnyc.org/feeds/channels/wnyc-news",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "WNYC News",
+      "cleaned_author": null,
+      "summary": "A reliable source for local and national news, WNYC covers a range of topics including politics, culture, and community events in New York City.",
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "New York",
+        "politics",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:https://hellgatenyc.com/all-posts/rss/",
+      "title": "Hell Gate \u2013 hellgatenyc.com",
+      "kind": "feed",
+      "feed_url": "https://hellgatenyc.com/all-posts/rss/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Hell Gate",
+      "cleaned_author": null,
+      "summary": "A unique, worker-owned news platform dedicated to in-depth reporting on New York City, tackling local issues with a fresh perspective.",
+      "tags": [
+        "Local",
+        "NYC",
+        "_alternative"
+      ],
+      "language": "en",
+      "keywords": [
+        "local news",
+        "New York City",
+        "community issues",
+        "independent journalism"
+      ]
+    }
+  ],
+  "child_categories": []
+}

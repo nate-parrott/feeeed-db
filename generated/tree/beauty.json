@@ -1,0 +1,447 @@
+{
+  "id": "beauty",
+  "display_name": "Beauty",
+  "feeds": [
+    {
+      "id": "substack:top:big_salad_-_joanna_goddard",
+      "title": "Big Salad - Joanna Goddard",
+      "cleaned_title": "Big Salad",
+      "summary": "A lifestyle newsletter offering life advice, fashion suggestions, and personal anecdotes. It combines practical tips with thoughtful reflections on dating and social interactions.",
+      "kind": "feed",
+      "feed_url": "https://joannagoddard.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fashionandbeauty",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Fashion",
+        "Beauty"
+      ],
+      "cleaned_author": "Joanna Goddard",
+      "language": "en",
+      "keywords": [
+        "life advice",
+        "dating gossip",
+        "fashion trends"
+      ]
+    },
+    {
+      "id": "substack:top:catching_up_-_mally_k._goldman",
+      "title": "Catching Up - MALLY K. GOLDMAN",
+      "cleaned_title": "Catching Up",
+      "summary": "A newsletter focused on fashion, lifestyle updates, and personal interests explained through relatable experiences and recommendations, from the latest TV shows to beauty products.",
+      "kind": "feed",
+      "feed_url": "https://mallykgoldman.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fashionandbeauty",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Fashion",
+        "Beauty"
+      ],
+      "cleaned_author": "MALLY K. GOLDMAN",
+      "language": "en",
+      "keywords": [
+        "lifestyle",
+        "fashion deals",
+        "personal updates"
+      ]
+    },
+    {
+      "id": "feed:intothegloss.com:Into The Gloss - Beauty Tips, Trends, And Product Reviews",
+      "cleaned_title": "Into The Gloss",
+      "summary": "A beauty website that features interviews, product recommendations, and beauty tips from industry insiders.",
+      "title": "Into The Gloss - Beauty Tips, Trends, And Product Reviews",
+      "kind": "feed",
+      "feed_url": "http://intothegloss.com/feed/",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "beauty tips",
+        "makeup tutorials",
+        "product reviews"
+      ]
+    },
+    {
+      "id": "youtube:Lisa Eldridge",
+      "cleaned_title": "Lisa Eldridge",
+      "summary": "A renowned makeup artist with a YouTube channel that offers tutorials, product reviews, and beauty tips.",
+      "title": "Lisa Eldridge",
+      "kind": "youtube",
+      "channel_id": "UCFghPtzFcmyDiID1ASMA4Dg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqO1nS-Eg4051MafB63-ce7JgC6FhWS0-sEo1Eml_yQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Lisa Eldridge",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "makeup tutorials",
+        "beauty tips",
+        "product reviews"
+      ]
+    },
+    {
+      "id": "youtube:Gothamista",
+      "cleaned_title": "Gothamista",
+      "summary": "A YouTube channel dedicated to skincare, featuring product reviews, ingredient breakdowns, and skincare routines.",
+      "title": "Gothamista",
+      "kind": "youtube",
+      "channel_id": "UC-X4BAoKxwGYIKrKfqk7yug",
+      "thumbnail_url": "https://yt3.ggpht.com/UdUHfsz_oZaas0Q1mzyY4pm8Uh0uGaHYbciHWgMotHu50DpxnQIsvoam9rrAx93x0ivcD-Hwbw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "skincare",
+        "product reviews",
+        "routine tips"
+      ]
+    },
+    {
+      "id": "reddit:SkincareAddiction",
+      "cleaned_title": "SkincareAddiction",
+      "summary": "A subreddit dedicated to skincare enthusiasts, where you can find discussions, product recommendations, and skincare routines.",
+      "title": "SkincareAddiction",
+      "kind": "reddit",
+      "subreddit": "SkincareAddiction",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "skincare",
+        "product discussions",
+        "community advice"
+      ]
+    },
+    {
+      "id": "reddit:MakeupAddiction",
+      "cleaned_title": "MakeupAddiction",
+      "summary": "A subreddit for makeup lovers, featuring makeup looks, product recommendations, and discussions about all things makeup.",
+      "title": "MakeupAddiction",
+      "kind": "reddit",
+      "subreddit": "MakeupAddiction",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "makeup",
+        "community",
+        "beauty tips"
+      ]
+    },
+    {
+      "id": "youtube:Josie",
+      "cleaned_title": "Josie",
+      "summary": "A YouTube channel hosted by Josie, sharing fashion hauls, styling tips, and luxury shopping experiences.",
+      "title": "Josie",
+      "kind": "youtube",
+      "channel_id": "UCCmfa729dnJCi_bK7fSNbpw",
+      "thumbnail_url": "https://yt3.ggpht.com/ux_M5mM_vZOYn6UKxgERv-oROXFiqfyes20PaE3jEkrr6ClXCN5Ad1r9BABW-VYaGZtRKkbcDA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion hauls",
+        "styling tips",
+        "luxury shopping"
+      ]
+    },
+    {
+      "id": "youtube:Lydia Elise Millen",
+      "cleaned_title": "Lydia Elise Millen",
+      "summary": "A lifestyle and fashion YouTuber known for her luxury fashion hauls, vlogs, and style inspiration.",
+      "title": "Lydia Elise Millen",
+      "kind": "youtube",
+      "channel_id": "UCoSjnRDZSFVp88NXE7MenLQ",
+      "thumbnail_url": "https://yt3.ggpht.com/Os26y9_2onv28BwhrydVC5Cs9Wz-h0PrtE3BD2Kjnu_OqEMAfwlcc7mZ1nRa_0PpzQBZSjqEN4o=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Lydia Elise Millen",
+      "tags": [
+        "Living",
+        "Fashion",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "lifestyle vlogs",
+        "luxury fashion",
+        "home decor"
+      ]
+    },
+    {
+      "id": "reddit:femalefashionadvice",
+      "cleaned_title": "femalefashionadvice",
+      "summary": "A subreddit for women's fashion advice, discussions, and inspiration.",
+      "title": "femalefashionadvice",
+      "kind": "reddit",
+      "subreddit": "femalefashionadvice",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Fashion",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "women's fashion",
+        "fashion advice",
+        "community discussions"
+      ]
+    },
+    {
+      "id": "feed:https://girlbehindglasses.wordpress.com/feed/",
+      "title": "Girl Behind the Glassese",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://girlbehindglasses.wordpress.com/feed/",
+      "summary": "Beauty, skincare and makeup.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Girl Behind the Glassese",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "beauty",
+        "skincare",
+        "makeup"
+      ]
+    },
+    {
+      "id": "feed:https://labmuffin.com/feed/",
+      "title": "Lab Muffin Beauty Science",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://labmuffin.com/feed/",
+      "summary": "The science behind beauty and cosmetic products, explained in an easy-to-understand way by a PhD scientist and science educator.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Lab Muffin Beauty Science",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Beauty",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "beauty science",
+        "cosmetics",
+        "research"
+      ]
+    },
+    {
+      "id": "feed:https://theapiarist.org/rss/",
+      "title": "The Apiarist - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theapiarist.org/rss/",
+      "summary": "Weekly posts on the science and practice of beekeeping. Bees, honey, swarms, bad backs, stings and just about everything else as well.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "The Apiarist - Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Beauty",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "beekeeping",
+        "sustainability",
+        "honey"
+      ]
+    },
+    {
+      "id": "feed:https://theblacknarcissus.com/feed/",
+      "title": "The Black Narcissus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theblacknarcissus.com/feed/",
+      "summary": "perfume obsession and the scented skin.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "The Black Narcissus",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "perfume reviews",
+        "fragrance",
+        "scent exploration"
+      ]
+    },
+    {
+      "id": "feed:https://boisdejasmin.com/feed",
+      "title": "Bois de Jasmin",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://boisdejasmin.com/feed",
+      "summary": "A primer on sensory pursuits spanning perfume, literature, art, science, history, beauty, food--everything that makes life richer and more interesting.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Bois de Jasmin",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "perfume culture",
+        "scent pairing",
+        "beauty insights"
+      ]
+    },
+    {
+      "id": "feed:https://bonkersaboutperfume.blogspot.com/feeds/posts/default",
+      "title": "Bonkers about Perfume",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bonkersaboutperfume.blogspot.com/feeds/posts/default",
+      "summary": "Random Musings Of A Born-Again Perfume Anorak - An Aldehydic Blend Of Passion And Irreverence!",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Bonkers about Perfume",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Beauty",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "perfume reviews",
+        "fragrance trends",
+        "scent musings"
+      ]
+    },
+    {
+      "id": "feed:https://undina.com/feed/",
+      "title": "Undina's Looking Glass",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://undina.com/feed/",
+      "summary": "Perfumed Reflections of Life.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Undina's Looking Glass",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "perfume",
+        "fragrance",
+        "lifestyle",
+        "scent"
+      ]
+    },
+    {
+      "id": "feed:https://ohgoodale.wordpress.com/feed/",
+      "title": "Oh Good Ale",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ohgoodale.wordpress.com/feed/",
+      "summary": "Phil's beer blog.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Oh Good Ale",
+      "cleaned_author": "Phil",
+      "tags": [
+        "Living",
+        "Drinks",
+        "Beauty",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer",
+        "brewing",
+        "musings"
+      ]
+    }
+  ],
+  "child_categories": []
+}

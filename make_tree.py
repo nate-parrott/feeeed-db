@@ -57,7 +57,7 @@ def create_category_info(category_name: str, feed_count: int, categories_data: D
 
 def main():
     # Load categories
-    categories_path = Path(os.path.dirname(__file__)) / 'raw_data' / 'categories.json'
+    categories_path = Path(os.path.dirname(__file__)) / 'categories.json'
     with open(categories_path, 'r') as f:
         categories = json.load(f)
     print(f"Loaded categories from {categories_path}")

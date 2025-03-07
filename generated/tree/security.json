@@ -1,0 +1,110 @@
+{
+  "id": "security",
+  "display_name": "Security",
+  "feeds": [
+    {
+      "title": "Pluralistic: Daily links from Cory Doctorow",
+      "popularity_score": 3.4294927536231885,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://pluralistic.net/feed/",
+      "kind": "feed",
+      "id": "feed:https://pluralistic.net/feed/",
+      "cleaned_title": "Pluralistic",
+      "cleaned_author": "Cory Doctorow",
+      "summary": "A blog that provides daily insights and links curated by Cory Doctorow, focusing on privacy, technology, and social issues without ads or tracking.",
+      "tags": [
+        "Tech",
+        "News",
+        "Internet",
+        "Security",
+        "Activism",
+        "Journalism",
+        "_intellectual",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://davidmytton.blog/feed/",
+      "title": "David Mytton",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidmytton.blog/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "David Mytton",
+      "cleaned_author": "David Mytton",
+      "summary": "Insights from a tech entrepreneur on data center energy efficiency and developer security in the evolving tech landscape.",
+      "tags": [
+        "Tech",
+        "Security",
+        "Data",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "data centers",
+        "AI workload",
+        "security",
+        "developer tools"
+      ]
+    },
+    {
+      "id": "feed:https://netwars.pelicancrossing.net/feed/",
+      "title": "net.wars",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://netwars.pelicancrossing.net/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "net.wars",
+      "cleaned_author": null,
+      "summary": "A blog that delves into the intersection of technology, privacy, and freedom, discussing current issues related to computing.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Security"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "privacy",
+        "freedom",
+        "computing"
+      ]
+    },
+    {
+      "id": "feed:rss1.smashingmagazine.com:Smashing Magazine",
+      "cleaned_title": "Smashing Magazine",
+      "summary": "An online publication that covers UX design, front-end development, and web technologies, with a focus on practical insights and techniques.",
+      "title": "Smashing Magazine",
+      "kind": "feed",
+      "feed_url": "http://rss1.smashingmagazine.com/feed/",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Security"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "development",
+        "user experience",
+        "best practices"
+      ]
+    }
+  ],
+  "child_categories": []
+}

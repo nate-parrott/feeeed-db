@@ -1,0 +1,888 @@
+{
+  "id": "apple",
+  "display_name": "Apple",
+  "feeds": [
+    {
+      "id": "feed:9to5mac.com:9to5Mac",
+      "cleaned_title": "9to5Mac",
+      "summary": "Your go-to source for exclusive Apple product scoops and software insights.",
+      "title": "9to5Mac",
+      "kind": "feed",
+      "feed_url": "http://9to5mac.com/feed/",
+      "popularity_score": 3.3016191940104984,
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "news",
+        "software"
+      ]
+    },
+    {
+      "id": "feed:macrumors.com:MacRumors",
+      "cleaned_title": "MacRumors",
+      "summary": "Up-to-the-minute Apple news, from new product launches to company updates.",
+      "title": "MacRumors",
+      "kind": "feed",
+      "feed_url": "http://www.macrumors.com/macrumors.xml",
+      "popularity_score": 21.475201078877536,
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "news",
+        "rumors",
+        "iPhone"
+      ]
+    },
+    {
+      "id": "feed:daringfireball.net:Daring Fireball",
+      "cleaned_title": "Daring Fireball",
+      "summary": "Insightful commentary and news on Apple products and software.",
+      "title": "Daring Fireball",
+      "kind": "feed",
+      "feed_url": "http://daringfireball.net/index.xml",
+      "popularity_score": 2.5327827969132315,
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": "John Gruber",
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "commentary",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:appleinsider.com:AppleInsider News",
+      "cleaned_title": "AppleInsider News",
+      "summary": "A leading source for news and insights on Apple products, providing industry analysis and product reviews that cater to Apple enthusiasts.",
+      "title": "AppleInsider News",
+      "kind": "feed",
+      "feed_url": "http://appleinsider.com/rss/news/",
+      "popularity_score": 5.421329994764529,
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple news",
+        "product reviews",
+        "tech insights"
+      ]
+    },
+    {
+      "id": "feed:cultofmac.com:Cult of Mac",
+      "cleaned_title": "Cult of Mac",
+      "summary": "A tech blog that offers in-depth coverage of Apple products, including news, rumors, reviews, and helpful how-tos.",
+      "title": "Cult of Mac",
+      "kind": "feed",
+      "feed_url": "http://www.cultofmac.com/feed/",
+      "popularity_score": 2.6351093351093344,
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple news",
+        "reviews",
+        "how-tos",
+        "iPhone",
+        "iPad"
+      ]
+    },
+    {
+      "id": "youtube:iJustine",
+      "cleaned_title": "iJustine",
+      "summary": "iJustine is a popular YouTube channel that features tech reviews, unboxings, and vlogs, with a focus on Apple products and consumer electronics.",
+      "title": "iJustine",
+      "kind": "youtube",
+      "channel_id": "UCey_c7U86mJGz1VJWH5CYPA",
+      "thumbnail_url": "https://yt3.ggpht.com/TJTGhrVOoYxtaMg5GL5GoNYkzFrmIieMA4-AeRecbstcc-rWnTcrw8Vt1Ea1t6QBx9o_CIixFP8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "iJustine",
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "tech reviews",
+        "unboxings"
+      ]
+    },
+    {
+      "id": "youtube:Jonathan Morrison",
+      "cleaned_title": "Jonathan Morrison",
+      "summary": "Jonathan Morrison is a tech YouTuber who creates high-quality videos about Apple products, including reviews, comparisons, and behind-the-scenes content.",
+      "title": "Jonathan Morrison",
+      "kind": "youtube",
+      "channel_id": "UCDlQwv99CovKafGvxyaiNDA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaT_duuE2iQPal1bFMYq0rPW60a8rCd45N0DCYgPLw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Jonathan Morrison",
+      "tags": [
+        "Tech",
+        "Apple",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple products",
+        "reviews",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:loopinsight.com:The Loop",
+      "cleaned_title": "The Loop",
+      "summary": "A source for insights and discussions on technology, specifically related to Apple and its innovations.",
+      "title": "The Loop",
+      "kind": "feed",
+      "feed_url": "http://www.loopinsight.com/feed/",
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple news",
+        "technology discussions",
+        "reviews"
+      ]
+    },
+    {
+      "id": "youtube:Snazzy Labs",
+      "cleaned_title": "Snazzy Labs",
+      "summary": "A YouTube channel that offers in-depth reviews, tutorials, and discussions about Apple products and technology.",
+      "title": "Snazzy Labs",
+      "kind": "youtube",
+      "channel_id": "UCO2x-p9gg9TLKneXlibGR7w",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaS6hmh_iPyxI4dVgFQdLVNFOINYSg6kDGsnzy7ytw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple reviews",
+        "technology tutorials",
+        "gadget discussions"
+      ]
+    },
+    {
+      "id": "youtube:Rene Ritchie",
+      "cleaned_title": "Rene Ritchie",
+      "summary": "A YouTube channel hosted by Rene Ritchie, offering insightful commentary, analysis, and interviews about Apple and its ecosystem.",
+      "title": "Rene Ritchie",
+      "kind": "youtube",
+      "channel_id": "UCLBHPoY3NugnZYURxln3fKQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaSclsgnZZt7V-hc4SV_AbfIK8a6ga-FsmajnDmaqw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Rene Ritchie",
+      "tags": [
+        "Tech",
+        "Apple",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple analysis",
+        "tech commentary",
+        "reviews"
+      ]
+    },
+    {
+      "id": "youtube:MacRumors",
+      "cleaned_title": "MacRumors",
+      "summary": "The official YouTube channel of MacRumors, featuring video reviews, news, and rumors about Apple products and services.",
+      "title": "MacRumors",
+      "kind": "youtube",
+      "channel_id": "UCaFGDBmGK_jw66u3av2Ysjw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTu4XfphD9G3n8ISF4CcB4bVaZGe42bTAwLLv8OGA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Apple",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "iOS",
+        "macOS",
+        "iPhone",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:http://feedpress.me/sixcolors",
+      "title": "Six Colors \u2013 feedpress.me",
+      "kind": "feed",
+      "feed_url": "http://feedpress.me/sixcolors",
+      "sources": [
+        "ooh_directory",
+        "curated"
+      ],
+      "summary": "Apple, technology, and other stuff by Jason Snell & Dan Moren.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Six Colors",
+      "cleaned_author": "Jason Snell & Dan Moren",
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "technology",
+        "podcasts",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:https://www.hiro.report/rss/",
+      "title": "The Hiro Report",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hiro.report/rss/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "The Hiro Report",
+      "cleaned_author": null,
+      "summary": "A lighthearted blog covering interesting tech, Apple apps, and quirky finds from the internet, curated to bring fun and practical insights.",
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "gadgets",
+        "Apple"
+      ]
+    },
+    {
+      "id": "feed:https://jcs.org/rss",
+      "title": "joshua stein",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jcs.org/rss",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "joshua stein",
+      "cleaned_author": null,
+      "summary": "A blog focused on technology with posts about hardware and software updates, specifically relating to Apple and accessories.",
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "software",
+        "hardware",
+        "accessories"
+      ]
+    },
+    {
+      "id": "feed:https://512pixels.net/feed/",
+      "title": "512 Pixels",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://512pixels.net/feed/",
+      "summary": "Covering Apple, computer history, space, design and lots of other fine nerdery.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "512 Pixels",
+      "cleaned_author": "Stephen Hackett",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Design",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "computing",
+        "technology",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://www.applemust.com/feed/",
+      "title": "Apple Must",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.applemust.com/feed/",
+      "summary": "Tips, insights and resources to help Apple's iPhone, iPad, Mac, TV, Watch and iCloud users get much more from their hardware, software and services.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Apple Must",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple tips",
+        "iPhone",
+        "iPad",
+        "Mac"
+      ]
+    },
+    {
+      "id": "feed:https://www.david-smith.org/atom.xml",
+      "title": "David Smith, Independent iOS Developer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.david-smith.org/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "David Smith, Independent iOS Developer",
+      "cleaned_author": "David Smith",
+      "summary": "A blog by independent developer David Smith, featuring insights and reflections on iOS development and the tech industry.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "iOS development",
+        "technology",
+        "software engineering"
+      ]
+    },
+    {
+      "id": "feed:https://hypercritical.co/feeds/main",
+      "title": "Hypercritical",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hypercritical.co/feeds/main",
+      "summary": "I\u2019m a software developer, podcaster, and freelance technology writer.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Hypercritical",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "software development",
+        "technology writing",
+        "podcasting"
+      ]
+    },
+    {
+      "id": "feed:https://initialcharge.net/feed/",
+      "title": "Initial Charge",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://initialcharge.net/feed/",
+      "summary": "A daily weblog written and produced by Mike Rockwell which focuses on Apple products, mobile applications, the web, and other geek-related topics.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Initial Charge",
+      "cleaned_author": "Mike Rockwell",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Mobile"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple news",
+        "mobile applications",
+        "technology commentary"
+      ]
+    },
+    {
+      "title": "MacStories",
+      "popularity_score": 8.813778175847144,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.macstories.net/feed/",
+      "kind": "feed",
+      "id": "feed:https://www.macstories.net/feed/",
+      "cleaned_title": "MacStories",
+      "cleaned_author": "Federico Viticci",
+      "summary": "MacStories provides a blend of Apple news, app reviews, and engaging narratives that keep followers informed and entertained about everything Apple-related. The blog emphasizes personal insights and in-depth analysis.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple news",
+        "app reviews",
+        "personal insights"
+      ]
+    },
+    {
+      "title": "MacStories",
+      "popularity_score": 8.813778175847144,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.macstories.net/feed/",
+      "kind": "feed",
+      "id": "feed:https://www.macstories.net/feed/",
+      "cleaned_title": "MacStories",
+      "cleaned_author": "Federico Viticci",
+      "summary": "MacStories provides a blend of Apple news, app reviews, and engaging narratives that keep followers informed and entertained about everything Apple-related. The blog emphasizes personal insights and in-depth analysis.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple news",
+        "app reviews",
+        "personal insights"
+      ]
+    },
+    {
+      "id": "feed:https://mjtsai.com/blog/feed/",
+      "title": "Michael Tsai - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mjtsai.com/blog/feed/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Michael Tsai - Blog",
+      "cleaned_author": "Michael Tsai",
+      "summary": "Michael Tsai's blog offers a deep dive into technology development, with insightful commentary and critiques associated with software, Apple, and broader industry practices.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple commentary",
+        "software development",
+        "technology critiques"
+      ]
+    },
+    {
+      "id": "feed:https://osxdaily.com/feed/",
+      "title": "OS X Daily",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://osxdaily.com/feed/",
+      "summary": "News, tips, software, reviews, and more for Mac OS X, iPhone, iPad.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "OS X Daily",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Mac tips",
+        "iOS news",
+        "software reviews"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/patentlyapple/SZdI",
+      "title": "Patently Apple",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/patentlyapple/SZdI",
+      "summary": "An Apple Inc. centric blog focused on dissecting Apple's latest Intellectual Property.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Patently Apple",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple patents",
+        "intellectual property",
+        "technology analysis"
+      ]
+    },
+    {
+      "id": "feed:https://schwarztech.net/feed",
+      "title": "SchwarzTech",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://schwarztech.net/feed",
+      "summary": "SchAn Apple-focused technology web site featuring product reviews, opinion articles, news, podcasts, and more for Mac, iPod, iPad, and iPhone users.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "SchwarzTech",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple news",
+        "product reviews",
+        "technology opinion"
+      ]
+    },
+    {
+      "id": "feed:https://shapeof.com/rss.xml",
+      "title": "The Shape of Everything",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shapeof.com/rss.xml",
+      "summary": "A website mostly about Mac stuff, written by Gus Mueller.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "The Shape of Everything",
+      "cleaned_author": "Gus Mueller",
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Mac history",
+        "software updates",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "feed:https://taoofmac.com/atom.xml",
+      "title": "Tao of Mac",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://taoofmac.com/atom.xml",
+      "summary": "Keeping Things Simple.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Tao of Mac",
+      "cleaned_author": "Rui Carmo",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "blog",
+        "Rui Carmo",
+        "Apple"
+      ]
+    },
+    {
+      "title": "ifun.de",
+      "popularity_score": 9.44239417989418,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.ifun.de/feed/",
+      "kind": "feed",
+      "id": "feed:http://www.ifun.de/feed/",
+      "cleaned_title": "ifun.de",
+      "cleaned_author": null,
+      "summary": "A dedicated source for Apple news since 2001, covering the latest updates on hardware, software, and accessories for Apple products with practical tips and industry insights.",
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "de",
+      "keywords": [
+        "Apple news",
+        "Bluetooth",
+        "iCloud",
+        "macOS"
+      ]
+    },
+    {
+      "title": "Basic Apple Guy",
+      "popularity_score": 5.163290043290043,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://basicappleguy.com/basicappleblog?format=rss",
+      "kind": "feed",
+      "id": "feed:https://basicappleguy.com/basicappleblog?format=rss",
+      "cleaned_title": "Basic Apple Guy",
+      "cleaned_author": null,
+      "summary": "A blog that dives into everything Apple-related, from hardware to creative tips, offering a blend of personal insights and practical advice for Apple enthusiasts.",
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "reviews",
+        "personal insights"
+      ]
+    },
+    {
+      "title": "appgefahren.de",
+      "popularity_score": 5.142857142857142,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.feedburner.com/appgefahren",
+      "kind": "feed",
+      "id": "feed:http://feeds.feedburner.com/appgefahren",
+      "cleaned_title": "appgefahren",
+      "cleaned_author": null,
+      "summary": "A blog focusing on Apple devices, offering insights and reviews on iPhones, iPads, and Macs with a particular emphasis on current deals and technology updates.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Gadgets",
+        "Coding"
+      ],
+      "language": "de",
+      "keywords": [
+        "iPhone",
+        "iPad",
+        "Mac",
+        "tech reviews",
+        "Apple news"
+      ]
+    },
+    {
+      "title": "r/apple",
+      "popularity_score": 4.33452380952381,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "apple",
+      "kind": "reddit",
+      "id": "reddit:apple",
+      "cleaned_title": "r/apple",
+      "cleaned_author": null,
+      "summary": "An unofficial community centered around Apple where enthusiasts discuss devices, software updates, and share advice.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Internet",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "community",
+        "devices",
+        "advice"
+      ]
+    },
+    {
+      "title": "Applesfera \u2013 weblogssl.com",
+      "popularity_score": 4.20952380952381,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.weblogssl.com/applesfera",
+      "kind": "feed",
+      "id": "feed:http://feeds.weblogssl.com/applesfera",
+      "cleaned_title": "Applesfera",
+      "cleaned_author": null,
+      "summary": "A resourceful blog covering the Apple ecosystem, featuring news, analyses, offers, tutorials, and opinions on various Apple products.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Gadgets"
+      ],
+      "language": "es",
+      "keywords": [
+        "Apple products",
+        "news",
+        "tutorials",
+        "offers"
+      ]
+    },
+    {
+      "title": "iphone-ticker.de",
+      "popularity_score": 2.7069444444444444,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.iphone-ticker.de/feed/",
+      "kind": "feed",
+      "id": "feed:http://www.iphone-ticker.de/feed/",
+      "cleaned_title": "iphone-ticker.de",
+      "cleaned_author": null,
+      "summary": "A source of news and updates focused specifically on iPhone developments and the Apple ecosystem.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Gadgets"
+      ],
+      "language": "de",
+      "keywords": [
+        "iPhone",
+        "Apple news",
+        "technology"
+      ]
+    },
+    {
+      "title": "Apple Newsroom",
+      "popularity_score": 2.2916666666666665,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "kind": "feed",
+      "id": "feed:https://www.apple.com/newsroom/rss-feed.rss",
+      "cleaned_title": "Apple Newsroom",
+      "cleaned_author": null,
+      "summary": "The official source for news from Apple, featuring updates on products, innovations, and corporate announcements.",
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "News+",
+        "investment",
+        "technology"
+      ]
+    },
+    {
+      "title": "iPhones.ru \u2014 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0432\u044b\u0441\u043e\u043a\u0438\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439, \u043e\u0431\u0437\u043e\u0440\u044b \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u0432, \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 Apple",
+      "popularity_score": 2.2857142857142856,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.iphones.ru/feed/",
+      "kind": "feed",
+      "id": "feed:http://www.iphones.ru/feed/",
+      "cleaned_title": "iPhones.ru",
+      "cleaned_author": null,
+      "summary": "A Russian site dedicated to the latest in technology news, smartphone reviews, and Apple product presentations.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Mobile"
+      ],
+      "language": "ru",
+      "keywords": [
+        "smartphones",
+        "technology",
+        "reviews",
+        "Apple"
+      ]
+    },
+    {
+      "title": "MacMagazine",
+      "popularity_score": 2.017857142857143,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://macmagazine.com.br/feed/",
+      "kind": "feed",
+      "id": "feed:http://macmagazine.com.br/feed/",
+      "cleaned_title": "MacMagazine",
+      "cleaned_author": null,
+      "summary": "A dedicated source for the latest Apple news, updates, and reviews, focusing particularly on software and hardware developments.",
+      "tags": [
+        "Tech",
+        "Apple"
+      ],
+      "language": "pt",
+      "keywords": [
+        "Apple News",
+        "Mac Software",
+        "Technology Updates"
+      ]
+    }
+  ],
+  "child_categories": []
+}

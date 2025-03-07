@@ -1,0 +1,3567 @@
+{
+  "id": "local",
+  "display_name": "Local",
+  "feeds": [
+    {
+      "title": "r/formula1",
+      "popularity_score": 2.681647116324536,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "formula1",
+      "kind": "reddit",
+      "id": "reddit:formula1",
+      "cleaned_title": "r/formula1",
+      "cleaned_author": null,
+      "summary": "An independent subreddit celebrating the thrill of Formula 1 racing, where fans engage in discussions, predictions, and share insights about the sport.",
+      "tags": [
+        "Local"
+      ],
+      "language": "en",
+      "keywords": [
+        "Formula 1",
+        "F1 discussions",
+        "racing community"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Eater - New York",
+      "cleaned_title": "Eater",
+      "summary": "A blog offering insights into New York City's vibrant restaurant and nightlife scene. Readers can discover the latest openings and notable culinary highlights.",
+      "title": "Eater - New York",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/eater/nyc",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.7595419669077423,
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Restaurants",
+        "Cities",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "restaurants",
+        "New York",
+        "nightlife",
+        "food"
+      ]
+    },
+    {
+      "id": "reddit:Europe",
+      "cleaned_title": "Europe",
+      "summary": "A subreddit dedicated to discussions about Europe, covering a range of topics including current events, politics, and culture across the continent.",
+      "title": "Europe",
+      "kind": "reddit",
+      "subreddit": "Europe",
+      "details": "Original category: Local -> Europe",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Europe"
+      ],
+      "language": "en",
+      "keywords": [
+        "Europe",
+        "politics",
+        "current events",
+        "Ukraine",
+        "community discussions"
+      ]
+    },
+    {
+      "id": "feed:hobbyconsolas.com:Hobby Consolas Espa\u00f1a",
+      "cleaned_title": "Hobby Consolas Espa\u00f1a",
+      "summary": "A popular source among Spanish-speaking audiences for gaming news, trailers, and entertainment updates across various platforms.",
+      "title": "Hobby Consolas Espa\u00f1a",
+      "kind": "feed",
+      "feed_url": "http://www.hobbyconsolas.com/rss",
+      "details": "Original category: Hobbies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Gaming"
+      ],
+      "language": "es",
+      "keywords": [
+        "gaming news",
+        "trailers",
+        "Netflix",
+        "entertainment",
+        "series"
+      ]
+    },
+    {
+      "id": "reddit:education",
+      "cleaned_title": "education",
+      "summary": "A subreddit for discussions and news related to education, including teaching methods, educational policy, and student experiences.",
+      "title": "education",
+      "kind": "reddit",
+      "subreddit": "education",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education discussions",
+        "policy",
+        "teaching methods"
+      ]
+    },
+    {
+      "id": "feed:sports.espn.go.com:www.espn.com - TOP",
+      "cleaned_title": "ESPN Top",
+      "summary": "A popular sports news website that covers a wide range of sports including football, basketball, baseball, soccer, and more.",
+      "title": "www.espn.com - TOP",
+      "kind": "feed",
+      "feed_url": "http://sports.espn.go.com/espn/rss/news",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports news",
+        "analysis",
+        "highlights"
+      ]
+    },
+    {
+      "id": "reddit:sports",
+      "cleaned_title": "sports",
+      "summary": "A subreddit dedicated to all things sports, where users can discuss and share news, highlights, and opinions about various sports and leagues.",
+      "title": "sports",
+      "kind": "reddit",
+      "subreddit": "sports",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Hip-Hop"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports discussion",
+        "highlights",
+        "OP-ED"
+      ]
+    },
+    {
+      "id": "reddit:nba",
+      "cleaned_title": "NBA",
+      "summary": "A subreddit for NBA fans to discuss news, games, players, and everything related to basketball.",
+      "title": "nba",
+      "kind": "reddit",
+      "subreddit": "nba",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA discussion",
+        "game analysis"
+      ]
+    },
+    {
+      "id": "feed:mlb.com:MLB News",
+      "cleaned_title": "MLB News",
+      "summary": "The official website of Major League Baseball (MLB), providing news, scores, stats, and highlights from the world of baseball.",
+      "title": "MLB News",
+      "kind": "feed",
+      "feed_url": "https://www.mlb.com/feeds/news/rss.xml",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "MLB news",
+        "baseball stats",
+        "scores"
+      ]
+    },
+    {
+      "id": "feed:theathletic.com:Latest Headlines \u2013 The Athletic",
+      "cleaned_title": "Latest Headlines \u2013 The Athletic",
+      "summary": "A sports news outlet known for its comprehensive coverage of various sports, providing breaking news, player insights, and detailed layers of analysis.",
+      "title": "Latest Headlines \u2013 The Athletic",
+      "kind": "feed",
+      "feed_url": "https://theathletic.com/feeds/rss/news/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "The Athletic",
+        "sports coverage",
+        "breaking news"
+      ]
+    },
+    {
+      "id": "feed:thegistsports.com:The GIST RSS Feed (Sports News)",
+      "cleaned_title": "The GIST RSS Feed",
+      "summary": "A source focused on providing news about women's sports and significant achievements within the athletic community, highlighting pivotal stories and changing narratives.",
+      "title": "The GIST RSS Feed (Sports News)",
+      "kind": "feed",
+      "feed_url": "https://www.thegistsports.com/rss.xml",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "LGBTQ",
+        "Soccer",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "women's sports",
+        "advocacy",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:thesportsletter.com:The Sportsletter",
+      "cleaned_title": "The Sportsletter",
+      "summary": "A curated newsletter offering updates on key sports events, analyses, and future matchups, perfect for fans looking to stay informed and engaged.",
+      "title": "The Sportsletter",
+      "kind": "feed",
+      "feed_url": "https://www.thesportsletter.com/feed/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Basketball",
+        "Football"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports updates",
+        "event analysis",
+        "fan engagement"
+      ]
+    },
+    {
+      "id": "feed:ziller.substack.com:Good Morning It's Basketball",
+      "cleaned_title": "Good Morning It's Basketball",
+      "summary": "A thoughtful exploration of NBA highs and lows, with commentary that ranges from the profound to the whimsical, delivered three times a week.",
+      "title": "Good Morning It's Basketball",
+      "kind": "feed",
+      "feed_url": "https://ziller.substack.com/feed",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "basketball",
+        "sports commentary"
+      ]
+    },
+    {
+      "id": "feed:blog.nextdoor.com:Nextdoor Blog",
+      "cleaned_title": "Nextdoor Blog",
+      "summary": "Nextdoor is a social networking platform for local communities, and their blog provides updates, tips, and stories related to local neighborhoods.",
+      "title": "Nextdoor Blog",
+      "kind": "feed",
+      "feed_url": "http://blog.nextdoor.com/feed/",
+      "details": "Original category: Local",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "community stories",
+        "neighborhood news",
+        "local issues"
+      ]
+    },
+    {
+      "id": "youtube:City Beautiful",
+      "cleaned_title": "City Beautiful",
+      "summary": "City Beautiful is a YouTube channel that explores the architecture, history, and urban planning of cities around the world, offering a unique perspective on local communities.",
+      "title": "City Beautiful",
+      "kind": "youtube",
+      "channel_id": "UCGc8ZVCsrR3dAuhvUbkbToQ",
+      "thumbnail_url": "https://yt3.ggpht.com/JshyTw7u7FcPmyxIfkejvS7HKW-UkcmUBvPmkqWeES6EhxAzI1pzIVMmbIHFeEojLZN81tYXbA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Urban",
+        "Architecture"
+      ],
+      "language": "en",
+      "keywords": [
+        "urban planning",
+        "architecture",
+        "city life",
+        "local communities"
+      ]
+    },
+    {
+      "id": "feed:localmedia.org:Local Media Association + Local Media Foundation",
+      "cleaned_title": "Local Media Association + Local Media Foundation",
+      "summary": "The Local News Association is an organization that supports and promotes local journalism, providing resources and insights for local news outlets.",
+      "title": "Local Media Association + Local Media Foundation",
+      "kind": "feed",
+      "feed_url": "https://www.localmedia.org/feed/",
+      "details": "Original category: Local",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Journalism",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "local journalism",
+        "media support",
+        "community engagement"
+      ]
+    },
+    {
+      "id": "youtube:Localish",
+      "cleaned_title": "Localish",
+      "summary": "Localish is a YouTube channel that showcases heartwarming and inspiring stories from local communities, highlighting the people, places, and events that make them unique.",
+      "title": "Localish",
+      "kind": "youtube",
+      "channel_id": "UCTyC11PsbR-CMXSG9M1na1g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQoejwmDCZA1OVCRIYQBH_EW47mgUmqnS60ZuI9=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Activism",
+        "Soccer"
+      ],
+      "language": "en",
+      "keywords": [
+        "community stories",
+        "inspiring locals",
+        "cultural diversity"
+      ]
+    },
+    {
+      "id": "feed:minnesota.publicradio.org:Homepage - MPR News",
+      "cleaned_title": "MPR News",
+      "summary": "A regional news outlet presenting a range of local stories, from community events to public affairs, focusing on Minnesota and the surrounding areas.",
+      "title": "Homepage - MPR News",
+      "kind": "feed",
+      "feed_url": "http://minnesota.publicradio.org/tools/rss/mprnews.php",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Minnesota",
+        "community news",
+        "public affairs",
+        "local events"
+      ]
+    },
+    {
+      "id": "reddit:Autos",
+      "cleaned_title": "Autos",
+      "summary": "A subreddit for car enthusiasts to discuss cars, share pictures, and engage in automotive-related discussions.",
+      "title": "Autos",
+      "kind": "reddit",
+      "subreddit": "Autos",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cars",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "automotive discussions",
+        "community",
+        "cars"
+      ]
+    },
+    {
+      "id": "reddit:pcgaming",
+      "cleaned_title": "pcgaming",
+      "summary": "r/pcgaming is a subreddit dedicated to PC gaming, where users discuss hardware, games, and share tips and tricks.",
+      "title": "pcgaming",
+      "kind": "reddit",
+      "subreddit": "pcgaming",
+      "details": "Original category: Entertainment -> Gaming",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Local",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "PC gaming",
+        "discussions",
+        "hardware",
+        "tips"
+      ]
+    },
+    {
+      "id": "reddit:Fishing",
+      "cleaned_title": "Fishing",
+      "summary": "A subreddit for all things fishing, where you can find discussions, photos, and tips from fellow anglers.",
+      "title": "Fishing",
+      "kind": "reddit",
+      "subreddit": "Fishing",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "fishing stories",
+        "angler tips",
+        "fishing discussions"
+      ]
+    },
+    {
+      "id": "youtube:EdSource",
+      "cleaned_title": "EdSource",
+      "summary": "A YouTube channel that covers education policy and issues in California, providing videos on news, analysis, and interviews with experts in the field.",
+      "title": "EdSource",
+      "kind": "youtube",
+      "channel_id": "UC9xCeMuB9TmzrPxWzoBOMfw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOcNbZuKMCjLxKPFsra9x665RdsYzL3g74SFahLcw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "California education",
+        "YouTube news",
+        "education policy"
+      ]
+    },
+    {
+      "id": "reddit:Economics",
+      "cleaned_title": "Economics",
+      "summary": "A subreddit dedicated to the study and discussion of economics, featuring news, articles, and academic papers.",
+      "title": "Economics",
+      "kind": "reddit",
+      "subreddit": "Economics",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Finance",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic discussions",
+        "educational resources",
+        "forums"
+      ]
+    },
+    {
+      "id": "reddit:AskEconomics",
+      "cleaned_title": "AskEconomics",
+      "summary": "A subreddit where users can ask questions and engage in discussions about economics, economic theory, and related topics.",
+      "title": "AskEconomics",
+      "kind": "reddit",
+      "subreddit": "AskEconomics",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic questions",
+        "policy discussions",
+        "theory exploration"
+      ]
+    },
+    {
+      "id": "feed:realtor.com:Real Estate News & Insights | realtor.com\u00ae News | Real Estate News & Insights | realtor.com\u00ae",
+      "cleaned_title": "Real Estate News & Insights",
+      "summary": "Realtor.com is another well-known real estate website that offers listings, home buying tips, and market trends.",
+      "title": "Real Estate News & Insights | realtor.com\u00ae News | Real Estate News & Insights | realtor.com\u00ae",
+      "kind": "feed",
+      "feed_url": "http://www.realtor.com/news/feed/",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "market trends",
+        "buying",
+        "selling"
+      ]
+    },
+    {
+      "id": "reddit:RealEstate",
+      "cleaned_title": "RealEstate",
+      "summary": "A subreddit dedicated to discussions, news, and advice related to real estate.",
+      "title": "RealEstate",
+      "kind": "reddit",
+      "subreddit": "RealEstate",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "landlords",
+        "mortgages",
+        "buying a house"
+      ]
+    },
+    {
+      "id": "feed:feeds2.feedburner.com:Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "cleaned_title": "Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "summary": "Redfin is a real estate brokerage that provides listings, home buying tools, and agent services.",
+      "title": "Redfin | Real Estate Tips for Home Buying, Selling & More",
+      "kind": "feed",
+      "feed_url": "http://feeds2.feedburner.com/redfin_corporate?format=xml",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "home buying",
+        "brokerage",
+        "market insights"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Inman",
+      "cleaned_title": "Inman",
+      "summary": "Inman is a real estate news and information website that covers industry trends, technology, and market insights.",
+      "title": "Inman",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/inmannews",
+      "details": "Original category: Business -> Real Estate",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Local",
+        "Real Estate",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "real estate",
+        "market trends",
+        "broker news"
+      ]
+    },
+    {
+      "id": "reddit:soccer",
+      "cleaned_title": "soccer",
+      "summary": "A subreddit for soccer fans to discuss matches, news, and everything related to the beautiful game.",
+      "title": "soccer",
+      "kind": "reddit",
+      "subreddit": "soccer",
+      "details": "Original category: Sports -> Football",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Football",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "soccer news",
+        "match discussions",
+        "football community"
+      ]
+    },
+    {
+      "id": "reddit:baseball",
+      "cleaned_title": "baseball",
+      "summary": "A subreddit dedicated to baseball, where fans can discuss the latest news, share opinions, and engage in game threads.",
+      "title": "baseball",
+      "kind": "reddit",
+      "subreddit": "baseball",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Sports",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball",
+        "MLB",
+        "discussions",
+        "fan community",
+        "game threads"
+      ]
+    },
+    {
+      "id": "reddit:Homeplate",
+      "cleaned_title": "Homeplate",
+      "summary": "A subreddit focused on the technical aspects of baseball, including pitching, hitting, fielding, and coaching strategies.",
+      "title": "Homeplate",
+      "kind": "reddit",
+      "subreddit": "Homeplate",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Baseball",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "pitching mechanics",
+        "community",
+        "discussions"
+      ]
+    },
+    {
+      "id": "reddit:Asia",
+      "cleaned_title": "Asia",
+      "summary": "A subreddit for discussions and news about Asia, covering a wide range of topics including politics, culture, and travel.",
+      "title": "Asia",
+      "kind": "reddit",
+      "subreddit": "Asia",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Asia",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "discussions",
+        "culture",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:scmp.com:Hong Kong - South China Morning Post",
+      "cleaned_title": "South China Morning Post",
+      "summary": "South China Morning Post is a Hong Kong-based newspaper that covers news and analysis on Hong Kong, China, and the rest of Asia.",
+      "title": "Hong Kong - South China Morning Post",
+      "kind": "feed",
+      "feed_url": "http://www.scmp.com/rss/hong_kong.xml",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Asia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hong Kong",
+        "China",
+        "news",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Japan Times: All Stories",
+      "cleaned_title": "The Japan Times",
+      "summary": "Japan Times is an English-language newspaper that provides news and insights on Japan and Asia.",
+      "title": "The Japan Times: All Stories",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/japantimes",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Asia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japan",
+        "news",
+        "sports",
+        "features"
+      ]
+    },
+    {
+      "id": "reddit:JapanTravel",
+      "cleaned_title": "JapanTravel",
+      "summary": "A subreddit dedicated to travel in Japan, with tips, recommendations, and discussions about visiting different regions in the country.",
+      "title": "JapanTravel",
+      "kind": "reddit",
+      "subreddit": "JapanTravel",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Asia",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "Japan",
+        "tourism",
+        "tips"
+      ]
+    },
+    {
+      "id": "youtube:ABC News (Australia)",
+      "cleaned_title": "ABC News (Australia)",
+      "summary": "The official YouTube channel of the Australian Broadcasting Corporation (ABC) News, delivering the latest news and analysis from across Australia.",
+      "title": "ABC News (Australia)",
+      "kind": "youtube",
+      "channel_id": "UCVgO39Bk5sMo66-6o6Spn6Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM7NZfeKN0CUY5GmqT4fqzLd0CDSHB7SoIt9-6pPQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Australia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Australia",
+        "news",
+        "current affairs"
+      ]
+    },
+    {
+      "id": "reddit:australia",
+      "cleaned_title": "australia",
+      "summary": "A subreddit for discussions and news about Australia, covering a wide range of topics including politics, culture, and local events.",
+      "title": "australia",
+      "kind": "reddit",
+      "subreddit": "australia",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "Australia",
+        "discussion",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:news.google.com:\"guardian australia\" - Google News",
+      "cleaned_title": "guardian australia",
+      "summary": "The Australian edition of The Guardian, offering independent journalism and analysis on local and global issues.",
+      "title": "\"guardian australia\" - Google News",
+      "kind": "feed",
+      "feed_url": "http://news.google.com/news?hl=en&gl=us&q=guardian%20australia&um=1&ie=UTF-8&output=rss",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Australia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "australia",
+        "current affairs",
+        "analysis"
+      ]
+    },
+    {
+      "id": "youtube:7NEWS Australia",
+      "cleaned_title": "7NEWS Australia",
+      "summary": "The official YouTube channel of 7NEWS Australia, providing breaking news, current affairs, and investigative reports from across the country.",
+      "title": "7NEWS Australia",
+      "kind": "youtube",
+      "channel_id": "UC5T7D-Dh1eDGtsAFCuwv_Sw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM7UYtCFHjUVhxwjJfEhSh4aCkqIGPRT0TaZ6tV8w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "breaking news",
+        "current affairs",
+        "investigative reports"
+      ]
+    },
+    {
+      "id": "youtube:Sky News Australia",
+      "cleaned_title": "Sky News Australia",
+      "summary": "Australia's 24-hour news channel delivering live news coverage, analysis, and commentary on local and international events.",
+      "title": "Sky News Australia",
+      "kind": "youtube",
+      "channel_id": "UCO0akufu9MOzyz3nvGIXAAw",
+      "thumbnail_url": "https://yt3.ggpht.com/Q-ry-JNiIiQtu7V8C3PdBFyOI-i4_bR_v8jpnkvKSAlgrLaZa40Zu1TQyfGVCGm9-49JxlOjng=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "live news",
+        "analysis",
+        "commentary"
+      ]
+    },
+    {
+      "id": "reddit:sydney",
+      "cleaned_title": "sydney",
+      "summary": "A subreddit dedicated to the city of Sydney, where locals and visitors can discuss news, events, and everything related to the city.",
+      "title": "sydney",
+      "kind": "reddit",
+      "subreddit": "sydney",
+      "details": "Original category: Local -> Australia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Australia"
+      ],
+      "language": "en",
+      "keywords": [
+        "Sydney",
+        "discussion",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:africanews.com:Africanews RSS",
+      "cleaned_title": "Africanews RSS",
+      "summary": "Africanews is a pan-African news outlet that covers news and current affairs from across the African continent.",
+      "title": "Africanews RSS",
+      "kind": "feed",
+      "feed_url": "http://www.africanews.com/feed/rss?themes=news",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "pan-African news",
+        "current affairs",
+        "international news"
+      ]
+    },
+    {
+      "id": "youtube:DW The 77 Percent",
+      "cleaned_title": "DW The 77 Percent",
+      "summary": "DW Africa is the YouTube channel of Deutsche Welle, a German international broadcaster. They provide news and documentaries about Africa, covering a wide range of topics.",
+      "title": "DW The 77 Percent",
+      "kind": "youtube",
+      "channel_id": "UCNtUXiCqH6nUTFeTW4qLpqw",
+      "thumbnail_url": "https://yt3.ggpht.com/Da5g860nwckFAT04f4O8oSWNv1fP71d5Iga5Qfc5zYPcFfFdRVcPgRcWzCw77-ql91gvoT6v7Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "youth issues",
+        "Africa",
+        "social challenges"
+      ]
+    },
+    {
+      "id": "feed:allafrica.com:AllAfrica News: Latest",
+      "cleaned_title": "AllAfrica News: Latest",
+      "summary": "AllAfrica is a news website that aggregates news and information from various sources across Africa. It covers a wide range of topics, including politics, business, and sports.",
+      "title": "AllAfrica News: Latest",
+      "kind": "feed",
+      "feed_url": "http://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "aggregated news",
+        "politics",
+        "business",
+        "sports"
+      ]
+    },
+    {
+      "id": "youtube:CGTN Africa",
+      "cleaned_title": "CGTN Africa",
+      "summary": "CGTN Africa is the YouTube channel of China Global Television Network. They provide news and features about Africa, with a focus on China-Africa relations and development.",
+      "title": "CGTN Africa",
+      "kind": "youtube",
+      "channel_id": "UCMeYPU1YfXjxsUa6QXWsfjg",
+      "thumbnail_url": "https://yt3.ggpht.com/HKqZu2XDiAK1EMUwmwgpuDynb63jK3e0B6SC1_tmLXzCvyMmgVSY7OCAh6iDnAHIlnqADy10Jvw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "China-Africa relations",
+        "development news",
+        "Africa"
+      ]
+    },
+    {
+      "id": "feed:un.org:Africa Renewal - African News and Analysis from the United Nations",
+      "cleaned_title": "Africa Renewal - African News and Analysis from the United Nations",
+      "summary": "Africa Renewal is a publication of the United Nations that provides news, analysis, and features on various topics related to Africa's development, including health, education, and gender equality.",
+      "title": "Africa Renewal - African News and Analysis from the United Nations",
+      "kind": "feed",
+      "feed_url": "http://www.un.org/africarenewal/rss.xml",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": [
+        "United Nations",
+        "Africa development",
+        "gender equality",
+        "health"
+      ]
+    },
+    {
+      "id": "feed:africa.com:Africa.com",
+      "cleaned_title": "Africa.com",
+      "summary": "Africa.com is a website that provides news, business insights, and travel information about Africa. It covers various countries and regions across the continent.",
+      "title": "Africa.com",
+      "kind": "feed",
+      "feed_url": "http://www.africa.com/feed/",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:BBC News Africa",
+      "cleaned_title": "BBC News Africa",
+      "summary": "BBC Africa is the YouTube channel of BBC News Africa. They provide news, documentaries, and features about Africa, covering a wide range of topics and countries.",
+      "title": "BBC News Africa",
+      "kind": "youtube",
+      "channel_id": "UCvhPRRiwI1_p4OBsY0yz6mg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPd8XX0Tfxu6dYPlb9wp6gTX33qz6MUPXw2LjG3-RE=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Africa",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Africa"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:Joolz Guides - London History Walks - Travel Films",
+      "cleaned_title": "Joolz Guides - London History Walks",
+      "summary": "London Walks is a YouTube channel that offers virtual walking tours of various neighborhoods and landmarks in London, providing insights into the city's history and hidden gems.",
+      "title": "Joolz Guides - London History Walks - Travel Films",
+      "kind": "youtube",
+      "channel_id": "UCFWqceEDVxifaU3ljzMH5tg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPQpGctbMes-TLJV2l22UXi_mk43La3gNg5nKc8tw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> London",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "reddit:london",
+      "cleaned_title": "london",
+      "summary": "r/london is a subreddit dedicated to discussions, news, and events related to London. It's a great place to connect with locals and get recommendations for things to do in the city.",
+      "title": "london",
+      "kind": "reddit",
+      "subreddit": "london",
+      "details": "Original category: Local -> London",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:timeout.com:Time Out London",
+      "cleaned_title": "Time Out London",
+      "summary": "Time Out London is a website that provides comprehensive guides to events, restaurants, bars, and attractions in London, helping you make the most of your time in the city.",
+      "title": "Time Out London",
+      "kind": "feed",
+      "feed_url": "http://www.timeout.com/london/blog/feed.rss",
+      "details": "Original category: Local -> London",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:secretldn.com:Secret London",
+      "cleaned_title": "Secret London",
+      "summary": "Secret London is a website that uncovers hidden and lesser-known attractions, events, and experiences in London, allowing you to explore the city beyond the usual tourist spots.",
+      "title": "Secret London",
+      "kind": "feed",
+      "feed_url": "http://secretldn.com/feed/",
+      "details": "Original category: Local -> London",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "reddit:LondonSocialClub",
+      "cleaned_title": "LondonSocialClub",
+      "summary": "r/LondonSocialClub is a subreddit where locals and visitors can find and organize social events, meetups, and activities in London, making it easy to connect with like-minded individuals in the city.",
+      "title": "LondonSocialClub",
+      "kind": "reddit",
+      "subreddit": "LondonSocialClub",
+      "details": "Original category: Local -> London",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:ActionKid",
+      "cleaned_title": "ActionKid",
+      "summary": "A YouTube channel that showcases walking tours and street views of various neighborhoods in New York City.",
+      "title": "ActionKid",
+      "kind": "youtube",
+      "channel_id": "UCBkcw8h7epT_bK0QzuY2Bmg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNnRYRvKOppwDdCbg8u8tnBvgym_6KjSVabcrFgsA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "reddit:nyc",
+      "title": "r/nyc",
+      "kind": "reddit",
+      "subreddit": "nyc",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "r/nyc",
+      "cleaned_author": null,
+      "summary": "A dynamic subreddit dedicated to everything about New York City, where users engage in discussions ranging from local events to civic matters.",
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "reddit:AskNYC",
+      "cleaned_title": "AskNYC",
+      "summary": "A subreddit where you can ask questions and get recommendations about living, visiting, and experiencing New York City.",
+      "title": "AskNYC",
+      "kind": "reddit",
+      "subreddit": "AskNYC",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:timeout.com:Time Out New York",
+      "cleaned_title": "Time Out New York",
+      "summary": "A website that provides information on events, entertainment, and things to do in New York City.",
+      "title": "Time Out New York",
+      "kind": "feed",
+      "feed_url": "http://www.timeout.com/newyork/blog/feed.rss",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:forgotten-ny.com:Forgotten New York",
+      "cleaned_title": "Forgotten New York",
+      "summary": "An exploration of New York City's hidden gems and lost treasures, Forgotten New York takes readers on a nostalgic journey through the city's overlooked nooks and crannies. It's a charming tribute to the bygone eras and vibrant history of the Big Apple.",
+      "title": "Forgotten New York",
+      "kind": "feed",
+      "feed_url": "http://forgotten-ny.com/feed/",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC",
+        "History",
+        "Urban",
+        "_hip",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "hidden gems",
+        "history",
+        "local culture",
+        "nooks and crannies"
+      ]
+    },
+    {
+      "id": "feed:newyorkyimby.com:New York YIMBY",
+      "cleaned_title": "New York YIMBY",
+      "summary": "A platform advocating for positive new developments across the NYC metropolitan area, providing updates on construction and housing.",
+      "title": "New York YIMBY",
+      "kind": "feed",
+      "feed_url": "http://www.newyorkyimby.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:overheardinnewyork.com:Overheard In New York",
+      "cleaned_title": "Overheard In New York",
+      "summary": "A collection of humorous and candid quotes overheard throughout New York City, capturing the city's quirky and sometimes profound observations.",
+      "title": "Overheard In New York",
+      "kind": "feed",
+      "feed_url": "http://www.overheardinnewyork.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:foundny.com:FOUND NY",
+      "cleaned_title": "FOUND NY",
+      "summary": "A curated source for quality recommendations and practical information about New York City and its surroundings, drawing from an experienced editorial team.",
+      "title": "FOUND NY",
+      "kind": "feed",
+      "feed_url": "https://www.foundny.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:annekadet.substack.com:CAF\u00c9 ANNE",
+      "cleaned_title": "CAF\u00c9 ANNE",
+      "summary": "A lighthearted blog that shares whimsical perspectives on everyday experiences in New York City, making it both relatable and entertaining.",
+      "title": "CAF\u00c9 ANNE",
+      "kind": "feed",
+      "feed_url": "https://annekadet.substack.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:katiehonan.substack.com:What's Good? ",
+      "cleaned_title": "What's Good?",
+      "summary": "A local blog focusing on New York City, occasionally commenting on broader news topics. The posts tend to explore current events and the city's atmosphere with multifaceted perspectives.",
+      "title": "What's Good? ",
+      "kind": "feed",
+      "feed_url": "https://katiehonan.substack.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York",
+        "local news",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:maximumnewyork.com:Maximum New York",
+      "cleaned_title": "Maximum New York",
+      "summary": "This blog emphasizes the ongoing developments in New York City, advocating for progressive reforms in housing and governance, tackling the challenges of urban living in a changing landscape.",
+      "title": "Maximum New York",
+      "kind": "feed",
+      "feed_url": "https://www.maximumnewyork.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "housing crisis",
+        "urban development",
+        "NYC news"
+      ]
+    },
+    {
+      "id": "feed:ryanmandelbirder.substack.com:eyy i'm walkin here",
+      "cleaned_title": "eyy i'm walkin here",
+      "summary": "This newsletter offers a unique blend of nature and urban living, with a particular focus on NYC's avian life, contemplating environmental issues interwoven with city life.",
+      "title": "eyy i'm walkin here",
+      "kind": "feed",
+      "feed_url": "https://ryanmandelbirder.substack.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "nature",
+        "birds",
+        "New York City"
+      ]
+    },
+    {
+      "id": "feed:thethornnyc.substack.com:The NYC Thorn ",
+      "cleaned_title": "The NYC Thorn",
+      "summary": "A grassroots publication from members of NYC-DSA that provides a weekly summary of political happenings and local governance issues, aiming to raise awareness among New Yorkers.",
+      "title": "The NYC Thorn ",
+      "kind": "feed",
+      "feed_url": "https://thethornnyc.substack.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "local governance",
+        "NYC news"
+      ]
+    },
+    {
+      "id": "feed:sfist.com:SFist - San Francisco News, Restaurants, Events, & Sports",
+      "cleaned_title": "SFist",
+      "summary": "A local news and culture website covering the San Francisco Bay Area with a focus on city life, events, and local happenings.",
+      "title": "SFist - San Francisco News, Restaurants, Events, & Sports",
+      "kind": "feed",
+      "feed_url": "http://www.sfist.com/index.rdf",
+      "details": "Original category: Local -> SF Bay Area",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "San Francisco"
+      ],
+      "language": "en",
+      "keywords": [
+        "San Francisco",
+        "local events",
+        "restaurants"
+      ]
+    },
+    {
+      "id": "reddit:bayarea",
+      "cleaned_title": "bayarea",
+      "summary": "A subreddit dedicated to discussions, news, and events related to the San Francisco Bay Area.",
+      "title": "bayarea",
+      "kind": "reddit",
+      "subreddit": "bayarea",
+      "details": "Original category: Local -> SF Bay Area",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "San Francisco"
+      ],
+      "language": "en",
+      "keywords": [
+        "Bay Area",
+        "community news",
+        "events"
+      ]
+    },
+    {
+      "id": "youtube:CTV News",
+      "cleaned_title": "CTV News",
+      "summary": "CTV News is a Canadian news organization providing breaking news, live events, and in-depth analysis on YouTube.",
+      "title": "CTV News",
+      "kind": "youtube",
+      "channel_id": "UCi7Zk9baY1tvdlgxIML8MXg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNMDVNP5hC4NxVDgzDMvSPY08yXy2QCkKG6qCMZZzY=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Canada",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada"
+      ],
+      "language": "en",
+      "keywords": [
+        "Canada",
+        "breaking news",
+        "current events"
+      ]
+    },
+    {
+      "id": "youtube:Global News",
+      "cleaned_title": "Global News",
+      "summary": "Global News is a Canadian news organization delivering breaking news, investigative journalism, and feature stories on YouTube.",
+      "title": "Global News",
+      "kind": "youtube",
+      "channel_id": "UChLtXXpo4Ge1ReTEboVvTDg",
+      "thumbnail_url": "https://yt3.ggpht.com/jiUGvHJL6pzbzE_tEtmhAJEfNZNXs_8vLokuqObIPAq8mrt22NeW1OZOpcm-azNJTmNwj03Z9Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Canada",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada"
+      ],
+      "language": "en",
+      "keywords": [
+        "Canada",
+        "investigative journalism",
+        "news"
+      ]
+    },
+    {
+      "id": "youtube:CBC News",
+      "cleaned_title": "CBC News",
+      "summary": "The official YouTube channel of CBC News, providing Canadian and international news coverage.",
+      "title": "CBC News",
+      "kind": "youtube",
+      "channel_id": "UCuFFtHWoLl5fauMMD5Ww2jA",
+      "thumbnail_url": "https://yt3.ggpht.com/UDLxCALyHXJN1-ZTawdO39fhMZLrAiPH2EiwbPNffqmGHkU01HVT20oaPCJvt7iSoRchrTTwvA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Canada",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "Canada",
+        "international"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:News | Euronews RSS",
+      "cleaned_title": "News",
+      "summary": "A multilingual news media service that covers European news and current affairs.",
+      "title": "News | Euronews RSS",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/euronews/en/home/",
+      "details": "Original category: Local -> Europe",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.3560449407223603,
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Europe"
+      ],
+      "language": "en",
+      "keywords": [
+        "European news",
+        "current affairs"
+      ]
+    },
+    {
+      "id": "reddit:AskEurope",
+      "cleaned_title": "AskEurope",
+      "summary": "A subreddit where people can ask questions and have discussions about various aspects of Europe, including culture, travel, and daily life.",
+      "title": "AskEurope",
+      "kind": "reddit",
+      "subreddit": "AskEurope",
+      "details": "Original category: Local -> Europe",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Europe"
+      ],
+      "language": "en",
+      "keywords": [
+        "discussion",
+        "culture",
+        "travel"
+      ]
+    },
+    {
+      "id": "reddit:france",
+      "cleaned_title": "france",
+      "summary": "Join the r/france subreddit community to engage in discussions about France, its culture, history, and current events. Connect with fellow enthusiasts and gain insights into various aspects of French life.",
+      "title": "france",
+      "kind": "reddit",
+      "subreddit": "france",
+      "details": "Original category: Local -> France",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "France"
+      ],
+      "language": "fr",
+      "keywords": [
+        "French culture",
+        "discussion",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:farm-connexion.com:FARM Connexion",
+      "cleaned_title": "FARM Connexion",
+      "summary": "The Connexion is an English-language news website in France. Stay informed about French news, politics, culture, and lifestyle with articles tailored for English-speaking residents and visitors.",
+      "title": "FARM Connexion",
+      "kind": "feed",
+      "feed_url": "http://www.farm-connexion.com/feed/",
+      "details": "Original category: Local -> France",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "France"
+      ],
+      "language": "fr",
+      "keywords": [
+        "agriculture",
+        "machinery",
+        "trends",
+        "France"
+      ]
+    },
+    {
+      "id": "youtube:Eater",
+      "cleaned_title": "Eater",
+      "summary": "A YouTube channel that features food and dining content, including restaurant reviews, food trends, and local culinary news in Los Angeles.",
+      "title": "Eater",
+      "kind": "youtube",
+      "channel_id": "UCRzPUBhXUZHclB7B5bURFXw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMjL5MMEDDpOHmmKdqabvkc7qcBApjQ_nbRImMvEvc=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Los Angeles",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Restaurants",
+        "Cooking",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "food",
+        "dining",
+        "restaurants",
+        "Los Angeles"
+      ]
+    },
+    {
+      "id": "feed:latimes.com:News from California, the nation and world  - Los Angeles Times",
+      "cleaned_title": "Los Angeles Times",
+      "summary": "The largest daily newspaper in Los Angeles, covering local news, politics, entertainment, and more.",
+      "title": "News from California, the nation and world  - Los Angeles Times",
+      "kind": "feed",
+      "feed_url": "http://www.latimes.com/rss2.0.xml",
+      "details": "Original category: Local -> Los Angeles",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "Los Angeles",
+        "news",
+        "politics",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "youtube:Discover Los Angeles",
+      "cleaned_title": "Discover Los Angeles",
+      "summary": "The official YouTube channel of Discover Los Angeles, featuring videos showcasing the city's attractions, events, and culture.",
+      "title": "Discover Los Angeles",
+      "kind": "youtube",
+      "channel_id": "UCpLtpCJjGK61rzqD_frYsNA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOTYulmtTzput88txmtLJ8vTZ6Tz_99SiddZqswOw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Los Angeles",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cities",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Los Angeles",
+        "attractions",
+        "events",
+        "culture"
+      ]
+    },
+    {
+      "id": "youtube:Los Angeles Lakers",
+      "cleaned_title": "Los Angeles Lakers",
+      "summary": "The official YouTube channel of the Los Angeles Lakers, featuring game highlights, player interviews, and behind-the-scenes content.",
+      "title": "Los Angeles Lakers",
+      "kind": "youtube",
+      "channel_id": "UC8CSt-oVqy8pUAoKSApTxQw",
+      "thumbnail_url": "https://yt3.ggpht.com/86fh33GEEB84T-GD2gIB-3pDQtuuUmchAQbw7SLDAiCOFAghNnYHWlvFcPsityLKfleGzL_3Hg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Los Angeles",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "Los Angeles",
+        "basketball",
+        "Lakers",
+        "sports"
+      ]
+    },
+    {
+      "id": "feed:flightradar24.com:Flightradar24 Blog",
+      "cleaned_title": "Flightradar24 Blog",
+      "summary": "A website that tracks live air traffic and provides real-time flight information, including flight status, aircraft details, and airport information.",
+      "title": "Flightradar24 Blog",
+      "kind": "feed",
+      "feed_url": "http://www.flightradar24.com/blog/feed/",
+      "details": "Original category: Travel -> Transport & Flights",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "aviation",
+        "flights",
+        "air travel"
+      ]
+    },
+    {
+      "id": "youtube:Sam Chui",
+      "cleaned_title": "Sam Chui",
+      "summary": "A YouTube channel hosted by aviation enthusiast Sam Chui, featuring flight reviews, airport tours, and aviation-related content.",
+      "title": "Sam Chui",
+      "kind": "youtube",
+      "channel_id": "UCfYCRj25JJQ41JGPqiqXmJw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPK9UJjQkjWsom8N2N1Qm8H1Q4REwih93pkvBcprQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Transport & Flights",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Sam Chui",
+      "tags": [
+        "Local",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "aviation reviews",
+        "travel",
+        "airlines"
+      ]
+    },
+    {
+      "id": "youtube:DennisBunnik Travels",
+      "cleaned_title": "DennisBunnik Travels",
+      "summary": "A YouTube channel hosted by Dennis Bunnik, featuring travel vlogs, flight reviews, and aviation-related content.",
+      "title": "DennisBunnik Travels",
+      "kind": "youtube",
+      "channel_id": "UCQrk97MBH6DToctKRfQJcNQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMRGK-iXB6Ap4lCSAu6jwcgDAkUmLWNiWsZ1v1o8-c=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Transport & Flights",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Dennis Bunnik",
+      "tags": [
+        "Local",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel vlogs",
+        "flight reviews",
+        "aviation"
+      ]
+    },
+    {
+      "id": "youtube:Simply Aviation",
+      "cleaned_title": "Simply Aviation",
+      "summary": "A YouTube channel hosted by aviation enthusiast and pilot Martin, featuring flight reviews, airport tours, and aviation-related content.",
+      "title": "Simply Aviation",
+      "kind": "youtube",
+      "channel_id": "UCEF-9XhkdyFY0hMRUkmxXfQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM4LVTcK_sqM1ReBHL3HSbBezeXSQLfEpSzEjNFJQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Transport & Flights",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Martin",
+      "tags": [
+        "Local",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "flight reports",
+        "aviation reviews",
+        "travel experiences"
+      ]
+    },
+    {
+      "id": "curated:gothamist",
+      "title": "Gothamist",
+      "kind": "feed",
+      "sources": [
+        "curated"
+      ],
+      "summary": "Local news and culture from New York City.",
+      "feed_url": "https://gothamist.com/feed",
+      "cleaned_title": "Gothamist",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cities",
+        "Activism",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "local news",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://nysfocus.com/feed",
+      "title": "New York Focus \u2013 nysfocus.com",
+      "kind": "feed",
+      "feed_url": "https://nysfocus.com/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "New York Focus",
+      "cleaned_author": null,
+      "summary": "New York Focus provides in-depth adversarial reporting on state politics and issues, holding power to account through investigative journalism.",
+      "tags": [
+        "Local",
+        "USA",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York",
+        "politics",
+        "investigative journalism",
+        "accountability"
+      ]
+    },
+    {
+      "id": "feed:http://www.wnyc.org/feeds/channels/wnyc-news",
+      "title": "WNYC News",
+      "kind": "feed",
+      "feed_url": "http://www.wnyc.org/feeds/channels/wnyc-news",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "WNYC News",
+      "cleaned_author": null,
+      "summary": "A reliable source for local and national news, WNYC covers a range of topics including politics, culture, and community events in New York City.",
+      "tags": [
+        "Local",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "New York",
+        "politics",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:https://hellgatenyc.com/all-posts/rss/",
+      "title": "Hell Gate \u2013 hellgatenyc.com",
+      "kind": "feed",
+      "feed_url": "https://hellgatenyc.com/all-posts/rss/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Hell Gate",
+      "cleaned_author": null,
+      "summary": "A unique, worker-owned news platform dedicated to in-depth reporting on New York City, tackling local issues with a fresh perspective.",
+      "tags": [
+        "Local",
+        "NYC",
+        "_alternative"
+      ],
+      "language": "en",
+      "keywords": [
+        "local news",
+        "New York City",
+        "community issues",
+        "independent journalism"
+      ]
+    },
+    {
+      "id": "feed:https://nygroove.nyc/rss/",
+      "title": "The New York Groove \u2013 nygroove.nyc",
+      "kind": "feed",
+      "feed_url": "https://nygroove.nyc/rss/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "The New York Groove",
+      "cleaned_author": null,
+      "summary": "The New York Groove delivers thoughtful reporting on how to enhance life in New York City, addressing local issues and lifestyle tips.",
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "lifestyle",
+        "local news"
+      ]
+    },
+    {
+      "id": "feed:http://nrn.com/rss.xml",
+      "title": "Nation's Restaurant News \u2013 nrn.com",
+      "kind": "feed",
+      "feed_url": "http://nrn.com/rss.xml",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Nation's Restaurant News",
+      "cleaned_author": null,
+      "summary": "A reliable source for the latest trends in the restaurant industry, featuring updates on major players and market dynamics. Coverage includes notable restaurant developments and consumer insights.",
+      "tags": [
+        "Local",
+        "USA",
+        "Restaurants",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "restaurant news",
+        "Papa John's",
+        "Taco Bell",
+        "Chipotle",
+        "Sweetgreen"
+      ]
+    },
+    {
+      "id": "feed:https://blog.scoutingmagazine.org/feed/",
+      "title": "Aaron on Scouting",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.scoutingmagazine.org/feed/",
+      "summary": "Formerly known as Bryan on Scouting, Aaron on Scouting is the official site of Scouting magazine for all families and BSA volunteers.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Aaron on Scouting",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Arts & Culture",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "scouting",
+        "community service",
+        "youth development",
+        "BSA",
+        "volunteering"
+      ]
+    },
+    {
+      "id": "feed:https://melbourneontransit.blogspot.com/feeds/posts/default",
+      "title": "Melbourne on Transit",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://melbourneontransit.blogspot.com/feeds/posts/default",
+      "summary": "A blog about the service aspects of public transport in Melbourne, Australia.",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "Melbourne on Transit",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "Melbourne",
+        "public transport",
+        "transport planning"
+      ]
+    },
+    {
+      "id": "feed:https://mtlcityweblog.com/feed/",
+      "title": "Montreal City Weblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mtlcityweblog.com/feed/",
+      "summary": "Threatening national cohesion since 1847!",
+      "details": "Original Category: countries.opml",
+      "cleaned_title": "Montreal City Weblog",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada"
+      ],
+      "language": "en",
+      "keywords": [
+        "Montreal",
+        "local news",
+        "community",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.globalnerdy.com/feed/",
+      "title": "Global Nerdy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.globalnerdy.com/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Global Nerdy",
+      "cleaned_author": null,
+      "summary": "Tampa Bay\u2019s go-to technology blog offering insights into local tech events, programming trends, and the growing impact of AI in the region.",
+      "tags": [
+        "Tech",
+        "Local",
+        "USA",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "Tampa Bay",
+        "AI",
+        "meetup",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://open-innovations.org/blog/rss",
+      "title": "Knowledge and resources | Open Innovations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://open-innovations.org/blog/rss",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Knowledge and resources",
+      "cleaned_author": null,
+      "summary": "A blog providing news and updates from Open Innovations in Leeds, focusing on local projects and technologies that impact the community.",
+      "tags": [
+        "Local",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "local news",
+        "technology",
+        "Open Innovations",
+        "Leeds"
+      ]
+    },
+    {
+      "id": "feed:https://cdn.dnalounge.com/backstage/log/feed/",
+      "title": "DNA Lounge: DNA Sequencing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cdn.dnalounge.com/backstage/log/feed/",
+      "summary": "A late-night, all ages San Francisco nightclub featuring live music, DJ dancing, burlesque shows, and private parties.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "DNA Lounge: DNA Sequencing",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Music",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "nightlife",
+        "San Francisco",
+        "live music"
+      ]
+    },
+    {
+      "id": "feed:https://buildingsofnewengland.com/feed/",
+      "title": "Buildings of New England",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://buildingsofnewengland.com/feed/",
+      "summary": "Exploring New England and showcasing amazing architecture and history one building at a time!",
+      "details": "Original Category: arts -> architecture.opml",
+      "cleaned_title": "Buildings of New England",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Local",
+        "Architecture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "New England",
+        "architecture",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://www.sagoodnews.co.za/feed/",
+      "title": "SA Good News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sagoodnews.co.za/feed/",
+      "summary": "A news website that highlights the positive developments in South Africa.",
+      "details": "Original Category: arts -> news.opml",
+      "cleaned_title": "SA Good News",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "positive news",
+        "South Africa",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:https://www.alledinburghtheatre.com/feed/",
+      "title": "All Edinburgh Theatre.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.alledinburghtheatre.com/feed/",
+      "summary": "Reviews, news and previews edited by Thom Dibdin.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "All Edinburgh Theatre.com",
+      "cleaned_author": "Thom Dibdin",
+      "tags": [
+        "Local",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "Edinburgh",
+        "theatre reviews",
+        "theatrical events"
+      ]
+    },
+    {
+      "id": "feed:http://comicsdc.blogspot.com/feeds/posts/default",
+      "title": "ComicsDC",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://comicsdc.blogspot.com/feeds/posts/default",
+      "summary": "For information and events relating to comic books, comic strips, political cartoons, animation and caricature in Washington, DC and its environs.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "ComicsDC",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Comics",
+        "_establishment"
+      ],
+      "language": "en",
+      "keywords": [
+        "Washington DC",
+        "comics",
+        "political cartoons",
+        "anime",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:https://alabamayesterdays.blogspot.com/feeds/posts/default",
+      "title": "Alabama Yesterdays",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alabamayesterdays.blogspot.com/feeds/posts/default",
+      "summary": "Random wanderings through Alabama history.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Alabama Yesterdays",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://historyofparliament.com/feed/",
+      "title": "The History of Parliament",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://historyofparliament.com/feed/",
+      "summary": "Blogging on parliament, politics and people, from the History of Parliament.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "The History of Parliament",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "UK",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "parliament",
+        "politics",
+        "UK history",
+        "government"
+      ]
+    },
+    {
+      "id": "feed:https://imagesofoldhawaii.com/feed/",
+      "title": "Images of Old Hawai\u02bbi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://imagesofoldhawaii.com/feed/",
+      "summary": "Bringing People, Places, and Events in Hawai\u02bbi\u2019s past alive through text and media.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Images of Old Hawai\u02bbi",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Local",
+        "History",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hawaii",
+        "history",
+        "multimedia",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://lancashirepast.com/feed/",
+      "title": "Lancashire Past \u2013 Lancashire History Website and Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lancashirepast.com/feed/",
+      "summary": "Lancashire History Website and Blog.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "Lancashire Past",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Arts & Culture",
+        "History",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "Lancashire",
+        "history",
+        "local heritage",
+        "UK"
+      ]
+    },
+    {
+      "id": "feed:https://ggwash.org/rss",
+      "title": "Greater Greater Washington",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ggwash.org/rss",
+      "summary": "Builds informed and civically engaged communities who believe in a growing and inclusive Washington region and speak up for livable communities for all.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Greater Greater Washington",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Washington",
+        "community",
+        "livability"
+      ]
+    },
+    {
+      "id": "feed:https://streets.mn/feed/",
+      "title": "Streets.mn",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://streets.mn/feed/",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Streets.mn",
+      "cleaned_author": null,
+      "summary": "A platform focused on transportation and land use issues in Minnesota, Streets.mn provides insights into the revival of urban centers and local infrastructure matters.",
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "transportation",
+        "land use",
+        "Minnesota"
+      ]
+    },
+    {
+      "id": "feed:https://accessibility.blog.gov.uk/feed/",
+      "title": "Accessibility in government",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://accessibility.blog.gov.uk/feed/",
+      "summary": "This is for everyone: documenting how we rebuild inclusive digital services across government.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "Accessibility in government",
+      "cleaned_author": null,
+      "tags": [
+        "Local"
+      ],
+      "language": "en",
+      "keywords": [
+        "accessibility",
+        "digital services",
+        "UK"
+      ]
+    },
+    {
+      "id": "feed:https://wansteadmeteo.com/feed/",
+      "title": "Wanstead Meteo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://wansteadmeteo.com/feed/",
+      "summary": "Meteorology-based musings about east London and beyond.",
+      "details": "Original Category: countries -> uk -> london -> areas.opml",
+      "cleaned_title": "Wanstead Meteo",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Weather"
+      ],
+      "language": "en",
+      "keywords": [
+        "meteorology",
+        "East London",
+        "weather forecasts"
+      ]
+    },
+    {
+      "id": "feed:https://www.londonreconnections.com/feed/",
+      "title": "London Reconnections",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.londonreconnections.com/feed/",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "London Reconnections",
+      "cleaned_author": null,
+      "summary": "Focusing on transport in London and surrounding areas, London Reconnections offers in-depth discussions and analyses about the evolution of the city's transport systems. Readers can expect a blend of policy insights and community discussions that highlight the intricacies of urban transportation.",
+      "tags": [
+        "Local",
+        "News",
+        "London",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "transport",
+        "London",
+        "urban planning",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "feed:https://www.nomadicnotes.com/feed/",
+      "title": "Nomadic Notes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nomadicnotes.com/feed/",
+      "summary": "Travel blog and weekly travel newsletter.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "Nomadic Notes",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Social",
+        "Asia"
+      ],
+      "language": "en",
+      "keywords": [
+        "Southeast Asia",
+        "travel",
+        "transportation",
+        "guides"
+      ]
+    },
+    {
+      "id": "feed:https://justalittlefurther.com/just-a-little-further?format=rss",
+      "title": "Our Blog \u2014 Just a Little Further",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://justalittlefurther.com/just-a-little-further?format=rss",
+      "summary": "It's not just travel...it's our lifestyle.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "Just a Little Further",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Cities",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "lifestyle",
+        "adventure"
+      ]
+    },
+    {
+      "id": "feed:https://www.packing-up-the-pieces.com/feed/",
+      "title": "Packing Up The Pieces | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.packing-up-the-pieces.com/feed/",
+      "summary": "Travel. Make the Most of Life's Grand Adventure.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "Packing Up The Pieces",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Cities",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "itinerary",
+        "Camino de Santiago"
+      ]
+    },
+    {
+      "id": "feed:https://arseblog.com/feed/",
+      "title": "Arseblog ... an Arsenal blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://arseblog.com/feed/",
+      "summary": "Arseblog is a dedicated Arsenal blog that covers a variety of topics from match reviews to player analysis. The blog provides insights into the latest happenings around the club, making it a go-to resource for dedicated Arsenal fans.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Arseblog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "Arsenal",
+        "football",
+        "Premier League",
+        "match review"
+      ]
+    },
+    {
+      "id": "feed:https://jonsmalldon.wordpress.com/feed/",
+      "title": "Jon's Place",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jonsmalldon.wordpress.com/feed/",
+      "summary": "Talking rubbish since 2009.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Jon's Place",
+      "cleaned_author": "Jon",
+      "tags": [
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "local sports",
+        "theatre",
+        "match reports"
+      ]
+    },
+    {
+      "id": "feed:http://beachburg.blogspot.com/feeds/posts/default",
+      "title": "THE BEACHBURG SUB",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://beachburg.blogspot.com/feeds/posts/default",
+      "summary": "Thoughts and musings about a lifelong fascination with railways.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "THE BEACHBURG SUB",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "railways",
+        "Ottawa",
+        "transportation",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://busandtrainuser.com/feed/",
+      "title": "BusAndTrainUser",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://busandtrainuser.com/feed/",
+      "summary": "Journeys around Britain by bus and train.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "BusAndTrainUser",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "UK",
+        "Trains",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "transportation",
+        "UK travel",
+        "bus",
+        "train"
+      ]
+    },
+    {
+      "id": "feed:https://www.greencaltrain.com/feed/",
+      "title": "Green Caltrain",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.greencaltrain.com/feed/",
+      "summary": "Friends of Caltrain Blog.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Green Caltrain",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "Caltrain",
+        "transportation",
+        "advocacy",
+        "funding"
+      ]
+    },
+    {
+      "id": "feed:http://www.merseytart.com/feeds/posts/default",
+      "title": "round the rails we go",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.merseytart.com/feeds/posts/default",
+      "summary": "capturing Britain's railways, one station at a time.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "round the rails we go",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "UK",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "British railway",
+        "station visits",
+        "travel",
+        "photography"
+      ]
+    },
+    {
+      "id": "feed:https://bikeportland.org/feed",
+      "title": "BikePortland",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bikeportland.org/feed",
+      "summary": "Portland Oregon bicycle news, events, culture, and opinion.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "BikePortland",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Boston"
+      ],
+      "language": "en",
+      "keywords": [
+        "Portland",
+        "bicycle news",
+        "culture",
+        "local events"
+      ]
+    },
+    {
+      "id": "feed:http://realpubsuk.blogspot.com/feeds/posts/default",
+      "title": "Campaign for Real Pubs",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://realpubsuk.blogspot.com/feeds/posts/default",
+      "summary": "They can still be found if you know where to look...",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Campaign for Real Pubs",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Poetry",
+        "Restaurants",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "real pubs",
+        "British pubs",
+        "local drinking"
+      ]
+    },
+    {
+      "id": "feed:http://closedpubs.blogspot.com/feeds/posts/default",
+      "title": "Closed Pubs",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://closedpubs.blogspot.com/feeds/posts/default",
+      "summary": "Recording the slow, sad death of the British pub.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Closed Pubs",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Restaurants",
+        "UK",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "pub closures",
+        "British pub history"
+      ]
+    },
+    {
+      "id": "feed:http://merseypub.blogspot.com/feeds/posts/default",
+      "title": "Merseyside Pub Guide",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://merseypub.blogspot.com/feeds/posts/default",
+      "summary": "The Researcher's Blog.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "Merseyside Pub Guide",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Restaurants",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "Merseyside pubs",
+        "UK drinking"
+      ]
+    },
+    {
+      "id": "feed:https://pubhistoryproject.co.uk/feed/",
+      "title": "Pub History Project \u2013 Leicester",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pubhistoryproject.co.uk/feed/",
+      "summary": "History and Beer.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Pub History Project \u2013 Leicester",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Restaurants",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "pub history",
+        "Leicester",
+        "beer"
+      ]
+    },
+    {
+      "id": "feed:https://disneyparksblog.com/feed/",
+      "title": "Disney Parks Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://disneyparksblog.com/feed/",
+      "summary": "The official blog for Disneyland Resort, Walt Disney World and Disney Cruise Line.",
+      "details": "Original Category: recreation -> travel -> disney-parks.opml",
+      "cleaned_title": "Disney Parks Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Cities",
+        "Social",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Disney",
+        "parks",
+        "guides"
+      ]
+    },
+    {
+      "id": "feed:https://davidallengreen.com/feed/",
+      "title": "The Law and Policy Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidallengreen.com/feed/",
+      "summary": "Independent commentary on law and policy from a liberal constitutionalist and critical perspective.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "The Law and Policy Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "law",
+        "policy",
+        "constitutionalism",
+        "U.S. politics"
+      ]
+    },
+    {
+      "id": "feed:https://www.scotusblog.com/feed/",
+      "title": "SCOTUSblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.scotusblog.com/feed/",
+      "summary": "Devoted to covering the US Supreme Court comprehensively, without bias according to the highest journalistic standards as a public service.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "SCOTUSblog",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Supreme Court",
+        "judicial analysis",
+        "court rulings"
+      ]
+    },
+    {
+      "id": "feed:https://postabdn.com/rss/",
+      "title": "POST | Aberdeen's People | Aberdeen's Community | Aberdeen's Culture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://postabdn.com/rss/",
+      "summary": "A window into our city and it\u2019s community. Not just the weather, the news, but the stories of people from within our communities.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "POST | Aberdeen's People",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "Aberdeen",
+        "culture",
+        "community stories"
+      ]
+    },
+    {
+      "id": "feed:https://handeaux.tumblr.com/rss",
+      "title": "Cincinnati Curiosities",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://handeaux.tumblr.com/rss",
+      "summary": "Working overtime to keep alive the weird soul of the Queen City.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Cincinnati Curiosities",
+      "cleaned_author": "Greg Hand",
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Cincinnati",
+        "history",
+        "curiosities"
+      ]
+    },
+    {
+      "id": "feed:https://ephemeralnewyork.wordpress.com/feed/",
+      "title": "Ephemeral New York",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ephemeralnewyork.wordpress.com/feed/",
+      "summary": "Chronicling an ever-changing city through faded and forgotten artifacts.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Ephemeral New York",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York",
+        "history",
+        "urban exploration"
+      ]
+    },
+    {
+      "id": "feed:https://www.indybay.org/syn/generate_rss.php?news_item_status_restriction=1155",
+      "title": "San Francisco Bay Area Independent Media Center",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.indybay.org/syn/generate_rss.php?news_item_status_restriction=1155",
+      "summary": "A non-commercial, democratic collective serving as the local organizing unit of the global IMC network.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "San Francisco Bay Area Independent Media Center",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "independent media",
+        "San Francisco",
+        "activism",
+        "local news"
+      ]
+    },
+    {
+      "id": "feed:https://mass.streetsblog.org/feed",
+      "title": "StreetsblogMASS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mass.streetsblog.org/feed",
+      "summary": "Connecting people from all walks of life to information about how to reduce dependence on cars, promote human-centered, equitable, and environmentally sustainable places\u2026.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "StreetsblogMASS",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "transportation",
+        "biking",
+        "walking",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "feed:https://www.ianvisits.co.uk/articles/feed/",
+      "title": "ianVisits",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ianvisits.co.uk/articles/feed/",
+      "summary": "Latest London news, reviews and things to do in London.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "ianVisits",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "UK",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "London news",
+        "events",
+        "city exploration"
+      ]
+    },
+    {
+      "id": "feed:https://alondoninheritance.com/feed/",
+      "title": "A London Inheritance",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alondoninheritance.com/feed/",
+      "summary": "A Private History of a Public City.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "A London Inheritance",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Cities",
+        "History",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "London",
+        "history",
+        "urban exploration"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/LondonRemembers",
+      "title": "London Remembers",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/LondonRemembers",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "London Remembers",
+      "cleaned_author": null,
+      "summary": "A comprehensive resource aiming to document and commemorate various memorials across London, highlighting the city's historical figures and events.",
+      "tags": [
+        "Local",
+        "Arts & Culture",
+        "History",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "memorials",
+        "history",
+        "London"
+      ]
+    },
+    {
+      "id": "feed:https://www.fromthemurkydepths.co.uk/feed/",
+      "title": "Murky Depths",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fromthemurkydepths.co.uk/feed/",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "Murky Depths",
+      "cleaned_author": null,
+      "summary": "A local news source offering updates and commentary on various developments in London, providing insights into urban change and community issues.",
+      "tags": [
+        "News",
+        "Local",
+        "London",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "London",
+        "urban development"
+      ]
+    },
+    {
+      "id": "feed:https://www.katebelgrave.com/feed/",
+      "title": "Kate Belgrave",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.katebelgrave.com/feed/",
+      "summary": "Talking with people dealing with public sector cuts.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "Kate Belgrave",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "Activism",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "public sector",
+        "cuts",
+        "advocacy"
+      ]
+    },
+    {
+      "id": "feed:https://greenwichwire.co.uk/feed/",
+      "title": "853",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://greenwichwire.co.uk/feed/",
+      "summary": "Public interest news for Greenwich and SE London, funded by you.",
+      "details": "Original Category: countries -> uk -> london -> areas.opml",
+      "cleaned_title": "853",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "London",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "local news",
+        "Greenwich",
+        "Southeast London"
+      ]
+    },
+    {
+      "id": "feed:https://brixtonblog.com/feed/",
+      "title": "Brixton Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brixtonblog.com/feed/",
+      "summary": "Online newspaper about Brixton, London.",
+      "details": "Original Category: countries -> uk -> london -> areas.opml",
+      "cleaned_title": "Brixton Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "Brixton",
+        "local news",
+        "community events"
+      ]
+    },
+    {
+      "id": "feed:https://www.eastlondonlines.co.uk/feed/",
+      "title": "Eastlondonlines",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.eastlondonlines.co.uk/feed/",
+      "summary": "An independent local news website serving the diverse communities of four London boroughs: Lewisham, Tower Hamlets, Hackney and Croydon.",
+      "details": "Original Category: countries -> uk -> london -> areas.opml",
+      "cleaned_title": "Eastlondonlines",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "local news",
+        "Lewisham",
+        "Tower Hamlets",
+        "Hackney",
+        "Croydon"
+      ]
+    },
+    {
+      "id": "feed:https://isleofdogslife.wordpress.com/feed/",
+      "title": "Isle of Dogs Life",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://isleofdogslife.wordpress.com/feed/",
+      "summary": "This site is a celebration of life past and present on this small part of London\u2019s East End.",
+      "details": "Original Category: countries -> uk -> london -> areas.opml",
+      "cleaned_title": "Isle of Dogs Life",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "Isle of Dogs",
+        "community events",
+        "local history"
+      ]
+    },
+    {
+      "id": "feed:https://www.ourbow.com/feed/",
+      "title": "Our Bow",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ourbow.com/feed/",
+      "summary": "News and events in and around Bow, in the East End of London from The Geezers.",
+      "details": "Original Category: countries -> uk -> london -> areas.opml",
+      "cleaned_title": "Our Bow",
+      "cleaned_author": "The Geezers",
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "Bow",
+        "community news",
+        "local events"
+      ]
+    },
+    {
+      "id": "feed:http://transpont.blogspot.com/feeds/posts/default",
+      "title": "Transpontine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://transpont.blogspot.com/feeds/posts/default",
+      "summary": "South East London blogzine - things that are happening, things that happened, things that should never have happened. New Cross, Brockley, Deptford and other beauty spots.",
+      "details": "Original Category: countries -> uk -> london -> areas.opml",
+      "cleaned_title": "Transpontine",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "South East London",
+        "local culture",
+        "historical events"
+      ]
+    },
+    {
+      "title": "r/de",
+      "popularity_score": 2.476190476190476,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "de",
+      "kind": "reddit",
+      "id": "reddit:de",
+      "cleaned_title": "r/de",
+      "cleaned_author": null,
+      "summary": "A community hub for German speakers discussing a range of topics relevant to Germany, Austria, and Switzerland, offering insights and news from local regions.",
+      "tags": [
+        "Local",
+        "Germany",
+        "Australia"
+      ],
+      "language": "de",
+      "keywords": [
+        "community",
+        "local news",
+        "Germany"
+      ]
+    },
+    {
+      "title": "City of Guelph",
+      "popularity_score": 2.0,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://guelph.ca/feed",
+      "kind": "feed",
+      "id": "feed:https://guelph.ca/feed",
+      "cleaned_title": "City of Guelph",
+      "cleaned_author": null,
+      "summary": "The official news feed for the City of Guelph, featuring updates on community events, city initiatives, and local programs.",
+      "tags": [
+        "Local"
+      ],
+      "language": "en",
+      "keywords": [
+        "Guelph News",
+        "Community Events",
+        "City Initiatives"
+      ]
+    }
+  ],
+  "child_categories": [
+    {
+      "id": "nyc",
+      "display_name": "NYC",
+      "emoji": "\ud83d\uddfd",
+      "sfSymbol": "building.2",
+      "count": 18
+    },
+    {
+      "id": "san_francisco",
+      "display_name": "San Francisco",
+      "emoji": "\ud83c\udf09",
+      "sfSymbol": "bridge.fill",
+      "count": 2
+    },
+    {
+      "id": "london",
+      "display_name": "London",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "sfSymbol": "building.columns.fill",
+      "count": 30
+    },
+    {
+      "id": "chicago",
+      "display_name": "Chicago",
+      "emoji": "\ud83c\udf06",
+      "sfSymbol": "wind",
+      "count": 2
+    },
+    {
+      "id": "boston",
+      "display_name": "Boston",
+      "emoji": "\ud83c\udfdb\ufe0f",
+      "sfSymbol": "building.columns.fill",
+      "count": 2
+    },
+    {
+      "id": "usa",
+      "display_name": "USA",
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "sfSymbol": "flag.fill",
+      "count": 75
+    },
+    {
+      "id": "uk",
+      "display_name": "UK",
+      "emoji": "\ud83c\uddec\ud83c\udde7",
+      "sfSymbol": "flag.fill",
+      "count": 50
+    },
+    {
+      "id": "canada",
+      "display_name": "Canada",
+      "emoji": "\ud83c\udde8\ud83c\udde6",
+      "sfSymbol": "flag.fill",
+      "count": 6
+    },
+    {
+      "id": "china",
+      "display_name": "China",
+      "emoji": "\ud83c\udde8\ud83c\uddf3",
+      "sfSymbol": "flag.fill",
+      "count": 6
+    },
+    {
+      "id": "japan",
+      "display_name": "Japan",
+      "emoji": "\ud83c\uddef\ud83c\uddf5",
+      "sfSymbol": "flag.fill",
+      "count": 3
+    },
+    {
+      "id": "india",
+      "display_name": "India",
+      "emoji": "\ud83c\uddee\ud83c\uddf3",
+      "sfSymbol": "flag.fill",
+      "count": 2
+    },
+    {
+      "id": "australia",
+      "display_name": "Australia",
+      "emoji": "\ud83c\udde6\ud83c\uddfa",
+      "sfSymbol": "flag.fill",
+      "count": 9
+    },
+    {
+      "id": "france",
+      "display_name": "France",
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "sfSymbol": "flag.fill",
+      "count": 4
+    },
+    {
+      "id": "germany",
+      "display_name": "Germany",
+      "emoji": "\ud83c\udde9\ud83c\uddea",
+      "sfSymbol": "flag.fill",
+      "count": 18
+    },
+    {
+      "id": "spain",
+      "display_name": "Spain",
+      "emoji": "\ud83c\uddea\ud83c\uddf8",
+      "sfSymbol": "flag.fill",
+      "count": 2
+    },
+    {
+      "id": "russia",
+      "display_name": "Russia",
+      "emoji": "\ud83c\uddf7\ud83c\uddfa",
+      "sfSymbol": "flag.fill",
+      "count": 4
+    },
+    {
+      "id": "middle_east",
+      "display_name": "Middle East",
+      "emoji": "\ud83d\udd4c",
+      "sfSymbol": "sun.dust.fill",
+      "count": 3
+    },
+    {
+      "id": "europe",
+      "display_name": "Europe",
+      "emoji": "\ud83c\uddea\ud83c\uddfa",
+      "sfSymbol": "flag.fill",
+      "count": 10
+    },
+    {
+      "id": "asia",
+      "display_name": "Asia",
+      "emoji": "\ud83c\udf0f",
+      "sfSymbol": "globe.asia.australia.fill",
+      "count": 9
+    },
+    {
+      "id": "africa",
+      "display_name": "Africa",
+      "emoji": "\ud83c\udf0d",
+      "sfSymbol": "globe.europe.africa.fill",
+      "count": 9
+    },
+    {
+      "id": "cities",
+      "display_name": "Cities",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "sfSymbol": "building.2",
+      "count": 42
+    },
+    {
+      "id": "urban",
+      "display_name": "Urban",
+      "emoji": "\ud83c\udfd8\ufe0f",
+      "sfSymbol": "building.2",
+      "count": 26
+    }
+  ]
+}

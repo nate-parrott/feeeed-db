@@ -1,0 +1,175 @@
+{
+  "id": "jazz",
+  "display_name": "Jazz",
+  "feeds": [
+    {
+      "id": "feed:https://ecmreviews.com/feed/",
+      "title": "Between Sound and Space: ECM Records and Beyond",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ecmreviews.com/feed/",
+      "summary": "The only archive reviewing every ECM album in existence.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "Between Sound and Space: ECM Records and Beyond",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "ECM Records",
+        "jazz albums",
+        "music reviews"
+      ]
+    },
+    {
+      "id": "feed:http://flophousemagazine.com/feed/",
+      "title": "FLOPHOUSE | magazine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://flophousemagazine.com/feed/",
+      "summary": "\u2026dedicated to hard bop, soul jazz and Hammond grooves.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "FLOPHOUSE",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "jazz magazine",
+        "soul jazz",
+        "Hammond organ"
+      ]
+    },
+    {
+      "id": "feed:http://www.fwrarejazzvinylcollector.com/blog?format=rss",
+      "title": "FW Rare Jazz Vinyl Collector",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.fwrarejazzvinylcollector.com/blog?format=rss",
+      "summary": "Focused on rare jazz vinyl, this feed offers insights into hard-to-find records celebrated by collectors and enthusiasts alike.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "FW Rare Jazz Vinyl Collector",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "jazz vinyl",
+        "record collecting",
+        "rare music"
+      ]
+    },
+    {
+      "id": "feed:http://impressionsofvince.blogspot.com/feeds/posts/default",
+      "title": "Impressions of Vince",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://impressionsofvince.blogspot.com/feeds/posts/default",
+      "summary": "Commentary, discussions and random thoughts about San Francisco-born jazz pianist Vince Guaraldi, beloved by many \u2026 and affectionately known as Dr. Funk.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "Impressions of Vince",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "Vince Guaraldi",
+        "jazz pianist",
+        "music commentary"
+      ]
+    },
+    {
+      "id": "feed:https://jazzcollector.com/feed/",
+      "title": "Jazz Collector",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jazzcollector.com/feed/",
+      "summary": "Jazz Collector is the leading jazz blog and jazz website for those who love jazz and treasure the history, archives, ephemera and, most of all, the music.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "Jazz Collector",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "jazz history",
+        "vinyl collections",
+        "music blog"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedblitz.com/Jazzwax",
+      "title": "JazzWax",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedblitz.com/Jazzwax",
+      "summary": "Marc Myers writes daily on jazz legends and legendary jazz recordings.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "JazzWax",
+      "cleaned_author": "Marc Myers",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "jazz legends",
+        "music writing",
+        "recording reviews"
+      ]
+    },
+    {
+      "id": "feed:https://londonjazzcollector.wordpress.com/feed/",
+      "title": "LondonJazzCollector",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://londonjazzcollector.wordpress.com/feed/",
+      "summary": "Adventures in collecting \"modern jazz\": the classical music of America from the Fifties and Sixties, and a little Seventies, on original vinyl, on a budget, from England.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "LondonJazzCollector",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "modern jazz",
+        "vinyl collecting",
+        "budget vinyl"
+      ]
+    }
+  ],
+  "child_categories": []
+}

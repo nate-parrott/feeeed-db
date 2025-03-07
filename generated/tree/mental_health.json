@@ -1,0 +1,332 @@
+{
+  "id": "mental_health",
+  "display_name": "Mental Health",
+  "feeds": [
+    {
+      "id": "substack:top:i'm_fine_i'm_fine_just_understand_-_nd_stevenson",
+      "title": "I'm Fine I'm Fine Just Understand - ND Stevenson",
+      "cleaned_title": "I'm Fine I'm Fine Just Understand",
+      "summary": "This newsletter explores themes of gender, mental health, and the aging experience through quiet yet poignant comics.",
+      "kind": "feed",
+      "feed_url": "https://www.imfineimfine.com/feed",
+      "details": "Original category: Substack top newsletters about comics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Mental Health"
+      ],
+      "cleaned_author": "ND Stevenson",
+      "language": "en",
+      "keywords": [
+        "ND Stevenson",
+        "mental health",
+        "gender",
+        "aging"
+      ]
+    },
+    {
+      "id": "feed:raptitude.com:Raptitude.com",
+      "cleaned_title": "Raptitude",
+      "summary": "A blog dedicated to self-improvement and understanding the nuances of being human. Posts explore various aspects of daily life and mental well-being.",
+      "title": "Raptitude.com",
+      "kind": "feed",
+      "feed_url": "https://www.raptitude.com/feed/",
+      "details": "Original category: Business",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "self-improvement",
+        "mindfulness",
+        "daily life"
+      ]
+    },
+    {
+      "id": "feed:mindbodygreen.com:mindbodygreen",
+      "cleaned_title": "mindbodygreen",
+      "summary": "Mind is a UK-based mental health charity that offers information, support, and resources for anyone experiencing mental health problems.",
+      "title": "mindbodygreen",
+      "kind": "feed",
+      "feed_url": "http://www.mindbodygreen.com/rss/feed.xml",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "wellness",
+        "mental health",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "youtube:Kati Morton",
+      "cleaned_title": "Kati Morton",
+      "summary": "Kati Morton is a licensed therapist who creates educational videos on mental health topics. Her YouTube channel covers various aspects of mental health, including anxiety, depression, and self-care.",
+      "title": "Kati Morton",
+      "kind": "youtube",
+      "channel_id": "UCzBYOHyEEzlkRdDOSobbpvw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPIDpsQ7IL3pk1j9l3BG7K1Ox7-RrUVx22XU1WvcA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mental health education",
+        "therapy techniques",
+        "anxiety"
+      ]
+    },
+    {
+      "id": "reddit:mentalhealth",
+      "cleaned_title": "mentalhealth",
+      "summary": "A subreddit dedicated to discussions, support, and resources related to mental health. It provides a platform for individuals to share their experiences and seek advice.",
+      "title": "mentalhealth",
+      "kind": "reddit",
+      "subreddit": "mentalhealth",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mental health support",
+        "community discussions",
+        "personal experiences"
+      ]
+    },
+    {
+      "id": "youtube:Therapy in a Nutshell",
+      "cleaned_title": "Therapy in a Nutshell",
+      "summary": "Therapy in a Nutshell is a YouTube channel created by a licensed therapist. It provides educational videos on mental health, therapy techniques, and self-improvement.",
+      "title": "Therapy in a Nutshell",
+      "kind": "youtube",
+      "channel_id": "UCpuqYFKLkcEryEieomiAv3Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOG3Xuqpu1X6noG12zW3z9hg48fNZygIdb_9MWMsg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mental health education",
+        "self-improvement",
+        "therapy insights"
+      ]
+    },
+    {
+      "id": "reddit:anxiety",
+      "cleaned_title": "anxiety",
+      "summary": "A subreddit dedicated to discussions, support, and resources specifically related to anxiety. It provides a community for individuals dealing with anxiety to connect and share coping strategies.",
+      "title": "anxiety",
+      "kind": "reddit",
+      "subreddit": "anxiety",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "anxiety support",
+        "coping strategies",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:https://captainawkward.com/feed/",
+      "title": "CaptainAwkward.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://captainawkward.com/feed/",
+      "summary": "Don't need to be cool to be kind.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "CaptainAwkward.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "Mental Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "relationships",
+        "friendship advice",
+        "ADHD",
+        "couples",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:https://growinguptransgender.com/feed/",
+      "title": "Growing Up Transgender",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://growinguptransgender.com/feed/",
+      "summary": "Raising our trans child.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Growing Up Transgender",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "Mental Health",
+        "Parenting",
+        "LGBTQ"
+      ],
+      "language": "en",
+      "keywords": [
+        "transgender",
+        "puberty blockers",
+        "WPATH",
+        "parenting challenges",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "feed:https://www.overcomingbias.com/feed",
+      "title": "Overcoming Bias",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.overcomingbias.com/feed",
+      "summary": "This is a blog on why we believe and do what we do, why we pretend otherwise, how we might do better, and what our descendants might do, if they don't all die.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Overcoming Bias",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Thinking",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "cognitive bias",
+        "beliefs",
+        "behavior"
+      ]
+    },
+    {
+      "id": "feed:https://localghost.dev/feed.xml",
+      "title": "Localghost - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://localghost.dev/feed.xml",
+      "summary": "Sophie builds fun things out of HTML, CSS & JavaScript, and writes blog posts about tech and mental health.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Localghost",
+      "cleaned_author": "Sophie",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "mental health",
+        "Sophie"
+      ]
+    },
+    {
+      "id": "feed:https://www.nationalelfservice.net/feed/",
+      "title": "The Mental Elf",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nationalelfservice.net/feed/",
+      "summary": "Keeping you up to date with reliable mental health research, policy & guidance.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "The Mental Elf",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mental health",
+        "research",
+        "guidance",
+        "policy"
+      ]
+    },
+    {
+      "id": "feed:https://heatherburns.tech/feed/",
+      "title": "Hi, I'm Heather Burns \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://heatherburns.tech/feed/",
+      "summary": "at home in the world.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "Hi, I'm Heather Burns \u2013 Blog",
+      "cleaned_author": "Heather Burns",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Social",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal",
+        "stories",
+        "creativity"
+      ]
+    }
+  ],
+  "child_categories": []
+}

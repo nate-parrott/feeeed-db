@@ -1,0 +1,442 @@
+{
+  "id": "germany",
+  "display_name": "Germany",
+  "feeds": [
+    {
+      "id": "feed:https://useless-catalanfacts.tumblr.com/rss",
+      "title": "useless-catalanfacts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://useless-catalanfacts.tumblr.com/rss",
+      "summary": "A place to share the culture and history of the Catalan Countries, explained by Catalans.",
+      "details": "Original Category: humanities -> geography.opml",
+      "cleaned_title": "Useless Catalan Facts",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Spain",
+        "History",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://brilliantmaps.com/feed/",
+      "title": "Brilliant Maps",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brilliantmaps.com/feed/",
+      "summary": "Making Sense Of The World, One Map At A Time.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Brilliant Maps",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "geography"
+      ]
+    },
+    {
+      "id": "feed:https://brilliantmaps.com/feed/",
+      "title": "Brilliant Maps",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brilliantmaps.com/feed/",
+      "summary": "Making Sense Of The World, One Map At A Time.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Brilliant Maps",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "geography"
+      ]
+    },
+    {
+      "id": "feed:https://imagico.de/blog/en/feed/",
+      "title": "Imagico.de | blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://imagico.de/blog/en/feed/",
+      "summary": "Imagico.de is a blog dedicated to map analysis, offering insights on cartographic practices and the art of map-making.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Imagico.de",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "cartography"
+      ]
+    },
+    {
+      "id": "feed:https://www.maproomblog.com/feed/",
+      "title": "The Map Room",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.maproomblog.com/feed/",
+      "summary": "Blogging about maps since 2003.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "The Map Room",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Germany",
+        "USA",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "geography",
+        "cartography",
+        "Gulf of America"
+      ]
+    },
+    {
+      "id": "feed:https://googlemapsmania.blogspot.com/feeds/posts/default",
+      "title": "Maps Mania",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://googlemapsmania.blogspot.com/feeds/posts/default",
+      "summary": "Dedicated to tracking the very best digital interactive maps on the internet and the tools used to create them.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Maps Mania",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Germany",
+        "USA",
+        "Europe",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "interactive maps",
+        "digital maps",
+        "mapping tools"
+      ]
+    },
+    {
+      "id": "feed:https://somethingaboutmaps.wordpress.com/feed/",
+      "title": "somethingaboutmaps",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://somethingaboutmaps.wordpress.com/feed/",
+      "summary": "My name is Daniel Huffman, and I am a cartographer.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "somethingaboutmaps",
+      "cleaned_author": "Daniel Huffman",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Germany",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "cartography",
+        "maps",
+        "Kickstarter",
+        "ebooks"
+      ]
+    },
+    {
+      "id": "feed:https://roseannechambers.com/feed/",
+      "title": "Dr. Roseanne Chambers \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://roseannechambers.com/feed/",
+      "summary": "Geologist, geographer and writer in the San Francisco Bay Area.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Dr. Roseanne Chambers \u2013 Blog",
+      "cleaned_author": "Dr. Roseanne Chambers",
+      "tags": [
+        "Science",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "geology",
+        "geography",
+        "environmental science"
+      ]
+    },
+    {
+      "id": "feed:https://eos.org/feed",
+      "title": "Editors\u2019 Vox - Eos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://eos.org/feed",
+      "summary": "Eos is the science news magazine published by AGU [Advancing Earth and Space Science].",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Editors\u2019 Vox",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "AGU",
+        "Earth Science",
+        "Climate Change"
+      ]
+    },
+    {
+      "id": "feed:https://geotripper.blogspot.com/feeds/posts/default",
+      "title": "Geotripper",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://geotripper.blogspot.com/feeds/posts/default",
+      "summary": "I am a teacher of geology at Modesto Junior College and former president of the National Association of Geoscience Teachers, Far Western Section.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Geotripper",
+      "cleaned_author": "Geotripper",
+      "tags": [
+        "Science",
+        "Germany",
+        "USA",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "Geology",
+        "Education",
+        "Natural History"
+      ]
+    },
+    {
+      "id": "feed:https://sharonahill.com/feed/",
+      "title": "Spooky Geology",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sharonahill.com/feed/",
+      "summary": "Earth mysteries, weird locations, anomalous phenomena.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Spooky Geology",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Earth Mysteries",
+        "Geology",
+        "Anomalous Phenomena"
+      ]
+    },
+    {
+      "id": "feed:https://www.volcanocafe.org/feed/",
+      "title": "VolcanoCafe",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.volcanocafe.org/feed/",
+      "summary": "Because Volcanoes are Ewesome.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "VolcanoCafe",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Volcanoes",
+        "Earth Science",
+        "Geology"
+      ]
+    },
+    {
+      "id": "feed:https://verfassungsblog.de/feed/",
+      "title": "Verfassungsblog \u2013 On Matters Constitutional",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://verfassungsblog.de/feed/",
+      "summary": "An academic and journalistic open access forum of debate on topical events and developments in constitutional law and politics in Germany, the emerging European constitutional space and beyond.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "Verfassungsblog",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Law",
+        "Europe",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "Constitutional Law",
+        "European Politics",
+        "Legal Debates"
+      ]
+    },
+    {
+      "title": "heise online News",
+      "popularity_score": 6.21626984126984,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.heise.de/rss/heise.rdf",
+      "kind": "feed",
+      "id": "feed:https://www.heise.de/rss/heise.rdf",
+      "cleaned_title": "heise online News",
+      "cleaned_author": null,
+      "summary": "A comprehensive source for technology news, offering insightful reports on developments in the computer and digital sector from a European perspective.",
+      "tags": [
+        "Tech",
+        "Germany",
+        "Internet"
+      ],
+      "language": "de",
+      "keywords": [
+        "technology news",
+        "computer industry",
+        "data privacy"
+      ]
+    },
+    {
+      "title": "tagesschau.de",
+      "popularity_score": 3.0666666666666664,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.tagesschau.de/xml/rss2",
+      "kind": "feed",
+      "id": "feed:http://www.tagesschau.de/xml/rss2",
+      "cleaned_title": "tagesschau.de",
+      "cleaned_author": null,
+      "summary": "Germany's leading news source, providing comprehensive coverage of current affairs and significant events both locally and internationally.",
+      "tags": [
+        "News",
+        "Germany",
+        "World News"
+      ],
+      "language": "de",
+      "keywords": [
+        "news",
+        "current affairs",
+        "Germany"
+      ]
+    },
+    {
+      "title": "Aktuell - FAZ.NET",
+      "popularity_score": 3.2888888888888896,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.faz.net/rss/aktuell/",
+      "kind": "feed",
+      "id": "feed:http://www.faz.net/rss/aktuell/",
+      "cleaned_title": "Aktuell",
+      "cleaned_author": "FAZ.NET",
+      "summary": "A comprehensive source for current events and news across various sectors, including politics, economy, sports, and financial updates.",
+      "tags": [
+        "News",
+        "Politics",
+        "USA",
+        "Germany",
+        "World News"
+      ],
+      "language": "de",
+      "keywords": [
+        "politics",
+        "economy",
+        "sports",
+        "news"
+      ]
+    },
+    {
+      "title": "ZEIT ONLINE | Nachrichten, News, Hintergr\u00fcnde und Debatten",
+      "popularity_score": 2.577380952380952,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://newsfeed.zeit.de/index",
+      "kind": "feed",
+      "id": "feed:http://newsfeed.zeit.de/index",
+      "cleaned_title": "ZEIT ONLINE",
+      "cleaned_author": null,
+      "summary": "A prominent German news outlet offering comprehensive articles, commentary, and analyses across political, economic, and cultural topics.",
+      "tags": [
+        "News",
+        "Germany",
+        "Europe"
+      ],
+      "language": "de",
+      "keywords": [
+        "current events",
+        "politics",
+        "society"
+      ]
+    },
+    {
+      "title": "r/de",
+      "popularity_score": 2.476190476190476,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "de",
+      "kind": "reddit",
+      "id": "reddit:de",
+      "cleaned_title": "r/de",
+      "cleaned_author": null,
+      "summary": "A community hub for German speakers discussing a range of topics relevant to Germany, Austria, and Switzerland, offering insights and news from local regions.",
+      "tags": [
+        "Local",
+        "Germany",
+        "Australia"
+      ],
+      "language": "de",
+      "keywords": [
+        "community",
+        "local news",
+        "Germany"
+      ]
+    }
+  ],
+  "child_categories": []
+}

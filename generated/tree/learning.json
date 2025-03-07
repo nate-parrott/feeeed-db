@@ -1,0 +1,129 @@
+{
+  "id": "learning",
+  "display_name": "Learning",
+  "feeds": [
+    {
+      "title": "r/TodayILearned",
+      "popularity_score": 63.123126643895425,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "TodayILearned",
+      "kind": "reddit",
+      "id": "reddit:TodayILearned",
+      "cleaned_title": "r/TodayILearned",
+      "cleaned_author": null,
+      "summary": "An engaging community on Reddit where users share interesting and often surprising facts that spark curiosity and learning.",
+      "tags": [
+        "Living",
+        "Learning",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "interesting facts",
+        "community",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:schoolofthought.substack.com:School of Thought",
+      "cleaned_title": "School of Thought",
+      "summary": "A blog focusing on evidence-based ideas and making them usable, emphasizing the importance of learning with visual tools.",
+      "title": "School of Thought",
+      "kind": "feed",
+      "feed_url": "https://schoolofthought.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Learning",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "evidence-based learning",
+        "visual learning",
+        "learning strategies"
+      ]
+    },
+    {
+      "id": "bluesky:did:plc:cyyd366g3hrxp5rynixm2mm3",
+      "title": "depthsofwikipedia.bsky.social",
+      "kind": "bluesky",
+      "bluesky_did": "did:plc:cyyd366g3hrxp5rynixm2mm3",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "depthsofwikipedia",
+      "cleaned_author": null,
+      "summary": "This feed explores the depths of Wikipedia, engaging with its vast array of topics in a light-hearted manner, inviting conversations and discussions about unique articles.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Learning",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Wikipedia",
+        "articles",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "feed:https://improvesomething.today/rss/",
+      "title": "Improve something today",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://improvesomething.today/rss/",
+      "summary": "Continuous improvement in a complicated world. By Brian Kerr.",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "Improve something today",
+      "cleaned_author": "Brian Kerr",
+      "tags": [
+        "Living",
+        "Learning"
+      ],
+      "language": "en",
+      "keywords": [
+        "continuous improvement",
+        "patience",
+        "simplicity",
+        "compassion"
+      ]
+    },
+    {
+      "title": "Kurzgesagt \u2013 In a Nutshell",
+      "popularity_score": 2.1706349206349205,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "kind": "youtube",
+      "id": "youtube:channel:UCsXVk37bltHxD1rDPwtNM8Q",
+      "cleaned_title": "Kurzgesagt \u2013 In a Nutshell",
+      "cleaned_author": null,
+      "summary": "A popular educational channel that simplifies complex topics through engaging animation and short videos.",
+      "tags": [
+        "Science",
+        "Learning"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "education",
+        "animation",
+        "short videos"
+      ]
+    }
+  ],
+  "child_categories": []
+}

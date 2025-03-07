@@ -1,0 +1,1249 @@
+{
+  "id": "fashion",
+  "display_name": "Fashion",
+  "feeds": [
+    {
+      "id": "substack:top:hidden.rsrch_-_hidden_\u24d7",
+      "title": "HIDDEN.RSRCH - HIDDEN \u24d7",
+      "cleaned_title": "HIDDEN.RSRCH",
+      "summary": "A creative exploration of past, present, and future through design and culture, offering thought-provoking insights into fashion and lifestyle.",
+      "kind": "feed",
+      "feed_url": "https://www.hiddenrsrch.com/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Design",
+        "Fashion"
+      ],
+      "cleaned_author": "HIDDEN \u24d7",
+      "language": "en",
+      "keywords": [
+        "design",
+        "lifestyle",
+        "culture",
+        "fashion trends"
+      ]
+    },
+    {
+      "id": "substack:top:big_salad_-_joanna_goddard",
+      "title": "Big Salad - Joanna Goddard",
+      "cleaned_title": "Big Salad",
+      "summary": "A lifestyle newsletter offering life advice, fashion suggestions, and personal anecdotes. It combines practical tips with thoughtful reflections on dating and social interactions.",
+      "kind": "feed",
+      "feed_url": "https://joannagoddard.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fashionandbeauty",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Fashion",
+        "Beauty"
+      ],
+      "cleaned_author": "Joanna Goddard",
+      "language": "en",
+      "keywords": [
+        "life advice",
+        "dating gossip",
+        "fashion trends"
+      ]
+    },
+    {
+      "id": "substack:top:throwing_fits",
+      "title": "Throwing Fits",
+      "cleaned_title": "Throwing Fits",
+      "summary": "A popular men's fashion and lifestyle podcast that covers various trends and styles in a humorous and engaging manner. It shares insights into the world of male fashion alongside entertaining discussions.",
+      "kind": "feed",
+      "feed_url": "https://www.throwingfits.com/feed",
+      "details": "Original category: Substack top newsletters about fashionandbeauty",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "_artsy"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "men's fashion",
+        "lifestyle podcast",
+        "style insights"
+      ]
+    },
+    {
+      "id": "substack:top:catching_up_-_mally_k._goldman",
+      "title": "Catching Up - MALLY K. GOLDMAN",
+      "cleaned_title": "Catching Up",
+      "summary": "A newsletter focused on fashion, lifestyle updates, and personal interests explained through relatable experiences and recommendations, from the latest TV shows to beauty products.",
+      "kind": "feed",
+      "feed_url": "https://mallykgoldman.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fashionandbeauty",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Fashion",
+        "Beauty"
+      ],
+      "cleaned_author": "MALLY K. GOLDMAN",
+      "language": "en",
+      "keywords": [
+        "lifestyle",
+        "fashion deals",
+        "personal updates"
+      ]
+    },
+    {
+      "id": "substack:top:5_things_you_should_buy_-_becky_malinsky",
+      "title": "5 Things You Should Buy - Becky Malinsky",
+      "cleaned_title": "5 Things You Should Buy",
+      "summary": "A practical guide for fashion enthusiasts aiming to simplify their wardrobe choices. The newsletter provides curated suggestions for outfits and accessories that resonate with current trends.",
+      "kind": "feed",
+      "feed_url": "https://5thingsyoushouldbuy.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fashionandbeauty",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "cleaned_author": "Becky Malinsky",
+      "language": "en",
+      "keywords": [
+        "fashion tips",
+        "outfit ideas",
+        "accessories"
+      ]
+    },
+    {
+      "id": "substack:top:the_cereal_aisle_by_leandra_medine_cohen",
+      "title": "The Cereal Aisle by Leandra Medine Cohen",
+      "cleaned_title": "The Cereal Aisle",
+      "summary": "A newsletter dedicated to fashion advice and styling tips. It focuses on everyday dressing, making it accessible and relatable for readers who want to enhance their wardrobe.",
+      "kind": "feed",
+      "feed_url": "https://leandramcohen.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fashionandbeauty",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Fashion"
+      ],
+      "cleaned_author": "Leandra Medine Cohen",
+      "language": "en",
+      "keywords": [
+        "fashion advice",
+        "styling tips",
+        "dressing essentials"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Fashionista",
+      "cleaned_title": "Fashionista",
+      "summary": "A website offering fashion news, trends, and features, including coverage of emerging designers and established brands.",
+      "title": "Fashionista",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/fashionistacom",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "designers",
+        "trends"
+      ]
+    },
+    {
+      "id": "youtube:Glamour",
+      "cleaned_title": "Glamour",
+      "summary": "Glamour is a YouTube channel that offers fashion tips, beauty tutorials, and celebrity style inspiration.",
+      "title": "Glamour",
+      "kind": "youtube",
+      "channel_id": "UCY9eEaH19ulZmdusctU1ejA",
+      "thumbnail_url": "https://yt3.ggpht.com/rhkwQmrFDrMepYhEoXpyz8yuacb3DlLuYFZW3nseTupG26l4YST7VWCyjYsWtz_bUa1O0LGpaA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion tips",
+        "beauty",
+        "celebrity style"
+      ]
+    },
+    {
+      "id": "youtube:Vogue",
+      "cleaned_title": "Vogue",
+      "summary": "Vogue's YouTube channel features interviews, behind-the-scenes footage, and fashion content from around the world.",
+      "title": "Vogue",
+      "kind": "youtube",
+      "channel_id": "UCRXiA3h1no_PFkb1JCP0yMA",
+      "thumbnail_url": "https://yt3.ggpht.com/thnzkriwUD98vyhpBpL9VWKVC8S172K84W8VOPwrdUOmXpadThVRv6RRnlIgS3CRpnRjGz6ZOw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "interviews",
+        "fashion",
+        "style"
+      ]
+    },
+    {
+      "id": "reddit:fashion",
+      "cleaned_title": "fashion",
+      "summary": "A subreddit dedicated to fashion enthusiasts, where you can find discussions, inspiration, and updates on designers and brands.",
+      "title": "fashion",
+      "kind": "reddit",
+      "subreddit": "fashion",
+      "details": "Original category: Fashion -> Designers & Brands",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion discussions",
+        "inspiration",
+        "style tips"
+      ]
+    },
+    {
+      "id": "feed:hypebeast.com:Hypebeast",
+      "cleaned_title": "Hypebeast",
+      "summary": "An online magazine covering streetwear, sneakers, music, and art, with a dedicated section for street style.",
+      "title": "Hypebeast",
+      "kind": "feed",
+      "feed_url": "http://hypebeast.com/feed/",
+      "details": "Original category: Fashion -> Street Style",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "streetwear",
+        "sneakers",
+        "contemporary fashion"
+      ]
+    },
+    {
+      "id": "feed:refinery29.uk:Refinery29",
+      "cleaned_title": "Refinery29",
+      "summary": "Refinery29 is a lifestyle website that covers fashion, beauty, and culture from a diverse and inclusive perspective.",
+      "title": "Refinery29",
+      "kind": "feed",
+      "feed_url": "http://www.refinery29.uk/rss.xml",
+      "details": "Original category: Fashion",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion trends",
+        "lifestyle",
+        "diversity"
+      ]
+    },
+    {
+      "id": "feed:anothermag.com:AnOther",
+      "cleaned_title": "AnOther",
+      "summary": "AnOther is a publication that fuses high fashion with artistic expression, offering features on leading designers, artists, and cultural phenomena. It serves as an essential source for those who appreciate the intersection of style and social commentary.",
+      "title": "AnOther",
+      "kind": "feed",
+      "feed_url": "http://www.anothermag.com/feed",
+      "details": "Original category: Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "high fashion",
+        "designers",
+        "art culture"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Highsnobiety",
+      "cleaned_title": "Highsnobiety",
+      "summary": "An online publication covering streetwear, sneakers, and contemporary fashion, with a focus on street style.",
+      "title": "Highsnobiety",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/highsnobiety/rss",
+      "details": "Original category: Fashion -> Street Style",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Fashion",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "streetwear",
+        "sneakers",
+        "fashion trends"
+      ]
+    },
+    {
+      "id": "youtube:THE CASUAL",
+      "cleaned_title": "THE CASUAL",
+      "summary": "A YouTube channel that showcases street style looks, outfit ideas, and fashion tips for both men and women.",
+      "title": "THE CASUAL",
+      "kind": "youtube",
+      "channel_id": "UCnnSPut3diQI4BtrraKpsnA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMJNnv2pL4pOQpGFmlymn2EjuE5Ms9g9fhjS23iMg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Street Style",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Fashion",
+        "Stocks"
+      ],
+      "language": "en",
+      "keywords": [
+        "street fashion",
+        "outfit ideas",
+        "fashion tips"
+      ]
+    },
+    {
+      "id": "reddit:streetwearstartup",
+      "cleaned_title": "streetwearstartup",
+      "summary": "A subreddit focused on streetwear startup brands, featuring discussions, brand showcases, and advice for aspiring designers.",
+      "title": "streetwearstartup",
+      "kind": "reddit",
+      "subreddit": "streetwearstartup",
+      "details": "Original category: Fashion -> Street Style",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "streetwear",
+        "brand development",
+        "fashion community"
+      ]
+    },
+    {
+      "id": "feed:intothegloss.com:Into The Gloss - Beauty Tips, Trends, And Product Reviews",
+      "cleaned_title": "Into The Gloss",
+      "summary": "A beauty website that features interviews, product recommendations, and beauty tips from industry insiders.",
+      "title": "Into The Gloss - Beauty Tips, Trends, And Product Reviews",
+      "kind": "feed",
+      "feed_url": "http://intothegloss.com/feed/",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "beauty tips",
+        "makeup tutorials",
+        "product reviews"
+      ]
+    },
+    {
+      "id": "youtube:Lisa Eldridge",
+      "cleaned_title": "Lisa Eldridge",
+      "summary": "A renowned makeup artist with a YouTube channel that offers tutorials, product reviews, and beauty tips.",
+      "title": "Lisa Eldridge",
+      "kind": "youtube",
+      "channel_id": "UCFghPtzFcmyDiID1ASMA4Dg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqO1nS-Eg4051MafB63-ce7JgC6FhWS0-sEo1Eml_yQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Lisa Eldridge",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "makeup tutorials",
+        "beauty tips",
+        "product reviews"
+      ]
+    },
+    {
+      "id": "youtube:Gothamista",
+      "cleaned_title": "Gothamista",
+      "summary": "A YouTube channel dedicated to skincare, featuring product reviews, ingredient breakdowns, and skincare routines.",
+      "title": "Gothamista",
+      "kind": "youtube",
+      "channel_id": "UC-X4BAoKxwGYIKrKfqk7yug",
+      "thumbnail_url": "https://yt3.ggpht.com/UdUHfsz_oZaas0Q1mzyY4pm8Uh0uGaHYbciHWgMotHu50DpxnQIsvoam9rrAx93x0ivcD-Hwbw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "skincare",
+        "product reviews",
+        "routine tips"
+      ]
+    },
+    {
+      "id": "reddit:SkincareAddiction",
+      "cleaned_title": "SkincareAddiction",
+      "summary": "A subreddit dedicated to skincare enthusiasts, where you can find discussions, product recommendations, and skincare routines.",
+      "title": "SkincareAddiction",
+      "kind": "reddit",
+      "subreddit": "SkincareAddiction",
+      "details": "Original category: Fashion -> Beauty",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "skincare",
+        "product discussions",
+        "community advice"
+      ]
+    },
+    {
+      "id": "feed:businessoffashion.com:Business of Fashion",
+      "cleaned_title": "Business of Fashion",
+      "summary": "A leading online platform for global fashion professionals, covering news, analysis, and insights into the fashion industry.",
+      "title": "Business of Fashion",
+      "kind": "feed",
+      "feed_url": "http://www.businessoffashion.com/feed",
+      "details": "Original category: Fashion -> Designers & Brands",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "industry insights",
+        "business"
+      ]
+    },
+    {
+      "id": "feed:wwd.com:WWDWWD",
+      "cleaned_title": "WWD",
+      "summary": "A leading source for fashion industry news, trends, and analysis, covering designers, brands, and retail.",
+      "title": "WWDWWD",
+      "kind": "feed",
+      "feed_url": "http://www.wwd.com/rss/2/news/recentstories",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Fashion",
+        "Design",
+        "Trains"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion news",
+        "trends",
+        "retail"
+      ]
+    },
+    {
+      "id": "youtube:HYPEBEAST",
+      "cleaned_title": "HYPEBEAST",
+      "summary": "A YouTube channel focusing on streetwear, sneakers, and fashion collaborations, featuring interviews and behind-the-scenes content.",
+      "title": "HYPEBEAST",
+      "kind": "youtube",
+      "channel_id": "UCmd52DyhaO4E1Cvy4RrHuew",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPS3iVfjJqkcLw3fWvlWr5zkaIAHPKOze5Vqwd24Sg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Designers & Brands",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "streetwear",
+        "sneakers",
+        "fashion collaboration"
+      ]
+    },
+    {
+      "id": "youtube:Fashion Roadman",
+      "cleaned_title": "Fashion Roadman",
+      "summary": "A YouTube channel that explores the history of fashion, showcasing iconic designers and their contributions to the industry.",
+      "title": "Fashion Roadman",
+      "kind": "youtube",
+      "channel_id": "UCVmPyrwjL0wepDhmvgzlOcA",
+      "thumbnail_url": "https://yt3.ggpht.com/UHdKB69FoNMuR9l-OH92VGe6d4JSI5HP0KcF_64qlD5QcqrErTChPylJVPBvb5XvPTSsoHAlAg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Designers & Brands",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion history",
+        "designers",
+        "fashion trends"
+      ]
+    },
+    {
+      "id": "youtube:Fashion Channel",
+      "cleaned_title": "Fashion Channel",
+      "summary": "Fashion Channel is a YouTube channel that showcases runway shows, backstage footage, and interviews with fashion designers.",
+      "title": "Fashion Channel",
+      "kind": "youtube",
+      "channel_id": "UCepVy23t8l-CEaASZzfo9Jg",
+      "thumbnail_url": "https://yt3.ggpht.com/LDjxqjRYumJFfV1zHdPpwyV_KhQIqYFI0v5w1j420zb00iTlK4psGtJCV493P_q9BDxvOudUoGY=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "runway shows",
+        "backstage access",
+        "designer interviews"
+      ]
+    },
+    {
+      "id": "youtube:FF Channel",
+      "cleaned_title": "FF Channel",
+      "summary": "FF Channel on YouTube offers a wide range of fashion show videos, including highlights, full shows, and behind-the-scenes content.",
+      "title": "FF Channel",
+      "kind": "youtube",
+      "channel_id": "UC3T5fmgL4Kvk3kG1kF6JFeA",
+      "thumbnail_url": "https://yt3.ggpht.com/AW4fxANQyTYG89MUAdNpE3WXBl8pAvuvyWKO29FuoRvztnOhdEDAgGoM1WUhFrpCweV3zZE_=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion shows",
+        "video coverage",
+        "highlights"
+      ]
+    },
+    {
+      "id": "youtube:FashionTV",
+      "cleaned_title": "FashionTV",
+      "summary": "FashionTV is a YouTube channel that features fashion show coverage, including runway shows, backstage moments, and exclusive interviews.",
+      "title": "FashionTV",
+      "kind": "youtube",
+      "channel_id": "UCqzju-_WMKsgNx8R3QwupQQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM1XJTwOh-pAziDmuapE1KG7nHcuarmxjx3tl-2XY0=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion shows",
+        "backstage",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:fashionweekonline.com:Fashion Week Online\u00ae",
+      "cleaned_title": "Fashion Week Online",
+      "summary": "Fashion Week Online provides coverage of fashion shows worldwide, including photos, videos, and designer profiles.",
+      "title": "Fashion Week Online\u00ae",
+      "kind": "feed",
+      "feed_url": "http://fashionweekonline.com/feed",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion shows",
+        "designer profiles",
+        "London Fashion Week",
+        "AW25"
+      ]
+    },
+    {
+      "id": "feed:fashionweekonline.com:Fashion Week Online\u00ae",
+      "cleaned_title": "Fashion Week Online",
+      "summary": "Fashion Week Online provides coverage of fashion shows worldwide, including photos, videos, and designer profiles.",
+      "title": "Fashion Week Online\u00ae",
+      "kind": "feed",
+      "feed_url": "http://fashionweekonline.com/feed",
+      "details": "Original category: Fashion -> Fashion Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion shows",
+        "designer profiles",
+        "London Fashion Week",
+        "AW25"
+      ]
+    },
+    {
+      "id": "youtube:Josie",
+      "cleaned_title": "Josie",
+      "summary": "A YouTube channel hosted by Josie, sharing fashion hauls, styling tips, and luxury shopping experiences.",
+      "title": "Josie",
+      "kind": "youtube",
+      "channel_id": "UCCmfa729dnJCi_bK7fSNbpw",
+      "thumbnail_url": "https://yt3.ggpht.com/ux_M5mM_vZOYn6UKxgERv-oROXFiqfyes20PaE3jEkrr6ClXCN5Ad1r9BABW-VYaGZtRKkbcDA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion hauls",
+        "styling tips",
+        "luxury shopping"
+      ]
+    },
+    {
+      "id": "youtube:Lydia Elise Millen",
+      "cleaned_title": "Lydia Elise Millen",
+      "summary": "A lifestyle and fashion YouTuber known for her luxury fashion hauls, vlogs, and style inspiration.",
+      "title": "Lydia Elise Millen",
+      "kind": "youtube",
+      "channel_id": "UCoSjnRDZSFVp88NXE7MenLQ",
+      "thumbnail_url": "https://yt3.ggpht.com/Os26y9_2onv28BwhrydVC5Cs9Wz-h0PrtE3BD2Kjnu_OqEMAfwlcc7mZ1nRa_0PpzQBZSjqEN4o=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Lydia Elise Millen",
+      "tags": [
+        "Living",
+        "Fashion",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "lifestyle vlogs",
+        "luxury fashion",
+        "home decor"
+      ]
+    },
+    {
+      "id": "youtube:TheRealRed",
+      "cleaned_title": "TheRealRed",
+      "summary": "A YouTube channel showcasing luxury fashion finds, styling tips, and insights into the world of consignment shopping.",
+      "title": "TheRealRed",
+      "kind": "youtube",
+      "channel_id": "UCaAhl0EekCUq0EIuH_EI6hQ",
+      "thumbnail_url": "https://yt3.ggpht.com/tRX8_lXWwTkspA-7mW59A0SBarYCfOIFo4sD1uS0__kazlVGNw4VHPfVH9gMbSKDM2ubHlmmIw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "luxury fashion",
+        "styling tips",
+        "consignment shopping"
+      ]
+    },
+    {
+      "id": "reddit:frugalmalefashion",
+      "cleaned_title": "frugalmalefashion",
+      "summary": "A subreddit dedicated to finding and sharing deals, discounts, and sales on men's fashion.",
+      "title": "frugalmalefashion",
+      "kind": "reddit",
+      "subreddit": "frugalmalefashion",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Fashion",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "discounts",
+        "men's fashion",
+        "coupons"
+      ]
+    },
+    {
+      "id": "reddit:femalefashionadvice",
+      "cleaned_title": "femalefashionadvice",
+      "summary": "A subreddit for women's fashion advice, discussions, and inspiration.",
+      "title": "femalefashionadvice",
+      "kind": "reddit",
+      "subreddit": "femalefashionadvice",
+      "details": "Original category: Fashion -> Shopping",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Fashion",
+        "Beauty"
+      ],
+      "language": "en",
+      "keywords": [
+        "women's fashion",
+        "fashion advice",
+        "community discussions"
+      ]
+    },
+    {
+      "id": "feed:https://cupofjo.com/feed/",
+      "title": "Cup of Jo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cupofjo.com/feed/",
+      "summary": "A daily women\u2019s lifestyle site that covers style, culture, food, travel, relationships and parenting.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Cup of Jo",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "LGBTQ",
+        "Fashion",
+        "Cooking",
+        "Parenting",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "lifestyle",
+        "relationships",
+        "food"
+      ]
+    },
+    {
+      "id": "feed:https://girlbehindglasses.wordpress.com/feed/",
+      "title": "Girl Behind the Glassese",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://girlbehindglasses.wordpress.com/feed/",
+      "summary": "Beauty, skincare and makeup.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Girl Behind the Glassese",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Beauty",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "beauty",
+        "skincare",
+        "makeup"
+      ]
+    },
+    {
+      "id": "feed:https://frockflicks.com/feed/",
+      "title": "Frock Flicks",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://frockflicks.com/feed/",
+      "summary": "Costume movie reviews & podcast.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "Frock Flicks",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "costume design",
+        "historical film critique",
+        "fashion in film"
+      ]
+    },
+    {
+      "id": "feed:https://string-or-nothing.com/feed/",
+      "title": "String-Or-Nothing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://string-or-nothing.com/feed/",
+      "summary": "Tangled Fiber Thoughts.",
+      "details": "Original Category: arts -> crafts -> knitting.opml",
+      "cleaned_title": "String-Or-Nothing",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "knitting",
+        "fiber arts",
+        "craft"
+      ]
+    },
+    {
+      "id": "feed:https://americanagefashion.com/?feed=rss2",
+      "title": "American Age Fashion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://americanagefashion.com/?feed=rss2",
+      "summary": "The Clothing of Older American Women, 1900-now.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "American Age Fashion",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion history",
+        "women's clothing",
+        "American fashion"
+      ]
+    },
+    {
+      "id": "feed:https://bethsbobbins.blogspot.com/feeds/posts/default",
+      "title": "Beth's Bobbins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bethsbobbins.blogspot.com/feeds/posts/default",
+      "summary": "Living history and historic costuming, with a particular focus on women's clothing and hairstyles of the Victorian and American Civil War periods.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Beth's Bobbins",
+      "cleaned_author": "Beth",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical costuming",
+        "Victorian fashion",
+        "Civil War attire"
+      ]
+    },
+    {
+      "id": "feed:http://clothesinbooks.blogspot.com/feeds/posts/default",
+      "title": "Clothes In Books",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://clothesinbooks.blogspot.com/feeds/posts/default",
+      "summary": "Description of clothes taken from a book, a picture suggested by (rather than illustrative of) the words, plus some observations.",
+      "details": "Original Category: arts -> books.opml",
+      "cleaned_title": "Clothes In Books",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion in literature",
+        "book clothing",
+        "textiles in books"
+      ]
+    },
+    {
+      "id": "feed:https://www.menswearmusings.com/feed/",
+      "title": "Menswear Musings",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.menswearmusings.com/feed/",
+      "summary": "The Trend-Proof Wardrobe.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "Menswear Musings",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "menswear",
+        "classic style",
+        "wardrobe building"
+      ]
+    },
+    {
+      "id": "feed:https://putthison.com/feed/",
+      "title": "Put This On",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://putthison.com/feed/",
+      "summary": "\u2026one of the most widely read sites on men\u2019s style. We focus on classic men\u2019s clothing without being stuffy about the rules.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "Put This On",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "menswear blog",
+        "classic clothing",
+        "style advice"
+      ]
+    },
+    {
+      "id": "feed:https://www.saltwaternewengland.com/feeds/posts/default",
+      "title": "Salt Water New England",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.saltwaternewengland.com/feeds/posts/default",
+      "summary": "The Definitive Guide to The Thing Before Preppy.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "Salt Water New England",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "preppy style",
+        "New England fashion",
+        "cultural history"
+      ]
+    },
+    {
+      "id": "feed:https://thesecondbutton.com/rss/",
+      "title": "The Second Button",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thesecondbutton.com/rss/",
+      "summary": "A men's style blog here to help you see what menswear enthusiasts love about clothing.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "The Second Button",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "menswear",
+        "fashion",
+        "clothing"
+      ]
+    },
+    {
+      "id": "feed:https://www.sewhistorically.com/feed/",
+      "title": "Sew Historically",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sewhistorically.com/feed/",
+      "summary": "Historical Costuming, Old-Fashioned Living, Refashion & DIY, Homemade Natural Beauty Products, Historical Hairstyles, Free Sewing Tutorials, Lace Making, Historical Cooking.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "Sew Historically",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical sewing",
+        "DIY",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "feed:http://thesewinggoatherd.blogspot.com/feeds/posts/default",
+      "title": "The Sewing Goatherd",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thesewinggoatherd.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "The Sewing Goatherd",
+      "cleaned_author": null,
+      "summary": "A whimsical blend of sewing projects inspired by the joys of raising Alpine Dairy goats. This blog shares unique sewing ideas and creations for animal lovers and craft enthusiasts alike.",
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "sewing",
+        "goats",
+        "crafting"
+      ]
+    },
+    {
+      "id": "feed:https://shoegazing.com/feed/",
+      "title": "Shoegazing.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shoegazing.com/feed/",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "Shoegazing.com",
+      "cleaned_author": null,
+      "summary": "Dedicated to quality footwear, this blog discusses various shoe brands and offers insights into the craftsmanship of shoes. It\u2019s an essential read for shoe enthusiasts.",
+      "tags": [
+        "Arts & Culture",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "shoes",
+        "footwear",
+        "fashion"
+      ]
+    },
+    {
+      "id": "feed:https://www.thetimebum.com/feed",
+      "title": "The Time Bum",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thetimebum.com/feed",
+      "summary": "A blog about affordable wrist watches with reviews, guides, commentary and more.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "The Time Bum",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "watches",
+        "affordable",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://thevintagetraveler.wordpress.com/feed/",
+      "title": "The Vintage Traveler",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thevintagetraveler.wordpress.com/feed/",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "The Vintage Traveler",
+      "cleaned_author": "Fuzzylizzie",
+      "summary": "Fuzzylizzie's blog combines fashion and travel with a vintage twist, sharing stories and insights into vintage fashion styles and travel experiences.",
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage fashion",
+        "travel",
+        "style"
+      ]
+    },
+    {
+      "id": "feed:https://witness2fashion.wordpress.com/feed/",
+      "title": "witness2fashion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://witness2fashion.wordpress.com/feed/",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "witness2fashion",
+      "cleaned_author": null,
+      "summary": "A blog that delves into the history of everyday fashion, showcasing trends and styles from various eras.",
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion history",
+        "vintage clothing",
+        "trends"
+      ]
+    }
+  ],
+  "child_categories": []
+}

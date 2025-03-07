@@ -1,0 +1,1454 @@
+{
+  "id": "gadgets",
+  "display_name": "Gadgets",
+  "feeds": [
+    {
+      "id": "feed:theverge.com:The Verge",
+      "cleaned_title": "The Verge",
+      "summary": "A website that covers the latest news, reviews, and features on technology, including the Internet and its impact on society.",
+      "title": "The Verge",
+      "kind": "feed",
+      "feed_url": "http://www.theverge.com/rss/full.xml",
+      "popularity_score": 100.84921108509366,
+      "details": "Original category: Tech -> Internet",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "reviews",
+        "features",
+        "impact"
+      ]
+    },
+    {
+      "id": "feed:feeds.arstechnica.com:Ars Technica",
+      "cleaned_title": "Ars Technica",
+      "summary": "A prominent technology news site that covers a spectrum of tech-related topics, from gadgets to science, often with a deep dive into the implications of new technologies.",
+      "title": "Ars Technica",
+      "kind": "feed",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index/",
+      "popularity_score": 15.744693339786506,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "news",
+        "deep dive"
+      ]
+    },
+    {
+      "id": "feed:stadt-bremerhaven.de:Caschys Blog \u2013 stadt-bremerhaven.de",
+      "cleaned_title": "Caschys Blog",
+      "summary": "German IT and tech news with a focus on software and gadgets.",
+      "title": "Caschys Blog \u2013 stadt-bremerhaven.de",
+      "kind": "feed",
+      "feed_url": "https://stadt-bremerhaven.de/feed",
+      "popularity_score": 2.4563492063492065,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Software Design"
+      ],
+      "language": "de",
+      "keywords": [
+        "tech news",
+        "software",
+        "gadgets",
+        "IT"
+      ]
+    },
+    {
+      "id": "feed:petapixel.com:PetaPixel",
+      "cleaned_title": "PetaPixel",
+      "summary": "A photography-focused site that delivers news, reviews, and inspiration for photographers. It covers a wide array of topics from equipment to artistic insights.",
+      "title": "PetaPixel",
+      "kind": "feed",
+      "feed_url": "https://petapixel.com/feed/",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.3732508829283026,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Tech",
+        "Photos",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "camera news",
+        "equipment reviews"
+      ]
+    },
+    {
+      "id": "youtube:Marques Brownlee",
+      "cleaned_title": "Marques Brownlee",
+      "summary": "Marques Brownlee, also known as MKBHD, is a popular tech YouTuber known for his in-depth reviews and analysis of the latest gadgets.",
+      "title": "Marques Brownlee",
+      "kind": "youtube",
+      "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
+      "thumbnail_url": "https://yt3.ggpht.com/lkH37D712tiyphnu0Id0D5MwwQ7IRuwgQLVD05iMXlDWO-kDHut3uI4MgIEAQ9StK0qOST7fiA=s240-c-k-c0xffffffff-no-rj-mo",
+      "popularity_score": 8.132648597521486,
+      "details": "Original category: Tech -> Gadgets",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": "Marques Brownlee",
+      "tags": [
+        "Tech",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech reviews",
+        "gadgets",
+        "smartphones",
+        "technology"
+      ]
+    },
+    {
+      "id": "youtube:Unbox Therapy",
+      "cleaned_title": "Unbox Therapy",
+      "summary": "Unbox Therapy is a popular YouTube channel that focuses on unboxing and reviewing the latest gadgets and consumer electronics.",
+      "title": "Unbox Therapy",
+      "kind": "youtube",
+      "channel_id": "UCsTcErHg8oDvUnTzoqsYeNw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqO4O0P4rYlp88GPgXAuLo1zOCbrts8wqWbcnui8eA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Gadgets",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "unboxing",
+        "consumer electronics",
+        "gadgets",
+        "reviews"
+      ]
+    },
+    {
+      "id": "youtube:Mrwhosetheboss",
+      "cleaned_title": "Mrwhosetheboss",
+      "summary": "Mrwhosetheboss is a YouTube channel that provides reviews, comparisons, and tips on the latest tech gadgets and innovations.",
+      "title": "Mrwhosetheboss",
+      "kind": "youtube",
+      "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "thumbnail_url": "https://yt3.ggpht.com/enyLBm1Sy8mVRXJJLWHT2z64nqxJGt2g61A9xnxpUjO2YAUovHaY_JT3rnAg0j6Qij9iaHQlAg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech reviews",
+        "gadgets",
+        "comparisons",
+        "tips"
+      ]
+    },
+    {
+      "id": "reddit:gadgets",
+      "cleaned_title": "gadgets",
+      "summary": "A subreddit dedicated to gadgets and technology, featuring news, discussions, and interesting finds.",
+      "title": "gadgets",
+      "kind": "reddit",
+      "subreddit": "gadgets",
+      "details": "Original category: Tech",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "gadgets",
+        "technology",
+        "discussions"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Android Authority",
+      "cleaned_title": "Android Authority",
+      "summary": "Android Authority is a website that focuses on Android-related news, reviews, and tutorials, covering smartphones, apps, and more.",
+      "title": "Android Authority",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/androidauthority",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.0899338354517836,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Mobile",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "Android",
+        "smartphones",
+        "reviews",
+        "apps",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:techradar.com:TechRadar - All the latest technology news",
+      "cleaned_title": "TechRadar",
+      "summary": "TechRadar provides the latest technology news and reviews, covering gadgets, smartphones, gaming, and more.",
+      "title": "TechRadar - All the latest technology news",
+      "kind": "feed",
+      "feed_url": "http://www.techradar.com/rss",
+      "details": "Original category: Tech",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.5399191406509742,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "gadgets",
+        "smartphones",
+        "gaming",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:news.artnet.com:Artnet News",
+      "cleaned_title": "Artnet News",
+      "summary": "Artnet is a comprehensive platform for art market insights, auctions, and online galleries. It provides access to a vast collection of artworks and information about artists, galleries, and art events.",
+      "title": "Artnet News",
+      "kind": "feed",
+      "feed_url": "http://news.artnet.com/feed/",
+      "details": "Original category: Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "art market",
+        "auctions",
+        "artists",
+        "galleries",
+        "art events"
+      ]
+    },
+    {
+      "id": "youtube:Mango Street",
+      "cleaned_title": "Mango Street",
+      "summary": "A YouTube channel hosted by photographers Rachel and Daniel, providing tutorials, tips, and creative ideas for photography.",
+      "title": "Mango Street",
+      "kind": "youtube",
+      "channel_id": "UC5bp5_6h-ZxkBz6S_33ZUVg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaRha_6AD4Hc4gmL7Skip13Sh9DfckSbj0xCCssr0w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Tech",
+        "WebDev",
+        "Gadgets",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "tutorials",
+        "creative ideas"
+      ]
+    },
+    {
+      "id": "youtube:James Hoffmann",
+      "cleaned_title": "James Hoffmann",
+      "summary": "A popular YouTube channel hosted by James Hoffmann, a coffee expert and author, who shares brewing techniques, coffee reviews, and industry insights.",
+      "title": "James Hoffmann",
+      "kind": "youtube",
+      "channel_id": "UCMb0O2CdPBNi-QqPk5T3gsQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM5dw5ZVAuz4UkSPxoKSqagE17Q1pj4zkGPS9L3=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "James Hoffmann",
+      "tags": [
+        "Living",
+        "Education",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "brewing techniques",
+        "coffee reviews",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "feed:multicore.blog:Multicore",
+      "cleaned_title": "Multicore",
+      "summary": "Multicore covers the latest in technology hardware and design from Tokyo. With insights on smartphones and innovative gadgets, it attracts tech enthusiasts interested in cutting-edge developments.",
+      "title": "Multicore",
+      "kind": "feed",
+      "feed_url": "https://www.multicore.blog/feed",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Sam Byford",
+      "tags": [
+        "Tech",
+        "Mobile",
+        "Gadgets",
+        "Japan"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware design",
+        "smartphones",
+        "Oppo",
+        "E Ink",
+        "Japanese tech"
+      ]
+    },
+    {
+      "id": "feed:hothardware.com:HotHardware.com News Rss Feed",
+      "cleaned_title": "HotHardware.com News",
+      "summary": "HotHardware.com offers news on the latest in technology and hardware. Their articles discuss everything from product reviews to the impacts of tech, like the recent changes in Google's search features.",
+      "title": "HotHardware.com News Rss Feed",
+      "kind": "feed",
+      "feed_url": "https://hothardware.com/rss/news.aspx",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware news",
+        "Lenovo ThinkPad",
+        "Valve VR headset",
+        "Mars exploration"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Gadget Flow",
+      "cleaned_title": "Gadget Flow",
+      "summary": "A website that curates and showcases the latest gadgets and innovative products from around the world.",
+      "title": "Gadget Flow",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/thegadgetflow",
+      "details": "Original category: Tech -> Gadgets",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.5021973449629993,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "gadgets",
+        "technology",
+        "product discovery",
+        "crowdfunding"
+      ]
+    },
+    {
+      "id": "feed:https://kk.org/cooltools/feed/",
+      "title": "Cool Tools",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kk.org/cooltools/feed/",
+      "summary": "Cool tools really work. A cool tool can be any book, gadget, software, video, map, hardware, material, or website that is tried and true.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Cool Tools",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Internet",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "tools",
+        "gadgets",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://calbryant.uk/index.xml",
+      "title": "Cal Bryant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://calbryant.uk/index.xml",
+      "summary": "An attempt to document my projects.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Cal Bryant",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "DIY",
+        "Design",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "3D printing",
+        "FPV drone",
+        "speaker cabinets",
+        "python generator"
+      ]
+    },
+    {
+      "id": "feed:https://www.hiro.report/rss/",
+      "title": "The Hiro Report",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hiro.report/rss/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "The Hiro Report",
+      "cleaned_author": null,
+      "summary": "A lighthearted blog covering interesting tech, Apple apps, and quirky finds from the internet, curated to bring fun and practical insights.",
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "gadgets",
+        "Apple"
+      ]
+    },
+    {
+      "id": "feed:https://jcs.org/rss",
+      "title": "joshua stein",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jcs.org/rss",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "joshua stein",
+      "cleaned_author": null,
+      "summary": "A blog focused on technology with posts about hardware and software updates, specifically relating to Apple and accessories.",
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Apple"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "software",
+        "hardware",
+        "accessories"
+      ]
+    },
+    {
+      "id": "feed:https://www.nextbigfuture.com/feed",
+      "title": "NextBigFuture.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nextbigfuture.com/feed",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "NextBigFuture",
+      "cleaned_author": null,
+      "summary": "A technology blog dissecting breakthrough ideas in science and the implications for the future, from AI advancements to space exploration.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Space",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "science",
+        "AI",
+        "space",
+        "future"
+      ]
+    },
+    {
+      "id": "feed:https://www.masswerk.at/nowgobang/feed.xml",
+      "title": "Now Go Bang! \u2013 mass:werk blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.masswerk.at/nowgobang/feed.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Now Go Bang!",
+      "cleaned_author": "Norbert Landsteiner",
+      "summary": "A blog exploring retro computing and programming, particularly focused on the Commodore PET and its community.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "Commodore PET",
+        "programming",
+        "retro computing"
+      ]
+    },
+    {
+      "id": "feed:https://nyanpasu64.gitlab.io/atom.xml",
+      "title": "nyanpasu64's blog | Home",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nyanpasu64.gitlab.io/atom.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "nyanpasu64's blog",
+      "cleaned_author": null,
+      "summary": "A personal blog detailing projects and experiments in programming, hardware repair, and creativity in the realm of DSP and chiptunes.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "DIY",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "hacking",
+        "hardware",
+        "DSP",
+        "chiptune"
+      ]
+    },
+    {
+      "id": "feed:https://www.oreilly.com/radar/feed/index.xml",
+      "title": "Radar \u2013 O\u2019Reilly",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.oreilly.com/radar/feed/index.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Radar",
+      "cleaned_author": null,
+      "summary": "A blog that tracks important trends at the intersection of business and technology, providing insights into emerging developments and their implications.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "business trends",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:https://prolost.com/blog?format=rss",
+      "title": "Prolost",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://prolost.com/blog?format=rss",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Prolost",
+      "cleaned_author": "N/A",
+      "summary": "A blog aimed at filmmakers, offering innovative tips and technology insights for enhancing the filmmaking process with a focus on tech tools.",
+      "tags": [
+        "Tech",
+        "Movies",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "filmmaking",
+        "technology",
+        "iPhone filmmaking"
+      ]
+    },
+    {
+      "id": "feed:https://www.wristwatchreview.com/feed/",
+      "title": "WristWatchReview",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.wristwatchreview.com/feed/",
+      "summary": "Unbiased Wrist Watch Reviews Since 2004.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "WristWatchReview",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "watch reviews",
+        "timepieces",
+        "horology"
+      ]
+    },
+    {
+      "id": "feed:https://brendandawes.com/blog/feed",
+      "title": "Brendan Dawes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brendandawes.com/blog/feed",
+      "summary": "collected thoughts, processes and observations made during the course of making things.",
+      "details": "Original Category: technology -> graphics.opml",
+      "cleaned_title": "Brendan Dawes",
+      "cleaned_author": "Brendan Dawes",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "generative art",
+        "Brendan Dawes",
+        "design thoughts"
+      ]
+    },
+    {
+      "id": "feed:https://blog.atmtxphoto.com/feed/",
+      "title": "atmtx photo blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.atmtxphoto.com/feed/",
+      "summary": "For the Love of Photography + Stories + Gear.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "atmtx photo blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Gadgets",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "gear",
+        "stories"
+      ]
+    },
+    {
+      "id": "feed:https://fujixweekly.com/feed/",
+      "title": "FUJI X WEEKLY | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fujixweekly.com/feed/",
+      "summary": "A photography blog dedicated to all things Fujifilm.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "FUJI X WEEKLY",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Photos",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fujifilm",
+        "photography tips",
+        "gear reviews",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://www.thephoblographer.com/feed/",
+      "title": "The Phoblographer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thephoblographer.com/feed/",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Phoblographer",
+      "cleaned_author": null,
+      "summary": "A photography blog known for its informal yet insightful reviews and discussions about the latest camera gear and industry trends.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Gadgets",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "camera reviews",
+        "photography gear"
+      ]
+    },
+    {
+      "id": "feed:https://www.yankodesign.com/feed/",
+      "title": "Yanko Design",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.yankodesign.com/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Yanko Design",
+      "cleaned_author": null,
+      "summary": "A modern industrial design blog that showcases the latest trends, innovative products, and insights into design aesthetics.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "industrial design",
+        "innovation",
+        "products",
+        "trends"
+      ]
+    },
+    {
+      "id": "feed:https://synthanatomy.com/feed",
+      "title": "SYNTH ANATOMY",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://synthanatomy.com/feed",
+      "summary": "Music Tech News, Reviews, Events, Music.",
+      "details": "Original Category: arts -> music -> musical-instruments.opml",
+      "cleaned_title": "SYNTH ANATOMY",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "synthesizers",
+        "music tech",
+        "reviews",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:https://chitareconcert.wordpress.com/feed/",
+      "title": "Alexandru Marian Spanish Guitars",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chitareconcert.wordpress.com/feed/",
+      "summary": "Maker of Spanish Guitars.",
+      "details": "Original Category: arts -> music -> musical-instruments -> guitars.opml",
+      "cleaned_title": "Alexandru Marian Spanish Guitars",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "Spanish guitars",
+        "luthier",
+        "guitar making"
+      ]
+    },
+    {
+      "id": "feed:https://www.guitarpedalx.com/Syndication/DF.cfm?f=5&ft=10",
+      "title": "Guitar Pedal X - News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.guitarpedalx.com/Syndication/DF.cfm?f=5&ft=10",
+      "summary": "A resource for enthusiasts of guitar gear, offering reviews and comparisons of the latest pedals, amps, and accessories in the music industry.",
+      "details": "Original Category: arts -> music -> musical-instruments -> guitars.opml",
+      "cleaned_title": "Guitar Pedal X",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Music",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "guitar pedals",
+        "gear reviews",
+        "music technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.bunniestudios.com/blog/feed/",
+      "title": "bunnie's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bunniestudios.com/blog/feed/",
+      "summary": "A blog that engages readers with various discussions around hardware through fun challenges and competitions, encouraging community interaction.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "bunnie's blog",
+      "cleaned_author": "bunnie",
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware challenges",
+        "community",
+        "bunnie's blog"
+      ]
+    },
+    {
+      "id": "feed:https://chipsandcheese.com/feed/",
+      "title": "Chips and Cheese \u2013 The Devil is in the Details",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chipsandcheese.com/feed/",
+      "summary": "Technology news, reviews, insights and leaks with a real technical twist, and the occasional rant or two...",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Chips and Cheese \u2013 The Devil is in the Details",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware analysis",
+        "Intel",
+        "software insights"
+      ]
+    },
+    {
+      "id": "feed:https://ericmigi.com/rss.xml",
+      "title": "Eric Migicovsky's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ericmigi.com/rss.xml",
+      "summary": "I'm an inventor who loves creating new products, including Pebble (the first smartwatch) and Beeper (a universal chat app).",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Eric Migicovsky's Blog",
+      "cleaned_author": "Eric Migicovsky",
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "Pebble",
+        "Beeper",
+        "open source"
+      ]
+    },
+    {
+      "id": "feed:https://goingbacktoelectronic.blogspot.com/feeds/posts/default",
+      "title": "Going back to electronic after a 20 years break",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://goingbacktoelectronic.blogspot.com/feeds/posts/default",
+      "summary": "A blog focused on the exploration of electronic hardware and development after a significant hiatus, featuring projects like voltage translators and debugging tools.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Going Back to Electronic",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "voltage translator",
+        "debugging",
+        "SWINDLE",
+        "RP2040"
+      ]
+    },
+    {
+      "id": "feed:https://liliputing.com/feed/",
+      "title": "Liliputing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://liliputing.com/feed/",
+      "summary": "Compact Computing (News, reviews, and info about tablets, notebooks, smartphones, and more).",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Liliputing",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "laptops",
+        "tablets",
+        "smartphones",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.roboticgizmos.com/feed/",
+      "title": "Robot Gizmos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.roboticgizmos.com/feed/",
+      "summary": "Covering the latest robots, robotic gizmos, coding kits, AI research, and advancements in the world of bionics.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Robot Gizmos",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "robots",
+        "AI",
+        "coding kits",
+        "bionics"
+      ]
+    },
+    {
+      "id": "feed:https://brooksreview.net/feed/",
+      "title": "The Brooks Review",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brooksreview.net/feed/",
+      "summary": "About what draws my interest. My obsession with finding the what is best. Not \u2018for most people\u2019, the best thing I can find.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "The Brooks Review",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "reviews",
+        "gear",
+        "quality"
+      ]
+    },
+    {
+      "id": "feed:https://www.carryology.com/feed/",
+      "title": "Carryology | Exploring Better Ways to Carry",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.carryology.com/feed/",
+      "summary": "We share insights, ideas and inspiration about bags, luggage, wallets and other goods that help you carry, with the hope that you can keep the things that are most precious to you close by when you go out to conquer the world.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Carryology | Exploring Better Ways to Carry",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "bags",
+        "travel",
+        "gear"
+      ]
+    },
+    {
+      "id": "feed:https://everydaycarry.com/feed/",
+      "title": "Everyday Carry - What are your EDC essentials?",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://everydaycarry.com/feed/",
+      "summary": "A peek into the pockets of people worldwide, showcasing our every day essentials.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Everyday Carry",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "EDC",
+        "gear",
+        "daily essentials"
+      ]
+    },
+    {
+      "id": "feed:https://www.everydaycommentary.com/www.everydaycommentary.com?format=rss",
+      "title": "Everyday Commentary",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.everydaycommentary.com/www.everydaycommentary.com?format=rss",
+      "summary": "A blog that features reviews and commentary on various everyday carry gear and accessories.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Everyday Commentary",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "gear reviews",
+        "EDC",
+        "accessories"
+      ]
+    },
+    {
+      "id": "feed:https://tgreviews.com/feed/",
+      "title": "Grizzly's Reviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tgreviews.com/feed/",
+      "summary": "Honest and Detailed Flashlight Reviews from an Enthusiast.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Grizzly's Reviews",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "flashlights",
+        "reviews",
+        "enthusiast"
+      ]
+    },
+    {
+      "id": "feed:https://zakreviews.com/feeds/all.atom.xml",
+      "title": "Zak Reviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://zakreviews.com/feeds/all.atom.xml",
+      "summary": "A blog focused on reviewing various EDC flashlights and gear, providing insights and detailed comparisons.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Zak Reviews",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "flashlights",
+        "EDC",
+        "gear reviews"
+      ]
+    },
+    {
+      "id": "feed:https://zeroair.org/feed/",
+      "title": "ZeroAir Reviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://zeroair.org/feed/",
+      "summary": "A site for things that interest a flashlight fan!",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "ZeroAir Reviews",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "flashlights",
+        "EDC",
+        "gear reviews"
+      ]
+    },
+    {
+      "id": "feed:https://cafleurebon.com/feed/",
+      "title": "\u00c7aFleureBon Perfume Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cafleurebon.com/feed/",
+      "summary": "A top 5 award-winning fragrance site featuring perfume reviews, interviews with master perfumers and articles on ingredients in perfumery.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "\u00c7aFleureBon",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gadgets",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance",
+        "perfume reviews",
+        "interviews",
+        "perfume ingredients"
+      ]
+    },
+    {
+      "id": "feed:https://frompyrgos.blogspot.com/feeds/posts/default",
+      "title": "From Pyrgos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://frompyrgos.blogspot.com/feeds/posts/default",
+      "summary": "From Pyrgos delves into niche perfume offerings, providing detailed insights and reviews that cater to fragrance enthusiasts seeking unique scents.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "From Pyrgos",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gadgets",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "niche perfume",
+        "fragrance reviews"
+      ]
+    },
+    {
+      "id": "feed:https://nstperfume.com/feed/",
+      "title": "Now Smell This",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nstperfume.com/feed/",
+      "summary": "A perfume blog, featuring perfume reviews and the latest on new perfume launches, online fragrance discounts, home fragrance products, perfume books and more.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Now Smell This",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gadgets",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "perfume reviews",
+        "new fragrance",
+        "fragrance discounts"
+      ]
+    },
+    {
+      "id": "feed:https://bikepacking.com/feed/",
+      "title": "BIKEPACKING.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bikepacking.com/feed/",
+      "summary": "The resource for the latest bikepacking routes, gear reviews, insight & adventure stories.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "BIKEPACKING.com",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Cycling",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "bikepacking",
+        "routes",
+        "gear reviews",
+        "adventure stories"
+      ]
+    },
+    {
+      "id": "feed:https://theradavist.com/feed/",
+      "title": "The Radavist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theradavist.com/feed/",
+      "summary": "The Radavist is a group of individuals who share a love of cycling and the outdoors.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "The Radavist",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Cycling",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling community",
+        "outdoor passion",
+        "gear reviews"
+      ]
+    },
+    {
+      "title": "\u7231\u8303\u513f \u2013 ifanr.com",
+      "popularity_score": 5.466666666666667,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.ifanr.com/feed",
+      "kind": "feed",
+      "id": "feed:https://www.ifanr.com/feed",
+      "cleaned_title": "\u7231\u8303\u513f",
+      "cleaned_author": null,
+      "summary": "A platform highlighting the intersection of technology and lifestyle, with in-depth reviews and analyses of the latest gadgets and innovations in the tech field.",
+      "tags": [
+        "Tech",
+        "Gadgets"
+      ],
+      "language": "zh",
+      "keywords": [
+        "technology",
+        "product reviews",
+        "gadgets"
+      ]
+    },
+    {
+      "title": "appgefahren.de",
+      "popularity_score": 5.142857142857142,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.feedburner.com/appgefahren",
+      "kind": "feed",
+      "id": "feed:http://feeds.feedburner.com/appgefahren",
+      "cleaned_title": "appgefahren",
+      "cleaned_author": null,
+      "summary": "A blog focusing on Apple devices, offering insights and reviews on iPhones, iPads, and Macs with a particular emphasis on current deals and technology updates.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Gadgets",
+        "Coding"
+      ],
+      "language": "de",
+      "keywords": [
+        "iPhone",
+        "iPad",
+        "Mac",
+        "tech reviews",
+        "Apple news"
+      ]
+    },
+    {
+      "title": "Applesfera \u2013 weblogssl.com",
+      "popularity_score": 4.20952380952381,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.weblogssl.com/applesfera",
+      "kind": "feed",
+      "id": "feed:http://feeds.weblogssl.com/applesfera",
+      "cleaned_title": "Applesfera",
+      "cleaned_author": null,
+      "summary": "A resourceful blog covering the Apple ecosystem, featuring news, analyses, offers, tutorials, and opinions on various Apple products.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Gadgets"
+      ],
+      "language": "es",
+      "keywords": [
+        "Apple products",
+        "news",
+        "tutorials",
+        "offers"
+      ]
+    },
+    {
+      "title": "iphone-ticker.de",
+      "popularity_score": 2.7069444444444444,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.iphone-ticker.de/feed/",
+      "kind": "feed",
+      "id": "feed:http://www.iphone-ticker.de/feed/",
+      "cleaned_title": "iphone-ticker.de",
+      "cleaned_author": null,
+      "summary": "A source of news and updates focused specifically on iPhone developments and the Apple ecosystem.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Gadgets"
+      ],
+      "language": "de",
+      "keywords": [
+        "iPhone",
+        "Apple news",
+        "technology"
+      ]
+    },
+    {
+      "title": "\u5c11\u6570\u6d3e - \u70ed\u95e8\u6587\u7ae0 \u2013 mifaw.com",
+      "popularity_score": 2.354761904761905,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928",
+      "kind": "feed",
+      "id": "feed:https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c92450e3882afa09dff5928",
+      "cleaned_title": "\u5c11\u6570\u6d3e",
+      "cleaned_author": null,
+      "summary": "A curated collection of trending articles from Mifaw, covering various topics including technology and lifestyle insights.",
+      "tags": [
+        "Tech",
+        "Living",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "zh",
+      "keywords": [
+        "AI",
+        "trending",
+        "experience",
+        "reviews"
+      ]
+    },
+    {
+      "title": "\u6781\u5ba2\u516c\u56ed \u2013 geekpark.net",
+      "popularity_score": 2.111111111111111,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.geekpark.net/",
+      "kind": "feed",
+      "id": "feed:http://feeds.geekpark.net/",
+      "cleaned_title": "\u6781\u5ba2\u516c\u56ed",
+      "cleaned_author": null,
+      "summary": "A technology-centric platform that discusses the latest in AI, gadgets, and innovations from China. Featuring insights on major tech figures and their products.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Gadgets",
+        "Internet",
+        "China"
+      ],
+      "language": "zh",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Gadget News",
+        "Technology Innovation"
+      ]
+    }
+  ],
+  "child_categories": []
+}

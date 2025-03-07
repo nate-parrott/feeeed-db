@@ -1,0 +1,224 @@
+{
+  "id": "classical",
+  "display_name": "Classical",
+  "feeds": [
+    {
+      "id": "feed:http://www.theincredibleinman.com/feeds/posts/default",
+      "title": "The Incredible Inman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.theincredibleinman.com/feeds/posts/default",
+      "summary": "Writeups About Show Biz Stuff, Old-Timey and Otherwise.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "The Incredible Inman",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "show business",
+        "classic films",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:https://greenbriarpictureshows.blogspot.com/feeds/posts/default",
+      "title": "Greenbriar Picture Shows",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://greenbriarpictureshows.blogspot.com/feeds/posts/default",
+      "summary": "Classic movie site with rare images (no web grabs!), original ads, and behind-the-scenes photos, with informative and insightful commentary.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Greenbriar Picture Shows",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "movie history",
+        "film commentary"
+      ]
+    },
+    {
+      "id": "feed:https://hometownstohollywood.com/feed/",
+      "title": "Hometowns to Hollywood",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hometownstohollywood.com/feed/",
+      "summary": "Exploring the hometowns and legacies of Hollywood's Golden Age stars.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Hometowns to Hollywood",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hollywood history",
+        "celebrity hometowns",
+        "legacy of stars"
+      ]
+    },
+    {
+      "id": "feed:https://thelastdrivein.com/feed/",
+      "title": "The Last Drive In",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thelastdrivein.com/feed/",
+      "summary": "The blog\u2019s atmosphere is one of nostalgia for those golden days when Silver Screen met tube with dials overflowing with memorable actors, writers, directors, and visionaries.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "The Last Drive In",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "nostalgia",
+        "classic cinema",
+        "film analysis"
+      ]
+    },
+    {
+      "id": "feed:https://nitrateglow.wordpress.com/feed/",
+      "title": "nitrateglow",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nitrateglow.wordpress.com/feed/",
+      "summary": "I like to viddy the old films now and then.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "nitrateglow",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "classic cinema",
+        "movie discussions"
+      ]
+    },
+    {
+      "id": "feed:https://www.outofthepastblog.com/feeds/posts/default",
+      "title": "Out of the Past",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.outofthepastblog.com/feeds/posts/default",
+      "summary": "A blog about classic film, old Hollywood stars, actors and actresses, directors, books about stars and movies and much more.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Out of the Past",
+      "cleaned_author": "Raquel",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "Hollywood stars",
+        "movie reviews",
+        "film history"
+      ]
+    },
+    {
+      "id": "feed:https://shadowsandsatin.wordpress.com/feed/",
+      "title": "shadowsandsatin",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shadowsandsatin.wordpress.com/feed/",
+      "summary": "where the worlds of film noir and pre-code collide.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "shadowsandsatin",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "film noir",
+        "pre-code films",
+        "movie analysis"
+      ]
+    },
+    {
+      "id": "feed:https://silverscenesblog.blogspot.com/feeds/posts/default",
+      "title": "Silver Scenes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silverscenesblog.blogspot.com/feeds/posts/default",
+      "summary": "Covering the world of classic movies from the silents to the mid 1960s via bios, movie reviews, rare photos and fun trivia.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Silver Scenes",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic movies",
+        "film trivia",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:https://silverscreenings.org/feed/",
+      "title": "Silver Screenings",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silverscreenings.org/feed/",
+      "summary": "Ruth's Old Movie Reviews.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Silver Screenings",
+      "cleaned_author": "Ruth",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Classical"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic film reviews",
+        "old movies",
+        "film insights"
+      ]
+    }
+  ],
+  "child_categories": []
+}

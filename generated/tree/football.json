@@ -1,0 +1,238 @@
+{
+  "id": "football",
+  "display_name": "Football",
+  "feeds": [
+    {
+      "id": "substack:top:bald_faced_truth_by_john_canzano",
+      "title": "Bald Faced Truth by John Canzano",
+      "cleaned_title": "Bald Faced Truth",
+      "summary": "A sports columnist shares insights on college football and related topics, offering unique commentary and analysis.",
+      "kind": "feed",
+      "feed_url": "https://www.johncanzano.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "News",
+        "Living",
+        "Politics",
+        "Sports",
+        "USA",
+        "Football"
+      ],
+      "cleaned_author": "John Canzano",
+      "language": "en",
+      "keywords": [
+        "college football",
+        "sports",
+        "gambling",
+        "Pac-12"
+      ]
+    },
+    {
+      "id": "substack:top:split_zone_duo",
+      "title": "Split Zone Duo",
+      "cleaned_title": "Split Zone Duo",
+      "summary": "An engaging independent podcast and newsletter exploring all things college football with in-depth discussions and analysis.",
+      "kind": "feed",
+      "feed_url": "https://www.splitzoneduo.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Living",
+        "Sports",
+        "Football"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "college football",
+        "NIL",
+        "coaching carousel",
+        "offseason"
+      ]
+    },
+    {
+      "id": "feed:skysports.com:SkySports | News",
+      "cleaned_title": "SkySports",
+      "summary": "A source for the latest news in Formula 1, delivering reports on race results, driver performances, and updates from the paddock.",
+      "title": "SkySports | News",
+      "kind": "feed",
+      "feed_url": "http://www.skysports.com/rss/0,20514,12433,00.xml",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Sports",
+        "Football"
+      ],
+      "language": "en",
+      "keywords": [
+        "Formula 1",
+        "racing news",
+        "drivers",
+        "F1 testing",
+        "team updates"
+      ]
+    },
+    {
+      "id": "youtube:NFL",
+      "cleaned_title": "NFL",
+      "summary": "The official YouTube channel of the National Football League (NFL) featuring game highlights, player interviews, analysis, and more.",
+      "title": "NFL",
+      "kind": "youtube",
+      "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMEhkqBg1B3kByYb9JYScyGo-G7eHpM6l9o7Z_hHU4=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Football"
+      ],
+      "language": "en",
+      "keywords": [
+        "NFL",
+        "scouting",
+        "game highlights"
+      ]
+    },
+    {
+      "id": "reddit:sports",
+      "cleaned_title": "sports",
+      "summary": "A subreddit dedicated to all things sports, where users can discuss and share news, highlights, and opinions about various sports and leagues.",
+      "title": "sports",
+      "kind": "reddit",
+      "subreddit": "sports",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Hip-Hop"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports discussion",
+        "highlights",
+        "OP-ED"
+      ]
+    },
+    {
+      "id": "feed:theathletic.com:Latest Headlines \u2013 The Athletic",
+      "cleaned_title": "Latest Headlines \u2013 The Athletic",
+      "summary": "A sports news outlet known for its comprehensive coverage of various sports, providing breaking news, player insights, and detailed layers of analysis.",
+      "title": "Latest Headlines \u2013 The Athletic",
+      "kind": "feed",
+      "feed_url": "https://theathletic.com/feeds/rss/news/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "The Athletic",
+        "sports coverage",
+        "breaking news"
+      ]
+    },
+    {
+      "id": "feed:thesportsletter.com:The Sportsletter",
+      "cleaned_title": "The Sportsletter",
+      "summary": "A curated newsletter offering updates on key sports events, analyses, and future matchups, perfect for fans looking to stay informed and engaged.",
+      "title": "The Sportsletter",
+      "kind": "feed",
+      "feed_url": "https://www.thesportsletter.com/feed/",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Basketball",
+        "Football"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports updates",
+        "event analysis",
+        "fan engagement"
+      ]
+    },
+    {
+      "id": "reddit:soccer",
+      "cleaned_title": "soccer",
+      "summary": "A subreddit for soccer fans to discuss matches, news, and everything related to the beautiful game.",
+      "title": "soccer",
+      "kind": "reddit",
+      "subreddit": "soccer",
+      "details": "Original category: Sports -> Football",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Football",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "soccer news",
+        "match discussions",
+        "football community"
+      ]
+    },
+    {
+      "id": "reddit:FootballTactics",
+      "cleaned_title": "FootballTactics",
+      "summary": "A subreddit dedicated to discussing football tactics, formations, and strategies.",
+      "title": "FootballTactics",
+      "kind": "reddit",
+      "subreddit": "FootballTactics",
+      "details": "Original category: Sports -> Football",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Football",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "tactics",
+        "form formations",
+        "strategies"
+      ]
+    }
+  ],
+  "child_categories": []
+}

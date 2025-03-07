@@ -1,0 +1,294 @@
+{
+  "id": "war",
+  "display_name": "War",
+  "feeds": [
+    {
+      "id": "substack:top:tipping_point_prophecy_update_-_jimmy_evans",
+      "title": "Tipping Point Prophecy Update - Jimmy Evans",
+      "cleaned_title": "Tipping Point Prophecy Update",
+      "summary": "Daily insights and analysis on current events through the lens of biblical prophecy, hosted by Jimmy Evans and others.",
+      "kind": "feed",
+      "feed_url": "https://endtimes.substack.com/feed",
+      "details": "Original category: Substack top newsletters about faith",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "War"
+      ],
+      "cleaned_author": "Jimmy Evans",
+      "language": "en",
+      "keywords": [
+        "prophecy",
+        "current events",
+        "analysis",
+        "faith"
+      ]
+    },
+    {
+      "id": "youtube:The Great War",
+      "cleaned_title": "The Great War",
+      "summary": "A YouTube channel that covers the events of World War I week by week, providing detailed insights and analysis.",
+      "title": "The Great War",
+      "kind": "youtube",
+      "channel_id": "UCUcyEsEjhPEDf69RRVhRh4A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQYw94pT_1zwFj_oZnVYczz7bNii7tkZvkiPx0vMg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "War",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "World War I",
+        "documentaries",
+        "historical analysis"
+      ]
+    },
+    {
+      "id": "feed:https://www.fauxhammer.com/blog/feed/",
+      "title": "FauxHammer - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fauxhammer.com/blog/feed/",
+      "summary": "For Miniature Painters, Hobbyists and fans of Painting Games Workshop Miniatures. We also review Tools and Accessories used to support your modelling goals.",
+      "details": "Original Category: arts -> games -> tabletop-games -> war-games.opml",
+      "cleaned_title": "FauxHammer",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "War",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "miniature painting",
+        "tutorials",
+        "modeling"
+      ]
+    },
+    {
+      "id": "feed:https://magpieandoldlead.blogspot.com/feeds/posts/default",
+      "title": "Magpie and Old Lead",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://magpieandoldlead.blogspot.com/feeds/posts/default",
+      "summary": "A focused exploration of miniature painting and the intricate details involved in creating tabletop models.",
+      "details": "Original Category: arts -> games -> tabletop-games.opml",
+      "cleaned_title": "Magpie and Old Lead",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "War",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "miniatures",
+        "modeling",
+        "tabletop games"
+      ]
+    },
+    {
+      "id": "feed:http://mojobob.blogspot.com/feeds/posts/default",
+      "title": "Shouting Into The Void",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://mojobob.blogspot.com/feeds/posts/default",
+      "summary": "Fitz's Roleplaying, Wargaming and Modeling-related blather.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Shouting Into The Void",
+      "cleaned_author": "Fitz",
+      "tags": [
+        "Arts & Culture",
+        "War",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "roleplaying",
+        "wargaming",
+        "modeling"
+      ]
+    },
+    {
+      "id": "feed:https://www.keepyourpowderdry.co.uk/feeds/posts/default",
+      "title": "Keep Your Powder Dry",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.keepyourpowderdry.co.uk/feeds/posts/default",
+      "summary": "English Civil War wargaming, British Civil Wars, Wars of the Three Kingdoms.",
+      "details": "Original Category: arts -> games -> tabletop-games -> war-games.opml",
+      "cleaned_title": "Keep Your Powder Dry",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "War"
+      ],
+      "language": "en",
+      "keywords": [
+        "wargaming",
+        "English Civil War",
+        "tabletop games",
+        "painting"
+      ]
+    },
+    {
+      "id": "feed:http://ttfix.blogspot.com/feeds/posts/default",
+      "title": "Tabletop Fix",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://ttfix.blogspot.com/feeds/posts/default",
+      "summary": "Unofficial - Independent - Non-Commercial.",
+      "details": "Original Category: arts -> games -> tabletop-games -> war-games.opml",
+      "cleaned_title": "Tabletop Fix",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "War"
+      ],
+      "language": "en",
+      "keywords": [
+        "Kickstarter",
+        "tabletop gaming",
+        "new releases"
+      ]
+    },
+    {
+      "id": "feed:https://taleofpainters.com/feed/",
+      "title": "Tale of Painters \u00bb Classic Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://taleofpainters.com/feed/",
+      "summary": "Free Warhammer painting tutorials, hobby reviews, and miniature showcases on Tale of Painters, the unofficial Warhammer hobby magazine.",
+      "details": "Original Category: arts -> games -> tabletop-games -> war-games.opml",
+      "cleaned_title": "Tale of Painters",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "War"
+      ],
+      "language": "en",
+      "keywords": [
+        "Warhammer",
+        "miniature painting",
+        "hobby reviews"
+      ]
+    },
+    {
+      "id": "feed:https://worldsinminiature.com/posts_feed",
+      "title": "Worlds in Miniature",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://worldsinminiature.com/posts_feed",
+      "summary": "A hobby photo blog.",
+      "details": "Original Category: arts -> games -> tabletop-games -> war-games.opml",
+      "cleaned_title": "Worlds in Miniature",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "War"
+      ],
+      "language": "en",
+      "keywords": [
+        "miniatures",
+        "hobby blog",
+        "photography"
+      ]
+    },
+    {
+      "id": "feed:https://airminded.org/feed/",
+      "title": "Airminded",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://airminded.org/feed/",
+      "summary": "Airpower and British society, 1908-1941 (mostly).",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "Airminded",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "UK",
+        "War",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://flintlockandtomahawk.blogspot.com/feeds/posts/default",
+      "title": "Flintlock and tomahawk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://flintlockandtomahawk.blogspot.com/feeds/posts/default",
+      "summary": "American warfare 1690-1835 in popular culture, art, in miniature and in wargames, through Living History and in movies.",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "Flintlock and Tomahawk",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "History",
+        "War"
+      ],
+      "language": "en",
+      "keywords": [
+        "American warfare",
+        "reenactment",
+        "popular culture",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://laststandonzombieisland.com/feed/",
+      "title": "laststandonzombieisland",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://laststandonzombieisland.com/feed/",
+      "summary": "Weapons, Wars, Preparation and Security from a recovering gun nut turned bad writer.",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "laststandonzombieisland",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "War",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "weapons",
+        "military",
+        "security",
+        "preparation"
+      ]
+    }
+  ],
+  "child_categories": []
+}

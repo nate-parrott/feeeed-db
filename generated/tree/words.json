@@ -1,0 +1,233 @@
+{
+  "id": "words",
+  "display_name": "Words",
+  "feeds": [
+    {
+      "id": "feed:feeds.feedburner.com:The Atlantic",
+      "cleaned_title": "The Atlantic",
+      "summary": "A publication navigating the intersections of culture, politics, and society through thoughtful essays and investigative reporting.",
+      "title": "The Atlantic",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/TheAtlantic",
+      "popularity_score": 15.519871128593945,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Arts & Culture",
+        "USA",
+        "Words",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "culture",
+        "politics",
+        "society",
+        "investigative"
+      ]
+    },
+    {
+      "id": "feed:lithub.com:Literary  Hub",
+      "cleaned_title": "Literary Hub",
+      "summary": "An online hub for literary culture, featuring articles, interviews, and essays about books and authors.",
+      "title": "Literary  Hub",
+      "kind": "feed",
+      "feed_url": "http://lithub.com/feed/",
+      "details": "Original category: Hobbies -> Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "literary culture",
+        "book reviews",
+        "author interviews"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/LongStoryShortPier",
+      "title": "Long story; short pier",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/LongStoryShortPier",
+      "summary": "God, hes left as on aur oun.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Long story; short pier",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "language",
+        "reflective"
+      ]
+    },
+    {
+      "id": "feed:https://onefoottsunami.com/feed/atom/",
+      "title": "One Foot Tsunami",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://onefoottsunami.com/feed/atom/",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "One Foot Tsunami",
+      "cleaned_author": null,
+      "summary": "A blog that presents an eclectic mix of thoughts and musings, often with a whimsical touch. The content ranges from intriguing observations to creative experiments, inviting readers to consider the unexpected.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "thoughts",
+        "whimsy",
+        "musings"
+      ]
+    },
+    {
+      "id": "feed:https://www.thingsmagazine.net/feed/",
+      "title": "things magazine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thingsmagazine.net/feed/",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "things magazine",
+      "cleaned_author": null,
+      "summary": "An insightful magazine that delves into a wide array of topics, encouraging readers to discover the unusual facets of knowledge and culture through engaging articles and reflections.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "culture",
+        "engaging articles",
+        "insightful reflections"
+      ]
+    },
+    {
+      "id": "feed:https://soundstudiesblog.com/feed/",
+      "title": "Sounding Out!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soundstudiesblog.com/feed/",
+      "summary": "pushing sound studies into the red since 2009.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "Sounding Out!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Hip-Hop",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "sound studies",
+        "music culture",
+        "hip-hop analysis"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/brainpickings/rss",
+      "title": "The Marginalian",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/brainpickings/rss",
+      "summary": "Marginalia on our search for meaning.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "The Marginalian",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "meaning",
+        "philosophy",
+        "cultural exploration"
+      ]
+    },
+    {
+      "id": "feed:https://brooksandbecks.blogspot.com/feeds/posts/default",
+      "title": "Becks and Brown Trout, Bamboo too",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brooksandbecks.blogspot.com/feeds/posts/default",
+      "summary": "A blog about fly fishing the becks and rivers of North Yorkshire.",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "Becks and Brown Trout, Bamboo too",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Fiction",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "fly fishing",
+        "North Yorkshire",
+        "bamboo rods"
+      ]
+    },
+    {
+      "id": "feed:electricliterature.com:Electric Literature",
+      "cleaned_title": "Electric Literature",
+      "summary": "An online magazine that publishes fiction, essays, and book reviews, with a focus on diverse and innovative literature.",
+      "title": "Electric Literature",
+      "kind": "feed",
+      "feed_url": "http://electricliterature.com/feed/",
+      "details": "Original category: Hobbies -> Reading",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "reading",
+        "fiction",
+        "diversity",
+        "book reviews"
+      ]
+    }
+  ],
+  "child_categories": []
+}

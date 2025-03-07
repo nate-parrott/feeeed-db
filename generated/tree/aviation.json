@@ -1,0 +1,299 @@
+{
+  "id": "aviation",
+  "display_name": "Aviation",
+  "feeds": [
+    {
+      "id": "substack:top:the_airline_observer_-_brian_sumers",
+      "title": "The Airline Observer - Brian Sumers",
+      "cleaned_title": "The Airline Observer",
+      "summary": "A newsletter that delves into the airline industry, providing insights and updates aimed at professionals in the field.",
+      "kind": "feed",
+      "feed_url": "https://www.theairlineobserver.com/feed",
+      "details": "Original category: Substack top newsletters about travel",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "News",
+        "Aviation",
+        "USA"
+      ],
+      "cleaned_author": "Brian Sumers",
+      "language": "en",
+      "keywords": [
+        "airlines",
+        "business",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "feed:skift.com:Skift",
+      "cleaned_title": "Skift",
+      "summary": "A leading source for travel news, particularly focused on airline and hotel industries, providing in-depth reporting on trends and changes in tourism.",
+      "title": "Skift",
+      "kind": "feed",
+      "feed_url": "http://skift.com/feed/",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Living",
+        "Aviation",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel news",
+        "tourism",
+        "airlines"
+      ]
+    },
+    {
+      "id": "feed:flightradar24.com:Flightradar24 Blog",
+      "cleaned_title": "Flightradar24 Blog",
+      "summary": "A website that tracks live air traffic and provides real-time flight information, including flight status, aircraft details, and airport information.",
+      "title": "Flightradar24 Blog",
+      "kind": "feed",
+      "feed_url": "http://www.flightradar24.com/blog/feed/",
+      "details": "Original category: Travel -> Transport & Flights",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "aviation",
+        "flights",
+        "air travel"
+      ]
+    },
+    {
+      "id": "youtube:Sam Chui",
+      "cleaned_title": "Sam Chui",
+      "summary": "A YouTube channel hosted by aviation enthusiast Sam Chui, featuring flight reviews, airport tours, and aviation-related content.",
+      "title": "Sam Chui",
+      "kind": "youtube",
+      "channel_id": "UCfYCRj25JJQ41JGPqiqXmJw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPK9UJjQkjWsom8N2N1Qm8H1Q4REwih93pkvBcprQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Transport & Flights",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Sam Chui",
+      "tags": [
+        "Local",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "aviation reviews",
+        "travel",
+        "airlines"
+      ]
+    },
+    {
+      "id": "youtube:DennisBunnik Travels",
+      "cleaned_title": "DennisBunnik Travels",
+      "summary": "A YouTube channel hosted by Dennis Bunnik, featuring travel vlogs, flight reviews, and aviation-related content.",
+      "title": "DennisBunnik Travels",
+      "kind": "youtube",
+      "channel_id": "UCQrk97MBH6DToctKRfQJcNQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMRGK-iXB6Ap4lCSAu6jwcgDAkUmLWNiWsZ1v1o8-c=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Transport & Flights",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Dennis Bunnik",
+      "tags": [
+        "Local",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel vlogs",
+        "flight reviews",
+        "aviation"
+      ]
+    },
+    {
+      "id": "youtube:Simply Aviation",
+      "cleaned_title": "Simply Aviation",
+      "summary": "A YouTube channel hosted by aviation enthusiast and pilot Martin, featuring flight reviews, airport tours, and aviation-related content.",
+      "title": "Simply Aviation",
+      "kind": "youtube",
+      "channel_id": "UCEF-9XhkdyFY0hMRUkmxXfQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM4LVTcK_sqM1ReBHL3HSbBezeXSQLfEpSzEjNFJQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Transport & Flights",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Martin",
+      "tags": [
+        "Local",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "flight reports",
+        "aviation reviews",
+        "travel experiences"
+      ]
+    },
+    {
+      "id": "feed:https://simpleflying.com/feed/",
+      "title": "Simple Flying",
+      "kind": "feed",
+      "feed_url": "https://simpleflying.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Simple Flying",
+      "cleaned_author": null,
+      "summary": "An independent voice in aviation, Simple Flying provides comprehensive news and insights into the airline industry, covering everything from operational updates to travel trends.",
+      "tags": [
+        "News",
+        "Tech",
+        "Aviation",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "aviation news",
+        "airlines",
+        "travel"
+      ]
+    },
+    {
+      "id": "feed:https://shkspr.mobi/blog/feed/atom/",
+      "title": "Terence Eden\u2019s Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Terence Eden\u2019s Blog",
+      "cleaned_author": "Terence Eden",
+      "summary": "A blog where Terence Eden explores topics in technology and accessibility, combining personal insights with practical advice.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Aviation",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "accessibility",
+        "technology reviews",
+        "coding insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.cpushack.com/feed/",
+      "title": "The CPU Shack",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cpushack.com/feed/",
+      "summary": "A museum for the history of processors and CPUs and how they have changed our world. Includes Intel, AMD as well as lesser known companies such as Signetics.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "The CPU Shack",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "History",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "CPU history",
+        "Intel",
+        "AMD"
+      ]
+    },
+    {
+      "id": "feed:https://www.airlinereporter.com/feed/",
+      "title": "AirlineReporter",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.airlinereporter.com/feed/",
+      "summary": "A Place to Share Your Passion for Airlines. Home of the AvGeek!",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "AirlineReporter",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Aviation",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "airlines",
+        "aviation",
+        "travel",
+        "aircraft",
+        "airline news"
+      ]
+    },
+    {
+      "id": "feed:https://balloonstodrones.com/feed/",
+      "title": "From Balloons to Drones \u2013 Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://balloonstodrones.com/feed/",
+      "summary": "Air Power throughout the Ages.",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "From Balloons to Drones",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Aviation",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "air power",
+        "aerospace history",
+        "military technology"
+      ]
+    },
+    {
+      "id": "feed:https://hushkit.net/feed/",
+      "title": "Hush-Kit",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hushkit.net/feed/",
+      "summary": "The alternative aviation magazine.",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "Hush-Kit",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "aviation",
+        "military aircraft",
+        "aircraft analysis"
+      ]
+    }
+  ],
+  "child_categories": []
+}

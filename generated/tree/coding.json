@@ -1,0 +1,2191 @@
+{
+  "id": "coding",
+  "display_name": "Coding",
+  "feeds": [
+    {
+      "id": "substack:top:the_pragmatic_engineer_-_gergely_orosz",
+      "title": "The Pragmatic Engineer - Gergely Orosz",
+      "cleaned_title": "The Pragmatic Engineer",
+      "summary": "A focused look at the inner workings of Big Tech and startups, this newsletter offers valuable insights for software engineers and managers, presenting relevant industry trends and expert commentary.",
+      "kind": "feed",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top",
+        "original_feed_db"
+      ],
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Coding",
+        "Internet",
+        "_intellectual"
+      ],
+      "cleaned_author": "Gergely Orosz",
+      "language": "en",
+      "keywords": [
+        "software engineering",
+        "Big Tech",
+        "startups"
+      ]
+    },
+    {
+      "id": "substack:top:bytebytego_newsletter_-_alex_xu",
+      "title": "ByteByteGo Newsletter - Alex Xu",
+      "cleaned_title": "ByteByteGo Newsletter",
+      "summary": "A technology newsletter that simplifies complex systems, focusing on system design insights for developers. It attracts a community of over 1,000,000 readers eager to learn about scalability and architecture.",
+      "kind": "feed",
+      "feed_url": "https://blog.bytebytego.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top",
+        "crowdsourced_popular"
+      ],
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "popularity_score": 2.274074074074074,
+      "cleaned_author": "Alex Xu",
+      "language": "en",
+      "keywords": [
+        "system design",
+        "microservices",
+        "software architecture"
+      ]
+    },
+    {
+      "id": "substack:top:computer,_enhance!_-_casey_muratori",
+      "title": "Computer, Enhance! - Casey Muratori",
+      "cleaned_title": "Computer, Enhance!",
+      "summary": "Offering a range of programming courses and engaging commentary, this newsletter caters to enthusiasts eager to enhance their coding skills and technical knowledge.",
+      "kind": "feed",
+      "feed_url": "https://www.computerenhance.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Coding",
+        "Education",
+        "_intellectual"
+      ],
+      "cleaned_author": "Casey Muratori",
+      "language": "en",
+      "keywords": [
+        "programming",
+        "courses",
+        "technical skills"
+      ]
+    },
+    {
+      "id": "feed:googletesting.blogspot.com:Google Testing Blog",
+      "cleaned_title": "Google Testing Blog",
+      "summary": "This blog focuses on testing and quality assurance in software development, offering insights and practices to enhance coding efficiency and quality.",
+      "title": "Google Testing Blog",
+      "kind": "feed",
+      "feed_url": "http://googletesting.blogspot.com/feeds/posts/default",
+      "details": "Original category: Business",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "software testing",
+        "coding practices",
+        "quality assurance"
+      ]
+    },
+    {
+      "id": "feed:ieeexplore.ieee.org:IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "cleaned_title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "summary": "A digital library providing access to scientific and technical content published by the Institute of Electrical and Electronics Engineers (IEEE) and its publishing partners.",
+      "title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "kind": "feed",
+      "feed_url": "http://ieeexplore.ieee.org/rss/TOC34.XML",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "machine learning",
+        "AI research",
+        "pattern recognition"
+      ]
+    },
+    {
+      "id": "youtube:Y Combinator",
+      "cleaned_title": "Y Combinator",
+      "summary": "Y Combinator is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. Their YouTube channel features talks and interviews with successful startup founders.",
+      "title": "Y Combinator",
+      "kind": "youtube",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "thumbnail_url": "https://yt3.ggpht.com/mSqaIvHn4agaznTzuOZg8-cbSl8rt_K5FhkyQ_C6_VhPfXZagDrS1OvkLz9Dyax9fq7Curoo=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "WebDev",
+        "AI",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "startup",
+        "entrepreneurship",
+        "funding",
+        "mentorship"
+      ]
+    },
+    {
+      "id": "feed:tomshw.it:Tom's Hardware",
+      "cleaned_title": "Tom's Hardware",
+      "summary": "Tom's Hardware offers news, reviews, and guides on computer hardware, including CPUs, GPUs, storage devices, and peripherals.",
+      "title": "Tom's Hardware",
+      "kind": "feed",
+      "feed_url": "http://www.tomshw.it/rss_news.xml",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware",
+        "reviews",
+        "guides",
+        "CPUs",
+        "GPUs"
+      ]
+    },
+    {
+      "id": "feed:servethehome.com:ServeTheHome",
+      "cleaned_title": "ServeTheHome",
+      "summary": "ServeTheHome provides comprehensive reviews of servers and workstations, focusing on the latest technology in hardware. Their posts feature deep dives into trending tech like NVMe and cutting-edge processors.",
+      "title": "ServeTheHome",
+      "kind": "feed",
+      "feed_url": "https://www.servethehome.com/feed/",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "server reviews",
+        "workstation",
+        "hardware",
+        "NVMe",
+        "Intel Xeon",
+        "Cisco"
+      ]
+    },
+    {
+      "id": "youtube:Traversy Media",
+      "cleaned_title": "Traversy Media",
+      "summary": "A YouTube channel that offers tutorials and courses on web development, including HTML, CSS, JavaScript, and more.",
+      "title": "Traversy Media",
+      "kind": "youtube",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaT_7mZQjCdmaa3h1bJ-jUspCCfvL_1MNLRWYP-L3A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "tutorials",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "youtube:The Coding Train",
+      "cleaned_title": "The Coding Train",
+      "summary": "The Coding Train is a YouTube channel hosted by Daniel Shiffman, where he explores creative coding, programming tutorials, and software development projects.",
+      "title": "The Coding Train",
+      "kind": "youtube",
+      "channel_id": "UCvjgXvBlbQiydffZU7m1_aw",
+      "thumbnail_url": "https://yt3.ggpht.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Daniel Shiffman",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Coding",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "creative coding",
+        "tutorials",
+        "ml5.js",
+        "projects",
+        "Daniel Shiffman"
+      ]
+    },
+    {
+      "id": "feed:blog.stackoverflow.com:Stack Overflow Blog",
+      "cleaned_title": "Stack Overflow Blog",
+      "summary": "A question and answer site for programmers, where you can find solutions to coding problems and seek help from the community.",
+      "title": "Stack Overflow Blog",
+      "kind": "feed",
+      "feed_url": "http://blog.stackoverflow.com/feed/",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:codinginterviewsmadesimple.substack.com:Technology Made Simple",
+      "cleaned_title": "Technology Made Simple",
+      "summary": "Offers accessible and thorough insights into programming, software engineering careers, and tech management, catering to both developers and industry leaders.",
+      "title": "Technology Made Simple",
+      "kind": "feed",
+      "feed_url": "https://codinginterviewsmadesimple.substack.com/feed",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:codefaster.substack.com:CodeFaster",
+      "cleaned_title": "CodeFaster",
+      "summary": "Devoted to improving coding efficiency, this blog shares pragmatic advice and reflections aimed at helping developers enhance their programming skills.",
+      "title": "CodeFaster",
+      "kind": "feed",
+      "feed_url": "https://codefaster.substack.com/feed",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:sentdex",
+      "cleaned_title": "sentdex",
+      "summary": "A YouTube channel that offers tutorials and practical examples of machine learning and data analysis using Python.",
+      "title": "sentdex",
+      "kind": "youtube",
+      "channel_id": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPYFBC1JDRcLeC0R6fkKICvCVeCEpuiyUr78MeUkA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "machine learning",
+        "Python",
+        "data analysis"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/codinghorror/",
+      "title": "Coding Horror",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/codinghorror/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Coding Horror",
+      "cleaned_author": null,
+      "summary": "A blog that intersects programming and human factors, providing humorous insights on software development and the tech industry.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "software development",
+        "humor",
+        "tech insights"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/tokyodev",
+      "title": "TokyoDev | Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/tokyodev",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "TokyoDev | Articles",
+      "cleaned_author": null,
+      "summary": "A valuable resource for developers navigating the Japanese technology industry, providing insights into workplace dynamics and career tips.",
+      "tags": [
+        "Tech",
+        "Japan",
+        "Software Design",
+        "Coding",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japan",
+        "tech",
+        "developers",
+        "multinational teams",
+        "work culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.robinsloan.com/lab.xml",
+      "title": "Dragoncatcher the blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.robinsloan.com/lab.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Dragoncatcher the blog",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to technology, focusing on various topics including personal projects, software development, and insights into app creation.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "apps",
+        "software",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.holovaty.com/rss/",
+      "title": "Holovaty.com | Article archive",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.holovaty.com/rss/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Holovaty.com",
+      "cleaned_author": "Adrian Holovaty",
+      "summary": "A personal blog by Adrian Holovaty sharing thoughts on technology, music composition, and reflections from his programming pursuits.",
+      "tags": [
+        "Tech",
+        "Music",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Adrian Holovaty",
+        "music",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.masswerk.at/nowgobang/feed.xml",
+      "title": "Now Go Bang! \u2013 mass:werk blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.masswerk.at/nowgobang/feed.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Now Go Bang!",
+      "cleaned_author": "Norbert Landsteiner",
+      "summary": "A blog exploring retro computing and programming, particularly focused on the Commodore PET and its community.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "Commodore PET",
+        "programming",
+        "retro computing"
+      ]
+    },
+    {
+      "id": "feed:https://nyanpasu64.gitlab.io/atom.xml",
+      "title": "nyanpasu64's blog | Home",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nyanpasu64.gitlab.io/atom.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "nyanpasu64's blog",
+      "cleaned_author": null,
+      "summary": "A personal blog detailing projects and experiments in programming, hardware repair, and creativity in the realm of DSP and chiptunes.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "DIY",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "hacking",
+        "hardware",
+        "DSP",
+        "chiptune"
+      ]
+    },
+    {
+      "id": "feed:https://andrich.me/feed/",
+      "title": "Oliver Andrich",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://andrich.me/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Oliver Andrich",
+      "cleaned_author": null,
+      "summary": "A blog focused on programming insights and personal reflections, shedding light on the technical aspects of modern software development.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "Django",
+        "software development",
+        "tech insights"
+      ]
+    },
+    {
+      "id": "feed:https://slab.org/feed/",
+      "title": "Alex McLean \u2013 Making music with text[ure]",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://slab.org/feed/",
+      "summary": "A blog focused on the intersection of music and coding, exploring innovative ways to create music using text and algorithms.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Alex McLean \u2013 Making music with text[ure]",
+      "cleaned_author": "Alex McLean",
+      "tags": [
+        "Tech",
+        "Music",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "algorithmic music",
+        "music technology",
+        "programming"
+      ]
+    },
+    {
+      "id": "feed:https://www.hoverstat.es/rss.xml",
+      "title": "HOVERSTAT.ES",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hoverstat.es/rss.xml",
+      "summary": "The home of alternative design, code and content on the world wide web.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "HOVERSTAT.ES",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital design",
+        "coding",
+        "creative projects"
+      ]
+    },
+    {
+      "id": "feed:https://scottjehl.com/feed.xml",
+      "title": "Scott Jehl, Web Designer/Developer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scottjehl.com/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Scott Jehl",
+      "cleaned_author": "Scott Jehl",
+      "summary": "A thoughtful exploration of web design and development, focusing on practical insights, presentations, and essential links for front-end developers.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "frontend development",
+        "CSS",
+        "HTML"
+      ]
+    },
+    {
+      "id": "feed:https://www.david-smith.org/atom.xml",
+      "title": "David Smith, Independent iOS Developer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.david-smith.org/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "David Smith, Independent iOS Developer",
+      "cleaned_author": "David Smith",
+      "summary": "A blog by independent developer David Smith, featuring insights and reflections on iOS development and the tech industry.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "iOS development",
+        "technology",
+        "software engineering"
+      ]
+    },
+    {
+      "id": "feed:https://chipsandcheese.com/feed/",
+      "title": "Chips and Cheese \u2013 The Devil is in the Details",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chipsandcheese.com/feed/",
+      "summary": "Technology news, reviews, insights and leaks with a real technical twist, and the occasional rant or two...",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Chips and Cheese \u2013 The Devil is in the Details",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware analysis",
+        "Intel",
+        "software insights"
+      ]
+    },
+    {
+      "id": "feed:https://goingbacktoelectronic.blogspot.com/feeds/posts/default",
+      "title": "Going back to electronic after a 20 years break",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://goingbacktoelectronic.blogspot.com/feeds/posts/default",
+      "summary": "A blog focused on the exploration of electronic hardware and development after a significant hiatus, featuring projects like voltage translators and debugging tools.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Going Back to Electronic",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "voltage translator",
+        "debugging",
+        "SWINDLE",
+        "RP2040"
+      ]
+    },
+    {
+      "id": "feed:https://netninja.com/feed/",
+      "title": "Netninja.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://netninja.com/feed/",
+      "summary": "A web log of Brian's projects.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Netninja.com",
+      "cleaned_author": "Brian",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "political stickers",
+        "Tangara",
+        "Unfiction Forums"
+      ]
+    },
+    {
+      "id": "feed:https://allenpike.com/feed/",
+      "title": "Allen Pike, pixel crafter",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://allenpike.com/feed/",
+      "summary": "Allen Pike writes about making nice software, building teams, and other tricky things.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Allen Pike",
+      "cleaned_author": "Allen Pike",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "software",
+        "teams",
+        "development"
+      ]
+    },
+    {
+      "id": "feed:https://lucumr.pocoo.org/feed.atom",
+      "title": "Armin Ronacher's Thoughts and Writings | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lucumr.pocoo.org/feed.atom",
+      "summary": "A personal blog dedicated to programming insights, games, and the occasional random musing from a seasoned developer.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Armin Ronacher's Thoughts and Writings",
+      "cleaned_author": "Armin Ronacher",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "development",
+        "thoughts"
+      ]
+    },
+    {
+      "id": "feed:https://brett.trpstra.net/brettterpstra",
+      "title": "BrettTerpstra.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brett.trpstra.net/brettterpstra",
+      "summary": "Welcome to the lab.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "BrettTerpstra.com",
+      "cleaned_author": "Brett Terpstra",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "coding",
+        "automation",
+        "productivity"
+      ]
+    },
+    {
+      "id": "feed:https://www.djmannion.net/feed.rss",
+      "title": "Damien Mannion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.djmannion.net/feed.rss",
+      "summary": "I'm interested in science, research, education, and technology.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Damien Mannion",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "data types",
+        "half-marathon",
+        "visualizations"
+      ]
+    },
+    {
+      "id": "feed:https://danielmangum.com/posts/index.xml",
+      "title": "Daniel Mangum \u00b7 Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://danielmangum.com/posts/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Daniel Mangum \u00b7 Posts",
+      "cleaned_author": "Daniel Mangum",
+      "summary": "Daniel Mangum shares his expertise through posts about technology and development, covering topics like wireless technology and modem communication, ideal for tech enthusiasts and developers.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Wi-Fi stack",
+        "Qualcomm modem",
+        "USB",
+        "inter-processor communication"
+      ]
+    },
+    {
+      "id": "feed:https://bower.sh/rss",
+      "title": "erock's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bower.sh/rss",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "erock's blog",
+      "cleaned_author": "Eric Bower",
+      "summary": "A personal blog where Eric Bower shares reflections on programming, life in tech, and explorations in structured concurrency and development.",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing",
+        "homelab",
+        "structured concurrency",
+        "zig"
+      ]
+    },
+    {
+      "title": "fasterthanli.me",
+      "popularity_score": 2.0444444444444443,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://fasterthanli.me/index.xml",
+      "kind": "feed",
+      "id": "feed:https://fasterthanli.me/index.xml",
+      "cleaned_title": "fasterthanli.me",
+      "cleaned_author": "Amos",
+      "summary": "A blog featuring tech musings and projects, where Amos shares insights on Rust programming and other technology topics, offering a peek into innovative solutions and ideas.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Rust",
+        "asynchronous programming",
+        "software development"
+      ]
+    },
+    {
+      "id": "feed:https://offby1.website/feeds/all.atom.xml",
+      "title": "Ideas.Offby1",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://offby1.website/feeds/all.atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Ideas.Offby1",
+      "cleaned_author": null,
+      "summary": "A blog that explores various technology topics with a focus on practical applications and tools. Recent posts discuss workplace dynamics, remote server management, and coding best practices.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "development",
+        "remote management"
+      ]
+    },
+    {
+      "id": "feed:https://granary.io/url?input=html&output=rss&url=https://jamesg.blog",
+      "title": "James' Coffee Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://granary.io/url?input=html&output=rss&url=https://jamesg.blog",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "James' Coffee Blog",
+      "cleaned_author": "James",
+      "summary": "A personal blog that blends reflections on coffee culture with technical insights into web development. It offers a unique look at creativity in both coffee and code.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee",
+        "web development",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://jerrynsh.com/rss/",
+      "title": "Jerry Ng's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jerrynsh.com/rss/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Jerry Ng's blog",
+      "cleaned_author": "Jerry Ng",
+      "summary": "A resourceful blog containing practical advice and tutorials on programming, specifically using Go. It emphasizes common challenges and solutions in software development.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "Go programming",
+        "software development",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://jvns.ca/atom.xml",
+      "title": "Julia Evans",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jvns.ca/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Julia Evans",
+      "cleaned_author": "Julia Evans",
+      "summary": "A technical blog that sheds light on software usage and terminal setups. It breaks down complex topics into digestible insights for developers.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "terminal",
+        "system setup",
+        "programming tips"
+      ]
+    },
+    {
+      "id": "feed:https://ktheory.com/rss.xml",
+      "title": "ktheory",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ktheory.com/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "ktheory",
+      "cleaned_author": "Aaron Suggs",
+      "summary": "A personal blog exploring topics related to technology and development, providing insights on management strategies and database design.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "management",
+        "technology",
+        "database design",
+        "social energy"
+      ]
+    },
+    {
+      "id": "feed:https://lambdacreate.com/static/feed.xml",
+      "title": "(lambda (x) (create x))",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lambdacreate.com/static/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "(lambda (x) (create x))",
+      "cleaned_author": null,
+      "summary": "A unique blog driven by Lua and coffee, focusing on creative projects and technical explorations.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Lua",
+        "blogging",
+        "Docker",
+        "open source"
+      ]
+    },
+    {
+      "id": "feed:https://learnbyexample.github.io/atom.xml",
+      "title": "learnbyexample",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://learnbyexample.github.io/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "learnbyexample",
+      "cleaned_author": null,
+      "summary": "A resourceful blog providing lessons on Python, Linux, and various scripting techniques, along with tech-related nuggets.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "Linux",
+        "scripting",
+        "Regex"
+      ]
+    },
+    {
+      "id": "feed:https://blog.adamchalmers.com/atom.xml",
+      "title": "A Less Mad March",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.adamchalmers.com/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "A Less Mad March",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to exploring Rust programming, sharing insights and personal experiences related to the language.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Rust",
+        "programming",
+        "conferences"
+      ]
+    },
+    {
+      "id": "feed:https://cheeaun.com/blog/feed.xml",
+      "title": "Lim Chee Aun \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cheeaun.com/blog/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Lim Chee Aun \u2013 Blog",
+      "cleaned_author": "Lim Chee Aun",
+      "summary": "An introspective blog reviewing past years and sharing personal reflections and stories.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "reviews",
+        "reflections",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:http://www.linusakesson.net/rssfeed.php",
+      "title": "linusakesson.net",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.linusakesson.net/rssfeed.php",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "linusakesson.net",
+      "cleaned_author": "Linus Akesson",
+      "summary": "The creative hub of Linus Akesson, featuring experimental projects and innovative concepts in technology.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "projects",
+        "innovation"
+      ]
+    },
+    {
+      "id": "feed:https://www.lkhrs.com/blog/index.xml",
+      "title": "Luke's Wild Website - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.lkhrs.com/blog/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Luke's Wild Website - Blog",
+      "cleaned_author": null,
+      "summary": "A personal blog sharing creative projects, photography, and various technological tips.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "website tips",
+        "creative projects"
+      ]
+    },
+    {
+      "id": "feed:https://macwright.com/rss.xml",
+      "title": "macwright.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://macwright.com/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "macwright.com",
+      "cleaned_author": null,
+      "summary": "A blog exploring JavaScript, mathematics, and mapping technologies.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "JavaScript",
+        "math",
+        "maps"
+      ]
+    },
+    {
+      "id": "feed:https://mariocarrion.com/index.xml",
+      "title": "Mario Carrion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mariocarrion.com/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Mario Carrion",
+      "cleaned_author": null,
+      "summary": "Updates and discussions on programming in Go, including software architecture and new features.",
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Go 1.24",
+        "Neovim",
+        "software architecture"
+      ]
+    },
+    {
+      "id": "feed:https://journal.paoloamoroso.com/feed/",
+      "title": "Paolo Amoroso's Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://journal.paoloamoroso.com/feed/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Paolo Amoroso's Journal",
+      "cleaned_author": "Paolo Amoroso",
+      "summary": "Thoughts on technology, programming, and personal projects from a seasoned developer.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Linux",
+        "uLisp",
+        "interpinkie"
+      ]
+    },
+    {
+      "id": "feed:https://blog.ploeh.dk/rss.xml",
+      "title": "ploeh blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.ploeh.dk/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "ploeh blog",
+      "cleaned_author": null,
+      "summary": "A blog that delves into Danish software design, offering insights into encapsulation, data modeling, and dependency management.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "software design",
+        "C#",
+        "dependency inversion",
+        "data relationships"
+      ]
+    },
+    {
+      "id": "feed:http://www.rabbitfarm.com/cgi-bin/blosxom/index.rss",
+      "title": "RabbitFarm",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.rabbitfarm.com/cgi-bin/blosxom/index.rss",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "RabbitFarm",
+      "cleaned_author": "Adam Russell",
+      "summary": "Adam Russell shares thoughtful explorations of programming challenges, particularly through the lens of Prolog and optimization techniques.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "Prolog",
+        "programming challenges",
+        "optimization techniques"
+      ]
+    },
+    {
+      "id": "feed:https://ronjeffries.com/feed.xml",
+      "title": "RonJeffries.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ronjeffries.com/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "RonJeffries.com",
+      "cleaned_author": "Ronald E Jeffries",
+      "summary": "Ron Jeffries offers a blend of programming articles, insights on Extreme Programming, and personal reflections in a long-running blog.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "Extreme Programming",
+        "software testing"
+      ]
+    },
+    {
+      "id": "feed:https://til.simonwillison.net/tils/feed.atom",
+      "title": "Simon Willison: TIL",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://til.simonwillison.net/tils/feed.atom",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Simon Willison: TIL",
+      "cleaned_author": "Simon Willison",
+      "summary": "Simon Willison covers practical tech insights and personal learnings, focusing on Python, cloud services, and software development.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design",
+        "WebDev",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "cloud",
+        "software development",
+        "web applications"
+      ]
+    },
+    {
+      "id": "feed:https://slatecave.net/atom.xml",
+      "title": "Slatians hideout on the Web | slatecave.net",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://slatecave.net/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Slatians hideout on the Web",
+      "cleaned_author": null,
+      "summary": "A blog providing various tech insights, from LDAP to Lua, aimed at helping developers enhance their knowledge and skills.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "_alternative"
+      ],
+      "language": "en",
+      "keywords": [
+        "OpenLDAP",
+        "Lua",
+        "search engines"
+      ]
+    },
+    {
+      "id": "feed:https://stratus3d.com/atom.xml",
+      "title": "Software Engineering, Web Development and 3D Design - Stratus3D",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stratus3d.com/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Software Engineering, Web Development and 3D Design - Stratus3D",
+      "cleaned_author": null,
+      "summary": "Stratus3D focuses on a wide array of software engineering topics, including hardware reviews and programming in diverse languages.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "software engineering",
+        "hardware reviews",
+        "3D design",
+        "Rust"
+      ]
+    },
+    {
+      "id": "feed:https://blog.thea.codes/feed.xml",
+      "title": "Stargirl (Thea) Flowers - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.thea.codes/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Stargirl (Thea) Flowers - Blog",
+      "cleaned_author": "Thea Flowers",
+      "summary": "Thea Flowers' blog reflects on personal experiences with technology and leadership while also touching on creativity and design.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "leadership",
+        "creativity",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://www.suffix.be/feeds/blog.xml",
+      "title": "Suffix - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.suffix.be/feeds/blog.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Suffix",
+      "cleaned_author": null,
+      "summary": "A blog that explores various topics within technology, from reading lists to fitness gear and reflections on gaming.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "fitness",
+        "gaming"
+      ]
+    },
+    {
+      "id": "feed:https://www.swiftjectivec.com/feed.xml",
+      "title": "Swiftjective-C",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.swiftjectivec.com/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Swiftjective-C",
+      "cleaned_author": null,
+      "summary": "A blog for iOS developers and indie programmers that delves into Swift programming and Apple technologies.",
+      "tags": [
+        "Tech",
+        "Mobile",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Swift",
+        "iOS",
+        "Apple"
+      ]
+    },
+    {
+      "id": "feed:https://vickiboykis.com/index.xml",
+      "title": "Tech Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://vickiboykis.com/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Tech Blog",
+      "cleaned_author": "Vicki Boykis",
+      "summary": "A technology blog that covers a range of topics, from coding practices to personal reflections on favorite books.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "books",
+        "coding"
+      ]
+    },
+    {
+      "id": "feed:https://reckart.blog/rss.xml",
+      "title": "Tyler Reckart's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://reckart.blog/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Tyler Reckart's Blog",
+      "cleaned_author": "Tyler Reckart",
+      "summary": "A programmer and photographer's blog featuring technical tutorials and personal musings related to technology and gaming.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "photography",
+        "SwiftUI"
+      ]
+    },
+    {
+      "id": "feed:https://yieldcode.blog/rss/feed.xml",
+      "title": "yield code(); - Dmitry Kudryavtsev",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://yieldcode.blog/rss/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "yield code();",
+      "cleaned_author": "Dmitry Kudryavtsev",
+      "summary": "Dmitry Kudryavtsev offers insights on programming and the software industry, providing valuable information for developers.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI commoditization",
+        "engineering management",
+        "software fragmentation"
+      ]
+    },
+    {
+      "id": "feed:https://mediocregopher.com/feed.xml",
+      "title": "mediocregopher's lil web corner",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mediocregopher.com/feed.xml",
+      "summary": "I publish posts about projects I'm working on and things that interest me.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "mediocregopher's lil web corner",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "projects",
+        "technology",
+        "development"
+      ]
+    },
+    {
+      "id": "feed:https://2ality.com/feeds/posts.atom",
+      "title": "2ality \u2013 JavaScript and more",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://2ality.com/feeds/posts.atom",
+      "summary": "A detailed exploration of JavaScript and TypeScript, aimed at developers across all skill levels.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "2ality",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "development"
+      ]
+    },
+    {
+      "id": "feed:https://dev.37signals.com/feed/posts.xml",
+      "title": "37signals Dev",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dev.37signals.com/feed/posts.xml",
+      "summary": "The 37signals Dev blog is brought to you by the people who build Basecamp and HEY \u270c\ufe0f\u2764\ufe0f.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "37signals Dev",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Basecamp",
+        "web development",
+        "software"
+      ]
+    },
+    {
+      "id": "feed:https://www.amitmerchant.com/feed.xml",
+      "title": "Amit Merchant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "summary": "A blog on PHP, JavaScript, and more.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Amit Merchant",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "PHP",
+        "JavaScript",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.clintmcmahon.com/rss/",
+      "title": "Clint McMahon",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.clintmcmahon.com/rss/",
+      "summary": "Freelance web & mobile app developer in Minneapolis, Minnesota. I build websites, mobile apps and consult on technology strategies.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Clint McMahon",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "freelance",
+        "web development",
+        "apps"
+      ]
+    },
+    {
+      "id": "feed:https://www.codingwithjesse.com/blog/feed",
+      "title": "Coding with Jesse",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.codingwithjesse.com/blog/feed",
+      "summary": "Web development blog about Svelte, JavaScript, HTML and CSS.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Coding with Jesse",
+      "cleaned_author": "Jesse",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Svelte",
+        "JavaScript",
+        "web design"
+      ]
+    },
+    {
+      "id": "feed:https://www.content-technologist.com/rss/",
+      "title": "The Content Technologist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.content-technologist.com/rss/",
+      "summary": "Building better content operations. Understanding how algorithms process content. Weekly newsletter & resource by award-winning strategist Deborah Carver.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "The Content Technologist",
+      "cleaned_author": "Deborah Carver",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "content strategy",
+        "algorithms",
+        "SEO",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "feed:https://www.earth.org.uk/sitemap.atom",
+      "title": "Earth Notes - On Website Technicals",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.earth.org.uk/sitemap.atom",
+      "summary": "Read nitty-gritty tech updates and daily learnings that keep the Earth Notes site up and running; site stats also.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Earth Notes",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "technical updates",
+        "website maintenance",
+        "site stats"
+      ]
+    },
+    {
+      "id": "feed:https://jakearchibald.com/posts.rss",
+      "title": "JakeArchibald.com - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jakearchibald.com/posts.rss",
+      "summary": "A technical blog featuring discussions on web development topics, bugs, and enhancements directly related to the experience of building websites.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "JakeArchibald.com",
+      "cleaned_author": "Jake Archibald",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "custom elements",
+        "HTML",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "feed:https://www.lambrospetrou.com/feed/rss.xml",
+      "title": "Lambros Petrou | Home",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.lambrospetrou.com/feed/rss.xml",
+      "summary": "My personal blog where I publish my thoughts.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Lambros Petrou",
+      "cleaned_author": "Lambros Petrou",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "encryption",
+        "Cloudflare",
+        "API",
+        "technical guides"
+      ]
+    },
+    {
+      "id": "feed:https://localghost.dev/feed.xml",
+      "title": "Localghost - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://localghost.dev/feed.xml",
+      "summary": "Sophie builds fun things out of HTML, CSS & JavaScript, and writes blog posts about tech and mental health.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Localghost",
+      "cleaned_author": "Sophie",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "mental health",
+        "Sophie"
+      ]
+    },
+    {
+      "id": "feed:https://loige.co/rss.xml",
+      "title": "Luciano Mammino's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://loige.co/rss.xml",
+      "summary": "I am a Full stack web developer working on cloud products.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Luciano Mammino's Blog",
+      "cleaned_author": "Luciano Mammino",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "cloud architecture",
+        "full-stack development",
+        "programming tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://fantinel.dev/rss.xml",
+      "title": "Matt Fantinel",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fantinel.dev/rss.xml",
+      "summary": "I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Matt Fantinel",
+      "cleaned_author": "Matt Fantinel",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "projects",
+        "technology reflections"
+      ]
+    },
+    {
+      "id": "feed:https://philna.sh/feed.xml",
+      "title": "Phil Nash | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://philna.sh/feed.xml",
+      "summary": "A developer, speaker, blogger, developer advocate, sausage dog owner and beer lover.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Phil Nash",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "JavaScript",
+        "Node.js",
+        "web development",
+        "form data",
+        "pagination"
+      ]
+    },
+    {
+      "id": "feed:https://swizec.com/rss.xml",
+      "title": "Swizec Teller",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://swizec.com/rss.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Swizec Teller",
+      "cleaned_author": "Swizec Teller",
+      "summary": "A resourceful blog featuring software engineering lessons tied to practical experience, complete with articles and insights catered to developers at all levels.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "software engineering",
+        "databases",
+        "UI design",
+        "patterns"
+      ]
+    },
+    {
+      "id": "feed:https://www.andreagrandi.it/index.xml",
+      "title": "Andrea Grandi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.andreagrandi.it/index.xml",
+      "summary": "A blog dedicated to Python development, offering tutorials and reflections that cater to both new learners and experienced developers in the community.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Andrea Grandi",
+      "cleaned_author": "Andrea Grandi",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Education",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "virtual environment",
+        "open source"
+      ]
+    },
+    {
+      "id": "feed:https://djangoandy.com/feed/",
+      "title": "Django Andy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://djangoandy.com/feed/",
+      "summary": "My travels through the worlds of Django, Python, DevOps and Full Stack web development.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Django Andy",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Django",
+        "Python",
+        "DevOps",
+        "full stack"
+      ]
+    },
+    {
+      "id": "feed:https://mathspp.com/blog.rss",
+      "title": "Mathspp Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mathspp.com/blog.rss",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Mathspp Blog",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to the intersection of mathematics and programming, sharing articles and insights to keep enthusiasts informed.",
+      "tags": [
+        "Science",
+        "Math",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "programming",
+        "Python"
+      ]
+    },
+    {
+      "id": "feed:https://reinout.vanrees.org/weblog/atom.xml",
+      "title": "Reinout van Rees' personal website",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://reinout.vanrees.org/weblog/atom.xml",
+      "summary": "Personal website of Reinout van Rees. Django/Python software developer. Ligfietsen.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Reinout van Rees' personal website",
+      "cleaned_author": "Reinout van Rees",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Django",
+        "Python",
+        "meetups"
+      ]
+    },
+    {
+      "id": "feed:https://snarky.ca/rss/",
+      "title": "Tall, Snarky Canadian",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://snarky.ca/rss/",
+      "summary": "Python core developer. Dev manager for the Python extension for VS Code. Tall, snarky Canadian.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Tall, Snarky Canadian",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "open source",
+        "VS Code"
+      ]
+    },
+    {
+      "id": "feed:https://cloudfour.com/feed/",
+      "title": "Cloud Four \u2013 Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cloudfour.com/feed/",
+      "summary": "We share what we learn so we can build a better web, together.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Cloud Four \u2013 Articles",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "responsive design",
+        "progressive web apps",
+        "web development",
+        "tips"
+      ]
+    },
+    {
+      "id": "feed:https://css-irl.info/rss.xml",
+      "title": "CSS { In Real Life }",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://css-irl.info/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "CSS { In Real Life }",
+      "cleaned_author": null,
+      "summary": "This blog offers insights, tips, and tutorials on mastering CSS, the essential language for web styling.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "tips",
+        "tutorials",
+        "web development"
+      ]
+    },
+    {
+      "id": "feed:https://gomakethings.com/feed/index.xml",
+      "title": "Daily Developer Tips | Go Make Things",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gomakethings.com/feed/index.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Daily Developer Tips | Go Make Things",
+      "cleaned_author": "Chris Ferdinandi",
+      "summary": "A source of practical tips and advice from Chris Ferdinandi, aimed at helping developers improve their web-building skills.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "developer tips",
+        "web development",
+        "ADHD",
+        "productivity"
+      ]
+    },
+    {
+      "id": "feed:https://www.joshwcomeau.com/rss.xml",
+      "title": "Josh W Comeau",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.joshwcomeau.com/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Josh W Comeau",
+      "cleaned_author": "Josh W Comeau",
+      "summary": "Friendly tutorials aimed at developers, focusing on React, CSS, and animation, to help build a better understanding of web technologies.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "React",
+        "CSS",
+        "tutorials",
+        "animation"
+      ]
+    },
+    {
+      "title": "appgefahren.de",
+      "popularity_score": 5.142857142857142,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.feedburner.com/appgefahren",
+      "kind": "feed",
+      "id": "feed:http://feeds.feedburner.com/appgefahren",
+      "cleaned_title": "appgefahren",
+      "cleaned_author": null,
+      "summary": "A blog focusing on Apple devices, offering insights and reviews on iPhones, iPads, and Macs with a particular emphasis on current deals and technology updates.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Gadgets",
+        "Coding"
+      ],
+      "language": "de",
+      "keywords": [
+        "iPhone",
+        "iPad",
+        "Mac",
+        "tech reviews",
+        "Apple news"
+      ]
+    },
+    {
+      "title": "Hacker News \u2013 ycombinator.com",
+      "popularity_score": 2.448764399851356,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://news.ycombinator.com/rss",
+      "kind": "feed",
+      "id": "feed:https://news.ycombinator.com/rss",
+      "cleaned_title": "Hacker News",
+      "cleaned_author": null,
+      "summary": "A social news website focusing on technology and entrepreneurship, offering a curated collection of news articles and discussions generated by readers.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Internet",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "startups",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:CSS-Tricks",
+      "cleaned_title": "CSS-Tricks",
+      "summary": "A website dedicated to all things CSS, with tutorials, articles, and resources for web developers.",
+      "title": "CSS-Tricks",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/CssTricks",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "web development",
+        "tutorials",
+        "design techniques"
+      ]
+    },
+    {
+      "id": "feed:rss1.smashingmagazine.com:Smashing Magazine",
+      "cleaned_title": "Smashing Magazine",
+      "summary": "An online publication that covers UX design, front-end development, and web technologies, with a focus on practical insights and techniques.",
+      "title": "Smashing Magazine",
+      "kind": "feed",
+      "feed_url": "http://rss1.smashingmagazine.com/feed/",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Security"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "development",
+        "user experience",
+        "best practices"
+      ]
+    }
+  ],
+  "child_categories": []
+}

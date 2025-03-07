@@ -1,0 +1,1318 @@
+{
+  "id": "cooking",
+  "display_name": "Cooking",
+  "feeds": [
+    {
+      "id": "substack:top:what_to_cook_when_you_don't_feel_like_cooking_-_caroline_chambers",
+      "title": "What To Cook When You Don't Feel Like Cooking - Caroline Chambers",
+      "cleaned_title": "What To Cook When You Don't Feel Like Cooking",
+      "summary": "This newsletter offers quick, impressive recipes designed for ease, perfect for busy individuals seeking minimal cleanup.",
+      "kind": "feed",
+      "feed_url": "https://whattocook.substack.com/feed",
+      "details": "Original category: Substack top newsletters about food",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "cleaned_author": "Caroline Chambers",
+      "language": "en",
+      "keywords": [
+        "recipes",
+        "cooking",
+        "easy meals",
+        "minimal dishes"
+      ]
+    },
+    {
+      "id": "substack:top:violet\u2019s_substack_-_violet_witchel",
+      "title": "Violet\u2019s Substack - Violet Witchel",
+      "cleaned_title": "Violet's Substack",
+      "summary": "Provides recipes, meal plans, and shopping lists aimed at helping organize food preparation and inspire culinary creativity.",
+      "kind": "feed",
+      "feed_url": "https://violetcooks.substack.com/feed",
+      "details": "Original category: Substack top newsletters about food",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "cleaned_author": "Violet Witchel",
+      "language": "en",
+      "keywords": [
+        "recipes",
+        "meal plans",
+        "shopping lists",
+        "food inspiration"
+      ]
+    },
+    {
+      "id": "substack:top:the_sunday_stack__-_katie",
+      "title": "the sunday stack  - katie",
+      "cleaned_title": "the sunday stack",
+      "summary": "A personal cooking newsletter sharing recipes, techniques, and culinary experiences in an informal, engaging style.",
+      "kind": "feed",
+      "feed_url": "https://sundaystack.substack.com/feed",
+      "details": "Original category: Substack top newsletters about food",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Cooking",
+        "_personal"
+      ],
+      "cleaned_author": "Katie",
+      "language": "en",
+      "keywords": [
+        "cooking",
+        "recipes",
+        "techniques",
+        "personal experiences"
+      ]
+    },
+    {
+      "id": "substack:top:restaurant_dropout_-_zoe_barrie_soderstrom",
+      "title": "Restaurant Dropout - Zoe Barrie Soderstrom",
+      "cleaned_title": "Restaurant Dropout",
+      "summary": "A weekly resource for organized cooking, providing menus, grocery lists, and recipes to simplify meal planning.",
+      "kind": "feed",
+      "feed_url": "https://restaurantdropout.substack.com/feed",
+      "details": "Original category: Substack top newsletters about food",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "cleaned_author": "Zoe Barrie Soderstrom",
+      "language": "en",
+      "keywords": [
+        "meal planning",
+        "cooking",
+        "recipes",
+        "grocery lists"
+      ]
+    },
+    {
+      "id": "substack:top:emily_ley\u2019s_substack",
+      "title": "Emily Ley\u2019s Substack",
+      "cleaned_title": "Emily Ley\u2019s Substack",
+      "summary": "This popular parenting newsletter offers practical advice and reflections on motherhood and creative business from a bestselling author.",
+      "kind": "feed",
+      "feed_url": "https://emilyley.substack.com/feed",
+      "details": "Original category: Substack top newsletters about parenting",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Parenting",
+        "Cooking"
+      ],
+      "cleaned_author": "Emily Ley",
+      "language": "en",
+      "keywords": [
+        "parenting",
+        "motherhood",
+        "recipes"
+      ]
+    },
+    {
+      "id": "reddit:HealthyFood",
+      "cleaned_title": "HealthyFood",
+      "summary": "A subreddit dedicated to sharing and discussing healthy food recipes, tips, and advice for maintaining a nutritious diet.",
+      "title": "HealthyFood",
+      "kind": "reddit",
+      "subreddit": "HealthyFood",
+      "details": "Original category: Health -> Wellness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Health",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "healthy recipes",
+        "nutrition discussion",
+        "food tips"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Serious Eats",
+      "cleaned_title": "Serious Eats",
+      "summary": "A website with a vast collection of recipes, cooking techniques, and food science articles.",
+      "title": "Serious Eats",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/seriouseatsfeaturesvideos",
+      "details": "Original category: Travel -> Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipes",
+        "cooking techniques",
+        "food science"
+      ]
+    },
+    {
+      "id": "youtube:Tasty",
+      "cleaned_title": "Tasty",
+      "summary": "A popular YouTube channel known for its quick and easy recipe videos, cooking hacks, and food inspiration.",
+      "title": "Tasty",
+      "kind": "youtube",
+      "channel_id": "UCJFp8uSYCjXOMnkUyb3CQ3Q",
+      "thumbnail_url": "https://yt3.ggpht.com/o7oCsweCTKk-hPxQnLERoEA9BChm_4KWrIYsmJFygp6td2oFRyhXPHq7F6QanU2tfqsLQ3eVrhM=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipe videos",
+        "cooking hacks",
+        "food inspiration"
+      ]
+    },
+    {
+      "id": "reddit:Food",
+      "cleaned_title": "Food",
+      "summary": "The Food subreddit is a community where food enthusiasts share recipes, cooking tips, restaurant recommendations, and discuss various food and drink topics.",
+      "title": "Food",
+      "kind": "reddit",
+      "subreddit": "Food",
+      "details": "Original category: Travel -> Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipes",
+        "cooking tips",
+        "food photography"
+      ]
+    },
+    {
+      "id": "feed:thetakeout.com:The Takeout",
+      "cleaned_title": "The Takeout",
+      "summary": "A food-focused site that explores all aspects of culinary life, providing insightful articles, recipes, and product recommendations.",
+      "title": "The Takeout",
+      "kind": "feed",
+      "feed_url": "https://thetakeout.com/rss",
+      "details": "Original category: Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "food articles",
+        "recipes",
+        "cooking tips"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Food52",
+      "cleaned_title": "Food52",
+      "summary": "A community-driven website with a wide range of recipes, cooking contests, and food-related articles.",
+      "title": "Food52",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/food52-TheAandMBlog",
+      "details": "Original category: Food & Drink -> Recipes",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipes",
+        "cooking contests",
+        "food articles"
+      ]
+    },
+    {
+      "id": "youtube:Babish Culinary Universe",
+      "cleaned_title": "Babish Culinary Universe",
+      "summary": "A YouTube channel where the host recreates iconic dishes from movies and TV shows, along with other delicious recipes.",
+      "title": "Babish Culinary Universe",
+      "kind": "youtube",
+      "channel_id": "UCJHA_jMfCvEnv-3kRjTCQXw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMZETWk42mfXsgSrIniA8upHnxl52GToDpdI_Zs=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Recipes",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture recipes",
+        "cooking"
+      ]
+    },
+    {
+      "id": "youtube:Gordon Ramsay",
+      "cleaned_title": "Gordon Ramsay",
+      "summary": "A YouTube channel featuring cooking tutorials, recipe demonstrations, and entertaining content from the renowned chef Gordon Ramsay.",
+      "title": "Gordon Ramsay",
+      "kind": "youtube",
+      "channel_id": "UCIEv3lZ_tNXHzL3ox-_uUGQ",
+      "thumbnail_url": "https://yt3.ggpht.com/bFpwiiOB_NLCVsIcVQ9UcwBjb1RzipnMmtNfLSWpeIaHboyGkBCq4KBitmovRbStk9WvIWIZOyo=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Restaurants",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "cooking tutorials",
+        "recipe demonstrations",
+        "entertaining content"
+      ]
+    },
+    {
+      "id": "reddit:recipes",
+      "cleaned_title": "recipes",
+      "summary": "A subreddit dedicated to sharing and discovering new recipes, cooking techniques, and culinary inspiration.",
+      "title": "recipes",
+      "kind": "reddit",
+      "subreddit": "recipes",
+      "details": "Original category: Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipe sharing",
+        "cooking techniques",
+        "community cooking"
+      ]
+    },
+    {
+      "id": "reddit:Cooking",
+      "cleaned_title": "Cooking",
+      "summary": "A subreddit community where users share recipes, cooking tips, and discuss all things related to cooking.",
+      "title": "Cooking",
+      "kind": "reddit",
+      "subreddit": "Cooking",
+      "details": "Original category: Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "cooking tips",
+        "recipe exchange",
+        "culinary discussions"
+      ]
+    },
+    {
+      "id": "youtube:Pick Up Limes",
+      "cleaned_title": "Pick Up Limes",
+      "summary": "A YouTube channel hosted by a registered dietitian that offers delicious and nutritious plant-based recipes, meal prep ideas, and evidence-based nutrition tips.",
+      "title": "Pick Up Limes",
+      "kind": "youtube",
+      "channel_id": "UCq2E1mIwUKMWzCA4liA_XGQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMe-IKUMfA-CJ3wl55Oqy4EjuV6yXhJsINskIo4Sg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Healthy Eating",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Cooking",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "plant-based",
+        "recipes",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "youtube:Fit Men Cook",
+      "cleaned_title": "Fit Men Cook",
+      "summary": "A YouTube channel hosted by Kevin Curry, offering healthy and flavorful recipes specifically designed for men who want to eat well and stay fit.",
+      "title": "Fit Men Cook",
+      "kind": "youtube",
+      "channel_id": "UCtaNepQqDZc0a-dfRlt7UZg",
+      "thumbnail_url": "https://yt3.ggpht.com/z6X_3W9xdSpi9jlTPUpx8yIlKeiGr-NCrquRofHhZhpyA8am3jn3ZpG-gsF6_hYT8mMyaBFvbW8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Healthy Eating",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Kevin Curry",
+      "tags": [
+        "Living",
+        "Cooking",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "healthy recipes",
+        "fitness meal prep",
+        "nutrition tips"
+      ]
+    },
+    {
+      "id": "youtube:Laura in the Kitchen",
+      "cleaned_title": "Laura in the Kitchen",
+      "summary": "A YouTube channel hosted by Laura Vitale, featuring easy-to-follow recipes, cooking tips, and kitchen hacks.",
+      "title": "Laura in the Kitchen",
+      "kind": "youtube",
+      "channel_id": "UCNbngWUqL2eqRw12yAwcICg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqP0y716WDWJkvab3MdPKAqoeuuXdJPak3ze9V0YNk8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Recipes",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Laura Vitale",
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipes",
+        "cooking tips",
+        "kitchen hacks"
+      ]
+    },
+    {
+      "id": "youtube:Seattle Coffee Gear",
+      "cleaned_title": "Seattle Coffee Gear",
+      "summary": "A YouTube channel that provides coffee machine reviews, brewing tutorials, and tips for home baristas.",
+      "title": "Seattle Coffee Gear",
+      "kind": "youtube",
+      "channel_id": "UC9VhfQi-D-7morDdwjVcJPA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOfyHjYPu2uWnAIBCOuSBBVyJJWe7WtTdR6Tyxi_g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Cooking",
+        "Drinks"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee",
+        "brewing",
+        "reviews",
+        "tutorials",
+        "home barista"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Eater -  All",
+      "cleaned_title": "Eater",
+      "summary": "Eater is a website that covers the latest news and trends in the restaurant industry, including reviews, guides, and interviews with chefs.",
+      "title": "Eater -  All",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/EaterNational",
+      "details": "Original category: Travel -> Food & Drink",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 22.514924106053122,
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "restaurant news",
+        "food trends",
+        "chef interviews"
+      ]
+    },
+    {
+      "id": "youtube:Insider Food",
+      "cleaned_title": "Insider Food",
+      "summary": "Food Insider is a YouTube channel that explores the world of food and restaurants, featuring behind-the-scenes looks, food challenges, and unique dining experiences.",
+      "title": "Insider Food",
+      "kind": "youtube",
+      "channel_id": "UCwiTOchWeKjrJZw7S1H__1g",
+      "thumbnail_url": "https://yt3.ggpht.com/my5fZEjea_-N5p8mhqrdNIxghb-KjP9AcH4lQlYzNrRlwzjx3Gbay0JlOCZqJOcp_sTjF3rmBV8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Restaurants",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Restaurants",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "food challenges",
+        "restaurant experiences",
+        "cooking"
+      ]
+    },
+    {
+      "id": "youtube:\uc601\uad6d\ub0a8\uc790 Korean Englishman",
+      "cleaned_title": "Korean Englishman",
+      "summary": "Korean Englishman is a YouTube channel hosted by two British friends who explore Korean culture, food, and language.",
+      "title": "\uc601\uad6d\ub0a8\uc790 Korean Englishman",
+      "kind": "youtube",
+      "channel_id": "UCg-p3lQIqmhh7gHpyaOmOiQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMDhtXsSjCGxTr8ynWJhakBLOkMMHYtC6FJKELw3Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "K-Pop",
+        "Cinema",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "Korean culture",
+        "food",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "youtube:Strictly Dumpling",
+      "cleaned_title": "Strictly Dumpling",
+      "summary": "Strictly Dumpling is a YouTube channel hosted by Mike Chen, who explores and reviews Asian street food and restaurants.",
+      "title": "Strictly Dumpling",
+      "kind": "youtube",
+      "channel_id": "UCXOKEdfOFxsHO_-Su3K8SHg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNm55cB2h6hAvrdUV1UpZ6yrnXysB6rdhPlvXCD9g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Mike Chen",
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "food",
+        "street food",
+        "Asian cuisine",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "youtube:French Cooking Academy",
+      "cleaned_title": "French Cooking Academy",
+      "summary": "French Cooking Academy is a YouTube channel dedicated to teaching authentic French cooking techniques and recipes. Learn how to create delicious French dishes from the comfort of your own kitchen.",
+      "title": "French Cooking Academy",
+      "kind": "youtube",
+      "channel_id": "UC0lG3Ihe4LGV851lODRIS5g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqObfznsUifTR38k_sXX68sGa8oGvrRxWK7q-0tetg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> France",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "cooking",
+        "French cuisine",
+        "recipes"
+      ]
+    },
+    {
+      "id": "youtube:Eater",
+      "cleaned_title": "Eater",
+      "summary": "A YouTube channel that features food and dining content, including restaurant reviews, food trends, and local culinary news in Los Angeles.",
+      "title": "Eater",
+      "kind": "youtube",
+      "channel_id": "UCRzPUBhXUZHclB7B5bURFXw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMjL5MMEDDpOHmmKdqabvkc7qcBApjQ_nbRImMvEvc=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Los Angeles",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Restaurants",
+        "Cooking",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "food",
+        "dining",
+        "restaurants",
+        "Los Angeles"
+      ]
+    },
+    {
+      "id": "youtube:Mark Wiens",
+      "cleaned_title": "Mark Wiens",
+      "summary": "Mark Wiens is a travel and food YouTuber who explores street food and local cuisines from around the world.",
+      "title": "Mark Wiens",
+      "kind": "youtube",
+      "channel_id": "UCyEd6QBSgat5kkC6svyjudA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqO7ds3zPJME4RraNV6JkikvzXnWHKkWXjeAJmy9pug=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Food & Drink",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Mark Wiens",
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "street food",
+        "cuisine",
+        "travel food"
+      ]
+    },
+    {
+      "id": "feed:http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+      "title": "NYT > Food \u2013 nytimes.com",
+      "kind": "feed",
+      "feed_url": "http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "NYT Food",
+      "cleaned_author": null,
+      "summary": "The New York Times Food section explores culinary delights and trends, celebrating diverse cooking through features and reviews.",
+      "tags": [
+        "Living",
+        "Cooking",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "food",
+        "cooking",
+        "restaurants",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:http://nrn.com/rss.xml",
+      "title": "Nation's Restaurant News \u2013 nrn.com",
+      "kind": "feed",
+      "feed_url": "http://nrn.com/rss.xml",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Nation's Restaurant News",
+      "cleaned_author": null,
+      "summary": "A reliable source for the latest trends in the restaurant industry, featuring updates on major players and market dynamics. Coverage includes notable restaurant developments and consumer insights.",
+      "tags": [
+        "Local",
+        "USA",
+        "Restaurants",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "restaurant news",
+        "Papa John's",
+        "Taco Bell",
+        "Chipotle",
+        "Sweetgreen"
+      ]
+    },
+    {
+      "id": "feed:https://cupofjo.com/feed/",
+      "title": "Cup of Jo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cupofjo.com/feed/",
+      "summary": "A daily women\u2019s lifestyle site that covers style, culture, food, travel, relationships and parenting.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Cup of Jo",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "LGBTQ",
+        "Fashion",
+        "Cooking",
+        "Parenting",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "lifestyle",
+        "relationships",
+        "food"
+      ]
+    },
+    {
+      "id": "feed:https://bangkokglutton.com/feed/",
+      "title": "Bangkok Glutton",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bangkokglutton.com/feed/",
+      "summary": "\"Tasting it to the streets...\".",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Bangkok Glutton",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Restaurants",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "Bangkok",
+        "food",
+        "street food"
+      ]
+    },
+    {
+      "id": "feed:https://benviveur.blogspot.com/feeds/posts/default",
+      "title": "Ben Viveur",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://benviveur.blogspot.com/feeds/posts/default",
+      "summary": "The Epicurean musings of Benjamin Nunn. Recipes. Reviews. Beer. Swearing.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Ben Viveur",
+      "cleaned_author": "Benjamin Nunn",
+      "tags": [
+        "Living",
+        "Cooking",
+        "Restaurants",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer",
+        "recipes",
+        "food reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.cakewrecks.com/home?format=rss",
+      "title": "Cake Wrecks",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cakewrecks.com/home?format=rss",
+      "summary": "Jen started this blog in May of 2008 one night when she was bored. She honestly never thought anyone would read it.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Cake Wrecks",
+      "cleaned_author": "Jen",
+      "tags": [
+        "Living",
+        "DIY",
+        "Cooking",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "cakes",
+        "baking",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:https://thecommontable.eu/feed/",
+      "title": "The Common Table",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thecommontable.eu/feed/",
+      "summary": "by studio_lovell.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "The Common Table",
+      "cleaned_author": "studio_lovell",
+      "tags": [
+        "Living",
+        "Cooking",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "food culture",
+        "gastronomy",
+        "food politics"
+      ]
+    },
+    {
+      "id": "feed:https://goodstuffnw.com/feed.rss",
+      "title": "Good Stuff NW",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://goodstuffnw.com/feed.rss",
+      "summary": "A blog that explores the connections between food sourcing and culinary experiences, showcasing seasonal recipes and local legislative updates.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Good Stuff NW",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "USA",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "food",
+        "recipes",
+        "sustainability",
+        "legislation"
+      ]
+    },
+    {
+      "id": "feed:https://grubbits.com/feed/",
+      "title": "Grubbits",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://grubbits.com/feed/",
+      "summary": "A story of a father who loves food and tries to motivate his picky-eating daughter to try new things.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Grubbits",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "food trends",
+        "family",
+        "recipes",
+        "culinary adventures"
+      ]
+    },
+    {
+      "id": "feed:https://ramenramenramen.net/feed/",
+      "title": "ramen! ramen! ramen!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ramenramenramen.net/feed/",
+      "summary": "ramen reviews, news, and more!",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "ramen! ramen! ramen!",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "ramen",
+        "noodle reviews",
+        "food culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.theramenrater.com/feed/",
+      "title": "The Ramen Rater",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.theramenrater.com/feed/",
+      "summary": "The Definitive Source For Instant Noodle Reviews Since 2002.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "The Ramen Rater",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "instant noodles",
+        "ramen reviews",
+        "food blog"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/thewoksoflife",
+      "title": "The Woks of Life",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/thewoksoflife",
+      "summary": "We're a family of 4 living between the US & China. When we're not packing or unpacking suitcases, we're sharing our culinary exploits and travels w/ each other here!",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "The Woks of Life",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "family recipes",
+        "Chinese cuisine",
+        "culinary travels",
+        "cooking tips"
+      ]
+    },
+    {
+      "id": "feed:https://thecanadianafrican.com/feed/",
+      "title": "The Canadian African",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thecanadianafrican.com/feed/",
+      "summary": "Delicious food from the African Continent made plant-based.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "The Canadian African",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "African recipes",
+        "plant-based cooking",
+        "health",
+        "food culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.chopstickchronicles.com/feed/",
+      "title": "Chopstick Chronicles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.chopstickchronicles.com/feed/",
+      "summary": "Authentic Japanese cooking made easy.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Chopstick Chronicles",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japanese recipes",
+        "cooking",
+        "traditional food",
+        "dishes",
+        "cuisine"
+      ]
+    },
+    {
+      "id": "feed:https://feedpress.me/FIJ",
+      "title": "Food in Jars \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feedpress.me/FIJ",
+      "summary": "This site was launched in early 2009 to give Marisa a place share her interest in canning and general obsession with canning jars of all shapes and sizes.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Food in Jars",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "DIY",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "canning",
+        "preserving",
+        "homemade",
+        "recipes"
+      ]
+    },
+    {
+      "id": "feed:https://foragerchef.com/feed/",
+      "title": "Forage | Chef",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://foragerchef.com/feed/",
+      "summary": "Wild Food Tutorials, Recipes and Techniques from Chef Alan Bergo.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Forage",
+      "cleaned_author": "Alan Bergo",
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "foraging",
+        "wild foods",
+        "recipes",
+        "cooking techniques"
+      ]
+    },
+    {
+      "id": "feed:https://www.homesicktexan.com/feed/",
+      "title": "Homesick Texan",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.homesicktexan.com/feed/",
+      "summary": "Are you hungry for Texas home cooking? From enchiladas to queso, and from a pot of chili to a slice of sheet cake\u2026.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Homesick Texan",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "Texas cuisine",
+        "comfort food",
+        "recipes",
+        "home cooking"
+      ]
+    },
+    {
+      "id": "feed:https://honest-food.net/feed/",
+      "title": "Hunter Angler Gardener Cook",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://honest-food.net/feed/",
+      "summary": "Hank Shaw's website featuring more than 1200 wild game recipes, fish and seafood recipes, foraging tips, fermentation, preserving, and pasta.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Hunter Angler Gardener Cook",
+      "cleaned_author": "Hank Shaw",
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "wild foods",
+        "foraging",
+        "hunting",
+        "cooking recipes"
+      ]
+    },
+    {
+      "id": "feed:https://www.justonecookbook.com/feed/",
+      "title": "Just One Cookbook \u00b7 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.justonecookbook.com/feed/",
+      "summary": "Aa Japanese food blog with 1000+ authentic home-style recipes. Learn the cuisine with easy step-by-step photo instructions and videos.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Just One Cookbook",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japanese recipes",
+        "home cooking",
+        "authentic recipes",
+        "cuisine"
+      ]
+    },
+    {
+      "id": "feed:https://www.mexicanplease.com/feed/",
+      "title": "Mexican Please",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mexicanplease.com/feed/",
+      "summary": "Mexican Food Recipes and Authentic Mexican Cooking Techniques.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Mexican Please",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "Mexican cuisine",
+        "recipes",
+        "cooking techniques",
+        "authentic"
+      ]
+    },
+    {
+      "id": "feed:https://minimalistbaker.com/feed/",
+      "title": "Minimalist Baker - Simple Recipes That Make You Feel Good",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://minimalistbaker.com/feed/",
+      "summary": "Celebrating simple cooking with recipes that require 10 ingredients or less, 1 bowl, or 30 minute or less to prepare.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "Minimalist Baker",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "simple recipes",
+        "easy cooking",
+        "vegan",
+        "gluten-free"
+      ]
+    },
+    {
+      "id": "feed:https://www.the-pasta-project.com/feed/",
+      "title": "The Pasta Project \u2013 Authentic Pasta Recipes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.the-pasta-project.com/feed/",
+      "summary": "Pasta recipes and articles on the wonderful world of Italian pasta and the 360+ different types to be found in Italy.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "The Pasta Project",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "pasta recipes",
+        "Italian cuisine",
+        "homemade pasta",
+        "cooking"
+      ]
+    },
+    {
+      "id": "feed:https://www.sandwichtribunal.com/feed/",
+      "title": "Sandwich Tribunal. A sort of sandwich death panel.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sandwichtribunal.com/feed/",
+      "summary": "The idea behind this site is to explore the nature of sandwichness by eating every sandwich on the Official en.wikipedia.org List of Sandwiches.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "Sandwich Tribunal",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "sandwiches",
+        "food reviews",
+        "culinary exploration"
+      ]
+    },
+    {
+      "id": "feed:https://smittenkitchen.com/feed/",
+      "title": "smitten kitchen",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://smittenkitchen.com/feed/",
+      "summary": "Fearless cooking from a tiny NYC kitchen.",
+      "details": "Original Category: recreation -> food-and-drink -> recipes.opml",
+      "cleaned_title": "smitten kitchen",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Cooking",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "recipes",
+        "home cooking",
+        "NYC food"
+      ]
+    },
+    {
+      "id": "feed:https://storeboughtisfineblog.wpcomstaging.com/feed/",
+      "title": "Store Bought Is Fine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://storeboughtisfineblog.wpcomstaging.com/feed/",
+      "summary": "I\u2019m the store-bought version of Ina Garten. Cooking my way through all 1,200+ of the Barefoot Contessa\u2019s treasure trove of recipes.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "Store Bought Is Fine",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "Barefoot Contessa",
+        "recipe recreations",
+        "cooking"
+      ]
+    },
+    {
+      "title": "Bon App\u00e9tit",
+      "popularity_score": 2.6883104792378987,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.bonappetit.com/feed/rss",
+      "kind": "feed",
+      "id": "feed:https://www.bonappetit.com/feed/rss",
+      "cleaned_title": "Bon App\u00e9tit",
+      "cleaned_author": null,
+      "summary": "A food-oriented website delivering current culinary advice and insights, featuring expert recommendations for kitchenware and recipes, aimed at both amateur cooks and culinary enthusiasts.",
+      "tags": [
+        "Living",
+        "Cooking",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "cooking",
+        "kitchen",
+        "recipes",
+        "food"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Impulsive Buy",
+      "cleaned_title": "The Impulsive Buy",
+      "summary": "A humorous and candid review site that critiques a variety of products you might find on grocery shelves or fast food menus, often with a pop culture twist.",
+      "title": "The Impulsive Buy",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/theimpulsivebuy/aRIJ",
+      "details": "Original category: Food & Drink",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cooking",
+        "Restaurants",
+        "_hip",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "product reviews",
+        "snack foods",
+        "fast food",
+        "humor"
+      ]
+    }
+  ],
+  "child_categories": []
+}

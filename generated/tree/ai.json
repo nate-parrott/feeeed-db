@@ -1,0 +1,1139 @@
+{
+  "id": "ai",
+  "display_name": "AI",
+  "feeds": [
+    {
+      "id": "substack:top:the_pragmatic_engineer_-_gergely_orosz",
+      "title": "The Pragmatic Engineer - Gergely Orosz",
+      "cleaned_title": "The Pragmatic Engineer",
+      "summary": "A focused look at the inner workings of Big Tech and startups, this newsletter offers valuable insights for software engineers and managers, presenting relevant industry trends and expert commentary.",
+      "kind": "feed",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top",
+        "original_feed_db"
+      ],
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Coding",
+        "Internet",
+        "_intellectual"
+      ],
+      "cleaned_author": "Gergely Orosz",
+      "language": "en",
+      "keywords": [
+        "software engineering",
+        "Big Tech",
+        "startups"
+      ]
+    },
+    {
+      "id": "feed:producthunt.com:Product Hunt \u2014 The best new products, every day",
+      "cleaned_title": "Product Hunt",
+      "summary": "A daily showcase of the best new products, covering innovative startups and tools that can streamline various tasks and improve efficiency.",
+      "title": "Product Hunt \u2014 The best new products, every day",
+      "kind": "feed",
+      "feed_url": "http://www.producthunt.com/feed",
+      "popularity_score": 3.084839466089466,
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Ventures",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "new products",
+        "startups",
+        "innovation",
+        "tech tools",
+        "apps"
+      ]
+    },
+    {
+      "id": "feed:export.arxiv.org:ArXiv Query: search_query=au: Bengio_Y&id_list=&start=0&max_results=100",
+      "cleaned_title": "ArXiv Query",
+      "summary": "A repository of electronic preprints in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, and statistics.",
+      "title": "ArXiv Query: search_query=au: Bengio_Y&id_list=&start=0&max_results=100",
+      "kind": "feed",
+      "feed_url": "http://export.arxiv.org/api/query?search_query=au:+Bengio_Y&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics",
+        "Math",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "preprints",
+        "research",
+        "academic publishing"
+      ]
+    },
+    {
+      "id": "feed:ieeexplore.ieee.org:IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "cleaned_title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "summary": "A digital library providing access to scientific and technical content published by the Institute of Electrical and Electronics Engineers (IEEE) and its publishing partners.",
+      "title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "kind": "feed",
+      "feed_url": "http://ieeexplore.ieee.org/rss/TOC34.XML",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "machine learning",
+        "AI research",
+        "pattern recognition"
+      ]
+    },
+    {
+      "id": "feed:oneusefulthing.org:One Useful Thing",
+      "cleaned_title": "One Useful Thing",
+      "summary": "A blog dedicated to dissecting the implications of artificial intelligence on work and education, featuring insightful guides and analyses.",
+      "title": "One Useful Thing",
+      "kind": "feed",
+      "feed_url": "https://www.oneusefulthing.org/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Prof. Ethan Mollick",
+      "tags": [
+        "Tech",
+        "Science",
+        "AI",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "education",
+        "work"
+      ]
+    },
+    {
+      "id": "youtube:Y Combinator",
+      "cleaned_title": "Y Combinator",
+      "summary": "Y Combinator is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. Their YouTube channel features talks and interviews with successful startup founders.",
+      "title": "Y Combinator",
+      "kind": "youtube",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "thumbnail_url": "https://yt3.ggpht.com/mSqaIvHn4agaznTzuOZg8-cbSl8rt_K5FhkyQ_C6_VhPfXZagDrS1OvkLz9Dyax9fq7Curoo=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "WebDev",
+        "AI",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "startup",
+        "entrepreneurship",
+        "funding",
+        "mentorship"
+      ]
+    },
+    {
+      "id": "feed:nocodeexits.substack.com:No-Code Exits",
+      "cleaned_title": "No-Code Exits",
+      "summary": "A guide for aspiring founders leveraging no-code tools and AI, featuring real-life success stories and strategies to develop profitable projects without extensive technical skills.",
+      "title": "No-Code Exits",
+      "kind": "feed",
+      "feed_url": "https://nocodeexits.substack.com/feed",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:medium.com:Towards Data Science - Medium",
+      "cleaned_title": "Towards Data Science",
+      "summary": "A platform for sharing knowledge and insights about data science, machine learning, and artificial intelligence.",
+      "title": "Towards Data Science - Medium",
+      "kind": "feed",
+      "feed_url": "https://medium.com/feed/towards-data-science",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.232530029707449,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "data science",
+        "machine learning",
+        "analytics",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:MachineLearningMastery.com",
+      "cleaned_title": "MachineLearningMastery.com",
+      "summary": "A website that provides tutorials, guides, and resources for mastering machine learning techniques.",
+      "title": "MachineLearningMastery.com",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/MachineLearningMastery",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "machine learning",
+        "tutorials",
+        "guides"
+      ]
+    },
+    {
+      "id": "youtube:Two Minute Papers",
+      "cleaned_title": "Two Minute Papers",
+      "summary": "A YouTube channel that summarizes and explains recent research papers in the field of artificial intelligence and machine learning.",
+      "title": "Two Minute Papers",
+      "kind": "youtube",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPokjCErSUTu9kwhH_6DI_PBtJE5_e2TYStztOr9A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI research",
+        "machine learning",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "youtube:sentdex",
+      "cleaned_title": "sentdex",
+      "summary": "A YouTube channel that offers tutorials and practical examples of machine learning and data analysis using Python.",
+      "title": "sentdex",
+      "kind": "youtube",
+      "channel_id": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPYFBC1JDRcLeC0R6fkKICvCVeCEpuiyUr78MeUkA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "machine learning",
+        "Python",
+        "data analysis"
+      ]
+    },
+    {
+      "id": "youtube:Siraj Raval",
+      "cleaned_title": "Siraj Raval",
+      "summary": "A YouTube channel that covers a wide range of topics in AI and machine learning, including tutorials, projects, and discussions.",
+      "title": "Siraj Raval",
+      "kind": "youtube",
+      "channel_id": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "thumbnail_url": "https://yt3.ggpht.com/Z8LiWtaqBLFfDxy0o1sKwNl9sO0w0K5oEnfZssYb3eIGujxZ5hC2XAIv_kLllJYyRe8VN6J6Tw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI topics",
+        "machine learning",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "feed:garymarcus.substack.com:The Road to AI We Can Trust",
+      "cleaned_title": "The Road to AI We Can Trust",
+      "summary": "This commentary focuses on the evolving landscape of AI, providing critical insights and discussions about ethics and societal impacts within the field.",
+      "title": "The Road to AI We Can Trust",
+      "kind": "feed",
+      "feed_url": "https://garymarcus.substack.com/feed",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI ethics",
+        "society",
+        "discussions"
+      ]
+    },
+    {
+      "id": "feed:lastweekin.ai:Last Week in AI",
+      "cleaned_title": "Last Week in AI",
+      "summary": "This feed provides weekly summaries and insights on the latest news in AI along with editorials, perfect for keeping up-to-date in the fast-moving world of artificial intelligence.",
+      "title": "Last Week in AI",
+      "kind": "feed",
+      "feed_url": "https://lastweekin.ai/feed",
+      "popularity_score": 3.6208995825375134,
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI news",
+        "summaries",
+        "editorials"
+      ]
+    },
+    {
+      "id": "feed:investinginai.substack.com:Investing In AI",
+      "cleaned_title": "Investing In AI",
+      "summary": "A bi-monthly digest that gives insights into AI investment opportunities and analyses how AI is reshaping business landscapes and strategies.",
+      "title": "Investing In AI",
+      "kind": "feed",
+      "feed_url": "https://investinginai.substack.com/feed",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI investment",
+        "market analysis",
+        "business"
+      ]
+    },
+    {
+      "id": "feed:thesequence.substack.com:TheSequence",
+      "cleaned_title": "TheSequence",
+      "summary": "A curated source focusing on advancements in machine learning, AI, and data science, used by professionals in the field.",
+      "title": "TheSequence",
+      "kind": "feed",
+      "feed_url": "https://thesequence.substack.com/feed",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "data science",
+        "tech news"
+      ]
+    },
+    {
+      "id": "feed:aiguide.substack.com:AI: A Guide for Thinking Humans",
+      "cleaned_title": "AI: A Guide for Thinking Humans",
+      "summary": "A thoughtful exploration of the latest developments in artificial intelligence.",
+      "title": "AI: A Guide for Thinking Humans",
+      "kind": "feed",
+      "feed_url": "https://aiguide.substack.com/feed",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.050725173930749,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "AI",
+        "machine learning",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:importai.substack.com:Import AI",
+      "cleaned_title": "Import AI",
+      "summary": "A weekly newsletter providing in-depth analysis of prominent AI research and advancements.",
+      "title": "Import AI",
+      "kind": "feed",
+      "feed_url": "https://importai.substack.com/feed",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "research",
+        "analytics",
+        "technology news"
+      ]
+    },
+    {
+      "id": "feed:aiweekly.substack.com:True Positive Weekly",
+      "cleaned_title": "True Positive Weekly",
+      "summary": "A collection of key resources and discussions surrounding developments in AI and machine learning.",
+      "title": "True Positive Weekly",
+      "kind": "feed",
+      "feed_url": "https://aiweekly.substack.com/feed",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "weekly roundup"
+      ]
+    },
+    {
+      "id": "feed:heydesigner.com:HeyDesigner",
+      "cleaned_title": "HeyDesigner",
+      "summary": "HeyDesigner serves as a useful resource for product people, UX designers, and PMs, providing insights on product design and engineering.",
+      "title": "HeyDesigner",
+      "kind": "feed",
+      "feed_url": "http://heydesigner.com/feed/",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "product design",
+        "UX",
+        "design systems",
+        "AI tools",
+        "iconography"
+      ]
+    },
+    {
+      "id": "feed:https://simonwillison.net/atom/everything/",
+      "title": "Simon Willison\u2019s Weblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "summary": "This blog by Simon Willison covers various topics in technology, particularly focusing on development and programming languages like Python.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Simon Willison\u2019s Weblog",
+      "cleaned_author": "Simon Willison",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "development",
+        "programming"
+      ]
+    },
+    {
+      "id": "feed:https://punyamishra.com/feed/",
+      "title": "Punya Mishra's Web | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://punyamishra.com/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Punya Mishra's Web",
+      "cleaned_author": "Punya Mishra",
+      "summary": "A blog exploring the intersection of education, creativity, technology, and design. The posts provide insightful discussions on modern educational practices and innovative uses of AI in learning.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "creativity",
+        "technology",
+        "design",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:https://alexanderobenauer.com/assets/feed/rss.xml",
+      "title": "Alexander Obenauer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alexanderobenauer.com/assets/feed/rss.xml",
+      "summary": "Exploring new and renewed ideas for how personal computing and the interfaces we think with can better serve people\u2019s lives \u2013 expanding opportunity, agency, curiosity, and creativity.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Alexander Obenauer",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Future",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://asadrahman.io/feed/",
+      "title": "asadrahman.io",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://asadrahman.io/feed/",
+      "summary": "Asad's online home.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "asadrahman.io",
+      "cleaned_author": "Asad Rahman",
+      "tags": [
+        "Tech",
+        "AI",
+        "Activism",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://www.ben-evans.com/benedictevans?format=rss",
+      "title": "Benedict Evans \u2014 Essays",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ben-evans.com/benedictevans?format=rss",
+      "summary": "Benedict Evans shares analytical essays on emerging technology trends, exploring the implications of AI and virtual reality.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Benedict Evans \u2014 Essays",
+      "cleaned_author": "Benedict Evans",
+      "tags": [
+        "Tech",
+        "AI",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://blog.tomayac.com/feed/feed.xml",
+      "title": "Blogccasion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.tomayac.com/feed/feed.xml",
+      "summary": "The personal blog of Thomas Steiner.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Blogccasion",
+      "cleaned_author": "Thomas Steiner",
+      "tags": [
+        "Tech",
+        "AI",
+        "WebDev",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI inference",
+        "Web extensions",
+        "Eleventy",
+        "UK Competition and Markets Authority",
+        "Web Conf 2024"
+      ]
+    },
+    {
+      "id": "feed:https://cennydd.com/writing?format=rss",
+      "title": "Cennydd Bowles \u00b7 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cennydd.com/writing?format=rss",
+      "summary": "Cennydd Bowles is a designer and tech ethicist. He is a principal technology adviser at the ICO, author of Future Ethics, and a visiting lecturer at the RCA and Manchester Met.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Cennydd Bowles \u00b7 Writing",
+      "cleaned_author": "Cennydd Bowles",
+      "tags": [
+        "Tech",
+        "Writing",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech ethics",
+        "Hallucinations",
+        "AI maximalism",
+        "Future Ethics"
+      ]
+    },
+    {
+      "id": "feed:https://www.globalnerdy.com/feed/",
+      "title": "Global Nerdy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.globalnerdy.com/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Global Nerdy",
+      "cleaned_author": null,
+      "summary": "Tampa Bay\u2019s go-to technology blog offering insights into local tech events, programming trends, and the growing impact of AI in the region.",
+      "tags": [
+        "Tech",
+        "Local",
+        "USA",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "Tampa Bay",
+        "AI",
+        "meetup",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://interconnected.org/home/feed",
+      "title": "Interconnected, a blog by Matt Webb",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://interconnected.org/home/feed",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Interconnected",
+      "cleaned_author": "Matt Webb",
+      "summary": "A long-running blog by Matt Webb that serves as a personal notebook reflecting on technology, AI, and contemporary culture.",
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "Matt Webb",
+        "technology",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:https://justin.searls.co/atom.xml",
+      "title": "justin\u2024searls\u2024co",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://justin.searls.co/atom.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "justin\u2024searls\u2024co",
+      "cleaned_author": "Justin Searls",
+      "summary": "A personal blog where Justin Searls shares insights on technology, artificial intelligence, and personal experiences with wit and candor.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI",
+        "technology",
+        "personal experiences",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.nextbigfuture.com/feed",
+      "title": "NextBigFuture.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nextbigfuture.com/feed",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "NextBigFuture",
+      "cleaned_author": null,
+      "summary": "A technology blog dissecting breakthrough ideas in science and the implications for the future, from AI advancements to space exploration.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Space",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "science",
+        "AI",
+        "space",
+        "future"
+      ]
+    },
+    {
+      "id": "feed:https://www.oreilly.com/radar/feed/index.xml",
+      "title": "Radar \u2013 O\u2019Reilly",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.oreilly.com/radar/feed/index.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Radar",
+      "cleaned_author": null,
+      "summary": "A blog that tracks important trends at the intersection of business and technology, providing insights into emerging developments and their implications.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "business trends",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:https://scottaaronson.blog/?feed=rss2",
+      "title": "Shtetl-Optimized",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scottaaronson.blog/?feed=rss2",
+      "summary": "The Blog of Scott Aaronson.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Shtetl-Optimized",
+      "cleaned_author": "Scott Aaronson",
+      "tags": [
+        "Science",
+        "AI",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "quantum computing",
+        "complexity theory",
+        "science"
+      ]
+    },
+    {
+      "id": "feed:https://singularityhub.com/feed/",
+      "title": "Singularity Hub",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://singularityhub.com/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Singularity Hub",
+      "cleaned_author": null,
+      "summary": "Chronicling the technological frontier, this blog covers groundbreaking breakthroughs and discussions shaping the future of technology and science.",
+      "tags": [
+        "Science",
+        "AI",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "science breakthroughs",
+        "future"
+      ]
+    },
+    {
+      "id": "feed:https://togelius.blogspot.com/feeds/posts/default",
+      "title": "Togelius",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://togelius.blogspot.com/feeds/posts/default",
+      "summary": "Better playing through algorithms.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Togelius",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "gaming algorithms",
+        "AGI"
+      ]
+    },
+    {
+      "id": "feed:https://www.aiweirdness.com/rss/",
+      "title": "AI Weirdness",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.aiweirdness.com/rss/",
+      "summary": "The weird side of artificial intelligence.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "AI Weirdness",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "weirdness",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "feed:https://keet.wordpress.com/feed/",
+      "title": "Keet blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://keet.wordpress.com/feed/",
+      "summary": "research and teaching, with some relevance for society.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Keet blog",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "research",
+        "teaching",
+        "ontologies"
+      ]
+    },
+    {
+      "id": "feed:https://leapfrog.nl/blog/feed/",
+      "title": "Leapfroglog - A weblog by Kars Alfrink.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://leapfrog.nl/blog/feed/",
+      "summary": "A weblog that shares insights on AI and machine learning, emphasizing practical applications and theoretical discussions in technology.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Leapfroglog",
+      "cleaned_author": "Kars Alfrink",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI",
+        "machine learning",
+        "Kars Alfrink"
+      ]
+    },
+    {
+      "id": "feed:https://blog.lukesalamone.com/index.xml",
+      "title": "Luke Salamone's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.lukesalamone.com/index.xml",
+      "summary": "This blog features technical writings and insights on AI, deep learning, and practical programming techniques, all crafted by Luke Salamone.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Luke Salamone's Blog",
+      "cleaned_author": "Luke Salamone",
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI",
+        "deep learning",
+        "programming"
+      ]
+    },
+    {
+      "id": "feed:https://replicate.com/blog/rss",
+      "title": "Replicate \u2013\u00a0Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://replicate.com/blog/rss",
+      "summary": "We\u2019re making machine learning easier and safer to use.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Replicate",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "machine learning",
+        "AI",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://www.zenaassaad.com/blog?format=rss",
+      "title": "Zena Assaad, PhD",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.zenaassaad.com/blog?format=rss",
+      "summary": "I am an aerospace engineer and senior research fellow.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Zena Assaad, PhD",
+      "cleaned_author": "Zena Assaad",
+      "tags": [
+        "Tech",
+        "AI",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI ethics",
+        "military technology",
+        "aerospace engineering"
+      ]
+    },
+    {
+      "id": "feed:https://softrobotcritics.tumblr.com/rss",
+      "title": "SoftRobotCritics",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://softrobotcritics.tumblr.com/rss",
+      "summary": "Autonomous motion, kinetics, aesthetics, softness, flexibility, and the unexpected.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "SoftRobotCritics",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "soft robotics",
+        "autonomous motion",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://seldo.com/rss.xml",
+      "title": "Seldo.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://seldo.com/rss.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Seldo.com",
+      "cleaned_author": "Laurie Voss",
+      "summary": "A personal site that shares insights on software development and artificial intelligence, offering informed commentary from an experienced developer.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI",
+        "ML",
+        "web development",
+        "frameworks",
+        "crypto"
+      ]
+    },
+    {
+      "title": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+      "popularity_score": 10.017099567099567,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.feedburner.com/ruanyifeng",
+      "kind": "feed",
+      "id": "feed:http://feeds.feedburner.com/ruanyifeng",
+      "cleaned_title": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+      "cleaned_author": "\u962e\u4e00\u5cf0",
+      "summary": "A blog focused on technology and internet trends, offering insightful commentary and analysis on the current state of the industry, including discussions on NFTs, 6G technology, and AI's impact on the internet.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Internet"
+      ],
+      "language": "zh",
+      "keywords": [
+        "technology",
+        "internet trends",
+        "AI",
+        "6G",
+        "NFTs"
+      ]
+    },
+    {
+      "title": "Rozetked.me",
+      "popularity_score": 2.1777777777777776,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://rozetked.me/rss.xml",
+      "kind": "feed",
+      "id": "feed:https://rozetked.me/rss.xml",
+      "cleaned_title": "Rozetked",
+      "cleaned_author": null,
+      "summary": "A digital media outlet focusing on the latest advancements in technology, especially mobile and AI-related news.",
+      "tags": [
+        "Tech",
+        "Mobile",
+        "AI"
+      ],
+      "language": "ru",
+      "keywords": [
+        "OpenAI",
+        "Xiaomi",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "title": "\u6781\u5ba2\u516c\u56ed \u2013 geekpark.net",
+      "popularity_score": 2.111111111111111,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://feeds.geekpark.net/",
+      "kind": "feed",
+      "id": "feed:http://feeds.geekpark.net/",
+      "cleaned_title": "\u6781\u5ba2\u516c\u56ed",
+      "cleaned_author": null,
+      "summary": "A technology-centric platform that discusses the latest in AI, gadgets, and innovations from China. Featuring insights on major tech figures and their products.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Gadgets",
+        "Internet",
+        "China"
+      ],
+      "language": "zh",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Gadget News",
+        "Technology Innovation"
+      ]
+    }
+  ],
+  "child_categories": []
+}

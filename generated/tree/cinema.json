@@ -1,0 +1,794 @@
+{
+  "id": "cinema",
+  "display_name": "Cinema",
+  "feeds": [
+    {
+      "id": "youtube:CineFix - IGN Movies and TV",
+      "cleaned_title": "CineFix - IGN Movies and TV",
+      "summary": "A YouTube channel that explores the art and craft of filmmaking, with videos on film analysis, top lists, and behind-the-scenes features.",
+      "title": "CineFix - IGN Movies and TV",
+      "kind": "youtube",
+      "channel_id": "UCVtL1edhT8qqY-j2JIndMzg",
+      "thumbnail_url": "https://yt3.ggpht.com/toxsR0f7Gf0Ie-6LmZhgYpbuM4X46O0kHDriB4GG_WToa7Rz2aB-GvV9YlPZhgI8pQjmJiiw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Film & TV",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "film analysis",
+        "movie lists",
+        "behind-the-scenes"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:/Film",
+      "cleaned_title": "/Film",
+      "summary": "A website that covers film and TV news, reviews, interviews, and features, with a focus on genre and blockbuster films.",
+      "title": "/Film",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/slashfilm",
+      "details": "Original category: Arts -> Film & TV",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "film",
+        "TV",
+        "reviews",
+        "interviews",
+        "blockbusters"
+      ]
+    },
+    {
+      "id": "feed:sprudge.com:Sprudge Coffee",
+      "cleaned_title": "Sprudge Coffee",
+      "summary": "A coffee news and culture website that covers the latest trends, events, and stories in the world of coffee.",
+      "title": "Sprudge Coffee",
+      "kind": "feed",
+      "feed_url": "http://sprudge.com/feed",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cinema",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee news",
+        "coffee culture",
+        "trends"
+      ]
+    },
+    {
+      "id": "youtube:\uc601\uad6d\ub0a8\uc790 Korean Englishman",
+      "cleaned_title": "Korean Englishman",
+      "summary": "Korean Englishman is a YouTube channel hosted by two British friends who explore Korean culture, food, and language.",
+      "title": "\uc601\uad6d\ub0a8\uc790 Korean Englishman",
+      "kind": "youtube",
+      "channel_id": "UCg-p3lQIqmhh7gHpyaOmOiQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMDhtXsSjCGxTr8ynWJhakBLOkMMHYtC6FJKELw3Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "K-Pop",
+        "Cinema",
+        "Cooking"
+      ],
+      "language": "en",
+      "keywords": [
+        "Korean culture",
+        "food",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "feed:nationalgeographic.com.es:www.nationalgeographic.com.es - \u00daltimas noticias",
+      "cleaned_title": "National Geographic Espa\u00f1a - \u00daltimas noticias",
+      "summary": "National Geographic's Culture section explores the diverse cultures of the world through articles, photo essays, and videos, providing insights into traditions, customs, and heritage.",
+      "title": "www.nationalgeographic.com.es - \u00daltimas noticias",
+      "kind": "feed",
+      "feed_url": "http://www.nationalgeographic.com.es/feeds/rss.html",
+      "details": "Original category: Travel -> Culture",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Cinema"
+      ],
+      "language": "es",
+      "keywords": [
+        "culture",
+        "traditions",
+        "heritage"
+      ]
+    },
+    {
+      "id": "feed:http://decider.com/feed/",
+      "title": "Decider",
+      "kind": "feed",
+      "feed_url": "http://decider.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Decider",
+      "cleaned_author": null,
+      "summary": "Decider offers guidance on what to watch, featuring recommendations and recaps for movies and shows streaming on popular platforms like Netflix and Hulu.",
+      "tags": [
+        "Living",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "movies",
+        "streaming",
+        "Hulu",
+        "Netflix"
+      ]
+    },
+    {
+      "id": "feed:https://intellectualinting.substack.com/feed/",
+      "title": "Chris Arnade Walks the World \u2013 substack.com",
+      "kind": "feed",
+      "feed_url": "https://intellectualinting.substack.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Chris Arnade Walks the World",
+      "cleaned_author": "Chris Arnade",
+      "summary": "A captivating collection of reflections and visuals from Chris Arnade's global walks, exploring cultural narratives through intimate storytelling.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "walking",
+        "cultural relativity",
+        "travel",
+        "photography"
+      ]
+    },
+    {
+      "id": "feed:https://glitternight.com/feed/",
+      "title": "Balladeer's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://glitternight.com/feed/",
+      "summary": "Singing the praises of things that slip through the cultural cracks.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Balladeer's Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "cultural commentary",
+        "classic films",
+        "sports history"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/dangerousminds/dot/net",
+      "title": "Dangerous Minds",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/dangerousminds/dot/net",
+      "summary": "A compendium of the new and strange-new ideas, new art forms, new approaches to social issues and new finds from the outer reaches of pop culture.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Dangerous Minds",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature",
+        "Music",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture",
+        "art forms",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:http://thiswayupzine.blogspot.com/feeds/posts/default",
+      "title": "This Way Up",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thiswayupzine.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "This Way Up",
+      "cleaned_author": "John Connors",
+      "summary": "This Way Up is a comprehensive blog by John Connors that reviews both new and classic films and television shows. Its engaging content offers critiques and insights that cater to entertainment enthusiasts seeking to explore a variety of media.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "television critique",
+        "entertainment",
+        "media"
+      ]
+    },
+    {
+      "id": "feed:https://dreamsbuiltbyhand.blogspot.com/feeds/posts/default",
+      "title": "Dreams, Built By Hand",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dreamsbuiltbyhand.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Dreams, Built By Hand",
+      "cleaned_author": null,
+      "summary": "A blog that explores various forms of analogue animation, from stop motion to experimental films, delving into the unique and often quirky visual storytelling techniques.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "animation",
+        "experimental films",
+        "stop motion"
+      ]
+    },
+    {
+      "id": "feed:https://awfj.org/female-gaze/feed/",
+      "title": "The Female Gaze | an AWFJ blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://awfj.org/female-gaze/feed/",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "The Female Gaze",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to highlighting women's perspectives in film through essays, reviews, and interviews, showcasing various aspects of cinema from a female-oriented viewpoint.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "LGBTQ"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "women in film",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:https://frockflicks.com/feed/",
+      "title": "Frock Flicks",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://frockflicks.com/feed/",
+      "summary": "Costume movie reviews & podcast.",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "Frock Flicks",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "costume design",
+        "historical film critique",
+        "fashion in film"
+      ]
+    },
+    {
+      "id": "feed:https://fxrant.blogspot.com/feeds/posts/default",
+      "title": "FXRant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fxrant.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "FXRant",
+      "cleaned_author": "Todd Vaziri",
+      "summary": "A blog offering insights into visual effects in cinema, with commentary ranging from industry analysis to personal anecdotes surrounding film artistry.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "visual effects",
+        "film commentary"
+      ]
+    },
+    {
+      "id": "feed:http://itsamadmadblog2.blogspot.com/feeds/posts/default",
+      "title": "itsamadmadblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://itsamadmadblog2.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "itsamadmadblog",
+      "cleaned_author": null,
+      "summary": "A blog that critiques and reviews films, offering personal insights and reflections on various cinematic experiences, often with a humorous twist.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "current cinema",
+        "humorous commentary"
+      ]
+    },
+    {
+      "id": "feed:http://laurasmiscmusings.blogspot.com/feeds/posts/default",
+      "title": "Laura's Miscellaneous Musings",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://laurasmiscmusings.blogspot.com/feeds/posts/default",
+      "summary": "Miscellaneous Musings on Classic Films and Disney.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Laura's Miscellaneous Musings",
+      "cleaned_author": "Laura",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "Disney",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:https://thestopbutton.com/feed/",
+      "title": "The Stop Button",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thestopbutton.com/feed/",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "The Stop Button",
+      "cleaned_author": "Andrew Wickliffe",
+      "summary": "Andrew Wickliffe's blog provides a critical lens on both television and film, exploring recent releases and offering concise reviews and commentary on the entertainment landscape.",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "reviews",
+        "TV",
+        "movies"
+      ]
+    },
+    {
+      "id": "feed:https://www.classicfilmtvcafe.com/feeds/posts/default",
+      "title": "Classic Film and TV Caf\u00e9",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.classicfilmtvcafe.com/feeds/posts/default",
+      "summary": "Devoted to classic movies and television series, ranging from the silent film era to the 1980s.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Classic Film and TV Caf\u00e9",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "television",
+        "silent era",
+        "movie reviews"
+      ]
+    },
+    {
+      "id": "feed:https://boats16.blogspot.com/feeds/posts/default",
+      "title": "Based On A True Story...",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://boats16.blogspot.com/feeds/posts/default",
+      "summary": "photography, politics, movies, film.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Based On A True Story...",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "politics",
+        "movies"
+      ]
+    },
+    {
+      "id": "feed:https://www.bythom.com/newsviews/index.xml",
+      "title": "Cameras and Photography Explained | News/Views | Thom Hogan",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bythom.com/newsviews/index.xml",
+      "summary": "News and opinions about photography and the camera industry by Thom Hogan, with pointers to his gear specific sites.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Cameras and Photography Explained",
+      "cleaned_author": "Thom Hogan",
+      "tags": [
+        "Tech",
+        "Cinema",
+        "Photos",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "camera industry",
+        "news",
+        "insights",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.lensrentals.com/blog/feed/",
+      "title": "Lens Rentals | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.lensrentals.com/blog/feed/",
+      "summary": "The largest online rental provider for photography, videography, and lighting equipment and accessories in the United States.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Lens Rentals",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Cinema",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography tips",
+        "video equipment",
+        "creative prompts"
+      ]
+    },
+    {
+      "id": "feed:http://clamba.blogspot.com/feeds/posts/default",
+      "title": "Classic Movie Blog Association",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://clamba.blogspot.com/feeds/posts/default",
+      "summary": "The best blogs about classic film on the internet.",
+      "details": "Original Category: technology -> internet -> blogging.opml",
+      "cleaned_title": "Classic Movie Blog Association",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic films",
+        "movie blogs",
+        "cinema history"
+      ]
+    },
+    {
+      "id": "feed:https://www.classicmoviehub.com/blog/feed/",
+      "title": "Classic Movie Hub Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.classicmoviehub.com/blog/feed/",
+      "summary": "Watching Classic Movies and Lovin\u2019 Every Minute of It!",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Classic Movie Hub Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "classic movies",
+        "film reviews",
+        "classic cinema"
+      ]
+    },
+    {
+      "id": "feed:https://grandoldmovies.wordpress.com/feed/",
+      "title": "Grand Old Movies",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://grandoldmovies.wordpress.com/feed/",
+      "summary": "Blogging about Hollywood's golden-age films.",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "Grand Old Movies",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "golden age of Hollywood",
+        "film history",
+        "classic cinema"
+      ]
+    },
+    {
+      "id": "feed:http://greatentertainersarchives.blogspot.com/feeds/posts/default",
+      "title": "A TRIP DOWN MEMORY LANE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://greatentertainersarchives.blogspot.com/feeds/posts/default",
+      "summary": "A nostalgic journey to the past to relive the golden days of entertainment!",
+      "details": "Original Category: arts -> movies -> classics.opml",
+      "cleaned_title": "A Trip Down Memory Lane",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "nostalgia",
+        "entertainment",
+        "classic films",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://silentlocations.com/feed/",
+      "title": "Chaplin-Keaton-Lloyd film locations (and more)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silentlocations.com/feed/",
+      "summary": "by John Bengtson \"the great detective of silent film locations\" New York Times.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Chaplin-Keaton-Lloyd Film Locations",
+      "cleaned_author": "John Bengtson",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent film",
+        "film locations",
+        "Charlie Chaplin",
+        "Buster Keaton"
+      ]
+    },
+    {
+      "id": "feed:https://gracekingsley.wordpress.com/feed/",
+      "title": "Grace Kingsley's Hollywood",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gracekingsley.wordpress.com/feed/",
+      "summary": "One hundred year old news and gossip, compiled by Lisle Foote.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Grace Kingsley's Hollywood",
+      "cleaned_author": "Lisle Foote",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hollywood history",
+        "gossip",
+        "silent era",
+        "Grace Kingsley"
+      ]
+    },
+    {
+      "id": "feed:http://silentfilmlivemusic.blogspot.com/feeds/posts/default",
+      "title": "Jeff Rapsis / Silent Film Music",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://silentfilmlivemusic.blogspot.com/feeds/posts/default",
+      "summary": "Chronicling the ongoing adventure of staging silent film screenings with live music in theaters in New England, USA and elsewhere.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Jeff Rapsis / Silent Film Music",
+      "cleaned_author": "Jeff Rapsis",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent film screenings",
+        "live music",
+        "film music",
+        "New England"
+      ]
+    },
+    {
+      "id": "feed:https://moviessilently.com/feed/",
+      "title": "Movies Silently",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://moviessilently.com/feed/",
+      "summary": "Celebrate Silent Film.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Movies Silently",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent films",
+        "film reviews",
+        "classic cinema"
+      ]
+    },
+    {
+      "id": "feed:https://silentlondon.co.uk/feed/",
+      "title": "Silent London",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silentlondon.co.uk/feed/",
+      "summary": "A place for people who love silent film.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Silent London",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent film community",
+        "film polls",
+        "silent cinema news"
+      ]
+    },
+    {
+      "id": "feed:https://silentology.wordpress.com/feed/",
+      "title": "Silent-ology",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silentology.wordpress.com/feed/",
+      "summary": "Uncovering the silent era.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Silent-ology",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent era",
+        "film history",
+        "movie rediscovery"
+      ]
+    },
+    {
+      "id": "feed:https://peoplevsarbuckle.com/feed/",
+      "title": "Spite Work: The Trials of Virginia Rappe and Fatty Arbuckle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://peoplevsarbuckle.com/feed/",
+      "summary": "A reconsideration of the Fatty Arbuckle case of 1921-22 and the life and death of the victim, Virginia Rappe.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Spite Work: The Trials of Virginia Rappe and Fatty Arbuckle",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "Crime",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fatty Arbuckle",
+        "Virginia Rappe",
+        "Hollywood scandals",
+        "silent film history"
+      ]
+    }
+  ],
+  "child_categories": []
+}

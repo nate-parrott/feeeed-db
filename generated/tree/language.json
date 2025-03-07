@@ -1,0 +1,387 @@
+{
+  "id": "language",
+  "display_name": "Language",
+  "feeds": [
+    {
+      "id": "youtube:The French Whisperer ASMR",
+      "cleaned_title": "The French Whisperer ASMR",
+      "summary": "The French Whisperer is a YouTube channel that offers ASMR videos with a focus on French culture and language. Relax and immerse yourself in the soothing sounds of the French language.",
+      "title": "The French Whisperer ASMR",
+      "kind": "youtube",
+      "channel_id": "UCSkS5vtp5gY3huyVkX4IfMw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPmjblRWc2ROXKUlEYT03EisjyrXsOWQOMoZHerfg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> France",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Language"
+      ],
+      "language": "fr",
+      "keywords": [
+        "ASMR",
+        "French culture",
+        "relaxation"
+      ]
+    },
+    {
+      "id": "feed:https://www.acelinguist.com/feeds/posts/default",
+      "title": "Ace Linguist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.acelinguist.com/feeds/posts/default",
+      "summary": "At the crossroads of linguistics and pop culture.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Ace Linguist",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "linguistics",
+        "language",
+        "pop culture",
+        "media"
+      ]
+    },
+    {
+      "id": "feed:https://allthingslinguistic.com/rss",
+      "title": "All Things Linguistic",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://allthingslinguistic.com/rss",
+      "summary": "A blog about all things linguistic by Gretchen McCulloch. I cohost Lingthusiasm, a podcast that's enthusiastic about linguistics. I'm the author of Because Internet, a book about internet language!",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "All Things Linguistic",
+      "cleaned_author": "Gretchen McCulloch",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "linguistics",
+        "language",
+        "internet language",
+        "podcast"
+      ]
+    },
+    {
+      "id": "feed:https://arnoldzwicky.org/feed/",
+      "title": "Arnold Zwicky's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://arnoldzwicky.org/feed/",
+      "summary": "A blog mostly about language.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Arnold Zwicky's Blog",
+      "cleaned_author": "Arnold Zwicky",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "language",
+        "linguistics",
+        "observations",
+        "critiques"
+      ]
+    },
+    {
+      "id": "feed:https://grammaticus.blog/feed/",
+      "title": "grammaticus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://grammaticus.blog/feed/",
+      "summary": "weekly posts on literature, languages, and learning.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "grammaticus",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Literature",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "literature",
+        "languages",
+        "learning",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://ideophone.org/feed/",
+      "title": "The Ideophone",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ideophone.org/feed/",
+      "summary": "Sounding out ideas on language, vivid sensory words, and iconicity.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "The Ideophone",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "language",
+        "interaction",
+        "iconicity",
+        "sensory words"
+      ]
+    },
+    {
+      "id": "feed:https://languagehat.com/feed/",
+      "title": "languagehat.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://languagehat.com/feed/",
+      "summary": "Languagehat.com celebrates the intricacies of language through a diverse array of posts, engaging readers with commentary on linguistic phenomena and delightful explorations of language and culture.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "languagehat.com",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "language",
+        "linguistics",
+        "cultural commentary"
+      ]
+    },
+    {
+      "id": "feed:https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
+      "title": "Language Log",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://languagelog.ldc.upenn.edu/nll/?feed=rss2",
+      "summary": "A thoughtful exploration of language and linguistics covering various topics, from AI to cultural discussions. Recent posts feature engaging conversations about modern usage and food terms in different cultures.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Language Log",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "language",
+        "linguistics",
+        "AI",
+        "cultural terms"
+      ]
+    },
+    {
+      "id": "feed:https://namerology.com/feed/",
+      "title": "Namerology : Articles Archives",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://namerology.com/feed/",
+      "summary": "The home for name enthusiasts, and anyone with a naming question that they\u2019d like answered with an analytical mindset and a positive attitude.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Namerology",
+      "cleaned_author": "Laura Wattenberg",
+      "tags": [
+        "Arts & Culture",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "baby names",
+        "naming trends",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:https://www.nancy.cc/feed/",
+      "title": "Nancy's Baby Names \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nancy.cc/feed/",
+      "summary": "A blog focusing on the fascinating world of baby names, featuring insights on trends and historical shifts. Posts explore popular names across various regions and their cultural significance.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Nancy's Baby Names",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "baby names",
+        "trends",
+        "cultural significance"
+      ]
+    },
+    {
+      "id": "feed:https://notoneoffbritishisms.com/feed/",
+      "title": "Not One-Off Britishisms",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://notoneoffbritishisms.com/feed/",
+      "summary": "British words and expressions that have got popular in the U.S.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Not One-Off Britishisms",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "Britishism",
+        "American English",
+        "language nuances"
+      ]
+    },
+    {
+      "id": "feed:https://stancarey.wordpress.com/feed/",
+      "title": "Sentence first",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stancarey.wordpress.com/feed/",
+      "summary": "An Irishman's blog about the English language.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Sentence first",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "English language",
+        "usage",
+        "writing style"
+      ]
+    },
+    {
+      "id": "feed:https://separatedbyacommonlanguage.blogspot.com/feeds/posts/default",
+      "title": "Separated by a Common Language",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://separatedbyacommonlanguage.blogspot.com/feeds/posts/default",
+      "summary": "explore[s] the often subtle differences in American and British English.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Separated by a Common Language",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "British English",
+        "American English",
+        "language differences"
+      ]
+    },
+    {
+      "id": "feed:https://shadycharacters.co.uk/feed/",
+      "title": "Shady Characters",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shadycharacters.co.uk/feed/",
+      "summary": "The secret life of punctuation.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Shady Characters",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "punctuation",
+        "language humor",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:https://stronglang.wordpress.com/feed/",
+      "title": "Strong Language",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stronglang.wordpress.com/feed/",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Strong Language",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to the exploration of swearing and its cultural relevance, featuring humorous discussions, notable studies, and awards celebrating expressive language.",
+      "tags": [
+        "Arts & Culture",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "swearing",
+        "language culture",
+        "linguistic expression"
+      ]
+    },
+    {
+      "id": "feed:https://language-and-innovation.com/feed/",
+      "title": "tony thorne | language and innovation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://language-and-innovation.com/feed/",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Tony Thorne | Language and Innovation",
+      "cleaned_author": "Tony Thorne",
+      "summary": "A blog exploring the intersections of language and innovation, particularly how language evolves and reflects cultural changes.",
+      "tags": [
+        "Arts & Culture",
+        "Language",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    }
+  ],
+  "child_categories": []
+}

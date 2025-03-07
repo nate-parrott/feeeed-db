@@ -1,0 +1,89 @@
+{
+  "id": "middle_east",
+  "display_name": "Middle East",
+  "feeds": [
+    {
+      "id": "youtube:TRT World",
+      "cleaned_title": "TRT World",
+      "summary": "TRT World is a YouTube channel that covers global news, with a focus on stories from the Middle East, Asia, and Africa.",
+      "title": "TRT World",
+      "kind": "youtube",
+      "channel_id": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+      "thumbnail_url": "https://yt3.ggpht.com/4FK_4c1SOUGyQXgvLZ7WDJXB-sE8vVntcrTI7PYCiYkjkftELWfuRiQW_-1w6_uPbSY6T6ij=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Global",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Middle East",
+        "Asia",
+        "Africa",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "Middle East",
+        "Asia",
+        "Africa"
+      ]
+    },
+    {
+      "id": "feed:https://www.palestinechronicle.com/feed/",
+      "title": "Palestine Chronicle LIVE BLOG",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.palestinechronicle.com/feed/",
+      "summary": "\u2026a 501(c)3 non-profit organization whose mission is to educate the general public by providing a forum that strives to highlight issues of relevance to human rights, national struggles, freedom and democracy\u2026.",
+      "details": "Original Category: arts -> news.opml",
+      "cleaned_title": "Palestine Chronicle LIVE BLOG",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Politics",
+        "Middle East",
+        "Activism",
+        "Journalism",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "Palestine",
+        "Middle East",
+        "human rights",
+        "Israel",
+        "conflict"
+      ]
+    },
+    {
+      "title": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "popularity_score": 2.967857142857143,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "kind": "feed",
+      "id": "feed:https://www.aljazeera.com/xml/rss/all.xml",
+      "cleaned_title": "Al Jazeera",
+      "cleaned_author": null,
+      "summary": "A trusted source for breaking news and global updates, Al Jazeera covers important stories from around the world.",
+      "tags": [
+        "News",
+        "Politics",
+        "Middle East",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "breaking news",
+        "global news"
+      ]
+    }
+  ],
+  "child_categories": []
+}

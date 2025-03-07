@@ -1,0 +1,1379 @@
+{
+  "id": "sports",
+  "display_name": "Sports",
+  "feeds": [
+    {
+      "id": "substack:top:kareem_abdul-jabbar",
+      "title": "Kareem Abdul-Jabbar",
+      "cleaned_title": "Kareem Abdul-Jabbar",
+      "summary": "A platform where the basketball legend shares insights on sports, politics, and culture, reflecting on their impact on society.",
+      "kind": "feed",
+      "feed_url": "https://kareem.substack.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Sports"
+      ],
+      "cleaned_author": "Kareem Abdul-Jabbar",
+      "language": "en",
+      "keywords": [
+        "sports",
+        "politics",
+        "popular culture",
+        "insights"
+      ]
+    },
+    {
+      "id": "substack:top:bald_faced_truth_by_john_canzano",
+      "title": "Bald Faced Truth by John Canzano",
+      "cleaned_title": "Bald Faced Truth",
+      "summary": "A sports columnist shares insights on college football and related topics, offering unique commentary and analysis.",
+      "kind": "feed",
+      "feed_url": "https://www.johncanzano.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "News",
+        "Living",
+        "Politics",
+        "Sports",
+        "USA",
+        "Football"
+      ],
+      "cleaned_author": "John Canzano",
+      "language": "en",
+      "keywords": [
+        "college football",
+        "sports",
+        "gambling",
+        "Pac-12"
+      ]
+    },
+    {
+      "id": "substack:top:split_zone_duo",
+      "title": "Split Zone Duo",
+      "cleaned_title": "Split Zone Duo",
+      "summary": "An engaging independent podcast and newsletter exploring all things college football with in-depth discussions and analysis.",
+      "kind": "feed",
+      "feed_url": "https://www.splitzoneduo.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Living",
+        "Sports",
+        "Football"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "college football",
+        "NIL",
+        "coaching carousel",
+        "offseason"
+      ]
+    },
+    {
+      "id": "substack:top:house_of_strauss_-_ethan_strauss",
+      "title": "House of Strauss - Ethan Strauss",
+      "cleaned_title": "House of Strauss",
+      "summary": "A platform where sports, business, and culture intersect, offering deep analysis and commentary on the NBA and beyond.",
+      "kind": "feed",
+      "feed_url": "https://www.houseofstrauss.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Living",
+        "Arts & Culture",
+        "Sports",
+        "Basketball"
+      ],
+      "cleaned_author": "Ethan Strauss",
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "media",
+        "culture",
+        "sports business"
+      ]
+    },
+    {
+      "id": "substack:top:the_stein_line_-_marc_stein",
+      "title": "The Stein Line - Marc Stein",
+      "cleaned_title": "The Stein Line",
+      "summary": "An established source for NBA insiders, offering coverage and in-depth commentary on basketball events and news since 1994.",
+      "kind": "feed",
+      "feed_url": "https://marcstein.substack.com/feed",
+      "details": "Original category: Substack top newsletters about sports",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "cleaned_author": "Marc Stein",
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "insider coverage",
+        "basketball news",
+        "Joel Embiid"
+      ]
+    },
+    {
+      "id": "feed:skysports.com:SkySports | News",
+      "cleaned_title": "SkySports",
+      "summary": "A source for the latest news in Formula 1, delivering reports on race results, driver performances, and updates from the paddock.",
+      "title": "SkySports | News",
+      "kind": "feed",
+      "feed_url": "http://www.skysports.com/rss/0,20514,12433,00.xml",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Sports",
+        "Football"
+      ],
+      "language": "en",
+      "keywords": [
+        "Formula 1",
+        "racing news",
+        "drivers",
+        "F1 testing",
+        "team updates"
+      ]
+    },
+    {
+      "id": "feed:petcashpost.com:Profluence Sports by Andrew Petcash",
+      "cleaned_title": "Profluence Sports",
+      "summary": "A newsletter that dissects the evolving trends, key figures, and companies that are shaping the sports industry. Insightful analyses for those looking to understand the future of sports.",
+      "title": "Profluence Sports by Andrew Petcash",
+      "kind": "feed",
+      "feed_url": "https://www.petcashpost.com/feed",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Andrew Petcash",
+      "tags": [
+        "Money",
+        "Tech",
+        "Sports",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports trends",
+        "industry analysis",
+        "innovation"
+      ]
+    },
+    {
+      "id": "feed:ziller.substack.com:Good Morning It's Basketball",
+      "cleaned_title": "Good Morning It's Basketball",
+      "summary": "A thoughtful exploration of NBA highs and lows, with commentary that ranges from the profound to the whimsical, delivered three times a week.",
+      "title": "Good Morning It's Basketball",
+      "kind": "feed",
+      "feed_url": "https://ziller.substack.com/feed",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "basketball",
+        "sports commentary"
+      ]
+    },
+    {
+      "id": "feed:joeposnanski.substack.com:JoeBlogs",
+      "cleaned_title": "JoeBlogs",
+      "summary": "A collection of essays offering humorous and insightful takes on sports, appealing to fans looking for a fresh perspective on the day's highlights.",
+      "title": "JoeBlogs",
+      "kind": "feed",
+      "feed_url": "https://joeposnanski.substack.com/feed",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports writing",
+        "essays",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:sexyloops.com:Ronan's Report",
+      "cleaned_title": "Ronan's Report",
+      "summary": "Ronan's Report shares personal stories and insights from the front lines of fly fishing in New Zealand, capturing the adventure of the sport.",
+      "title": "Ronan's Report",
+      "kind": "feed",
+      "feed_url": "http://www.sexyloops.com/blog/feed/",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Humor",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "New Zealand",
+        "fly fishing",
+        "fishing stories"
+      ]
+    },
+    {
+      "id": "youtube:TacticalBassin",
+      "cleaned_title": "TacticalBassin",
+      "summary": "A YouTube channel dedicated to providing tactical tips, techniques, and gear reviews for bass fishing.",
+      "title": "TacticalBassin",
+      "kind": "youtube",
+      "channel_id": "UCv8yAO6UKIzMEWCLzKnIbuA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaRhYv7uETxGyRucRxcEW06-FYYWBeYwpeuzj7yXrw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "bass fishing",
+        "fishing techniques",
+        "gear reviews"
+      ]
+    },
+    {
+      "id": "reddit:Fishing",
+      "cleaned_title": "Fishing",
+      "summary": "A subreddit for all things fishing, where you can find discussions, photos, and tips from fellow anglers.",
+      "title": "Fishing",
+      "kind": "reddit",
+      "subreddit": "Fishing",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "fishing stories",
+        "angler tips",
+        "fishing discussions"
+      ]
+    },
+    {
+      "id": "feed:musicarskikafe.blogspot.com:Fly Fisherman's Caf\u00e9",
+      "cleaned_title": "Fly Fisherman's Caf\u00e9",
+      "summary": "A website that covers various fishing techniques, species, and locations, offering insights and strategies for successful fishing.",
+      "title": "Fly Fisherman's Caf\u00e9",
+      "kind": "feed",
+      "feed_url": "http://musicarskikafe.blogspot.com/feeds/posts/default",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Vladan Milenkovic",
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "fly fishing",
+        "fishing techniques",
+        " angler strategies"
+      ]
+    },
+    {
+      "id": "youtube:The Ringer",
+      "cleaned_title": "The Ringer",
+      "summary": "The Ringer is a YouTube channel that covers various aspects of pop culture, including TV show analysis, rankings, and discussions.",
+      "title": "The Ringer",
+      "kind": "youtube",
+      "channel_id": "UCT83YP07yVuaH9J19YABhlw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPkcripMMEXcJ24LLSEusvj2GxIs2e0GDg2coJsZw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> TV Shows",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture analysis",
+        "sports discussions",
+        "TV shows"
+      ]
+    },
+    {
+      "id": "youtube:COPA90 Stories",
+      "cleaned_title": "COPA90 Stories",
+      "summary": "A YouTube channel that covers the global soccer scene with documentaries, interviews, and fan culture.",
+      "title": "COPA90 Stories",
+      "kind": "youtube",
+      "channel_id": "UCEPKlFeUjRY_1mpZP8GnkVg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqP-SaR5uVyxW9wxN9Uf6zsW2Qi9zHj9L05ijI6dhw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Football",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Soccer",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "football documentaries",
+        "fan culture",
+        "soccer fandom"
+      ]
+    },
+    {
+      "id": "youtube:Tifo Football",
+      "cleaned_title": "Tifo Football",
+      "summary": "A YouTube channel that provides in-depth tactical analysis, history, and storytelling in the world of soccer.",
+      "title": "Tifo Football",
+      "kind": "youtube",
+      "channel_id": "UCGYYNGmyhZ_kwBF_lqqXdAQ",
+      "thumbnail_url": "https://yt3.ggpht.com/KSXuxPcicFNbupRKC8NTAjtXki-Ldybl09BK28hYPi_V89DqkDgwJyQh0MYGUmSmbadOkZVZ_Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Soccer",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Soccer",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "tactical analysis",
+        "soccer history",
+        "football stories"
+      ]
+    },
+    {
+      "id": "reddit:soccer",
+      "cleaned_title": "soccer",
+      "summary": "A subreddit for soccer fans to discuss matches, news, and everything related to the beautiful game.",
+      "title": "soccer",
+      "kind": "reddit",
+      "subreddit": "soccer",
+      "details": "Original category: Sports -> Football",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Football",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "soccer news",
+        "match discussions",
+        "football community"
+      ]
+    },
+    {
+      "id": "youtube:Olympics",
+      "cleaned_title": "Olympics",
+      "summary": "The official YouTube channel of the Olympic Games, showcasing highlights, interviews, and behind-the-scenes content from various Olympic events.",
+      "title": "Olympics",
+      "kind": "youtube",
+      "channel_id": "UCTl3QQTvqHFjurroKxexy2Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM7OxmzrTI3jba7pPGb9uaWAOXtOBWBH7PH6FCoy-E=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Olympics",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Olympics",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "Olympics highlights",
+        "behind-the-scenes content",
+        "Olympic sports"
+      ]
+    },
+    {
+      "id": "feed:swimswam.com:SwimSwam",
+      "cleaned_title": "SwimSwam",
+      "summary": "A website covering swimming and aquatic sports, including news, results, and analysis of Olympic swimming events.",
+      "title": "SwimSwam",
+      "kind": "feed",
+      "feed_url": "http://swimswam.com/feed/",
+      "details": "Original category: Sports -> Olympics",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Olympics",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "swimming news",
+        "aquatic sports",
+        "Olympic swimming"
+      ]
+    },
+    {
+      "id": "youtube:GymnasticsHQ",
+      "cleaned_title": "GymnasticsHQ",
+      "summary": "A YouTube channel focused on gymnastics, which is a popular Olympic sport. The channel provides tutorials, training tips, and coverage of gymnastics events.",
+      "title": "GymnasticsHQ",
+      "kind": "youtube",
+      "channel_id": "UC6DIWqCjBs24dchRgLwziZA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMA5rv021brW4bTEYmhWMT4JnO_I2lkQd2RLIG9Iw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Olympics",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Olympics",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "gymnastics",
+        "tutorials",
+        "Olympic sport",
+        "training tips",
+        "comic relief"
+      ]
+    },
+    {
+      "id": "youtube:NBA",
+      "cleaned_title": "NBA",
+      "summary": "The official YouTube channel of the NBA, featuring game highlights, top plays, interviews, and more.",
+      "title": "NBA",
+      "kind": "youtube",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "thumbnail_url": "https://yt3.ggpht.com/urNLBJGryDamao5r0jmlTg84mIBOoaeJd6XR67j4nuRd0iRvv5g-MUgaowsWKCs8V_t4KwST=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "NBA",
+        "highlights",
+        "games",
+        "plays",
+        "basketball"
+      ]
+    },
+    {
+      "id": "youtube:JxmyHighroller",
+      "cleaned_title": "JxmyHighroller",
+      "summary": "A YouTube channel that provides entertaining and informative basketball videos, including analysis, documentaries, and rankings.",
+      "title": "JxmyHighroller",
+      "kind": "youtube",
+      "channel_id": "UC3L9XPe0_FGfRG-CMGtBvFg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMw-2tC-Zajw6X34_qGxCNG_9LvGjv3Dcf9rOBrQw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "basketball analysis",
+        "player rankings",
+        "documentaries",
+        "trades",
+        "funny videos"
+      ]
+    },
+    {
+      "id": "youtube:BBALLBREAKDOWN",
+      "cleaned_title": "BBALLBREAKDOWN",
+      "summary": "A YouTube channel that breaks down basketball plays, strategies, and player analysis in a detailed and informative manner.",
+      "title": "BBALLBREAKDOWN",
+      "kind": "youtube",
+      "channel_id": "UCSpvjDk06HLxBaw8sZw7SkA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNkWsC3lKZo43uKchxM-gvVuQjTEyuAKTOLbRhDwA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "basketball strategy",
+        "plays breakdown",
+        "NBA analysis",
+        "player insights",
+        "expert commentary"
+      ]
+    },
+    {
+      "id": "youtube:House of Highlights",
+      "cleaned_title": "House of Highlights",
+      "summary": "A popular YouTube channel that showcases the best basketball highlights, dunks, and funny moments from the NBA and beyond.",
+      "title": "House of Highlights",
+      "kind": "youtube",
+      "channel_id": "UCqQo7ewe87aYAe7ub5UqXMw",
+      "thumbnail_url": "https://yt3.ggpht.com/JFAJ04m40cSwVc7szsN5NdMU7QrqyWOSnK1a5RzG237wSIMH_sRa9fDbUc_NtbRsxko9WLTz=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Basketball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Basketball"
+      ],
+      "language": "en",
+      "keywords": [
+        "basketball highlights",
+        "dunks",
+        "funny moments",
+        "NBA",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:fangraphs.com:FanGraphs Baseball",
+      "cleaned_title": "FanGraphs Baseball",
+      "summary": "A website that focuses on advanced baseball statistics and analysis, providing in-depth articles and player projections.",
+      "title": "FanGraphs Baseball",
+      "kind": "feed",
+      "feed_url": "http://www.fangraphs.com/blogs/?feed=rss2",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Sports",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball analysis",
+        "statistics",
+        "player projections",
+        "FanGraphs",
+        "advanced metrics"
+      ]
+    },
+    {
+      "id": "youtube:MLB",
+      "cleaned_title": "MLB",
+      "summary": "The official YouTube channel of Major League Baseball, featuring game highlights, player interviews, and behind-the-scenes content.",
+      "title": "MLB",
+      "kind": "youtube",
+      "channel_id": "UCoLrcjPV5PbUrUyXq5mjc_A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPyvPmL2bD-z5AiFPy8XoOkyXtO0HmiMLGZcD1dhQc=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "MLB",
+        "highlights",
+        "player interviews",
+        "behind the scenes",
+        "baseball excitement"
+      ]
+    },
+    {
+      "id": "reddit:baseball",
+      "cleaned_title": "baseball",
+      "summary": "A subreddit dedicated to baseball, where fans can discuss the latest news, share opinions, and engage in game threads.",
+      "title": "baseball",
+      "kind": "reddit",
+      "subreddit": "baseball",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Sports",
+        "Baseball"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball",
+        "MLB",
+        "discussions",
+        "fan community",
+        "game threads"
+      ]
+    },
+    {
+      "id": "youtube:Jomboy Media",
+      "cleaned_title": "Jomboy Media",
+      "summary": "A YouTube channel that provides entertaining breakdowns and analysis of baseball games, including umpire reactions, player mic'd up moments, and more.",
+      "title": "Jomboy Media",
+      "kind": "youtube",
+      "channel_id": "UCl9E4Zxa8CVr2LBLD0_TaNg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMOVf4_HnLEqzm_hBGhs_tEEzopLNHBKl743W6p1Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Baseball",
+        "Sports",
+        "NYC"
+      ],
+      "language": "en",
+      "keywords": [
+        "baseball",
+        "analysis",
+        "umpire",
+        "player mic'd up"
+      ]
+    },
+    {
+      "id": "feed:baseballprospectus.com:Baseball Prospectus",
+      "cleaned_title": "Baseball Prospectus",
+      "summary": "A website that offers in-depth analysis, statistical models, and player projections for baseball enthusiasts and fantasy baseball players.",
+      "title": "Baseball Prospectus",
+      "kind": "feed",
+      "feed_url": "https://www.baseballprospectus.com/feed/",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Baseball",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "analysis",
+        "statistics",
+        "player projections"
+      ]
+    },
+    {
+      "id": "youtube:Pitching Ninja",
+      "cleaned_title": "Pitching Ninja",
+      "summary": "A YouTube channel dedicated to showcasing the art of pitching in baseball, featuring slow-motion breakdowns, pitching tips, and analysis of pitching mechanics.",
+      "title": "Pitching Ninja",
+      "kind": "youtube",
+      "channel_id": "UCAgLUO68gPXGgg5cpqfV-tA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOaqGGieVpj-Jj1ZhuZHsVpUel2OfHDF7tO07Rb=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Baseball",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "pitching",
+        "analysis",
+        "mechanics"
+      ]
+    },
+    {
+      "id": "reddit:Homeplate",
+      "cleaned_title": "Homeplate",
+      "summary": "A subreddit focused on the technical aspects of baseball, including pitching, hitting, fielding, and coaching strategies.",
+      "title": "Homeplate",
+      "kind": "reddit",
+      "subreddit": "Homeplate",
+      "details": "Original category: Sports -> Baseball",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Baseball",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "pitching mechanics",
+        "community",
+        "discussions"
+      ]
+    },
+    {
+      "id": "reddit:FootballTactics",
+      "cleaned_title": "FootballTactics",
+      "summary": "A subreddit dedicated to discussing football tactics, formations, and strategies.",
+      "title": "FootballTactics",
+      "kind": "reddit",
+      "subreddit": "FootballTactics",
+      "details": "Original category: Sports -> Football",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Football",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "tactics",
+        "form formations",
+        "strategies"
+      ]
+    },
+    {
+      "id": "youtube:Los Angeles Lakers",
+      "cleaned_title": "Los Angeles Lakers",
+      "summary": "The official YouTube channel of the Los Angeles Lakers, featuring game highlights, player interviews, and behind-the-scenes content.",
+      "title": "Los Angeles Lakers",
+      "kind": "youtube",
+      "channel_id": "UC8CSt-oVqy8pUAoKSApTxQw",
+      "thumbnail_url": "https://yt3.ggpht.com/86fh33GEEB84T-GD2gIB-3pDQtuuUmchAQbw7SLDAiCOFAghNnYHWlvFcPsityLKfleGzL_3Hg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Los Angeles",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "Los Angeles",
+        "basketball",
+        "Lakers",
+        "sports"
+      ]
+    },
+    {
+      "id": "youtube:Brave Wilderness",
+      "cleaned_title": "Brave Wilderness",
+      "summary": "Brave Wilderness is a YouTube channel that features wildlife adventures, showcasing encounters with dangerous and exotic animals in their natural habitats.",
+      "title": "Brave Wilderness",
+      "kind": "youtube",
+      "channel_id": "UC6E2mP01ZLH_kbAyeazCNdg",
+      "thumbnail_url": "https://yt3.ggpht.com/AH2IPWIe6xqJ9zDeD1zC24lVpq88Ri1yEkObpxmSo7H_9666TDDClQQrbwQgBNxk2gu_2TbmKQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Adventure",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Wanderlust",
+        "Sports",
+        "_hip",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "adventure",
+        "wildlife encounters",
+        "travel"
+      ]
+    },
+    {
+      "id": "feed:https://glitternight.com/feed/",
+      "title": "Balladeer's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://glitternight.com/feed/",
+      "summary": "Singing the praises of things that slip through the cultural cracks.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Balladeer's Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "cultural commentary",
+        "classic films",
+        "sports history"
+      ]
+    },
+    {
+      "id": "feed:https://slyflourish.com/index.xml",
+      "title": "Sly Flourish: Helping Dungeon Masters run great D&D games.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://slyflourish.com/index.xml",
+      "summary": "Weekly articles with tips, tricks, tools, and advice for the ffth edition of Dungeons & Dragons (D&D) written by the author of Return of the Lazy Dungeon Master.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Sly Flourish",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "D&D",
+        "tabletop",
+        "RPG",
+        "Dungeon Master",
+        "adventure"
+      ]
+    },
+    {
+      "id": "feed:https://arseblog.com/feed/",
+      "title": "Arseblog ... an Arsenal blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://arseblog.com/feed/",
+      "summary": "Arseblog is a dedicated Arsenal blog that covers a variety of topics from match reviews to player analysis. The blog provides insights into the latest happenings around the club, making it a go-to resource for dedicated Arsenal fans.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Arseblog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "Arsenal",
+        "football",
+        "Premier League",
+        "match review"
+      ]
+    },
+    {
+      "id": "feed:https://www.giventotri.com/feed.xml",
+      "title": "Given to Tri",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.giventotri.com/feed.xml",
+      "summary": "I hope to keep competing in triathlons of various distances for the foreseeable future, and sharing what I learn along the way on this website.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Given to Tri",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "triathlon",
+        "training",
+        "racing"
+      ]
+    },
+    {
+      "id": "feed:https://impossiblehq.com/feed/",
+      "title": "IMPOSSIBLE \u00ae | Push Your Limits\u2122",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://impossiblehq.com/feed/",
+      "summary": "Impossible is a performance lifestyle brand for elite athletes and high performers.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "IMPOSSIBLE",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "performance",
+        "motivation",
+        "athletics"
+      ]
+    },
+    {
+      "id": "feed:https://janestuart.co.uk/feed/",
+      "title": "Jane Stuart - Writer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://janestuart.co.uk/feed/",
+      "summary": "My musings on beer and football culture.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Jane Stuart",
+      "cleaned_author": "Jane Stuart",
+      "tags": [
+        "Arts & Culture",
+        "Sports",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer",
+        "football culture",
+        "pub reviews"
+      ]
+    },
+    {
+      "id": "feed:https://jonsmalldon.wordpress.com/feed/",
+      "title": "Jon's Place",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jonsmalldon.wordpress.com/feed/",
+      "summary": "Talking rubbish since 2009.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Jon's Place",
+      "cleaned_author": "Jon",
+      "tags": [
+        "Local",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "local sports",
+        "theatre",
+        "match reports"
+      ]
+    },
+    {
+      "id": "feed:https://www.meangreennation.com/feed",
+      "title": "Mean Green Nation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.meangreennation.com/feed",
+      "summary": "Independent U of North Texas Analysis.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Mean Green Nation",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "University of North Texas",
+        "college football",
+        "college basketball"
+      ]
+    },
+    {
+      "id": "feed:https://playrface.co.uk/feed/",
+      "title": "Playrface",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://playrface.co.uk/feed/",
+      "summary": "A sports blog covering everything from football to surfing.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Playrface",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports blog",
+        "football",
+        "surfing"
+      ]
+    },
+    {
+      "id": "feed:http://www.tabletenniscoaching.com/rss.xml",
+      "title": "TableTennisCoaching.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.tabletenniscoaching.com/rss.xml",
+      "summary": "Your Worldwide Center for Table Tennis Coaching.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "TableTennisCoaching.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "table tennis",
+        "coaching",
+        "sports"
+      ]
+    },
+    {
+      "id": "feed:https://uni-watch.com/feed/",
+      "title": "Uni Watch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://uni-watch.com/feed/",
+      "summary": "A media project that deconstructs the finer points of sports uniforms (and occasionally other topics) in obsessive and excruciating detail.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Uni Watch",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports uniforms",
+        "aesthetics",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:http://rethinkingathletics.blogspot.com/feeds/posts/default",
+      "title": "Rethinking Athletics",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://rethinkingathletics.blogspot.com/feeds/posts/default",
+      "summary": "A blog exploring various facets of athletics, shedding light on historical events and the evolution of sports.",
+      "details": "Original Category: recreation -> sport -> athletics.opml",
+      "cleaned_title": "Rethinking Athletics",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "athletics",
+        "sports history",
+        "insights",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:http://bureboyblog.blogspot.com/feeds/posts/default",
+      "title": "Bureboyblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://bureboyblog.blogspot.com/feeds/posts/default",
+      "summary": "Mostly fishing, mainly North Norfolk.",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "Bureboyblog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cities",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "fishing",
+        "North Norfolk",
+        "dace",
+        "chub"
+      ]
+    },
+    {
+      "id": "feed:https://fishingsgreat.blogspot.com/feeds/posts/default",
+      "title": "Fishing & stuff ...",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fishingsgreat.blogspot.com/feeds/posts/default",
+      "summary": "A blog that covers various aspects of fishing, sharing personal stories and tips from the water.",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "Fishing & stuff ...",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "fishing",
+        "river diaries",
+        "cold mornings"
+      ]
+    },
+    {
+      "id": "feed:https://btrussell-fishingthroughlife.blogspot.com/feeds/posts/default",
+      "title": "Fishing Through Life",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://btrussell-fishingthroughlife.blogspot.com/feeds/posts/default",
+      "summary": "fly fishing for trout, bluegill and bass.",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "Fishing Through Life",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "fly fishing",
+        "trout",
+        "bluegill",
+        "bass"
+      ]
+    },
+    {
+      "id": "feed:https://jamesthespecimenhunter.blogspot.com/feeds/posts/default",
+      "title": "James' Angling Adventures",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jamesthespecimenhunter.blogspot.com/feeds/posts/default",
+      "summary": "Authored by James Denison, this blog chronicles personal angling experiences across various fishing locations.",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "James' Angling Adventures",
+      "cleaned_author": "James Denison",
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "angling",
+        "Dorset Stour",
+        "barbel",
+        "Itchen"
+      ]
+    },
+    {
+      "id": "feed:http://ordinaryangler.blogspot.com/feeds/posts/default",
+      "title": "ordinaryangler",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://ordinaryangler.blogspot.com/feeds/posts/default",
+      "summary": "Hello, my name is Ian Firkins and I am a very ordinary angler. If there was a school report for fishing, mine would read \"tries hard, could do better\"!",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "ordinaryangler",
+      "cleaned_author": "Ian Firkins",
+      "tags": [
+        "Living",
+        "Sports",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "fishing",
+        "ordinary angler",
+        "Trent",
+        "Derwent",
+        "Dove",
+        "Soar"
+      ]
+    },
+    {
+      "id": "feed:https://www.pikeblog.com/feeds/posts/default",
+      "title": "Pike Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.pikeblog.com/feeds/posts/default",
+      "summary": "And barbel and chub and perch and carp and\u2026.",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "Pike Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "pike",
+        "barbel",
+        "chub",
+        "perch"
+      ]
+    },
+    {
+      "id": "feed:http://calamitymn.blogspot.com/feeds/posts/default",
+      "title": "Piscatorial Quagswagging",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://calamitymn.blogspot.com/feeds/posts/default",
+      "summary": "The diary of a specialist angler in around the Warwickshire Avon and its tributaries.",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "Piscatorial Quagswagging",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "Angling",
+        "Warwickshire Avon",
+        "barbel"
+      ]
+    },
+    {
+      "id": "feed:https://urbanflyfisher.com/feed/",
+      "title": "The Urban Fly Fisher",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://urbanflyfisher.com/feed/",
+      "summary": "A satirical look at brownlining...",
+      "details": "Original Category: recreation -> sport -> fishing.opml",
+      "cleaned_title": "The Urban Fly Fisher",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "urban fishing",
+        "satire",
+        "brownlining"
+      ]
+    },
+    {
+      "id": "feed:https://onceuponatimeinthevest.blogspot.com/feeds/posts/default",
+      "title": "Once Upon a Time in the Vest",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://onceuponatimeinthevest.blogspot.com/feeds/posts/default",
+      "summary": "A blog for athletes and fans of 20th century Track and Field culled from articles in sports journals of the day, original articles, book reviews, and commentaries from readers.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "Once Upon a Time in the Vest",
+      "cleaned_author": "George Brose",
+      "tags": [
+        "Living",
+        "Sports",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "track and field",
+        "sports history",
+        "nostalgia",
+        "athletics",
+        "coaching"
+      ]
+    }
+  ],
+  "child_categories": []
+}

@@ -1,0 +1,240 @@
+{
+  "id": "asia",
+  "display_name": "Asia",
+  "feeds": [
+    {
+      "id": "feed:thediplomat.com:The Diplomat",
+      "cleaned_title": "The Diplomat",
+      "summary": "The Diplomat is a magazine that provides analysis and commentary on Asia-Pacific affairs, including politics, security, and culture.",
+      "title": "The Diplomat",
+      "kind": "feed",
+      "feed_url": "http://thediplomat.com/feed/atom/",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Asia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Asia-Pacific",
+        "politics",
+        "security",
+        "culture"
+      ]
+    },
+    {
+      "id": "youtube:Asian Boss",
+      "cleaned_title": "Asian Boss",
+      "summary": "Asian Boss is a YouTube channel that features interviews and documentaries about various social and cultural issues in Asia.",
+      "title": "Asian Boss",
+      "kind": "youtube",
+      "channel_id": "UC2-_WWPT_124iN6jiym4fOw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMahvqwZVMrB_iBXdxkPn40artBUjHJtUgTZSHTOw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Asia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "interviews",
+        "social issues",
+        "cultural documentaries"
+      ]
+    },
+    {
+      "id": "reddit:Asia",
+      "cleaned_title": "Asia",
+      "summary": "A subreddit for discussions and news about Asia, covering a wide range of topics including politics, culture, and travel.",
+      "title": "Asia",
+      "kind": "reddit",
+      "subreddit": "Asia",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Asia",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "discussions",
+        "culture",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:scmp.com:Hong Kong - South China Morning Post",
+      "cleaned_title": "South China Morning Post",
+      "summary": "South China Morning Post is a Hong Kong-based newspaper that covers news and analysis on Hong Kong, China, and the rest of Asia.",
+      "title": "Hong Kong - South China Morning Post",
+      "kind": "feed",
+      "feed_url": "http://www.scmp.com/rss/hong_kong.xml",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Asia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hong Kong",
+        "China",
+        "news",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Japan Times: All Stories",
+      "cleaned_title": "The Japan Times",
+      "summary": "Japan Times is an English-language newspaper that provides news and insights on Japan and Asia.",
+      "title": "The Japan Times: All Stories",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/japantimes",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Asia",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Japan",
+        "news",
+        "sports",
+        "features"
+      ]
+    },
+    {
+      "id": "reddit:JapanTravel",
+      "cleaned_title": "JapanTravel",
+      "summary": "A subreddit dedicated to travel in Japan, with tips, recommendations, and discussions about visiting different regions in the country.",
+      "title": "JapanTravel",
+      "kind": "reddit",
+      "subreddit": "JapanTravel",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Asia",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "Japan",
+        "tourism",
+        "tips"
+      ]
+    },
+    {
+      "id": "youtube:TRT World",
+      "cleaned_title": "TRT World",
+      "summary": "TRT World is a YouTube channel that covers global news, with a focus on stories from the Middle East, Asia, and Africa.",
+      "title": "TRT World",
+      "kind": "youtube",
+      "channel_id": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+      "thumbnail_url": "https://yt3.ggpht.com/4FK_4c1SOUGyQXgvLZ7WDJXB-sE8vVntcrTI7PYCiYkjkftELWfuRiQW_-1w6_uPbSY6T6ij=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Global",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Middle East",
+        "Asia",
+        "Africa",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "Middle East",
+        "Asia",
+        "Africa"
+      ]
+    },
+    {
+      "id": "feed:https://www.taiwanquest.com/rss/",
+      "title": "Taiwan Quest",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.taiwanquest.com/rss/",
+      "summary": "A blog about moving to Taiwan in 2023.",
+      "details": "Original Category: countries.opml",
+      "cleaned_title": "Taiwan Quest",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Asia",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "Taiwan",
+        "relocation",
+        "expat life",
+        "travel",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.nomadicnotes.com/feed/",
+      "title": "Nomadic Notes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nomadicnotes.com/feed/",
+      "summary": "Travel blog and weekly travel newsletter.",
+      "details": "Original Category: recreation -> travel.opml",
+      "cleaned_title": "Nomadic Notes",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Social",
+        "Asia"
+      ],
+      "language": "en",
+      "keywords": [
+        "Southeast Asia",
+        "travel",
+        "transportation",
+        "guides"
+      ]
+    }
+  ],
+  "child_categories": []
+}

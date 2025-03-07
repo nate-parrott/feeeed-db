@@ -1,0 +1,57 @@
+{
+  "id": "boston",
+  "display_name": "Boston",
+  "feeds": [
+    {
+      "id": "feed:https://spacebiff.com/feed/",
+      "title": "SPACE-BIFF!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://spacebiff.com/feed/",
+      "summary": "Fiercely Independent. Independant? Crap.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "SPACE-BIFF!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Boston",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "board games",
+        "independent",
+        "gaming commentary"
+      ]
+    },
+    {
+      "id": "feed:https://bikeportland.org/feed",
+      "title": "BikePortland",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bikeportland.org/feed",
+      "summary": "Portland Oregon bicycle news, events, culture, and opinion.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "BikePortland",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Boston"
+      ],
+      "language": "en",
+      "keywords": [
+        "Portland",
+        "bicycle news",
+        "culture",
+        "local events"
+      ]
+    }
+  ],
+  "child_categories": []
+}

@@ -1,0 +1,650 @@
+{
+  "id": "urban",
+  "display_name": "Urban",
+  "feeds": [
+    {
+      "id": "substack:top:feed_me_-_emily_sundberg",
+      "title": "Feed Me - Emily Sundberg",
+      "cleaned_title": "Feed Me",
+      "summary": "A daily insight into the realm of entrepreneurship, this newsletter captures the innovative spirit of business while providing relatable anecdotes and practical advice.",
+      "kind": "feed",
+      "feed_url": "https://www.readfeedme.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Urban",
+        "Future",
+        "_personal"
+      ],
+      "cleaned_author": "Emily Sundberg",
+      "language": "en",
+      "keywords": [
+        "entrepreneurship",
+        "business trends",
+        "innovation"
+      ]
+    },
+    {
+      "id": "feed:hypebeast.com:Hypebeast",
+      "cleaned_title": "Hypebeast",
+      "summary": "An online magazine covering streetwear, sneakers, music, and art, with a dedicated section for street style.",
+      "title": "Hypebeast",
+      "kind": "feed",
+      "feed_url": "http://hypebeast.com/feed/",
+      "details": "Original category: Fashion -> Street Style",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "streetwear",
+        "sneakers",
+        "contemporary fashion"
+      ]
+    },
+    {
+      "id": "feed:blog.nextdoor.com:Nextdoor Blog",
+      "cleaned_title": "Nextdoor Blog",
+      "summary": "Nextdoor is a social networking platform for local communities, and their blog provides updates, tips, and stories related to local neighborhoods.",
+      "title": "Nextdoor Blog",
+      "kind": "feed",
+      "feed_url": "http://blog.nextdoor.com/feed/",
+      "details": "Original category: Local",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "community stories",
+        "neighborhood news",
+        "local issues"
+      ]
+    },
+    {
+      "id": "youtube:City Beautiful",
+      "cleaned_title": "City Beautiful",
+      "summary": "City Beautiful is a YouTube channel that explores the architecture, history, and urban planning of cities around the world, offering a unique perspective on local communities.",
+      "title": "City Beautiful",
+      "kind": "youtube",
+      "channel_id": "UCGc8ZVCsrR3dAuhvUbkbToQ",
+      "thumbnail_url": "https://yt3.ggpht.com/JshyTw7u7FcPmyxIfkejvS7HKW-UkcmUBvPmkqWeES6EhxAzI1pzIVMmbIHFeEojLZN81tYXbA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Urban",
+        "Architecture"
+      ],
+      "language": "en",
+      "keywords": [
+        "urban planning",
+        "architecture",
+        "city life",
+        "local communities"
+      ]
+    },
+    {
+      "id": "feed:forgotten-ny.com:Forgotten New York",
+      "cleaned_title": "Forgotten New York",
+      "summary": "An exploration of New York City's hidden gems and lost treasures, Forgotten New York takes readers on a nostalgic journey through the city's overlooked nooks and crannies. It's a charming tribute to the bygone eras and vibrant history of the Big Apple.",
+      "title": "Forgotten New York",
+      "kind": "feed",
+      "feed_url": "http://forgotten-ny.com/feed/",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC",
+        "History",
+        "Urban",
+        "_hip",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "hidden gems",
+        "history",
+        "local culture",
+        "nooks and crannies"
+      ]
+    },
+    {
+      "id": "feed:newyorkyimby.com:New York YIMBY",
+      "cleaned_title": "New York YIMBY",
+      "summary": "A platform advocating for positive new developments across the NYC metropolitan area, providing updates on construction and housing.",
+      "title": "New York YIMBY",
+      "kind": "feed",
+      "feed_url": "http://www.newyorkyimby.com/feed",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://www.construction-physics.com/feed",
+      "title": "Construction Physics \u2013 construction-physics.com",
+      "kind": "feed",
+      "feed_url": "https://www.construction-physics.com/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Construction Physics",
+      "cleaned_author": null,
+      "summary": "Construction Physics provides insightful essays on buildings and infrastructure, delving into the complexities of industrial technology.",
+      "tags": [
+        "Tech",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "engineering",
+        "infrastructure",
+        "industrial technology"
+      ]
+    },
+    {
+      "id": "feed:https://futuresoutheastasia.com/feed/",
+      "title": "Southeast Asia construction, transport, and infrastructure",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://futuresoutheastasia.com/feed/",
+      "summary": "Transport and urban development in Southeast Asia.",
+      "details": "Original Category: humanities -> urbanism.opml",
+      "cleaned_title": "Southeast Asia construction, transport, and infrastructure",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Urban",
+        "Social",
+        "Urban",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "Southeast Asia",
+        "transport",
+        "infrastructure",
+        "railways",
+        "urban development"
+      ]
+    },
+    {
+      "id": "feed:https://futuresoutheastasia.com/feed/",
+      "title": "Southeast Asia construction, transport, and infrastructure",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://futuresoutheastasia.com/feed/",
+      "summary": "Transport and urban development in Southeast Asia.",
+      "details": "Original Category: humanities -> urbanism.opml",
+      "cleaned_title": "Southeast Asia construction, transport, and infrastructure",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Urban",
+        "Social",
+        "Urban",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "Southeast Asia",
+        "transport",
+        "infrastructure",
+        "railways",
+        "urban development"
+      ]
+    },
+    {
+      "id": "feed:http://fetchrss.com/rss/6349952558d159296d0ef0c2634994e836de582f7528bc52.xml",
+      "title": "THE ANOMALIST",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://fetchrss.com/rss/6349952558d159296d0ef0c2634994e836de582f7528bc52.xml",
+      "summary": "World News on UFOs, Bigfoot, the Paranormal, and Other Mysteries at the Edge of Science.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "THE ANOMALIST",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "mysteries",
+        "UFOs",
+        "science",
+        "anomalies"
+      ]
+    },
+    {
+      "id": "feed:https://archinect.com/feed/home",
+      "title": "Archinect",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://archinect.com/feed/home",
+      "summary": "The goal of Archinect is to make architecture more connected and open-minded, and bring together designers from around the world to introduce new ideas from all disciplines.",
+      "details": "Original Category: arts -> architecture.opml",
+      "cleaned_title": "Archinect",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Architecture",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "architecture",
+        "design",
+        "community",
+        "urban planning"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/PlacesJournal",
+      "title": "Places Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/PlacesJournal",
+      "summary": "Public scholarship on architecture, landscape, and urbanism.",
+      "details": "Original Category: humanities -> urbanism.opml",
+      "cleaned_title": "Places Journal",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "urbanism",
+        "architecture",
+        "landscape"
+      ]
+    },
+    {
+      "id": "feed:https://www.roads.org.uk/rss/updates.rss",
+      "title": "Roads.org.uk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.roads.org.uk/rss/updates.rss",
+      "summary": "The home of roads in the UK - from road project updates to maps of every motorway and expressway and detailed articles exploring the history of the network.",
+      "details": "Original Category: arts -> architecture -> infrastructure.opml",
+      "cleaned_title": "Roads.org.uk",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Architecture",
+        "Urban",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "UK roads",
+        "infrastructure",
+        "motorways"
+      ]
+    },
+    {
+      "id": "feed:https://medium.com/feed/@cityofsound",
+      "title": "Dan Hill \u2013 Medium",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://medium.com/feed/@cityofsound",
+      "summary": "Designer, urbanist, etc. Director of Melbourne School of Design. Previously, Swedish gov, Arup, UCL IIPP, Fabrica, Helsinki Design Lab, BBC etc.",
+      "details": "Original Category: humanities -> urbanism.opml",
+      "cleaned_title": "Dan Hill \u2013 Medium",
+      "cleaned_author": "Dan Hill",
+      "tags": [
+        "Living",
+        "Urban",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "urbanism",
+        "design",
+        "city"
+      ]
+    },
+    {
+      "id": "feed:https://brucefnesmith.blogspot.com/feeds/posts/default",
+      "title": "Holy Mountain: A Blog about Our Common Life",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brucefnesmith.blogspot.com/feeds/posts/default",
+      "summary": "Commentary on public policy, place and social relations.",
+      "details": "Original Category: humanities -> urbanism.opml",
+      "cleaned_title": "Holy Mountain: A Blog about Our Common Life",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Living",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "public policy",
+        "urbanism",
+        "society"
+      ]
+    },
+    {
+      "id": "feed:https://www.strongtowns.org/journal?format=rss",
+      "title": "Strong Towns",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.strongtowns.org/journal?format=rss",
+      "summary": "We produce content that analyzes the failures of the post-war North American development pattern while giving citizens the knowledge and tools to start making our places better today.",
+      "details": "Original Category: humanities -> urbanism.opml",
+      "cleaned_title": "Strong Towns",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "community development",
+        "urban planning"
+      ]
+    },
+    {
+      "id": "feed:https://www.theurbanist.org/feed/",
+      "title": "The Urbanist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.theurbanist.org/feed/",
+      "summary": "Examining urban policy to improve cities and quality of life.",
+      "details": "Original Category: humanities -> urbanism.opml",
+      "cleaned_title": "The Urbanist",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "urban policy",
+        "quality of life"
+      ]
+    },
+    {
+      "id": "feed:https://transitmap.net/feed/",
+      "title": "Transit Maps",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://transitmap.net/feed/",
+      "summary": "A site devoted to the design and social impact of transit maps - subway maps, metro maps, bus maps, rail maps, ferry maps and more!",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "Transit Maps",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Design",
+        "Urban",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "transit maps",
+        "subway maps",
+        "urban design"
+      ]
+    },
+    {
+      "id": "feed:https://www.goatorama.com/feed/",
+      "title": "Goat-O-Rama",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.goatorama.com/feed/",
+      "summary": "Put some color in your herd!",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Goat-O-Rama",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Writing",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "goat herding",
+        "livestock",
+        "colorful practices"
+      ]
+    },
+    {
+      "id": "feed:http://www.thelrm.org/entries.atom",
+      "title": "The LRM - The Loiterers Resistance Movement | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.thelrm.org/entries.atom",
+      "summary": "A blog on psychogeography that encourages exploration and engagement with urban spaces through creative activities and communal experiences.",
+      "details": "Original Category: society -> psychogeography.opml",
+      "cleaned_title": "The LRM - The Loiterers Resistance Movement",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Architecture",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "psychogeography",
+        "community engagement",
+        "urban exploration",
+        "creativity",
+        "loitering"
+      ]
+    },
+    {
+      "id": "feed:https://pedestrianobservations.com/feed/",
+      "title": "Pedestrian Observations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pedestrianobservations.com/feed/",
+      "summary": "For Walkability and Good Transit, and Against Boondoggles and Pollution.",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "Pedestrian Observations",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Urban",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "walkability",
+        "transit",
+        "urban planning",
+        "environmental policy"
+      ]
+    },
+    {
+      "id": "feed:https://thetrolleydodger.com/feed/",
+      "title": "The Trolley Dodger",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thetrolleydodger.com/feed/",
+      "summary": "Musings on transit, past, present, and future.",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "The Trolley Dodger",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "transit",
+        "public transportation",
+        "urban development",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:http://beachburg.blogspot.com/feeds/posts/default",
+      "title": "THE BEACHBURG SUB",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://beachburg.blogspot.com/feeds/posts/default",
+      "summary": "Thoughts and musings about a lifelong fascination with railways.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "THE BEACHBURG SUB",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "railways",
+        "Ottawa",
+        "transportation",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://www.greencaltrain.com/feed/",
+      "title": "Green Caltrain",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.greencaltrain.com/feed/",
+      "summary": "Friends of Caltrain Blog.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Green Caltrain",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "USA",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "Caltrain",
+        "transportation",
+        "advocacy",
+        "funding"
+      ]
+    },
+    {
+      "id": "feed:http://www.merseytart.com/feeds/posts/default",
+      "title": "round the rails we go",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.merseytart.com/feeds/posts/default",
+      "summary": "capturing Britain's railways, one station at a time.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "round the rails we go",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "UK",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "British railway",
+        "station visits",
+        "travel",
+        "photography"
+      ]
+    },
+    {
+      "id": "feed:https://www.fromthemurkydepths.co.uk/feed/",
+      "title": "Murky Depths",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fromthemurkydepths.co.uk/feed/",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "Murky Depths",
+      "cleaned_author": null,
+      "summary": "A local news source offering updates and commentary on various developments in London, providing insights into urban change and community issues.",
+      "tags": [
+        "News",
+        "Local",
+        "London",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "London",
+        "urban development"
+      ]
+    }
+  ],
+  "child_categories": []
+}

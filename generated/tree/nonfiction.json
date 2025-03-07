@@ -1,0 +1,135 @@
+{
+  "id": "nonfiction",
+  "display_name": "Nonfiction",
+  "feeds": [
+    {
+      "id": "feed:longreads.com:Longreads",
+      "cleaned_title": "Longreads",
+      "summary": "A curated collection of the internet's best longform narratives, ideal for readers who appreciate in-depth storytelling across various topics.",
+      "title": "Longreads",
+      "kind": "feed",
+      "feed_url": "https://longreads.com/feed/",
+      "popularity_score": 6.12407287157287,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Nonfiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "longform stories",
+        "writing",
+        "narrative journalism"
+      ]
+    },
+    {
+      "id": "feed:nutritionfacts.org:NutritionFacts.org",
+      "cleaned_title": "NutritionFacts.org",
+      "summary": "A resource that delves into the latest nutrition research, offering guidance on healthy eating and dietary impacts.",
+      "title": "NutritionFacts.org",
+      "kind": "feed",
+      "feed_url": "https://nutritionfacts.org/feed/",
+      "details": "Original category: Health -> Nutrition",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Health",
+        "Nonfiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "nutrition",
+        "research",
+        "healthy eating",
+        "plant-based"
+      ]
+    },
+    {
+      "id": "feed:goodreads.com:Goodreads Blog",
+      "cleaned_title": "Goodreads Blog",
+      "summary": "A social cataloging website that allows users to track their reading, discover new books, and connect with other readers.",
+      "title": "Goodreads Blog",
+      "kind": "feed",
+      "feed_url": "http://www.goodreads.com/blog/list_rss.xml",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.478959566389279,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Nonfiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "reading",
+        "book recommendations",
+        "book trends",
+        "reading community"
+      ]
+    },
+    {
+      "id": "youtube:* e m m i e *",
+      "cleaned_title": "* e m m i e *",
+      "summary": "A YouTube community of book lovers who create videos about book recommendations, reviews, and discussions.",
+      "title": "* e m m i e *",
+      "kind": "youtube",
+      "channel_id": "UCMFSTAyvpl_yBXmq6JPfhBQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ny0XcC_br_NhVrX10PT5KLGgKWWXTf-Axgg492bgqGGitz2JdCBwq2r4IU-3VFrwTsxIK6H7Hg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Nonfiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "book reviews",
+        "reading vlogs",
+        "TBR lists",
+        "book discussions"
+      ]
+    },
+    {
+      "id": "feed:http://strangeattractor.co.uk/feed/",
+      "title": "Strange Attractor - News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://strangeattractor.co.uk/feed/",
+      "summary": "News, happenings and passing fancies from Strange Attractor and other organisms.",
+      "details": "Original Category: arts -> books -> non-fiction-books.opml",
+      "cleaned_title": "Strange Attractor - News",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Nonfiction",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "unpopular culture",
+        "Strange Attractor"
+      ]
+    }
+  ],
+  "child_categories": []
+}

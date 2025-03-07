@@ -1,0 +1,103 @@
+{
+  "id": "tennis",
+  "display_name": "Tennis",
+  "feeds": [
+    {
+      "id": "feed:https://projectswordtoys.blogspot.com/feeds/posts/default",
+      "title": "MOONBASE CENTRAL",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://projectswordtoys.blogspot.com/feeds/posts/default",
+      "summary": "the blog about vintage and modern space toys.",
+      "details": "Original Category: recreation -> toys.opml",
+      "cleaned_title": "MOONBASE CENTRAL",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tennis",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "space toys",
+        "vintage toys",
+        "Sci-Fi nostalgia"
+      ]
+    },
+    {
+      "id": "feed:http://www.actionfigurebarbecue.com/feeds/posts/default",
+      "title": "Action Figure Barbecue",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.actionfigurebarbecue.com/feeds/posts/default",
+      "summary": "Action figure reviews, toy reviews, stuff about Halloween, and Batgirl fandom all mixed together.",
+      "details": "Original Category: recreation -> toys.opml",
+      "cleaned_title": "Action Figure Barbecue",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Tennis",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "action figures",
+        "toy reviews",
+        "collecting"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/thebrickblogger",
+      "title": "theBrickBlogger.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/thebrickblogger",
+      "summary": "Sharing the Passion of the LEGO Hobby!",
+      "details": "Original Category: recreation -> toys.opml",
+      "cleaned_title": "theBrickBlogger",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tennis"
+      ],
+      "language": "en",
+      "keywords": [
+        "LEGO",
+        "hobby",
+        "reviews",
+        "challenges"
+      ]
+    },
+    {
+      "id": "feed:https://www.toyboxphilosopher.com/feeds/posts/default",
+      "title": "The Toy Box Philosopher",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.toyboxphilosopher.com/feeds/posts/default",
+      "summary": "Doll Reviews and Ruminations.",
+      "details": "Original Category: recreation -> toys.opml",
+      "cleaned_title": "The Toy Box Philosopher",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tennis"
+      ],
+      "language": "en",
+      "keywords": [
+        "doll reviews",
+        "toys",
+        "childhood"
+      ]
+    }
+  ],
+  "child_categories": []
+}

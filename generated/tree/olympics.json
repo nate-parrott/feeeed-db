@@ -1,0 +1,84 @@
+{
+  "id": "olympics",
+  "display_name": "Olympics",
+  "feeds": [
+    {
+      "id": "youtube:Olympics",
+      "cleaned_title": "Olympics",
+      "summary": "The official YouTube channel of the Olympic Games, showcasing highlights, interviews, and behind-the-scenes content from various Olympic events.",
+      "title": "Olympics",
+      "kind": "youtube",
+      "channel_id": "UCTl3QQTvqHFjurroKxexy2Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM7OxmzrTI3jba7pPGb9uaWAOXtOBWBH7PH6FCoy-E=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Olympics",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Olympics",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "Olympics highlights",
+        "behind-the-scenes content",
+        "Olympic sports"
+      ]
+    },
+    {
+      "id": "feed:swimswam.com:SwimSwam",
+      "cleaned_title": "SwimSwam",
+      "summary": "A website covering swimming and aquatic sports, including news, results, and analysis of Olympic swimming events.",
+      "title": "SwimSwam",
+      "kind": "feed",
+      "feed_url": "http://swimswam.com/feed/",
+      "details": "Original category: Sports -> Olympics",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Olympics",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "swimming news",
+        "aquatic sports",
+        "Olympic swimming"
+      ]
+    },
+    {
+      "id": "youtube:GymnasticsHQ",
+      "cleaned_title": "GymnasticsHQ",
+      "summary": "A YouTube channel focused on gymnastics, which is a popular Olympic sport. The channel provides tutorials, training tips, and coverage of gymnastics events.",
+      "title": "GymnasticsHQ",
+      "kind": "youtube",
+      "channel_id": "UC6DIWqCjBs24dchRgLwziZA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMA5rv021brW4bTEYmhWMT4JnO_I2lkQd2RLIG9Iw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Sports -> Olympics",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "Olympics",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "gymnastics",
+        "tutorials",
+        "Olympic sport",
+        "training tips",
+        "comic relief"
+      ]
+    }
+  ],
+  "child_categories": []
+}

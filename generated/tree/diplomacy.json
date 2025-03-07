@@ -1,0 +1,58 @@
+{
+  "id": "diplomacy",
+  "display_name": "Diplomacy",
+  "feeds": [
+    {
+      "id": "feed:https://thesavvydiabetic.com/feed/",
+      "title": "The Savvy Diabetic | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thesavvydiabetic.com/feed/",
+      "summary": "Visit the post for more.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "The Savvy Diabetic",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Diplomacy"
+      ],
+      "language": "en",
+      "keywords": [
+        "diabetes",
+        "insulin",
+        "health",
+        "updates"
+      ]
+    },
+    {
+      "title": "\u738b\u5fd7\u5b89",
+      "popularity_score": 3.066666666666667,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCBKDRq35-L8xev4O7ZqBeLg",
+      "kind": "youtube",
+      "id": "youtube:channel:UCBKDRq35-L8xev4O7ZqBeLg",
+      "cleaned_title": "\u738b\u5fd7\u5b89",
+      "cleaned_author": null,
+      "summary": "A blog discussing political events and social commentary focused on China and its international relations.",
+      "tags": [
+        "Politics",
+        "News",
+        "China",
+        "USA",
+        "Diplomacy"
+      ],
+      "language": "zh",
+      "keywords": [
+        "politics",
+        "China",
+        "international relations"
+      ]
+    }
+  ],
+  "child_categories": []
+}

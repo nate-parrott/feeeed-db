@@ -1,0 +1,515 @@
+{
+  "id": "gardens",
+  "display_name": "Gardens",
+  "feeds": [
+    {
+      "id": "youtube:BBC Gardeners' World Magazine",
+      "cleaned_title": "BBC Gardeners' World Magazine",
+      "summary": "A YouTube channel that offers gardening tips, plant care advice, and inspiration for those interested in gardening as a hobby.",
+      "title": "BBC Gardeners' World Magazine",
+      "kind": "youtube",
+      "channel_id": "UC8kRP4T6HbZnsheHCuIB_FQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTH2XItgNhQ2xUi88La2yCB9WPfrK5zJEMF8s-I=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "youtube:Epic Gardening",
+      "cleaned_title": "Epic Gardening",
+      "summary": "A YouTube channel hosted by Kevin Espiritu, offering practical gardening advice, tips, and tutorials for both beginners and experienced gardeners.",
+      "title": "Epic Gardening",
+      "kind": "youtube",
+      "channel_id": "UCSbyncU597LMwb3HhnAI_4w",
+      "thumbnail_url": "https://yt3.ggpht.com/5PBqWwiH1w4XSeB5Rj0Kh9ojezTxli112Cdo3YMBUE86ooeifjGdYhexKJTrPo6ngErQMR0AIsc=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Gardening",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Kevin Espiritu",
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "gardening",
+        "tips",
+        "techniques"
+      ]
+    },
+    {
+      "id": "feed:gardenersworld.com:BBC Gardeners World Magazine",
+      "cleaned_title": "BBC Gardeners World Magazine",
+      "summary": "A website based on the popular BBC television show, providing gardening advice, tips, and inspiration for gardeners of all levels.",
+      "title": "BBC Gardeners World Magazine",
+      "kind": "feed",
+      "feed_url": "https://www.gardenersworld.com/feed/atom/",
+      "details": "Original category: Hobbies -> Gardening",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "gardening",
+        "tips",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "youtube:MIgardener",
+      "cleaned_title": "MIgardener",
+      "summary": "A YouTube channel hosted by Luke Marion, offering gardening tips, tricks, and tutorials with a focus on organic and sustainable practices.",
+      "title": "MIgardener",
+      "kind": "youtube",
+      "channel_id": "UCVGVbOl6F5rGF4wSYS6Y5yQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaS3qjU7DaGpl6NmjOLAPIKL0wrKNdvD7MGdsStJTQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Gardening",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Luke Marion",
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "organic gardening",
+        "sustainable practices",
+        "tips"
+      ]
+    },
+    {
+      "id": "youtube:Garden Answer",
+      "cleaned_title": "Garden Answer",
+      "summary": "A YouTube channel hosted by Laura LeBoutillier, featuring gardening tutorials, plant care tips, and garden tours for both beginners and experienced gardeners.",
+      "title": "Garden Answer",
+      "kind": "youtube",
+      "channel_id": "UC_kg1A_YPAa66hZWq7VPg7Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaRnBofpzcTYvw1bL7tvKi7jVU_DgnwODZf8J2D50w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Gardening",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Laura LeBoutillier",
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "gardening",
+        "tutorials",
+        "plant care",
+        "garden tours"
+      ]
+    },
+    {
+      "id": "youtube:Jon B.",
+      "cleaned_title": "Jon B.",
+      "summary": "A popular YouTube channel featuring fishing adventures, tips, and challenges, with a focus on bass fishing.",
+      "title": "Jon B.",
+      "kind": "youtube",
+      "channel_id": "UCI6gB6eZS0c3ZrjcJq7xAtA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQPCWdmw3OtEbmPi8Ji_QYxk97j5rQtt53bkW6YEA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "DIY",
+        "Gardens",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "fishing",
+        "bass fishing",
+        "YouTube channel",
+        "adventures"
+      ]
+    },
+    {
+      "id": "youtube:LakeForkGuy",
+      "cleaned_title": "LakeForkGuy",
+      "summary": "A YouTube channel hosted by a passionate angler who shares fishing adventures, tips, and techniques, primarily focused on freshwater fishing.",
+      "title": "LakeForkGuy",
+      "kind": "youtube",
+      "channel_id": "UCt6iqDb8Pcza_A_UW5XMFyg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaSfAg_8O2NU2CPQ3OC6jcMVWeMvf_xdso8vR5hRaA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Gardens",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "fishing",
+        "freshwater",
+        "YouTube channel",
+        "adventures"
+      ]
+    },
+    {
+      "id": "reddit:FlyFishing",
+      "cleaned_title": "FlyFishing",
+      "summary": "A subreddit dedicated to the art and sport of fly fishing, where you can find discussions, tips, and beautiful fly fishing photography.",
+      "title": "FlyFishing",
+      "kind": "reddit",
+      "subreddit": "FlyFishing",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Gardens",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "fly fishing",
+        "subreddit",
+        "community",
+        "photography"
+      ]
+    },
+    {
+      "id": "youtube:BlacktipH",
+      "cleaned_title": "BlacktipH",
+      "summary": "A YouTube channel featuring extreme saltwater fishing adventures, targeting species like sharks, tarpon, and giant groupers.",
+      "title": "BlacktipH",
+      "kind": "youtube",
+      "channel_id": "UCL0L7RQ8mrO10OLRlWPoq6A",
+      "thumbnail_url": "https://yt3.ggpht.com/hfM0zcgUaXThL_sVH1TWvGaqu5nmekZ_NkCTZWVYWce5BI-TG5HoCPotr39b0hjYyhBkAWsuZw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Fishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Gardens",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "saltwater fishing",
+        "YouTube channel",
+        "adventures",
+        "sharks"
+      ]
+    },
+    {
+      "id": "feed:https://bubbaone.blogspot.com/feeds/posts/default",
+      "title": "Bubba One",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bubbaone.blogspot.com/feeds/posts/default",
+      "summary": "Much of this blog will be about growing and using Cannabis.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Bubba One",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "cannabis",
+        "cultivation",
+        "plant care"
+      ]
+    },
+    {
+      "id": "feed:https://www.hermitary.com/thatch/?feed=rss2",
+      "title": "Hermitary \u2013 hermit's thatch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hermitary.com/thatch/?feed=rss2",
+      "summary": "journal of reflections by the resident of the Hermitary.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Hermitary \u2013 hermit's thatch",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Photos",
+        "Writing",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "reflections",
+        "solitude",
+        "nature",
+        "medieval hermits",
+        "literary themes"
+      ]
+    },
+    {
+      "id": "feed:https://projectswordtoys.blogspot.com/feeds/posts/default",
+      "title": "MOONBASE CENTRAL",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://projectswordtoys.blogspot.com/feeds/posts/default",
+      "summary": "the blog about vintage and modern space toys.",
+      "details": "Original Category: recreation -> toys.opml",
+      "cleaned_title": "MOONBASE CENTRAL",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tennis",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "space toys",
+        "vintage toys",
+        "Sci-Fi nostalgia"
+      ]
+    },
+    {
+      "id": "feed:https://adamapples.blogspot.com/feeds/posts/default",
+      "title": "Adam's Apples",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://adamapples.blogspot.com/feeds/posts/default",
+      "summary": "Hundreds of apples, plus notes and comment on the harvest and more.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Adam's Apples",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "apples",
+        "harvest",
+        "fruit"
+      ]
+    },
+    {
+      "id": "feed:https://gregalder.com/yardposts/feed/",
+      "title": "Greg Alder's Yard Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gregalder.com/yardposts/feed/",
+      "summary": "Southern California food gardening.",
+      "details": "Original Category: recreation -> gardening.opml",
+      "cleaned_title": "Greg Alder's Yard Posts",
+      "cleaned_author": "Greg Alder",
+      "tags": [
+        "Living",
+        "Gardens",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "gardening",
+        "Southern California",
+        "fruit trees"
+      ]
+    },
+    {
+      "id": "feed:http://greenshadediary.blogspot.com/feeds/posts/default",
+      "title": "IN A GREEN SHADE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://greenshadediary.blogspot.com/feeds/posts/default",
+      "summary": "A diary of back garden botany, urban ecology, rural rambles and field trips to the middle of nowhere...",
+      "details": "Original Category: recreation -> gardening.opml",
+      "cleaned_title": "IN A GREEN SHADE",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "botany",
+        "ecology",
+        "gardening"
+      ]
+    },
+    {
+      "id": "feed:https://kirstenandmars.com/feed",
+      "title": "My Home Farm",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kirstenandmars.com/feed",
+      "summary": "Slow country living, gardening and home sustainability.",
+      "details": "Original Category: recreation -> gardening.opml",
+      "cleaned_title": "My Home Farm",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "sustainability",
+        "gardening",
+        "country living"
+      ]
+    },
+    {
+      "id": "feed:https://rachel-the-gardener.blogspot.com/feeds/posts/default",
+      "title": "Rachel the Gardener",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rachel-the-gardener.blogspot.com/feeds/posts/default",
+      "summary": "Garden advice, encouragement and How To: plus Botany and Tree ID from a Professional, Artisan Gardener and Plantsmith.",
+      "details": "Original Category: recreation -> gardening.opml",
+      "cleaned_title": "Rachel the Gardener",
+      "cleaned_author": "Rachel",
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "gardening",
+        "botany",
+        "plant care"
+      ]
+    },
+    {
+      "id": "feed:https://reclaimingparadise.wordpress.com/feed/",
+      "title": "Reclaiming Paradise",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://reclaimingparadise.wordpress.com/feed/",
+      "summary": "Tales from an organic gardener.",
+      "details": "Original Category: recreation -> gardening.opml",
+      "cleaned_title": "Reclaiming Paradise",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "organic gardening",
+        "gardening",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "feed:http://scytheassociation.org/feed/",
+      "title": "The Scythe Association \u2013 Latest News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://scytheassociation.org/feed/",
+      "summary": "Stay sharp!",
+      "details": "Original Category: recreation -> gardening.opml",
+      "cleaned_title": "The Scythe Association \u2013 Latest News",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "scything",
+        "sustainability",
+        "gardening"
+      ]
+    },
+    {
+      "id": "feed:https://nodighome.com/feed/",
+      "title": "Stephanie Hafferty - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nodighome.com/feed/",
+      "summary": "Follow my journey as I create a new homestead in rural Wales.",
+      "details": "Original Category: recreation -> gardening.opml",
+      "cleaned_title": "Stephanie Hafferty - Blog",
+      "cleaned_author": "Stephanie Hafferty",
+      "tags": [
+        "Living",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "homesteading",
+        "no dig gardening",
+        "recipes"
+      ]
+    },
+    {
+      "id": "feed:https://desertcanyonfarm.wpcomstaging.com/feed/",
+      "title": "Desert Canyon Farm Green Thoughts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://desertcanyonfarm.wpcomstaging.com/feed/",
+      "summary": "This blog shares insights from a farm's daily activities, focusing on sustainable practices and updates on agricultural events. From greenhouse news to eco-friendly projects, it offers a glimpse into farm life.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Desert Canyon Farm Green Thoughts",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Gardens",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "farming",
+        "sustainability",
+        "greenhouse"
+      ]
+    }
+  ],
+  "child_categories": []
+}

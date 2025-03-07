@@ -1,0 +1,3196 @@
+{
+  "id": "history",
+  "display_name": "History",
+  "feeds": [
+    {
+      "id": "substack:top:letters_from_an_american_-_heather_cox_richardson",
+      "title": "Letters from an American - Heather Cox Richardson",
+      "cleaned_title": "Letters from an American",
+      "summary": "This newsletter connects historical context to contemporary politics, offering readers a unique lens through which to understand today's issues and events.",
+      "kind": "feed",
+      "feed_url": "https://heathercoxrichardson.substack.com/feed",
+      "details": "Original category: Substack top newsletters about us-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "History",
+        "USA",
+        "_academic"
+      ],
+      "cleaned_author": "Heather Cox Richardson",
+      "language": "en",
+      "keywords": [
+        "history",
+        "politics",
+        "analysis"
+      ]
+    },
+    {
+      "id": "substack:top:thinking_about..._-_timothy_snyder",
+      "title": "Thinking about... - Timothy Snyder",
+      "cleaned_title": "Thinking about...",
+      "summary": "A scholarly approach to current events, emphasizing the lessons of history to guide understanding of contemporary political landscapes.",
+      "kind": "feed",
+      "feed_url": "https://snyder.substack.com/feed",
+      "details": "Original category: Substack top newsletters about world-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "Living",
+        "History",
+        "World News"
+      ],
+      "cleaned_author": "Timothy Snyder",
+      "language": "en",
+      "keywords": [
+        "politics",
+        "history",
+        "current events",
+        "Ukraine"
+      ]
+    },
+    {
+      "id": "substack:top:the_martyr_made_substack_-_darryl_cooper",
+      "title": "The Martyr Made Substack - Darryl Cooper",
+      "cleaned_title": "The Martyr Made Substack",
+      "summary": "Darryl Cooper explores historical themes and narratives through engaging content, offering a unique perspective on the past.",
+      "kind": "feed",
+      "feed_url": "https://subscribe.martyrmade.com/feed",
+      "details": "Original category: Substack top newsletters about history",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "cleaned_author": "Darryl Cooper",
+      "language": "en",
+      "keywords": [
+        "Darryl Cooper",
+        "history",
+        "narratives"
+      ]
+    },
+    {
+      "id": "substack:top:chartbook_-_adam_tooze",
+      "title": "Chartbook - Adam Tooze",
+      "cleaned_title": "Chartbook",
+      "summary": "Adam Tooze offers insightful commentary on economics, geopolitics, and historical contexts, blending analysis with thought-provoking discussions.",
+      "kind": "feed",
+      "feed_url": "https://adamtooze.substack.com/feed",
+      "details": "Original category: Substack top newsletters about history",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Finance",
+        "History"
+      ],
+      "cleaned_author": "Adam Tooze",
+      "language": "en",
+      "keywords": [
+        "Adam Tooze",
+        "economics",
+        "geopolitics"
+      ]
+    },
+    {
+      "id": "substack:top:gray_mirror_-_curtis_yarvin",
+      "title": "Gray Mirror - Curtis Yarvin",
+      "cleaned_title": "Gray Mirror",
+      "summary": "Curtis Yarvin's provocative writings challenge conventional narratives and introduce readers to alternative perspectives on governance and culture.",
+      "kind": "feed",
+      "feed_url": "https://graymirror.substack.com/feed",
+      "details": "Original category: Substack top newsletters about history",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "History"
+      ],
+      "cleaned_author": "Curtis Yarvin",
+      "language": "en",
+      "keywords": [
+        "Curtis Yarvin",
+        "governance",
+        "alternatives"
+      ]
+    },
+    {
+      "id": "reddit:ArtHistory",
+      "cleaned_title": "ArtHistory",
+      "summary": "Delve into the rich history of visual art with the r/ArtHistory subreddit. Engage in discussions, share interesting facts, and explore the evolution of art through the ages.",
+      "title": "ArtHistory",
+      "kind": "reddit",
+      "subreddit": "ArtHistory",
+      "details": "Original category: Arts -> Visual Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "art history",
+        "discussions",
+        "visual arts"
+      ]
+    },
+    {
+      "id": "feed:historyextra.com:HistoryExtra",
+      "cleaned_title": "HistoryExtra",
+      "summary": "The official website of BBC History Magazine, offering articles, podcasts, and interviews on a wide range of historical topics.",
+      "title": "HistoryExtra",
+      "kind": "feed",
+      "feed_url": "https://www.historyextra.com/feed/",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "BBC History",
+        "historical articles",
+        "podcasts",
+        "interviews"
+      ]
+    },
+    {
+      "id": "youtube:The Great War",
+      "cleaned_title": "The Great War",
+      "summary": "A YouTube channel that covers the events of World War I week by week, providing detailed insights and analysis.",
+      "title": "The Great War",
+      "kind": "youtube",
+      "channel_id": "UCUcyEsEjhPEDf69RRVhRh4A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaQYw94pT_1zwFj_oZnVYczz7bNii7tkZvkiPx0vMg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "War",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "World War I",
+        "documentaries",
+        "historical analysis"
+      ]
+    },
+    {
+      "id": "youtube:History Matters",
+      "cleaned_title": "History Matters",
+      "summary": "A YouTube channel that explores various historical topics, including ancient civilizations, wars, and notable figures.",
+      "title": "History Matters",
+      "kind": "youtube",
+      "channel_id": "UC22BdTgxefuvUivrjesETjg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTDWVClKWlyqcFsBw0vLqLqB5iGzsLhAFuSuFSy7Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "animated documentaries",
+        "historical topics",
+        "education"
+      ]
+    },
+    {
+      "id": "reddit:AskHistorians",
+      "title": "r/AskHistorians",
+      "kind": "reddit",
+      "subreddit": "AskHistorians",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "r/AskHistorians",
+      "cleaned_author": null,
+      "summary": "A subreddit dedicated to in-depth historical discussions and answers, focusing on comprehensive responses to historical questions.",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical discussions",
+        "in-depth answers",
+        "community engagement"
+      ]
+    },
+    {
+      "id": "reddit:History",
+      "cleaned_title": "History",
+      "summary": "A subreddit dedicated to discussing and sharing interesting historical content, including articles, images, and discussions.",
+      "title": "History",
+      "kind": "reddit",
+      "subreddit": "History",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical articles",
+        "discussions",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:historytoday.com:History Today Feed",
+      "cleaned_title": "History Today Feed",
+      "summary": "A website that offers articles, features, and resources on a wide range of historical topics from different time periods and regions.",
+      "title": "History Today Feed",
+      "kind": "feed",
+      "feed_url": "http://www.historytoday.com/feed/rss.xml",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical articles",
+        "features",
+        "cross-time periods"
+      ]
+    },
+    {
+      "id": "youtube:Extra History",
+      "cleaned_title": "Extra History",
+      "summary": "A YouTube channel that presents engaging and informative animated videos on various historical events and figures.",
+      "title": "Extra History",
+      "kind": "youtube",
+      "channel_id": "UCCODtTcd5M1JavPCOr_Uydg",
+      "thumbnail_url": "https://yt3.ggpht.com/TEN3sY_1LKglZnaxkaFkkPLUZqrh2h1IpmITeoUqMMEATkFywu4v5RjwwNftCtg5XvMYz4wUrA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "animated history",
+        "historical events",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:historythings.com:History Things",
+      "cleaned_title": "History Things",
+      "summary": "A platform focusing on various historical happenings, exploring significant events and notable historical figures.",
+      "title": "History Things",
+      "kind": "feed",
+      "feed_url": "https://historythings.com/feed/",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical events",
+        "significant figures",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:nokohaha.com:Nokohaha ",
+      "cleaned_title": "Nokohaha",
+      "summary": "A blog discussing provocative and whimsical thoughts on history, blending humor and narrative.",
+      "title": "Nokohaha ",
+      "kind": "feed",
+      "feed_url": "https://www.nokohaha.com/feed/",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "humor",
+        "history",
+        "whimsical thoughts"
+      ]
+    },
+    {
+      "id": "feed:weirdhistorian.com:Weird Historian",
+      "cleaned_title": "Weird Historian",
+      "summary": "A blog by Marc Hartzman exploring odd and unconventional aspects of history, sharing unusual stories and insights.",
+      "title": "Weird Historian",
+      "kind": "feed",
+      "feed_url": "https://www.weirdhistorian.com/feed/",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Marc Hartzman",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "weird history",
+        "odd stories",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:wearinghistoryblog.com:Wearing History\u00ae Blog",
+      "cleaned_title": "Wearing History\u00ae Blog",
+      "summary": "A blog dedicated to fashion history and vintage sewing, providing insights and resources into the craft and styles of the past.",
+      "title": "Wearing History\u00ae Blog",
+      "kind": "feed",
+      "feed_url": "https://wearinghistoryblog.com/feed/",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion history",
+        "vintage sewing",
+        "craft"
+      ]
+    },
+    {
+      "id": "feed:forgottenfiles.substack.com:The Forgotten Files",
+      "cleaned_title": "The Forgotten Files",
+      "summary": "A blog that delves into overlooked aspects of history, challenging common narratives and examining events that often fall into obscurity.",
+      "title": "The Forgotten Files",
+      "kind": "feed",
+      "feed_url": "https://forgottenfiles.substack.com/feed",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "myths",
+        "suppression"
+      ]
+    },
+    {
+      "id": "feed:gethistories.com:Histories",
+      "cleaned_title": "Histories",
+      "summary": "Histories brings forth captivating stories from the lesser-known annals of time, incorporating eyewitness accounts and exploring the significance of everyday objects.",
+      "title": "Histories",
+      "kind": "feed",
+      "feed_url": "https://www.gethistories.com/feed",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "stories",
+        "history",
+        "everyday objects"
+      ]
+    },
+    {
+      "id": "feed:rebeccakilbreath.substack.com:History in Kodachrome",
+      "cleaned_title": "History in Kodachrome",
+      "summary": "This blog offers a nostalgic glimpse into history through the lens of personal letters and vintage imagery, showcasing intimate details and memories from days gone by.",
+      "title": "History in Kodachrome",
+      "kind": "feed",
+      "feed_url": "https://rebeccakilbreath.substack.com/feed",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "ephemera",
+        "nostalgia",
+        "vintage"
+      ]
+    },
+    {
+      "id": "feed:rjgoodrich.substack.com:The Peripatetic Historian",
+      "cleaned_title": "The Peripatetic Historian",
+      "summary": "Written by a seasoned historian and traveler, this bulletin reflects on the connections between history and contemporary life, offering insights and observations from around the globe.",
+      "title": "The Peripatetic Historian",
+      "kind": "feed",
+      "feed_url": "https://rjgoodrich.substack.com/feed",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Richard J. Goodrich",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "history",
+        "connections"
+      ]
+    },
+    {
+      "id": "feed:dearest.substack.com:Dearest",
+      "cleaned_title": "Dearest",
+      "summary": "A unique exploration of history and auction gossip, focusing particularly on antique jewelry while also highlighting unusual and quirky items.",
+      "title": "Dearest",
+      "kind": "feed",
+      "feed_url": "https://dearest.substack.com/feed",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "auctions",
+        "antique jewelry",
+        "gossip"
+      ]
+    },
+    {
+      "id": "feed:singulardiscoveries.substack.com:Singular Discoveries",
+      "cleaned_title": "Singular Discoveries",
+      "summary": "Featuring fascinating true stories and intriguing recommendations, this blog uncovers the unusual and surprising facets of life.",
+      "title": "Singular Discoveries",
+      "kind": "feed",
+      "feed_url": "https://singulardiscoveries.substack.com/feed",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "stories",
+        "recommendations",
+        "true stories"
+      ]
+    },
+    {
+      "id": "feed:scholarstage.substack.com:Scholar's Stage",
+      "cleaned_title": "Scholar's Stage",
+      "summary": "A platform for in-depth discussions on international politics, history, and insights on the Communist Party of China and American conservatism.",
+      "title": "Scholar's Stage",
+      "kind": "feed",
+      "feed_url": "https://scholarstage.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "Academia",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "China",
+        "politics",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:forgotten-ny.com:Forgotten New York",
+      "cleaned_title": "Forgotten New York",
+      "summary": "An exploration of New York City's hidden gems and lost treasures, Forgotten New York takes readers on a nostalgic journey through the city's overlooked nooks and crannies. It's a charming tribute to the bygone eras and vibrant history of the Big Apple.",
+      "title": "Forgotten New York",
+      "kind": "feed",
+      "feed_url": "http://forgotten-ny.com/feed/",
+      "details": "Original category: Local -> New York City",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "NYC",
+        "History",
+        "Urban",
+        "_hip",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "New York City",
+        "hidden gems",
+        "history",
+        "local culture",
+        "nooks and crannies"
+      ]
+    },
+    {
+      "id": "bluesky:did:plc:cyyd366g3hrxp5rynixm2mm3",
+      "title": "depthsofwikipedia.bsky.social",
+      "kind": "bluesky",
+      "bluesky_did": "did:plc:cyyd366g3hrxp5rynixm2mm3",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "depthsofwikipedia",
+      "cleaned_author": null,
+      "summary": "This feed explores the depths of Wikipedia, engaging with its vast array of topics in a light-hearted manner, inviting conversations and discussions about unique articles.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Learning",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Wikipedia",
+        "articles",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "feed:https://www.dutchgenealogy.nl/feed/",
+      "title": "Dutch Genealogy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.dutchgenealogy.nl/feed/",
+      "summary": "Find your ancestors from the Netherlands.",
+      "details": "Original Category: humanities -> history -> genealogy.opml",
+      "cleaned_title": "Dutch Genealogy",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "History",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "genealogy",
+        "ancestors",
+        "Netherlands",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://pivic.blog/rss/",
+      "title": "Niklas's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pivic.blog/rss/",
+      "summary": "A personal blog featuring reflections on various literary and political topics, interweaving historical and contemporary perspectives.",
+      "details": "Original Category: countries.opml",
+      "cleaned_title": "Niklas's blog",
+      "cleaned_author": "Niklas",
+      "tags": [
+        "Politics",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "literature",
+        "politics",
+        "historical analysis",
+        "commentary"
+      ]
+    },
+    {
+      "id": "feed:https://scholars-stage.org/feed/",
+      "title": "The Scholar's Stage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scholars-stage.org/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "The Scholar's Stage",
+      "cleaned_author": null,
+      "summary": "A commentary on historical and contemporary issues, blending academic insights with personal observations.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Academia",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "politics",
+        "China",
+        "India",
+        "cultural commentary"
+      ]
+    },
+    {
+      "id": "feed:https://victorianparis.wordpress.com/feed/",
+      "title": "Victorian Paris",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://victorianparis.wordpress.com/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Victorian Paris",
+      "cleaned_author": null,
+      "summary": "An exploration of life in 19th century Paris, examining its social dynamics, cultural trends, and historical context.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "Paris",
+        "19th century",
+        "fashion",
+        "literature",
+        "social life"
+      ]
+    },
+    {
+      "id": "feed:https://followmehere.com/feed/",
+      "title": "Follow Me Here\u2026",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://followmehere.com/feed/",
+      "summary": "\u201cI am the world crier, & this is my dangerous career\u2026  I am the one to call your bluff, & this is my climate.\u201d  \u2014Kenneth Patchen (1911-1972).",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Follow Me Here\u2026",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "History",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "literature",
+        "poetry",
+        "current events",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.neatorama.com/feed/",
+      "title": "Neatorama",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.neatorama.com/feed/",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Neatorama",
+      "cleaned_author": null,
+      "summary": "A treasure trove of bizarre and fascinating facts, Neatorama brings together the neatest stories and curiosities from around the web, perfect for those who love learning and discovery.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "curiosities",
+        "facts",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:https://www.somebits.com/linkblog/index.atom",
+      "title": "Nelson's Linkblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.somebits.com/linkblog/index.atom",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Nelson's Linkblog",
+      "cleaned_author": "Nelson",
+      "summary": "A collection of engaging and thought-provoking links curated daily by Nelson, offering insights into culture, history, and current events.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "links",
+        "history",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://mylife100yearsago.com/feed/",
+      "title": "My Life 100 Years Ago",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mylife100yearsago.com/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "My Life 100 Years Ago",
+      "cleaned_author": null,
+      "summary": "A nostalgic journey that archives life from a century ago, showcasing the cultural landscape through historical posts filled with reflections and specifics from the 1920s.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "1920s",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "feed:https://quoteinvestigator.com/feed/",
+      "title": "Quote Investigator\u00ae \u2013 Tracing Quotations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://quoteinvestigator.com/feed/",
+      "summary": "Records the investigatory work of Garson O\u2019Toole who diligently seeks the truth about quotations. Who really said what?",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "Quote Investigator\u00ae",
+      "cleaned_author": "Garson O\u2019Toole",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "quotations",
+        "investigation",
+        "authorship"
+      ]
+    },
+    {
+      "id": "feed:https://faroutliers.com/feed/",
+      "title": "Far Outliers",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://faroutliers.com/feed/",
+      "summary": "Exploring migrants, exiles, expatriates, and out-of-the-way peoples, places, and times.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Far Outliers",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "History",
+        "Social",
+        "Europe"
+      ],
+      "language": "en",
+      "keywords": [
+        "migrants",
+        "cultures",
+        "Pashto",
+        "Romania",
+        "Eastern European nationalism"
+      ]
+    },
+    {
+      "id": "feed:https://hermitary.com/around/?feed=rss2",
+      "title": "Hermitary \u2013 hermits around the web",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hermitary.com/around/?feed=rss2",
+      "summary": "news, sites, and pages of interest about hermits and solitude.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Hermitary \u2013 hermits around the web",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "History",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "hermits",
+        "solitude",
+        "Buddhism",
+        "historical figures",
+        "solitary living"
+      ]
+    },
+    {
+      "id": "feed:https://thonyc.wordpress.com/feed/",
+      "title": "The Renaissance Mathematicus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thonyc.wordpress.com/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "The Renaissance Mathematicus",
+      "cleaned_author": null,
+      "summary": "The Renaissance Mathematicus offers insights into the history of mathematics, exploring influential figures and developments that shaped the field across eras.",
+      "tags": [
+        "Arts & Culture",
+        "Academia",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history of mathematics",
+        "scientific figures",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://breakfastintheruins.blogspot.com/feeds/posts/default?alt=rss",
+      "title": "Breakfast In The Ruins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://breakfastintheruins.blogspot.com/feeds/posts/default?alt=rss",
+      "summary": "Far Out Isn't Far Enough.",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Breakfast In The Ruins",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "film history",
+        "film critiques"
+      ]
+    },
+    {
+      "id": "feed:https://www.kindertrauma.com/feed/",
+      "title": "kindertrauma",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.kindertrauma.com/feed/",
+      "summary": "your happy childhood ends here!",
+      "details": "Original Category: arts -> books -> fiction-books -> horror.opml",
+      "cleaned_title": "kindertrauma",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "horror analysis",
+        "childhood trauma",
+        "film commentary"
+      ]
+    },
+    {
+      "id": "feed:https://alhfam.blog/feed/",
+      "title": "ALHFAM \u2013 the Association for Living History, Farm and Agricultural Museums",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alhfam.blog/feed/",
+      "summary": "An international organization serving the interests and needs of its individual and institutional members and supporting experiential interpretations of history.",
+      "details": "Original Category: arts -> museums.opml",
+      "cleaned_title": "ALHFAM \u2013 the Association for Living History, Farm and Agricultural Museums",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "living history",
+        "museums",
+        "agriculture",
+        "heritage"
+      ]
+    },
+    {
+      "id": "feed:http://melbourneblogger.blogspot.com/feeds/posts/default",
+      "title": "ART and ARCHITECTURE, mainly",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://melbourneblogger.blogspot.com/feeds/posts/default",
+      "summary": "History, art history and architecture of Britain & Empire, Europe, Mediterranean & North America, 1640-1940.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "ART and ARCHITECTURE, mainly",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "art",
+        "architecture"
+      ]
+    },
+    {
+      "id": "feed:https://buildingourpast.com/feed/",
+      "title": "Building Our Past",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://buildingourpast.com/feed/",
+      "summary": "The History of Everyday Buildings.",
+      "details": "Original Category: arts -> architecture.opml",
+      "cleaned_title": "Building Our Past",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Architecture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "building history",
+        "everyday architecture"
+      ]
+    },
+    {
+      "id": "feed:https://buildingsofnewengland.com/feed/",
+      "title": "Buildings of New England",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://buildingsofnewengland.com/feed/",
+      "summary": "Exploring New England and showcasing amazing architecture and history one building at a time!",
+      "details": "Original Category: arts -> architecture.opml",
+      "cleaned_title": "Buildings of New England",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Local",
+        "Architecture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "New England",
+        "architecture",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://bethsbobbins.blogspot.com/feeds/posts/default",
+      "title": "Beth's Bobbins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bethsbobbins.blogspot.com/feeds/posts/default",
+      "summary": "Living history and historic costuming, with a particular focus on women's clothing and hairstyles of the Victorian and American Civil War periods.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Beth's Bobbins",
+      "cleaned_author": "Beth",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Fashion"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical costuming",
+        "Victorian fashion",
+        "Civil War attire"
+      ]
+    },
+    {
+      "id": "feed:https://annaworden.com/feed/",
+      "title": "If I Had My Own Blue Box",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://annaworden.com/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "If I Had My Own Blue Box",
+      "cleaned_author": "Anna Worden",
+      "summary": "This blog delves into adventures and explorations of the nineteenth century, featuring various historical topics and personal anecdotes for history enthusiasts.",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "19th century",
+        "historical adventure",
+        "historical blogging"
+      ]
+    },
+    {
+      "id": "feed:https://thevintagetraveler.wordpress.com/feed/",
+      "title": "The Vintage Traveler",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thevintagetraveler.wordpress.com/feed/",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "The Vintage Traveler",
+      "cleaned_author": "Fuzzylizzie",
+      "summary": "Fuzzylizzie's blog combines fashion and travel with a vintage twist, sharing stories and insights into vintage fashion styles and travel experiences.",
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage fashion",
+        "travel",
+        "style"
+      ]
+    },
+    {
+      "id": "feed:https://witness2fashion.wordpress.com/feed/",
+      "title": "witness2fashion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://witness2fashion.wordpress.com/feed/",
+      "details": "Original Category: arts -> tailoring.opml",
+      "cleaned_title": "witness2fashion",
+      "cleaned_author": null,
+      "summary": "A blog that delves into the history of everyday fashion, showcasing trends and styles from various eras.",
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "fashion history",
+        "vintage clothing",
+        "trends"
+      ]
+    },
+    {
+      "id": "feed:https://publicdomainreview.org/rss.xml",
+      "title": "The Public Domain Review",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://publicdomainreview.org/rss.xml",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "The Public Domain Review",
+      "cleaned_author": null,
+      "summary": "This feed delves into the fascinating intersections of history through unique narratives and explorations within the realm of public domain works.",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fashion",
+        "Politics",
+        "Identity",
+        "Mughal"
+      ]
+    },
+    {
+      "id": "feed:https://www.versobooks.com/en-gb/blogs/news.atom",
+      "title": "Verso",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.versobooks.com/en-gb/blogs/news.atom",
+      "details": "Original Category: arts -> books.opml",
+      "cleaned_title": "Verso",
+      "cleaned_author": null,
+      "summary": "Verso examines contemporary thought and critical theory through the lens of literature and history. It highlights significant works and discussions, making it a valuable resource for readers who are interested in cultural critiques and intellectual discourse.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Silvia Federici",
+        "World War I",
+        "Black History Month",
+        "New Titles"
+      ]
+    },
+    {
+      "id": "feed:https://oldwax.blogspot.com/feeds/posts/default",
+      "title": "Dead Wax",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://oldwax.blogspot.com/feeds/posts/default",
+      "summary": "A blog featuring discussion and sharing of music with a nostalgic touch.",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "Dead Wax",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "nostalgia",
+        "vinyl"
+      ]
+    },
+    {
+      "id": "feed:https://pegsandtails.wordpress.com/feed/",
+      "title": "Pegs and 'Tails",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pegsandtails.wordpress.com/feed/",
+      "summary": "Seventeenth- and eighteenth-century English and Irish furniture &c.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Pegs and 'Tails",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "furniture",
+        "history",
+        "craftsmanship",
+        "antiques"
+      ]
+    },
+    {
+      "id": "feed:https://pfollansbee.wordpress.com/feed/",
+      "title": "Peter Follansbee: Joiner's Notes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pfollansbee.wordpress.com/feed/",
+      "summary": "Seventeenth-century joined furniture; green wood, hand tools.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Peter Follansbee: Joiner's Notes",
+      "cleaned_author": "Peter Follansbee",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "History",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "furniture",
+        "historical techniques",
+        "hand tools"
+      ]
+    },
+    {
+      "id": "feed:https://www.timetestedtools.net/feed/",
+      "title": "TimeTestedTools",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.timetestedtools.net/feed/",
+      "summary": "Vintage Tool Information - Hand Tool Restorations - Tool Collecting - Vintage Tools.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "TimeTestedTools",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage tools",
+        "restoration",
+        "collecting",
+        "hand tools"
+      ]
+    },
+    {
+      "id": "feed:https://rarehistoricalphotos.com/feed/",
+      "title": "Rare Historical Photos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rarehistoricalphotos.com/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Rare Historical Photos",
+      "cleaned_author": null,
+      "summary": "A collection of rare historical photographs that showcase various moments in time, accompanied by intriguing stories explaining their significance.",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "historical photos",
+        "vintage photography",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/shorpy?q=rss.xml",
+      "title": "Shorpy Old Photos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/shorpy?q=rss.xml",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Shorpy Old Photos",
+      "cleaned_author": null,
+      "summary": "A community-driven platform celebrating vintage photography, showcasing an extensive collection of high-definition historical images.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage photos",
+        "historical images",
+        "Shorpy"
+      ]
+    },
+    {
+      "id": "feed:https://popularhistorybooks.com/feed.xml",
+      "title": "Popular history books homepage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://popularhistorybooks.com/feed.xml",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Popular History Books",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to reading and reviewing popular history books, providing insights and critical assessments for avid history enthusiasts.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "history books",
+        "book reviews",
+        "reading"
+      ]
+    },
+    {
+      "id": "feed:http://www.antipope.org/charlie/blog-static/atom.xml",
+      "title": "Charlie's Diary",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.antipope.org/charlie/blog-static/atom.xml",
+      "summary": "Being the blog of Charles Stross, author, and occasional guests.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Charlie's Diary",
+      "cleaned_author": "Charles Stross",
+      "tags": [
+        "Politics",
+        "Writing",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Charles Stross",
+        "politics",
+        "writing tips"
+      ]
+    },
+    {
+      "id": "feed:https://www.oldhousedreams.com/feed/",
+      "title": "Old House Dreams",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.oldhousedreams.com/feed/",
+      "summary": "Specially selected historic & old houses for sale: Fixer-uppers, time capsule & move-in ready. Join the OHD community!",
+      "details": "Original Category: arts -> architecture -> houses.opml",
+      "cleaned_title": "Old House Dreams",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Architecture",
+        "History",
+        "Real Estate"
+      ],
+      "language": "en",
+      "keywords": [
+        "historic homes",
+        "real estate",
+        "fixer-uppers"
+      ]
+    },
+    {
+      "id": "feed:https://silentlocations.com/feed/",
+      "title": "Chaplin-Keaton-Lloyd film locations (and more)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silentlocations.com/feed/",
+      "summary": "by John Bengtson \"the great detective of silent film locations\" New York Times.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Chaplin-Keaton-Lloyd Film Locations",
+      "cleaned_author": "John Bengtson",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent film",
+        "film locations",
+        "Charlie Chaplin",
+        "Buster Keaton"
+      ]
+    },
+    {
+      "id": "feed:https://gracekingsley.wordpress.com/feed/",
+      "title": "Grace Kingsley's Hollywood",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gracekingsley.wordpress.com/feed/",
+      "summary": "One hundred year old news and gossip, compiled by Lisle Foote.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Grace Kingsley's Hollywood",
+      "cleaned_author": "Lisle Foote",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hollywood history",
+        "gossip",
+        "silent era",
+        "Grace Kingsley"
+      ]
+    },
+    {
+      "id": "feed:https://silentology.wordpress.com/feed/",
+      "title": "Silent-ology",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://silentology.wordpress.com/feed/",
+      "summary": "Uncovering the silent era.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Silent-ology",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent era",
+        "film history",
+        "movie rediscovery"
+      ]
+    },
+    {
+      "id": "feed:https://peoplevsarbuckle.com/feed/",
+      "title": "Spite Work: The Trials of Virginia Rappe and Fatty Arbuckle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://peoplevsarbuckle.com/feed/",
+      "summary": "A reconsideration of the Fatty Arbuckle case of 1921-22 and the life and death of the victim, Virginia Rappe.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Spite Work: The Trials of Virginia Rappe and Fatty Arbuckle",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "Crime",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fatty Arbuckle",
+        "Virginia Rappe",
+        "Hollywood scandals",
+        "silent film history"
+      ]
+    },
+    {
+      "id": "feed:https://edwardfeser.blogspot.com/feeds/posts/default",
+      "title": "Edward Feser",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://edwardfeser.blogspot.com/feeds/posts/default",
+      "summary": "\"One of the best contemporary writers on philosophy\" National Review.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Edward Feser",
+      "cleaned_author": "Edward Feser",
+      "tags": [
+        "Arts & Culture",
+        "Physics",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "current events",
+        "philosophical debates"
+      ]
+    },
+    {
+      "id": "feed:https://fantasticanachronism.com/atom.xml",
+      "title": "Fantastic Anachronism",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fantasticanachronism.com/atom.xml",
+      "summary": "Out of time man.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Fantastic Anachronism",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Academia",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "historical themes",
+        "contemporary thoughts"
+      ]
+    },
+    {
+      "id": "feed:https://paleofuture.com/blog?format=rss",
+      "title": "Paleofuture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://paleofuture.com/blog?format=rss",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Paleofuture",
+      "cleaned_author": null,
+      "summary": "A historical examination of futurism, highlighting how past visions of the future\u2014from flying cars to utopian societies\u2014shaped our present day.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "futurism",
+        "history",
+        "cultural visions"
+      ]
+    },
+    {
+      "id": "feed:https://soif.org.uk/blog/feed/",
+      "title": "School of International Futures - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soif.org.uk/blog/feed/",
+      "summary": "This blog focuses on the future of international policy and governance, exploring vital themes like intergenerational solidarity and traditional governance through posts that highlight initiatives and dialogues around future generations.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "School of International Futures",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "History",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "future",
+        "governance",
+        "intergenerational",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "feed:https://language-and-innovation.com/feed/",
+      "title": "tony thorne | language and innovation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://language-and-innovation.com/feed/",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Tony Thorne | Language and Innovation",
+      "cleaned_author": "Tony Thorne",
+      "summary": "A blog exploring the intersections of language and innovation, particularly how language evolves and reflects cultural changes.",
+      "tags": [
+        "Arts & Culture",
+        "Language",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://useless-catalanfacts.tumblr.com/rss",
+      "title": "useless-catalanfacts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://useless-catalanfacts.tumblr.com/rss",
+      "summary": "A place to share the culture and history of the Catalan Countries, explained by Catalans.",
+      "details": "Original Category: humanities -> geography.opml",
+      "cleaned_title": "Useless Catalan Facts",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Spain",
+        "History",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://airminded.org/feed/",
+      "title": "Airminded",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://airminded.org/feed/",
+      "summary": "Airpower and British society, 1908-1941 (mostly).",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "Airminded",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "UK",
+        "War",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://analog-antiquarian.net/feed/",
+      "title": "The Analog Antiquarian",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://analog-antiquarian.net/feed/",
+      "summary": "Chronicles of worldly wonders.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "The Analog Antiquarian",
+      "cleaned_author": "Jimmy Maher",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://archeothoughts.wordpress.com/feed/",
+      "title": "ArcheoThoughts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://archeothoughts.wordpress.com/feed/",
+      "summary": "Andre Costopoulos, University of Alberta.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "ArcheoThoughts",
+      "cleaned_author": "Andre Costopoulos",
+      "tags": [
+        "Science",
+        "History",
+        "Architecture"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://www.bookandsword.com/feed/",
+      "title": "Book and Sword \u2013 pontifex minimus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bookandsword.com/feed/",
+      "summary": "A thoughtful exploration of historical themes and narratives, aiming to provide resources for critical thinking about the past.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Book and Sword",
+      "cleaned_author": "Pontifex Minimus",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://brian-sandberg.com/feed/",
+      "title": "Brian Sandberg: Historical Perspectives",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brian-sandberg.com/feed/",
+      "summary": "Resources for Historical Thinking.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Brian Sandberg: Historical Perspectives",
+      "cleaned_author": "Brian Sandberg",
+      "tags": [
+        "Politics",
+        "History",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://acoup.blog/feed/",
+      "title": "A Collection of Unmitigated Pedantry",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://acoup.blog/feed/",
+      "summary": "A look at history and popular culture.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "A Collection of Unmitigated Pedantry",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "popular culture",
+        "logistics",
+        "Gracchi"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/PepysDiary",
+      "title": "The Diary of Samuel Pepys",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/PepysDiary",
+      "summary": "Daily entries from the 17th century London diary.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "The Diary of Samuel Pepys",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "diary",
+        "London",
+        "17th century",
+        "Pepys"
+      ]
+    },
+    {
+      "id": "feed:https://dralun.wordpress.com/feed/",
+      "title": "Dr Alun Withey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dralun.wordpress.com/feed/",
+      "summary": "I am an academic historian of medicine and the body,  and 2014 AHRC/BBC 'New Generation Thinker'.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "Dr Alun Withey",
+      "cleaned_author": "Alun Withey",
+      "tags": [
+        "Science",
+        "Health",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "medicine",
+        "history",
+        "Victorian travel",
+        "adverts"
+      ]
+    },
+    {
+      "id": "feed:https://fastestslowguy.blogspot.com/feeds/posts/default",
+      "title": "The Fastest Slow Guy You Know",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fastestslowguy.blogspot.com/feeds/posts/default",
+      "summary": "A blog about bicycles, Oakland, California, roads, trails, history.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "The Fastest Slow Guy You Know",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cities",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "bicycles",
+        "Oakland",
+        "California",
+        "trails",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:http://flintlockandtomahawk.blogspot.com/feeds/posts/default",
+      "title": "Flintlock and tomahawk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://flintlockandtomahawk.blogspot.com/feeds/posts/default",
+      "summary": "American warfare 1690-1835 in popular culture, art, in miniature and in wargames, through Living History and in movies.",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "Flintlock and Tomahawk",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "History",
+        "War"
+      ],
+      "language": "en",
+      "keywords": [
+        "American warfare",
+        "reenactment",
+        "popular culture",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://markgelbart.wordpress.com/feed/",
+      "title": "Georgia Before People",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://markgelbart.wordpress.com/feed/",
+      "summary": "I\u2019m writing this blog because I\u2019m fascinated with what the ecology of southeastern North America was before people colonized the region and ruined it.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Georgia Before People",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "ecology",
+        "Southeastern North America",
+        "colonization",
+        "megafauna"
+      ]
+    },
+    {
+      "id": "feed:http://graveyarddetective.blogspot.com/feeds/posts/default",
+      "title": "The Graveyard Detective",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://graveyarddetective.blogspot.com/feeds/posts/default",
+      "summary": "A blog investigating the significance of cemeteries and graveyards in society, uncovering their historical and cultural contexts.",
+      "details": "Original Category: society -> death-graves.opml",
+      "cleaned_title": "The Graveyard Detective",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "cemeteries",
+        "graveyards",
+        "sociology",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://www.thehistoryblog.com/feed",
+      "title": "The History Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thehistoryblog.com/feed",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "The History Blog",
+      "cleaned_author": null,
+      "summary": "A blog that covers a broad spectrum of historical discoveries and happenings, revealing fascinating insights from excavations to artifacts.",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "archaeology",
+        "artifacts",
+        "historical discoveries",
+        "heritage"
+      ]
+    },
+    {
+      "id": "feed:https://historyofknowledge.hypotheses.org/feed",
+      "title": "History of Knowledge",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://historyofknowledge.hypotheses.org/feed",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "History of Knowledge",
+      "cleaned_author": null,
+      "summary": "This feed explores various academic perspectives on the history of knowledge, covering topics such as cultural evolution and historical events. It serves as a valuable resource for those interested in the intersection of knowledge and history.",
+      "tags": [
+        "Science",
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "knowledge",
+        "history",
+        "research",
+        "perspectives"
+      ]
+    },
+    {
+      "id": "feed:https://historyofparliament.com/feed/",
+      "title": "The History of Parliament",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://historyofparliament.com/feed/",
+      "summary": "Blogging on parliament, politics and people, from the History of Parliament.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "The History of Parliament",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "UK",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "parliament",
+        "politics",
+        "UK history",
+        "government"
+      ]
+    },
+    {
+      "id": "feed:http://historyunfolding.blogspot.com/feeds/posts/default",
+      "title": "History Unfolding",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://historyunfolding.blogspot.com/feeds/posts/default",
+      "summary": "A historian's comments on current events, foreign and domestic.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "History Unfolding",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "politics",
+        "current events",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:https://imagesofoldhawaii.com/feed/",
+      "title": "Images of Old Hawai\u02bbi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://imagesofoldhawaii.com/feed/",
+      "summary": "Bringing People, Places, and Events in Hawai\u02bbi\u2019s past alive through text and media.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Images of Old Hawai\u02bbi",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Local",
+        "History",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hawaii",
+        "history",
+        "multimedia",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://lancashirepast.com/feed/",
+      "title": "Lancashire Past \u2013 Lancashire History Website and Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lancashirepast.com/feed/",
+      "summary": "Lancashire History Website and Blog.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "Lancashire Past",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Arts & Culture",
+        "History",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "Lancashire",
+        "history",
+        "local heritage",
+        "UK"
+      ]
+    },
+    {
+      "id": "feed:https://www.labrujulaverde.com/en/feed/",
+      "title": "LBV Magazine English Edition \u2013 History & Culture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.labrujulaverde.com/en/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "LBV Magazine English Edition",
+      "cleaned_author": null,
+      "summary": "This English edition of LBV Magazine delves into history and culture, uncovering fascinating narratives and archaeological findings that reflect on human civilization over the ages.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "culture",
+        "archaeology",
+        "civilization"
+      ]
+    },
+    {
+      "id": "feed:https://www.leidenmedievalistsblog.nl/feed",
+      "title": "Leiden Medievalists Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.leidenmedievalistsblog.nl/feed",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Leiden Medievalists Blog",
+      "cleaned_author": null,
+      "summary": "This blog presents scholarly insights into medieval studies, offering a platform for discussions on various aspects of medieval history and culture from a diverse array of academic contributors.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "medieval studies",
+        "history",
+        "scholarship",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://lincolnmullen.com/blog/index.xml",
+      "title": "Lincoln Mullen | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lincolnmullen.com/blog/index.xml",
+      "summary": "I am a historian of American religion and the nineteenth-century United States, often using computational methods for texts and maps.",
+      "details": "Original Category: society -> religion.opml",
+      "cleaned_title": "Lincoln Mullen Blog",
+      "cleaned_author": "Lincoln Mullen",
+      "tags": [
+        "Arts & Culture",
+        "Politics",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "American history",
+        "religion",
+        "data analysis",
+        "nineteenth-century"
+      ]
+    },
+    {
+      "id": "feed:https://livinglondonhistory.com/feed/",
+      "title": "Living London History",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://livinglondonhistory.com/feed/",
+      "summary": "Your one stop London history blog sharing suggested historical walks, hidden gems and activity recommendations.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "Living London History",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "History",
+        "Cities",
+        "UK",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "London history",
+        "historical walks",
+        "hidden gems"
+      ]
+    },
+    {
+      "id": "feed:https://londonhistorians.wordpress.com/feed/",
+      "title": "London Historians' Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://londonhistorians.wordpress.com/feed/",
+      "summary": "Random musings about London's history.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "London Historians' Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "UK",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "London history",
+        "historical articles",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://lookup.london/feed/",
+      "title": "London History Blog - Blue Badge Guide Look Up London",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lookup.london/feed/",
+      "summary": "Revealing London's Hidden History. Look Up London is about historic gems, unusual museums and London sites.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "London History Blog - Blue Badge Guide Look Up London",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "UK",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "hidden history",
+        "private tours",
+        "historic sites"
+      ]
+    },
+    {
+      "id": "feed:https://markstoneman.com/feed.xml",
+      "title": "Mark R. Stoneman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://markstoneman.com/feed.xml",
+      "summary": "Independent editor, translator, and historian.",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "Mark R. Stoneman",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "historian",
+        "political history",
+        "military history"
+      ]
+    },
+    {
+      "id": "feed:https://restaurant-ingthroughhistory.com/feed/",
+      "title": "Restaurant-ing through history",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://restaurant-ingthroughhistory.com/feed/",
+      "summary": "Exploring American restaurants over the centuries.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants.opml",
+      "cleaned_title": "Restaurant-ing through history",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "History",
+        "Restaurants",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "American restaurants",
+        "culinary history",
+        "dining culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.retroist.com/feed",
+      "title": "Retroist - Retro Blog and Podcast",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.retroist.com/feed",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Retroist - Retro Blog and Podcast",
+      "cleaned_author": null,
+      "summary": "A nostalgic dive into past pop culture, featuring blogs, podcasts, and newsletters about retro topics that will resonate with anyone who cherishes memories from previous decades.",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "retro culture",
+        "nostalgia",
+        "pop culture"
+      ]
+    },
+    {
+      "id": "feed:https://s-usih.org/feed/atom/",
+      "title": "Society for US Intellectual History",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://s-usih.org/feed/atom/",
+      "summary": "A scholarly platform for discussions and reflections on the intellectual history of the United States, covering a myriad of influential thinkers and their contributions.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Society for US Intellectual History",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Politics",
+        "History",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "intellectual history",
+        "US history",
+        "thinkers"
+      ]
+    },
+    {
+      "id": "feed:https://talesoftimesforgotten.com/feed/",
+      "title": "Tales of Times Forgotten",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://talesoftimesforgotten.com/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Tales of Times Forgotten",
+      "cleaned_author": null,
+      "summary": "A blog focused on making history accessible and relevant today, offering insights and updates that link past events to contemporary issues.",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history relevance",
+        "past events",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://www.vintag.es/feeds/posts/default",
+      "title": "Vintage Everyday",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.vintag.es/feeds/posts/default",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Vintage Everyday",
+      "cleaned_author": null,
+      "summary": "A destination for nostalgia enthusiasts, Vintage Everyday showcases vintage photographs that evoke a sense of history, from fashion trends to significant events.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage",
+        "photography",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://www.weirduniverse.net/blog/rss_2.0/",
+      "title": "Weird Universe",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.weirduniverse.net/blog/rss_2.0/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Weird Universe",
+      "cleaned_author": null,
+      "summary": "A fascinating blog delving into the strange and often bizarre aspects of our world, exploring topics that challenge the boundaries of imagination.",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "strange",
+        "cosmos",
+        "bizarre"
+      ]
+    },
+    {
+      "id": "feed:https://climbingmyfamilytree.blogspot.com/feeds/posts/default",
+      "title": "Climbing My Family Tree",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://climbingmyfamilytree.blogspot.com/feeds/posts/default",
+      "summary": "Genealogy research and commentary by Marian Burk Wood, speaker and author of \"Planning a Future for Your Family's Past.\".",
+      "details": "Original Category: humanities -> history -> genealogy.opml",
+      "cleaned_title": "Climbing My Family Tree",
+      "cleaned_author": "Marian Burk Wood",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "genealogy",
+        "family history"
+      ]
+    },
+    {
+      "id": "feed:https://nutfieldgenealogy.blogspot.com/feeds/posts/default",
+      "title": "Nutfield Genealogy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nutfieldgenealogy.blogspot.com/feeds/posts/default",
+      "summary": "Genealogy, local history and historical research in New England.",
+      "details": "Original Category: humanities -> history -> genealogy.opml",
+      "cleaned_title": "Nutfield Genealogy",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "genealogy",
+        "local history"
+      ]
+    },
+    {
+      "id": "feed:https://pattyhankins.blogspot.com/feeds/posts/default",
+      "title": "Wandering Around The Family Tree",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pattyhankins.blogspot.com/feeds/posts/default",
+      "summary": "A visual chronicle of family history, Wandering Around the Family Tree showcases photographs and memorabilia documenting ancestral connections.",
+      "details": "Original Category: humanities -> history -> genealogy.opml",
+      "cleaned_title": "Wandering Around The Family Tree",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "genealogy",
+        "family photos"
+      ]
+    },
+    {
+      "id": "feed:https://bigthink.com/feed/all",
+      "title": "Strange Maps - Big Think",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bigthink.com/feed/all",
+      "summary": "A special series by Frank Jacobs.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Strange Maps - Big Think",
+      "cleaned_author": "Frank Jacobs",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Science",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "culture",
+        "Big Think",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://512pixels.net/feed/",
+      "title": "512 Pixels",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://512pixels.net/feed/",
+      "summary": "Covering Apple, computer history, space, design and lots of other fine nerdery.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "512 Pixels",
+      "cleaned_author": "Stephen Hackett",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Design",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple",
+        "computing",
+        "technology",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://www.cpushack.com/feed/",
+      "title": "The CPU Shack",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cpushack.com/feed/",
+      "summary": "A museum for the history of processors and CPUs and how they have changed our world. Includes Intel, AMD as well as lesser known companies such as Signetics.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "The CPU Shack",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "History",
+        "Aviation"
+      ],
+      "language": "en",
+      "keywords": [
+        "CPU history",
+        "Intel",
+        "AMD"
+      ]
+    },
+    {
+      "id": "feed:http://www.righto.com/feeds/posts/default",
+      "title": "Ken Shirriff's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.righto.com/feeds/posts/default",
+      "summary": "Computer history, restoring vintage computers, IC reverse engineering, and whatever.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "Ken Shirriff's Blog",
+      "cleaned_author": "Ken Shirriff",
+      "tags": [
+        "Tech",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "computer history",
+        "vintage computer",
+        "reverse engineering",
+        "Pentium"
+      ]
+    },
+    {
+      "id": "feed:https://blog.archive.org/feed/",
+      "title": "Internet Archive Blogs",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.archive.org/feed/",
+      "summary": "A blog from the team at archive.org.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "Internet Archive Blogs",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "History",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "artist residency",
+        "AI copyright",
+        "public domain"
+      ]
+    },
+    {
+      "id": "feed:https://blog.geocities.institute/feed",
+      "title": "One Terabyte of Kilobyte Age",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.geocities.institute/feed",
+      "summary": "Digging through the Geocities Torrent.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "One Terabyte of Kilobyte Age",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Geocities",
+        "nostalgia",
+        "web archives"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/CollectspaceTodayInSpaceHistory",
+      "title": "collectSPACE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/CollectspaceTodayInSpaceHistory",
+      "summary": "Source for space history, space artifacts, and space memorabilia. Learn where astronauts will appear, browse collecting guides, and read original space history-related daily reports.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "collectSPACE",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "space history",
+        "astronaut memorabilia",
+        "collecting guides"
+      ]
+    },
+    {
+      "id": "feed:https://thehazeltree.co.uk/feed/",
+      "title": "The Hazel Tree",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thehazeltree.co.uk/feed/",
+      "summary": "by Jo Woolf.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "The Hazel Tree",
+      "cleaned_author": "Jo Woolf",
+      "tags": [
+        "Living",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://svpow.com/feed/",
+      "title": "Sauropod Vertebra Picture of the Week | SV-POW!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://svpow.com/feed/",
+      "summary": "All sauropod vertebrae, except when we're talking about Open Access.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Sauropod Vertebra Picture of the Week | SV-POW!",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://www.southernrockiesnatureblog.com/feeds/posts/default",
+      "title": "Southern Rockies Nature Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.southernrockiesnatureblog.com/feeds/posts/default",
+      "summary": "Where Nature Meets Culture\u2014Plus Wildfire, Dogs, Environmental News, and Writing with a Southern Rockies Perspective.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Southern Rockies Nature Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Cities",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://stephenbodio.com/feed/",
+      "title": "Stephen Bodio",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stephenbodio.com/feed/",
+      "summary": "Notes from Tiger Country.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Stephen Bodio",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://peterwebster.me/feed/",
+      "title": "Webstory",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://peterwebster.me/feed/",
+      "summary": "Peter Webster's blog.",
+      "details": "Original Category: society -> religion.opml",
+      "cleaned_title": "Webstory",
+      "cleaned_author": "Peter Webster",
+      "tags": [
+        "Politics",
+        "UK",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "theology",
+        "British culture",
+        "Anglicanism",
+        "art",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://particulations.blogspot.com/feeds/posts/default",
+      "title": "Particulations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://particulations.blogspot.com/feeds/posts/default",
+      "summary": "A psychogeography and cultural theory blog.",
+      "details": "Original Category: society -> psychogeography.opml",
+      "cleaned_title": "Particulations",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "psychogeography",
+        "cultural theory",
+        "identity",
+        "meaning",
+        "urban studies"
+      ]
+    },
+    {
+      "id": "feed:https://cemeteryclub.wordpress.com/feed/",
+      "title": "Cemetery Club",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cemeteryclub.wordpress.com/feed/",
+      "summary": "Museums of People // Libraries of the Dead.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "Cemetery Club",
+      "cleaned_author": "Sheldon K. Goodman",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "cemeteries",
+        "history",
+        "London",
+        "memorials",
+        "ghosts"
+      ]
+    },
+    {
+      "id": "feed:http://thelondondead.blogspot.com/feeds/posts/default",
+      "title": "The London Dead",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thelondondead.blogspot.com/feeds/posts/default",
+      "summary": "Stories from our cemeteries, crypts and churchyards.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "The London Dead",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "cemeteries",
+        "crypts",
+        "London",
+        "history",
+        "stories"
+      ]
+    },
+    {
+      "id": "feed:https://nnrailway.blogspot.com/feeds/posts/default",
+      "title": "Carriage & Wagon News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nnrailway.blogspot.com/feeds/posts/default",
+      "summary": "A source for latest updates on carriage and wagon developments, reflecting on their significance in railway history.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Carriage & Wagon News",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Trains",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "transport",
+        "railway news",
+        "updates",
+        "carriages"
+      ]
+    },
+    {
+      "id": "feed:http://pnaerc.blogspot.com/feeds/posts/default",
+      "title": "Preserved Traction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://pnaerc.blogspot.com/feeds/posts/default",
+      "summary": "News and Updates to the Preserved North American Electric Railway Cars (PNAERC) List.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Preserved Traction",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Trains",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "electric railway",
+        "preservation",
+        "transportation",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:http://rethinkingathletics.blogspot.com/feeds/posts/default",
+      "title": "Rethinking Athletics",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://rethinkingathletics.blogspot.com/feeds/posts/default",
+      "summary": "A blog exploring various facets of athletics, shedding light on historical events and the evolution of sports.",
+      "details": "Original Category: recreation -> sport -> athletics.opml",
+      "cleaned_title": "Rethinking Athletics",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Sports",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "athletics",
+        "sports history",
+        "insights",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:https://onceuponatimeinthevest.blogspot.com/feeds/posts/default",
+      "title": "Once Upon a Time in the Vest",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://onceuponatimeinthevest.blogspot.com/feeds/posts/default",
+      "summary": "A blog for athletes and fans of 20th century Track and Field culled from articles in sports journals of the day, original articles, book reviews, and commentaries from readers.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "Once Upon a Time in the Vest",
+      "cleaned_author": "George Brose",
+      "tags": [
+        "Living",
+        "Sports",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "track and field",
+        "sports history",
+        "nostalgia",
+        "athletics",
+        "coaching"
+      ]
+    },
+    {
+      "id": "feed:http://closedpubs.blogspot.com/feeds/posts/default",
+      "title": "Closed Pubs",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://closedpubs.blogspot.com/feeds/posts/default",
+      "summary": "Recording the slow, sad death of the British pub.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Closed Pubs",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Restaurants",
+        "UK",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "pub closures",
+        "British pub history"
+      ]
+    },
+    {
+      "id": "feed:https://zythophile.co.uk/feed/",
+      "title": "Zythophile",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://zythophile.co.uk/feed/",
+      "summary": "'Zee-tho-fyle', by Martyn Cornell, an award-winning blog about beer now and then, founded in 2007.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Zythophile",
+      "cleaned_author": "Martyn Cornell",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "History",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer",
+        "history",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://gorillasdontblog.blogspot.com/feeds/posts/default",
+      "title": "GORILLAS DON'T BLOG",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gorillasdontblog.blogspot.com/feeds/posts/default",
+      "summary": "Fellow bloggers have inspired me to share vintage images of Disneyland from my personal collection.",
+      "details": "Original Category: recreation -> travel -> disney-parks.opml",
+      "cleaned_title": "GORILLAS DON'T BLOG",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "History",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "Disneyland",
+        "vintage",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "feed:https://lrb.co.uk/feeds/rss",
+      "title": "LRB Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lrb.co.uk/feeds/rss",
+      "summary": "Europe\u2019s leading magazine of ideas, published twice a month.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "LRB Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Physics",
+        "History",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "Literary Critique",
+        "Political Essays",
+        "Cultural Commentary"
+      ]
+    },
+    {
+      "id": "feed:https://balloonstodrones.com/feed/",
+      "title": "From Balloons to Drones \u2013 Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://balloonstodrones.com/feed/",
+      "summary": "Air Power throughout the Ages.",
+      "details": "Original Category: politics -> military.opml",
+      "cleaned_title": "From Balloons to Drones",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Aviation",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "air power",
+        "aerospace history",
+        "military technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.econlib.org/feed/main",
+      "title": "EconLog - Econlib",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.econlib.org/feed/main",
+      "summary": "Bloggers \u2026 write on topical economics of interest to them, illuminating subjects from politics and finance, to recent films and cultural observations, to history and literature.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "EconLog",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Finance",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "political economic discussions",
+        "cultural observations"
+      ]
+    },
+    {
+      "id": "feed:http://wyrdbritain.blogspot.com/feeds/posts/default",
+      "title": "Wyrd Britain",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://wyrdbritain.blogspot.com/feeds/posts/default",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "Wyrd Britain",
+      "cleaned_author": null,
+      "summary": "A unique collection of stories that delve into the peculiar and strange aspects of British history and culture.",
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "British stories",
+        "history",
+        "strange tales"
+      ]
+    },
+    {
+      "id": "feed:https://alondoninheritance.com/feed/",
+      "title": "A London Inheritance",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alondoninheritance.com/feed/",
+      "summary": "A Private History of a Public City.",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "A London Inheritance",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Local",
+        "Cities",
+        "History",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "London",
+        "history",
+        "urban exploration"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/LondonRemembers",
+      "title": "London Remembers",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/LondonRemembers",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "London Remembers",
+      "cleaned_author": null,
+      "summary": "A comprehensive resource aiming to document and commemorate various memorials across London, highlighting the city's historical figures and events.",
+      "tags": [
+        "Local",
+        "Arts & Culture",
+        "History",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "memorials",
+        "history",
+        "London"
+      ]
+    },
+    {
+      "id": "feed:strangehistory.net:Beachcombing's Bizarre History Blog",
+      "cleaned_title": "Beachcombing's Bizarre History Blog",
+      "summary": "A blog that explores the outlandish and curious aspects of history, delving into topics from Victorian urban legends to mythical beings.",
+      "title": "Beachcombing's Bizarre History Blog",
+      "kind": "feed",
+      "feed_url": "http://www.strangehistory.net/feed/",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "urban legends",
+        "mythology",
+        "curiosities",
+        "historical anomalies"
+      ]
+    }
+  ],
+  "child_categories": []
+}

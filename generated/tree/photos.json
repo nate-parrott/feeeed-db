@@ -1,0 +1,1560 @@
+{
+  "id": "photos",
+  "display_name": "Photos",
+  "feeds": [
+    {
+      "title": "r/LandscapePhotography",
+      "popularity_score": 3.2090129887561973,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "LandscapePhotography",
+      "kind": "reddit",
+      "id": "reddit:LandscapePhotography",
+      "cleaned_title": "r/LandscapePhotography",
+      "cleaned_author": null,
+      "summary": "This subreddit invites photography enthusiasts to explore and share their landscape photos and gear. It fosters a community that values artistry and technical skill across all levels of experience.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "landscape",
+        "community",
+        "gear"
+      ]
+    },
+    {
+      "id": "feed:petapixel.com:PetaPixel",
+      "cleaned_title": "PetaPixel",
+      "summary": "A photography-focused site that delivers news, reviews, and inspiration for photographers. It covers a wide array of topics from equipment to artistic insights.",
+      "title": "PetaPixel",
+      "kind": "feed",
+      "feed_url": "https://petapixel.com/feed/",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.3732508829283026,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Tech",
+        "Photos",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "camera news",
+        "equipment reviews"
+      ]
+    },
+    {
+      "id": "reddit:Photography",
+      "cleaned_title": "Photography",
+      "summary": "A subreddit for photography enthusiasts to share their work, discuss techniques, and learn from each other.",
+      "title": "Photography",
+      "kind": "reddit",
+      "subreddit": "Photography",
+      "details": "Original category: Hobbies",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:sprudge.com:Sprudge Coffee",
+      "cleaned_title": "Sprudge Coffee",
+      "summary": "A coffee news and culture website that covers the latest trends, events, and stories in the world of coffee.",
+      "title": "Sprudge Coffee",
+      "kind": "feed",
+      "feed_url": "http://sprudge.com/feed",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cinema",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee news",
+        "coffee culture",
+        "trends"
+      ]
+    },
+    {
+      "title": "Aeon | a world of ideas",
+      "popularity_score": 6.421125116713352,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://aeon.co/feed.rss",
+      "kind": "feed",
+      "id": "feed:https://aeon.co/feed.rss",
+      "cleaned_title": "Aeon",
+      "cleaned_author": null,
+      "summary": "A deep dive into thought-provoking essays and videos that encourage exploration and consideration of diverse ideas and cultures.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Physics",
+        "Photos",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "ideas",
+        "culture",
+        "essays"
+      ]
+    },
+    {
+      "id": "feed:https://hermitary.com/around/?feed=rss2",
+      "title": "Hermitary \u2013 hermits around the web",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hermitary.com/around/?feed=rss2",
+      "summary": "news, sites, and pages of interest about hermits and solitude.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Hermitary \u2013 hermits around the web",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "History",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "hermits",
+        "solitude",
+        "Buddhism",
+        "historical figures",
+        "solitary living"
+      ]
+    },
+    {
+      "id": "feed:https://www.hermitary.com/thatch/?feed=rss2",
+      "title": "Hermitary \u2013 hermit's thatch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hermitary.com/thatch/?feed=rss2",
+      "summary": "journal of reflections by the resident of the Hermitary.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Hermitary \u2013 hermit's thatch",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Photos",
+        "Writing",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "reflections",
+        "solitude",
+        "nature",
+        "medieval hermits",
+        "literary themes"
+      ]
+    },
+    {
+      "id": "feed:https://www.huckmag.com/feed.rss",
+      "title": "Huck",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.huckmag.com/feed.rss",
+      "summary": "Celebrates independence, seeking out the artists, activists and creative pioneers who are challenging mainstream culture.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Huck",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Activism",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "independent artists",
+        "New York culture",
+        "Bad Bunny",
+        "creative pioneers",
+        "historical context"
+      ]
+    },
+    {
+      "id": "feed:https://www.its-her-factory.com/feed/",
+      "title": "it's her factory",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.its-her-factory.com/feed/",
+      "summary": "philosophy, pop music, sound studies, feminism.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "it's her factory",
+      "cleaned_author": "Robin James",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Academia",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "feminism",
+        "pop music",
+        "modern rock",
+        "music industry",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://thomasguignard.photo/feed/",
+      "title": "Libraries \u2013 Thomas Guignard photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thomasguignard.photo/feed/",
+      "summary": "A photography blog focusing on remarkable library architecture and related reflections on spaces dedicated to learning.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Libraries \u2013 Thomas Guignard photography",
+      "cleaned_author": "Thomas Guignard",
+      "tags": [
+        "Arts & Culture",
+        "Architecture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "libraries",
+        "architecture",
+        "photography"
+      ]
+    },
+    {
+      "id": "feed:https://creativeramblings.com/feed/",
+      "title": "Cendrine Marrouat - Artist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://creativeramblings.com/feed/",
+      "summary": "A poet, photographer, multi-genre author, fiction writer, co-founder of Auroras & Blossoms, and creator of literary forms.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Cendrine Marrouat - Artist",
+      "cleaned_author": "Cendrine Marrouat",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "visual poetry",
+        "Cendrine Marrouat",
+        "creative processes"
+      ]
+    },
+    {
+      "id": "feed:https://www.danielsroka.com/blog/feed/",
+      "title": "Daniel Sroka Open Studio",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.danielsroka.com/blog/feed/",
+      "summary": "I am a fine art nature photographer, and these are my reflections on making art: the inspiration, the process, and the business.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Daniel Sroka Open Studio",
+      "cleaned_author": "Daniel Sroka",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "nature photography",
+        "Daniel Sroka",
+        "art inspiration"
+      ]
+    },
+    {
+      "id": "feed:https://bluelabyrinths.com/feed/",
+      "title": "Blue Labyrinths",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bluelabyrinths.com/feed/",
+      "summary": "An online magazine focusing on literature, philosophy, and a collection of interesting ideas.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Blue Labyrinths",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Physics",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "culture",
+        "ideas"
+      ]
+    },
+    {
+      "id": "feed:https://craigmod.com/index.xml",
+      "title": "Collected Essays of Craig Mod",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://craigmod.com/index.xml",
+      "summary": "Craig Mod shares a collection of essays and reflections on topics ranging from photography to his experiences, offering creative insights shaped by his personal journey and philosophy.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Collected Essays of Craig Mod",
+      "cleaned_author": "Craig Mod",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "essays",
+        "photography",
+        "Craig Mod"
+      ]
+    },
+    {
+      "id": "feed:https://sebald.wordpress.com/feed/",
+      "title": "Vertigo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sebald.wordpress.com/feed/",
+      "details": "Original Category: arts -> books.opml",
+      "cleaned_title": "Vertigo",
+      "cleaned_author": null,
+      "summary": "Vertigo is a thoughtful exploration of the intersection of literature and visual art, particularly the works of W.G. Sebald. This blog showcases embedded photographs within literary contexts, providing a unique lens through which to appreciate art and writing.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "W.G. Sebald",
+        "photography",
+        "literature"
+      ]
+    },
+    {
+      "id": "feed:https://www.alex-kunz.com/feed/",
+      "title": "Alexander S. Kunz Photography \u2013 Weblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.alex-kunz.com/feed/",
+      "summary": "Landscape & Nature Photographer \u2014 Lightroom Expert & Tutor.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Alexander S. Kunz Photography",
+      "cleaned_author": "Alexander S. Kunz",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "Lightroom",
+        "landscape"
+      ]
+    },
+    {
+      "id": "feed:https://aows.co/blog?format=rss",
+      "title": "aows \u2014 black and white photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aows.co/blog?format=rss",
+      "summary": "Film & Digital Monochrome Photography.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "aows \u2014 black and white photography",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "monochrome",
+        "photography",
+        "film"
+      ]
+    },
+    {
+      "id": "feed:https://blog.atmtxphoto.com/feed/",
+      "title": "atmtx photo blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.atmtxphoto.com/feed/",
+      "summary": "For the Love of Photography + Stories + Gear.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "atmtx photo blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Gadgets",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "gear",
+        "stories"
+      ]
+    },
+    {
+      "id": "feed:https://boats16.blogspot.com/feeds/posts/default",
+      "title": "Based On A True Story...",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://boats16.blogspot.com/feeds/posts/default",
+      "summary": "photography, politics, movies, film.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Based On A True Story...",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "politics",
+        "movies"
+      ]
+    },
+    {
+      "id": "feed:https://www.abiggercamera.com/feed/",
+      "title": "A Bigger Camera",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.abiggercamera.com/feed/",
+      "summary": "A blog featuring discussions on photography, including reviews of books and equipment, along with insights on personal projects.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "A Bigger Camera",
+      "cleaned_author": "Darin Boville",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "book reviews",
+        "HDR",
+        "project insights"
+      ]
+    },
+    {
+      "id": "feed:https://billfortney.com/?feed=rss2",
+      "title": "Bill Fortney",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://billfortney.com/?feed=rss2",
+      "summary": "Photography & Faith.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Bill Fortney",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "faith",
+        "anecdotes",
+        "practical tips"
+      ]
+    },
+    {
+      "id": "feed:https://www.bythom.com/newsviews/index.xml",
+      "title": "Cameras and Photography Explained | News/Views | Thom Hogan",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bythom.com/newsviews/index.xml",
+      "summary": "News and opinions about photography and the camera industry by Thom Hogan, with pointers to his gear specific sites.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Cameras and Photography Explained",
+      "cleaned_author": "Thom Hogan",
+      "tags": [
+        "Tech",
+        "Cinema",
+        "Photos",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "camera industry",
+        "news",
+        "insights",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://cphmag.com/feed-atom/",
+      "title": "Conscientious Photography Magazine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cphmag.com/feed-atom/",
+      "summary": "J\u00f6rg M. Colberg's online photography magazine, featuring photographer profiles, interviews, articles, and book reviews.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Conscientious Photography Magazine",
+      "cleaned_author": "J\u00f6rg M. Colberg",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "artist profiles",
+        "interviews",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:https://fiftyfootshadows.net/feed/",
+      "title": "fiftyfootshadows.net",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fiftyfootshadows.net/feed/",
+      "summary": "Photography. Music. Life.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "fiftyfootshadows.net",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "music",
+        "life reflections",
+        "visual storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://fogblog-hermansheephouse.blogspot.com/feeds/posts/default",
+      "title": "FogBlog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fogblog-hermansheephouse.blogspot.com/feeds/posts/default",
+      "summary": "A gripping thrill-ride through the world of current traditional photography, exploring technique, darkrooms, chemicals and more.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "FogBlog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "DIY",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "traditional photography",
+        "techniques",
+        "darkrooms",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "feed:https://fujixweekly.com/feed/",
+      "title": "FUJI X WEEKLY | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fujixweekly.com/feed/",
+      "summary": "A photography blog dedicated to all things Fujifilm.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "FUJI X WEEKLY",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Photos",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fujifilm",
+        "photography tips",
+        "gear reviews",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://fupduckphoto.wordpress.com/feed/",
+      "title": "Fup Duck Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fupduckphoto.wordpress.com/feed/",
+      "summary": "Percussive learning in a world of automation.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Fup Duck Photography",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "learning",
+        "techniques",
+        "visual narratives"
+      ]
+    },
+    {
+      "id": "feed:https://guytal.blog/feed/",
+      "title": "Guy Tal | Photographer, Author",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://guytal.blog/feed/",
+      "summary": "This is a reader-supported, ad-free zone. New posts added monthly.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Guy Tal",
+      "cleaned_author": "Guy Tal",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing",
+        "Photos",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "creative expression",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://www.mrussellphotography.com/feed/",
+      "title": "Landscape and Nature Photography Photoblog \u2022 Michael Russell Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mrussellphotography.com/feed/",
+      "summary": "Based in the Fraser Valley of British Columbia, I photograph the landscapes and nature of Southwestern BC and the PNW's Washington State.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Michael Russell Photography",
+      "cleaned_author": "Michael Russell",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art",
+        "Canada",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "landscape",
+        "nature photography",
+        "British Columbia",
+        "Pacific Northwest"
+      ]
+    },
+    {
+      "id": "feed:https://www.lensrentals.com/blog/feed/",
+      "title": "Lens Rentals | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.lensrentals.com/blog/feed/",
+      "summary": "The largest online rental provider for photography, videography, and lighting equipment and accessories in the United States.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Lens Rentals",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Cinema",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography tips",
+        "video equipment",
+        "creative prompts"
+      ]
+    },
+    {
+      "id": "feed:http://alifeinphotography.blogspot.com/feeds/posts/default",
+      "title": "A Life in Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://alifeinphotography.blogspot.com/feeds/posts/default",
+      "summary": "This blog is about life, about photography, and about my life in photography.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "A Life in Photography",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "personal stories",
+        "birds"
+      ]
+    },
+    {
+      "id": "feed:https://www.longdelayspossible.com/feed/",
+      "title": "Long Delays Possible",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.longdelayspossible.com/feed/",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Long Delays Possible",
+      "cleaned_author": "Omar Parada",
+      "summary": "A photography blog by Omar Parada featuring a variety of photographic expressions including travel and nature themes.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel photography",
+        "nature",
+        "Venice"
+      ]
+    },
+    {
+      "id": "feed:https://onlinedarkroom.blogspot.com/feeds/posts/default",
+      "title": "The Online Darkroom",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://onlinedarkroom.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Online Darkroom",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to the art of darkroom photography, preserving traditional techniques in the digital age.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "darkroom techniques",
+        "photography"
+      ]
+    },
+    {
+      "id": "feed:https://www.outsidetheworld.com/feeds/posts/default",
+      "title": "Outside the World dot com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.outsidetheworld.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Outside the World",
+      "cleaned_author": null,
+      "summary": "A personal photography blog exploring various themes and emotions through photos and reflective writing.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "personal reflections"
+      ]
+    },
+    {
+      "id": "feed:https://www.thephoblographer.com/feed/",
+      "title": "The Phoblographer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thephoblographer.com/feed/",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Phoblographer",
+      "cleaned_author": null,
+      "summary": "A photography blog known for its informal yet insightful reviews and discussions about the latest camera gear and industry trends.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Gadgets",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "camera reviews",
+        "photography gear"
+      ]
+    },
+    {
+      "id": "feed:https://www.aphotoeditor.com/feed/",
+      "title": "A Photo Editor",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.aphotoeditor.com/feed/",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "A Photo Editor",
+      "cleaned_author": "Rob Haggart",
+      "summary": "A platform showcasing insights into photography projects and business practices for professionals in the field. This blog covers personal projects, pricing negotiation strategies, and highlights artists in residency.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "personal projects",
+        "pricing",
+        "negotiation"
+      ]
+    },
+    {
+      "id": "feed:https://www.stephenknightphotography.com/blog-feed.xml",
+      "title": "Stephen Knight Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.stephenknightphotography.com/blog-feed.xml",
+      "summary": "Articles and Tutorials on Light Painting Techniques. Reviews and Buying Guides for Flashlights, Torches, and Light Painting Tools.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Stephen Knight Photography",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "light painting",
+        "flashlights",
+        "photography tools",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://visualsciencelab.blogspot.com/feeds/posts/default",
+      "title": "The Visual Science Lab / Kirk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://visualsciencelab.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Visual Science Lab",
+      "cleaned_author": "Kirk",
+      "summary": "A blog that delves into various aspects of photography, encompassing gear reviews, personal reflections, and technical discussions, all from a photography enthusiast's perspective.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "gear reviews",
+        "blogging"
+      ]
+    },
+    {
+      "id": "feed:https://www.thewanderinglensman.com/feeds/posts/default",
+      "title": "The Wandering Lensman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thewanderinglensman.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Wandering Lensman",
+      "cleaned_author": "Dennis A. Mook",
+      "summary": "A personal blog by a traveling photographer and writer, sharing experiences, equipment reviews, and reflections on photography in various landscapes and contexts.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "travel",
+        "equipment"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/feedburner/bmEr",
+      "title": "Austin Town Hall",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/feedburner/bmEr",
+      "summary": "Bringing the jams...",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "Austin Town Hall",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "tracks",
+        "jams",
+        "artists"
+      ]
+    },
+    {
+      "id": "feed:https://stamen.com/feed/",
+      "title": "Stamen | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stamen.com/feed/",
+      "summary": "A blog dedicated to the art of storytelling through data visualization, showcasing innovative maps and design projects that help reveal complex narratives.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "Stamen",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Data",
+        "Photos",
+        "_artsy",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "mapping",
+        "design",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://www.allencompassingtrip.com/feed",
+      "title": "All-Encompassing Trip",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.allencompassingtrip.com/feed",
+      "summary": "Photography by Guillermo Esteves.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "All-Encompassing Trip",
+      "cleaned_author": "Guillermo Esteves",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "art",
+        "Mexico City"
+      ]
+    },
+    {
+      "id": "feed:https://brianevansphoto.com/feed/",
+      "title": "BrianEvansPhoto.com \u2013 Recent Blog Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brianevansphoto.com/feed/",
+      "summary": "Brian Evans, a photographer from Lititz, PA, shares recent work that bridges personal anecdotes with visual storytelling. His blog captures both local scenes and abstract perspectives.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "BrianEvansPhoto.com",
+      "cleaned_author": "Brian Evans",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "visual storytelling",
+        "Lititz"
+      ]
+    },
+    {
+      "id": "feed:https://frishmanphoto.wordpress.com/feed/",
+      "title": "Crest, Cliff & Canyon",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://frishmanphoto.wordpress.com/feed/",
+      "summary": "Landscape Photography by A. Jackson Frishman.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Crest, Cliff & Canyon",
+      "cleaned_author": "A. Jackson Frishman",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "landscape photography",
+        "nature",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://blog.jimgrey.net/feed/",
+      "title": "Down the Road",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.jimgrey.net/feed/",
+      "summary": "Photographs and stories by Jim Grey.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Down the Road",
+      "cleaned_author": "Jim Grey",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "stories",
+        "Jim Grey"
+      ]
+    },
+    {
+      "id": "feed:https://Duncan.co/feed/",
+      "title": "Duncan.co",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://Duncan.co/feed/",
+      "summary": "My name is Duncan Rawlinson and I enjoy making photographs.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Duncan.co",
+      "cleaned_author": "Duncan Rawlinson",
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://joshwithers.blog/feed.xml",
+      "title": "Josh Withers",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://joshwithers.blog/feed.xml",
+      "summary": "Everything I find interesting or beautiful.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Josh Withers",
+      "cleaned_author": "Josh Withers",
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://kevuhnn.com/feed/",
+      "title": "@Kevuhnn",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kevuhnn.com/feed/",
+      "summary": "\ud83d\udcf8 / \ud83d\udcda / \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67 / \ud83c\udde8\ud83c\udde6.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "@Kevuhnn",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://landreville.blog/feed/",
+      "title": "Landreville",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://landreville.blog/feed/",
+      "summary": "Landreville.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Landreville",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://www.maurits.ch/index.php?x=atom",
+      "title": "Maurits Diephuis",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.maurits.ch/index.php?x=atom",
+      "summary": "A collection of vivid everyday life photographs by Maurits Diephuis, capturing the essence of moments in Geneva and beyond.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Maurits Diephuis",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://www.theguardian.com/artanddesign/series/mybestshot/rss",
+      "title": "My best shot | Artanddesign | The Guardian",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.theguardian.com/artanddesign/series/mybestshot/rss",
+      "summary": "Photographers reveal the fascinating stories behind their favourite work.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "My Best Shot",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://mynameismwd.org/index.xml",
+      "title": "my name is mwd: photos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mynameismwd.org/index.xml",
+      "summary": "A photographic exploration by mwd, highlighting unique perspectives on everyday moments and picturesque landscapes.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "my name is mwd: photos",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://pixelsatanexhibition.com/feed/",
+      "title": "Pixels At An Exhibition",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pixelsatanexhibition.com/feed/",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Pixels At An Exhibition",
+      "cleaned_author": null,
+      "summary": "A contemporary arts blog that engages with various forms of artistic expression, offering insightful critiques and features.",
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://photos.raygrasso.com/feed.xml",
+      "title": "Ray Grasso Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://photos.raygrasso.com/feed.xml",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Ray Grasso Photography",
+      "cleaned_author": "Ray Grasso",
+      "summary": "A curated portfolio featuring the photography work of Ray Grasso, capturing various scenes and subjects with an artistic lens.",
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "Ray Grasso"
+      ]
+    },
+    {
+      "id": "feed:https://reldn.co.uk/feed.xml",
+      "title": "Re:LDN \u2013 Regarding: London.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://reldn.co.uk/feed.xml",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "Re:LDN \u2013 Regarding: London",
+      "cleaned_author": "Rob Miller",
+      "summary": "A photoblog that vividly documents the beauty and culture of London through the lens of Rob Miller, showcasing its iconic architecture and historical landmarks.",
+      "tags": [
+        "Arts & Culture",
+        "London",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "London photos",
+        "Rob Miller",
+        "photoblog"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/shorpy?q=rss.xml",
+      "title": "Shorpy Old Photos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/shorpy?q=rss.xml",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Shorpy Old Photos",
+      "cleaned_author": null,
+      "summary": "A community-driven platform celebrating vintage photography, showcasing an extensive collection of high-definition historical images.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage photos",
+        "historical images",
+        "Shorpy"
+      ]
+    },
+    {
+      "id": "feed:https://www.simongriffee.com/index.xml",
+      "title": "Simon Griffee - Notebook",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.simongriffee.com/index.xml",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Simon Griffee - Notebook",
+      "cleaned_author": "Simon Griffee",
+      "summary": "A notebook of recent photographic explorations and exhibitions by Simon Griffee, offering a glimpse into his artistic journey.",
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "Simon Griffee",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "feed:https://skeetmotis.blogspot.com/feeds/posts/default",
+      "title": "skeetmotis",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://skeetmotis.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "skeetmotis",
+      "cleaned_author": null,
+      "summary": "An artistic examination of everyday observations through photography, inviting viewers to consider the beauty and complexity of the ordinary.",
+      "tags": [
+        "Arts & Culture",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "artistic photography",
+        "skeetmotis"
+      ]
+    },
+    {
+      "id": "feed:https://thealexandrian.net/feed",
+      "title": "The Alexandrian",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thealexandrian.net/feed",
+      "summary": "\u2026designed not only to be a site of news and updates, but also as a repository: Here you\u2019ll find my reviews, my politics, my stories, and my thoughts.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "The Alexandrian",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "role-playing games",
+        "game reviews",
+        "gaming philosophy"
+      ]
+    },
+    {
+      "id": "feed:https://dailynous.com/feed/",
+      "title": "Daily Nous",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dailynous.com/feed/",
+      "summary": "news for & about the philosophy profession.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Daily Nous",
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Academia",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy news",
+        "philosophy profession",
+        "academia"
+      ]
+    },
+    {
+      "id": "feed:https://www.vintag.es/feeds/posts/default",
+      "title": "Vintage Everyday",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.vintag.es/feeds/posts/default",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Vintage Everyday",
+      "cleaned_author": null,
+      "summary": "A destination for nostalgia enthusiasts, Vintage Everyday showcases vintage photographs that evoke a sense of history, from fashion trends to significant events.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "vintage",
+        "photography",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://www.traingeek.ca/wp/feed/",
+      "title": "Traingeek \u2013 Trains and Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.traingeek.ca/wp/feed/",
+      "summary": "I am a photographer who specializes in trains and grain elevators. I like to tell stories through my photos and my blog.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "Traingeek",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "trains",
+        "stories"
+      ]
+    },
+    {
+      "id": "feed:https://gorillasdontblog.blogspot.com/feeds/posts/default",
+      "title": "GORILLAS DON'T BLOG",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gorillasdontblog.blogspot.com/feeds/posts/default",
+      "summary": "Fellow bloggers have inspired me to share vintage images of Disneyland from my personal collection.",
+      "details": "Original Category: recreation -> travel -> disney-parks.opml",
+      "cleaned_title": "GORILLAS DON'T BLOG",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "History",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "Disneyland",
+        "vintage",
+        "nostalgia"
+      ]
+    },
+    {
+      "title": "r/interestingasfuck",
+      "popularity_score": 3.094956412347717,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "interestingasfuck",
+      "kind": "reddit",
+      "id": "reddit:interestingasfuck",
+      "cleaned_title": "r/interestingasfuck",
+      "cleaned_author": null,
+      "summary": "A subreddit dedicated to showcasing unique and fascinating content that captures the essence of curiosity.",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Photos",
+        "Wanderlust"
+      ],
+      "language": "en",
+      "keywords": [
+        "interesting",
+        "unique",
+        "curiosity"
+      ]
+    },
+    {
+      "title": "r/Damnthatsinteresting",
+      "popularity_score": 2.8172920288009804,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "Damnthatsinteresting",
+      "kind": "reddit",
+      "id": "reddit:Damnthatsinteresting",
+      "cleaned_title": "r/Damnthatsinteresting",
+      "cleaned_author": null,
+      "summary": "A subreddit that curates and shares intriguing and enlightening content from across the internet.",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Science",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "interesting",
+        "curated content",
+        "internet"
+      ]
+    }
+  ],
+  "child_categories": []
+}

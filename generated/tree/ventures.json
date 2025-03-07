@@ -1,0 +1,184 @@
+{
+  "id": "ventures",
+  "display_name": "Ventures",
+  "feeds": [
+    {
+      "id": "substack:top:chamath_palihapitiya",
+      "title": "Chamath Palihapitiya",
+      "cleaned_title": "Chamath Palihapitiya",
+      "summary": "A thought-provoking newsletter from a venture capitalist who focuses on disruptive ideas and technologies, sharing reflections on readings and discussions in the tech sphere.",
+      "kind": "feed",
+      "feed_url": "https://chamath.substack.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Ventures",
+        "Future",
+        "_intellectual"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "disruption",
+        "venture capital",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:producthunt.com:Product Hunt \u2014 The best new products, every day",
+      "cleaned_title": "Product Hunt",
+      "summary": "A daily showcase of the best new products, covering innovative startups and tools that can streamline various tasks and improve efficiency.",
+      "title": "Product Hunt \u2014 The best new products, every day",
+      "kind": "feed",
+      "feed_url": "http://www.producthunt.com/feed",
+      "popularity_score": 3.084839466089466,
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Ventures",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "new products",
+        "startups",
+        "innovation",
+        "tech tools",
+        "apps"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Points Guy",
+      "cleaned_title": "The Points Guy",
+      "summary": "A website that provides tips, news, and reviews on travel, with a focus on maximizing airline and hotel loyalty programs.",
+      "title": "The Points Guy",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/thepointsguy",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Money",
+        "Finance",
+        "Ventures"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "loyalty programs",
+        "tips"
+      ]
+    },
+    {
+      "id": "youtube:GaryVee",
+      "cleaned_title": "GaryVee",
+      "summary": "Gary Vaynerchuk's YouTube channel offers motivational content, business advice, and insights for entrepreneurs.",
+      "title": "GaryVee",
+      "kind": "youtube",
+      "channel_id": "UCctXZhXmG-kf3tlIXgVZUlw",
+      "thumbnail_url": "https://yt3.ggpht.com/4NddRokneuqTE852U1HyLitfwyulzAHpm4fHOML_Iy6qIHzizL0y0RkMdnqy1xckD6Uyrj0e=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Gary Vaynerchuk",
+      "tags": [
+        "Money",
+        "Tech",
+        "Social",
+        "Ventures"
+      ],
+      "language": "en",
+      "keywords": [
+        "entrepreneurship",
+        "business advice",
+        "social media"
+      ]
+    },
+    {
+      "id": "feed:https://ourincrediblejourney.tumblr.com/rss",
+      "title": "Our Incredible Journey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ourincrediblejourney.tumblr.com/rss",
+      "summary": "Putting the ack! in acquihire.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Our Incredible Journey",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Ventures",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "business",
+        "acquihire",
+        "startups"
+      ]
+    },
+    {
+      "id": "feed:https://www.web3isgoinggreat.com/feed.xml",
+      "title": "Web3 is going just great",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.web3isgoinggreat.com/feed.xml",
+      "summary": "A timeline recording only some of the many disasters happening in crypto, decentralized finance, NFTs, and other blockchain-based projects.",
+      "details": "Original Category: economics -> economics -> cryptocurrencies.opml",
+      "cleaned_title": "Web3 is going just great",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Finance",
+        "Ventures"
+      ],
+      "language": "en",
+      "keywords": [
+        "crypto disasters",
+        "hacks",
+        "decentralized finance",
+        "NFTs"
+      ]
+    },
+    {
+      "title": "DTF: \u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0437\u0430 \u0432\u0441\u0435 \u0432\u0440\u0435\u043c\u044f",
+      "popularity_score": 2.8511904761904763,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://dtf.ru/rss/all",
+      "kind": "feed",
+      "id": "feed:https://dtf.ru/rss/all",
+      "cleaned_title": "DTF",
+      "cleaned_author": null,
+      "summary": "A Russian-language source discussing business, technology trends, and ideas for growth and innovation.",
+      "tags": [
+        "Tech",
+        "Money",
+        "Finance",
+        "Ventures"
+      ],
+      "language": "ru",
+      "keywords": [
+        "business",
+        "technology",
+        "growth"
+      ]
+    }
+  ],
+  "child_categories": []
+}

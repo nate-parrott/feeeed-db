@@ -1,0 +1,89 @@
+{
+  "id": "hip-hop",
+  "display_name": "Hip-Hop",
+  "feeds": [
+    {
+      "id": "reddit:sports",
+      "cleaned_title": "sports",
+      "summary": "A subreddit dedicated to all things sports, where users can discuss and share news, highlights, and opinions about various sports and leagues.",
+      "title": "sports",
+      "kind": "reddit",
+      "subreddit": "sports",
+      "details": "Original category: Sports",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Local",
+        "Football",
+        "Basketball",
+        "Hip-Hop"
+      ],
+      "language": "en",
+      "keywords": [
+        "sports discussion",
+        "highlights",
+        "OP-ED"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The FADER",
+      "cleaned_title": "The FADER",
+      "summary": "The FADER is an online music publication that covers emerging artists, music news, and cultural trends in the music industry.",
+      "title": "The FADER",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/TheFaderMagazine",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Celebs & Entertainment",
+        "Hip-Hop",
+        "Pop",
+        "_mainstream",
+        "_hip",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "music news",
+        "emerging artists",
+        "cultural trends",
+        "Oscars",
+        "Drake"
+      ]
+    },
+    {
+      "id": "feed:https://soundstudiesblog.com/feed/",
+      "title": "Sounding Out!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soundstudiesblog.com/feed/",
+      "summary": "pushing sound studies into the red since 2009.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "Sounding Out!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Hip-Hop",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "sound studies",
+        "music culture",
+        "hip-hop analysis"
+      ]
+    }
+  ],
+  "child_categories": []
+}

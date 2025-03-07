@@ -1,0 +1,931 @@
+{
+  "id": "data",
+  "display_name": "Data",
+  "feeds": [
+    {
+      "id": "substack:top:fabricated_knowledge_-_doug_olaughlin",
+      "title": "Fabricated Knowledge - Doug OLaughlin",
+      "cleaned_title": "Fabricated Knowledge",
+      "summary": "This newsletter provides insightful analysis on the manufacturing industry, dissecting earnings reports and market trends while occasionally offering investment ideas.",
+      "kind": "feed",
+      "feed_url": "https://www.fabricatedknowledge.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Data",
+        "Finance",
+        "Science",
+        "_high_quality"
+      ],
+      "cleaned_author": "Doug OLaughlin",
+      "language": "en",
+      "keywords": [
+        "manufacturing",
+        "investment",
+        "markets"
+      ]
+    },
+    {
+      "id": "feed:feeds2.feedburner.com:Business Insider",
+      "cleaned_title": "Business Insider",
+      "summary": "A popular business news website that covers a wide range of topics including finance, technology, and markets.",
+      "title": "Business Insider",
+      "kind": "feed",
+      "feed_url": "http://feeds2.feedburner.com/businessinsider",
+      "popularity_score": 2.375297795886031,
+      "details": "Original category: Business",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Tech",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "business news",
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:business-breakdowns.com:Business Breakdowns",
+      "cleaned_title": "Business Breakdowns",
+      "summary": "This platform aims to simplify complex business topics through insightful breakdowns, providing valuable information for investors and business enthusiasts.",
+      "title": "Business Breakdowns",
+      "kind": "feed",
+      "feed_url": "https://www.business-breakdowns.com/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Tech",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "business insights",
+        "investing",
+        "breakdowns"
+      ]
+    },
+    {
+      "id": "feed:techcrunch.com:Fintech | TechCrunch",
+      "cleaned_title": "Fintech | TechCrunch",
+      "summary": "A source for startup and technology news specific to the fintech sector, highlighting emerging trends and significant developments.",
+      "title": "Fintech | TechCrunch",
+      "kind": "feed",
+      "feed_url": "http://techcrunch.com/tag/fintech/feed/",
+      "details": "Original category: Tech",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "fintech",
+        "startups",
+        "technology news",
+        "financial technology"
+      ]
+    },
+    {
+      "id": "feed:cleantechnica.com:CleanTechnica",
+      "cleaned_title": "CleanTechnica",
+      "summary": "A website that focuses on clean technology and renewable energy news, analysis, and insights.",
+      "title": "CleanTechnica",
+      "kind": "feed",
+      "feed_url": "http://cleantechnica.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "Cars",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "electric vehicles",
+        "renewable energy",
+        "clean tech"
+      ]
+    },
+    {
+      "id": "feed:solarpowerworldonline.com:Solar Power World",
+      "cleaned_title": "Solar Power World",
+      "summary": "A comprehensive resource for solar power news, technology, and installation insights.",
+      "title": "Solar Power World",
+      "kind": "feed",
+      "feed_url": "http://www.solarpowerworldonline.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "solar power",
+        "installation",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:windpowerengineering.com:Windpower Engineering & Development",
+      "cleaned_title": "Windpower Engineering & Development",
+      "summary": "A leading source for wind energy news, technology updates, and project developments.",
+      "title": "Windpower Engineering & Development",
+      "kind": "feed",
+      "feed_url": "http://www.windpowerengineering.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "wind energy",
+        "technology",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:hydroreview.com:Hydro Review",
+      "cleaned_title": "Hydro Review",
+      "summary": "A publication that covers hydropower news, technology advancements, and project updates.",
+      "title": "Hydro Review",
+      "kind": "feed",
+      "feed_url": "https://www.hydroreview.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "hydropower",
+        "technology",
+        "updates"
+      ]
+    },
+    {
+      "id": "feed:thesequence.substack.com:TheSequence",
+      "cleaned_title": "TheSequence",
+      "summary": "A curated source focusing on advancements in machine learning, AI, and data science, used by professionals in the field.",
+      "title": "TheSequence",
+      "kind": "feed",
+      "feed_url": "https://thesequence.substack.com/feed",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "data science",
+        "tech news"
+      ]
+    },
+    {
+      "id": "feed:https://simpleflying.com/feed/",
+      "title": "Simple Flying",
+      "kind": "feed",
+      "feed_url": "https://simpleflying.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Simple Flying",
+      "cleaned_author": null,
+      "summary": "An independent voice in aviation, Simple Flying provides comprehensive news and insights into the airline industry, covering everything from operational updates to travel trends.",
+      "tags": [
+        "News",
+        "Tech",
+        "Aviation",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "aviation news",
+        "airlines",
+        "travel"
+      ]
+    },
+    {
+      "id": "feed:https://www.platformer.news/feed",
+      "title": "Platformer",
+      "kind": "feed",
+      "feed_url": "https://www.platformer.news/feed",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Platformer",
+      "cleaned_author": null,
+      "summary": "Platformer provides insightful news on the intersection of Silicon Valley and democratic processes, analyzing technology's impact on society.",
+      "tags": [
+        "News",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "Silicon Valley",
+        "technology",
+        "democracy"
+      ]
+    },
+    {
+      "id": "feed:https://davidmytton.blog/feed/",
+      "title": "David Mytton",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidmytton.blog/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "David Mytton",
+      "cleaned_author": "David Mytton",
+      "summary": "Insights from a tech entrepreneur on data center energy efficiency and developer security in the evolving tech landscape.",
+      "tags": [
+        "Tech",
+        "Security",
+        "Data",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "data centers",
+        "AI workload",
+        "security",
+        "developer tools"
+      ]
+    },
+    {
+      "id": "feed:https://thewavingcat.com/feed/",
+      "title": "The Waving Cat \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thewavingcat.com/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "The Waving Cat",
+      "cleaned_author": "Peter Bihr",
+      "summary": "A thoughtful blog by Peter Bihr examining the intersections of technology and society, highlighting important discussions about democracy and public information.",
+      "tags": [
+        "Tech",
+        "Social",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology and society",
+        "democracy",
+        "public information"
+      ]
+    },
+    {
+      "id": "feed:http://datacolada.org/feed",
+      "title": "Data Colada",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://datacolada.org/feed",
+      "summary": "Thinking about evidence and vice versa.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Data Colada",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "evidence",
+        "data analysis",
+        "research methods"
+      ]
+    },
+    {
+      "id": "feed:https://statmodeling.stat.columbia.edu/feed/",
+      "title": "Statistical Modeling, Causal Inference, and Social Science",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://statmodeling.stat.columbia.edu/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Statistical Modeling, Causal Inference, and Social Science",
+      "cleaned_author": null,
+      "summary": "Focused on statistical methodologies and their applications in social science, this blog discusses important topics in statistical modeling and causal inference.",
+      "tags": [
+        "Science",
+        "Data",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "social science",
+        "causal inference"
+      ]
+    },
+    {
+      "id": "feed:https://aworkinglibrary.com/feed/index.xml",
+      "title": "A Working Library",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aworkinglibrary.com/feed/index.xml",
+      "details": "Original Category: arts -> books.opml",
+      "cleaned_title": "A Working Library",
+      "cleaned_author": "Mandy Brown",
+      "summary": "A Working Library is a reflective blog by Mandy Brown that delves into the relationships between work, reading, and technology. It features insightful commentary on a variety of topics, encouraging a deeper engagement with literature and the digital world.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Writing",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "work",
+        "reading",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://stephanieevergreen.com/blog/feed/",
+      "title": "Evergreen Data Visualization Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stephanieevergreen.com/blog/feed/",
+      "summary": "How to make high impact data visualization right inside Excel along with real life case examples organizational culture change.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "Evergreen Data Visualization Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data",
+        "Data",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "Excel",
+        "reporting",
+        "organizational culture"
+      ]
+    },
+    {
+      "id": "feed:https://stephanieevergreen.com/blog/feed/",
+      "title": "Evergreen Data Visualization Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stephanieevergreen.com/blog/feed/",
+      "summary": "How to make high impact data visualization right inside Excel along with real life case examples organizational culture change.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "Evergreen Data Visualization Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data",
+        "Data",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "Excel",
+        "reporting",
+        "organizational culture"
+      ]
+    },
+    {
+      "id": "feed:https://stephanieevergreen.com/blog/feed/",
+      "title": "Evergreen Data Visualization Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stephanieevergreen.com/blog/feed/",
+      "summary": "How to make high impact data visualization right inside Excel along with real life case examples organizational culture change.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "Evergreen Data Visualization Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data",
+        "Data",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "Excel",
+        "reporting",
+        "organizational culture"
+      ]
+    },
+    {
+      "id": "feed:https://stephanieevergreen.com/blog/feed/",
+      "title": "Evergreen Data Visualization Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stephanieevergreen.com/blog/feed/",
+      "summary": "How to make high impact data visualization right inside Excel along with real life case examples organizational culture change.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "Evergreen Data Visualization Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data",
+        "Data",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "Excel",
+        "reporting",
+        "organizational culture"
+      ]
+    },
+    {
+      "id": "feed:https://flowingdata.com/feed",
+      "title": "FlowingData",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://flowingdata.com/feed",
+      "summary": "Data Visualization and Statistics.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "FlowingData",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "statistics",
+        "analytics"
+      ]
+    },
+    {
+      "id": "feed:https://flowingdata.com/feed",
+      "title": "FlowingData",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://flowingdata.com/feed",
+      "summary": "Data Visualization and Statistics.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "FlowingData",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "statistics",
+        "analytics"
+      ]
+    },
+    {
+      "id": "feed:https://kieranhealy.org/index.xml",
+      "title": "kieranhealy.org",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kieranhealy.org/index.xml",
+      "summary": "I am Professor of Sociology at Duke University.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "kieranhealy.org",
+      "cleaned_author": "Kieran Healy",
+      "tags": [
+        "Arts & Culture",
+        "Data",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "sociology",
+        "data visualization",
+        "Kieran Healy"
+      ]
+    },
+    {
+      "id": "feed:https://stamen.com/feed/",
+      "title": "Stamen | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stamen.com/feed/",
+      "summary": "A blog dedicated to the art of storytelling through data visualization, showcasing innovative maps and design projects that help reveal complex narratives.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "Stamen",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Data",
+        "Photos",
+        "_artsy",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "mapping",
+        "design",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://drewdevault.com/blog/index.xml",
+      "title": "Drew DeVault's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://drewdevault.com/blog/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Drew DeVault's blog",
+      "cleaned_author": "Drew DeVault",
+      "summary": "Drew DeVault blogs about free software, transparency in governance, and inclusive practices, intertwining personal insights with broader discussions relevant to the tech community.",
+      "tags": [
+        "Tech",
+        "Data",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "intellectual property",
+        "FOSDEM",
+        "transparency",
+        "neurodivergence"
+      ]
+    },
+    {
+      "id": "feed:https://www.hughrundle.net/rss/",
+      "title": "Information Flaneur",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hughrundle.net/rss/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Information Flaneur",
+      "cleaned_author": null,
+      "summary": "A blog that delves into the intersections of libraries, information science, and computational theory. It offers insights and reflections on the evolving landscape of information management.",
+      "tags": [
+        "Tech",
+        "Academia",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "libraries",
+        "information science",
+        "computation"
+      ]
+    },
+    {
+      "id": "feed:https://www.cabeda.dev/rss.xml",
+      "title": "Jos\u00e9 Cabeda",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cabeda.dev/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Jos\u00e9 Cabeda",
+      "cleaned_author": "Jos\u00e9 Cabeda",
+      "summary": "A contemplative blog where the author shares personal thoughts and observations on technology and workflow management, providing insights into everyday challenges.",
+      "tags": [
+        "Tech",
+        "Writing",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "workflow",
+        "personal reflections",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.sharonlohr.com/blog?format=rss",
+      "title": "Sharon Lohr \u2014 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sharonlohr.com/blog?format=rss",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Sharon Lohr",
+      "cleaned_author": "Sharon Lohr",
+      "summary": "Sharon Lohr's blog discusses applications of statistical analysis in various fields, often relating to societal issues.",
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "AI",
+        "crime statistics",
+        "religion"
+      ]
+    },
+    {
+      "id": "feed:https://www.statschat.org.nz/feed/",
+      "title": "Stats Chat",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.statschat.org.nz/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Stats Chat",
+      "cleaned_author": null,
+      "summary": "Stats Chat emphasizes the importance of statistical literacy, providing predictions and insights into sports statistics.",
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "predictions",
+        "sports"
+      ]
+    },
+    {
+      "id": "feed:https://taxpolicy.org.uk/feed/",
+      "title": "Tax Policy Associates - Reports",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://taxpolicy.org.uk/feed/",
+      "summary": "A think tank dedicated to improving tax policy and the public understanding of tax.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Tax Policy Associates - Reports",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "tax policy",
+        "corporate fraud",
+        "legal issues"
+      ]
+    },
+    {
+      "id": "feed:https://ourincrediblejourney.tumblr.com/rss",
+      "title": "Our Incredible Journey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ourincrediblejourney.tumblr.com/rss",
+      "summary": "Putting the ack! in acquihire.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Our Incredible Journey",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Ventures",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "business",
+        "acquihire",
+        "startups"
+      ]
+    },
+    {
+      "id": "feed:https://www.retailinsider.com/feed/",
+      "title": "Retail Insider",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.retailinsider.com/feed/",
+      "summary": "Taking a look behind the obvious on the high street, online and in the City.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Retail Insider",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "retail",
+        "insights",
+        "industry trends"
+      ]
+    },
+    {
+      "id": "feed:https://xplane.com/feed/",
+      "title": "X Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xplane.com/feed/",
+      "summary": "Read our latest posts on ideas for designing, facilitating, and creating lasting change for people and organizations.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "X Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Writing",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "change management",
+        "leadership",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://econbrowser.com/feed",
+      "title": "Econbrowser",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://econbrowser.com/feed",
+      "summary": "Analysis of current economic conditions and policy.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Econbrowser",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic analysis",
+        "current conditions",
+        "policy insights"
+      ]
+    },
+    {
+      "id": "feed:https://mainlymacro.blogspot.com/feeds/posts/default",
+      "title": "mainly macro",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mainlymacro.blogspot.com/feeds/posts/default",
+      "summary": "Comment on macroeconomic issues.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "mainly macro",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "macroeconomic commentary",
+        "economic news",
+        "public spending"
+      ]
+    },
+    {
+      "id": "feed:https://www.beautifulpublicdata.com/rss/",
+      "title": "Beautiful Public Data",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.beautifulpublicdata.com/rss/",
+      "summary": "A curated selection of visually interesting datasets collected by local, state and federal government agencies. By Jon Keegan.",
+      "details": "Original Category: countries -> usa -> usa-government.opml",
+      "cleaned_title": "Beautiful Public Data",
+      "cleaned_author": "Jon Keegan",
+      "tags": [
+        "Tech",
+        "Data",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "government datasets",
+        "public information"
+      ]
+    },
+    {
+      "id": "feed:https://actuaries.blog.gov.uk/feed/",
+      "title": "Actuaries in government",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://actuaries.blog.gov.uk/feed/",
+      "summary": "News and updates from the Government Actuary's Department.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "Actuaries in government",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Money",
+        "Data",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "actuaries",
+        "government",
+        "pensions"
+      ]
+    }
+  ],
+  "child_categories": []
+}

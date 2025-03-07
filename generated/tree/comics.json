@@ -1,0 +1,1004 @@
+{
+  "id": "comics",
+  "display_name": "Comics",
+  "feeds": [
+    {
+      "id": "substack:top:3_worlds_/_3_moons_-_3w/3m",
+      "title": "3 Worlds / 3 Moons - 3W/3M",
+      "cleaned_title": "3 Worlds / 3 Moons",
+      "summary": "A new comics universe from prominent creators, showcasing exciting narratives and illustrations.",
+      "kind": "feed",
+      "feed_url": "https://3w3m.substack.com/feed",
+      "details": "Original category: Substack top newsletters about comics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "comics",
+        "creators",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "substack:top:our_best_jackett_-_scott_snyder",
+      "title": "Our Best Jackett - Scott Snyder",
+      "cleaned_title": "Our Best Jackett",
+      "summary": "A newsletter by Scott Snyder that delves into the world of comic writing, featuring insights from industry professionals like Mark Waid.",
+      "kind": "feed",
+      "feed_url": "https://bestjackettpress.substack.com/feed",
+      "details": "Original category: Substack top newsletters about comics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Writing"
+      ],
+      "cleaned_author": "Scott Snyder",
+      "language": "en",
+      "keywords": [
+        "comics",
+        "Scott Snyder",
+        "Mark Waid",
+        "writing"
+      ]
+    },
+    {
+      "id": "substack:top:i'm_fine_i'm_fine_just_understand_-_nd_stevenson",
+      "title": "I'm Fine I'm Fine Just Understand - ND Stevenson",
+      "cleaned_title": "I'm Fine I'm Fine Just Understand",
+      "summary": "This newsletter explores themes of gender, mental health, and the aging experience through quiet yet poignant comics.",
+      "kind": "feed",
+      "feed_url": "https://www.imfineimfine.com/feed",
+      "details": "Original category: Substack top newsletters about comics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Mental Health"
+      ],
+      "cleaned_author": "ND Stevenson",
+      "language": "en",
+      "keywords": [
+        "ND Stevenson",
+        "mental health",
+        "gender",
+        "aging"
+      ]
+    },
+    {
+      "id": "substack:top:xanaduum",
+      "title": "Xanaduum",
+      "cleaned_title": "Xanaduum",
+      "summary": "A living archive by Grant Morrison that offers a unique look into their creative journey and reflections.",
+      "kind": "feed",
+      "feed_url": "https://grantmorrison.substack.com/feed",
+      "details": "Original category: Substack top newsletters about comics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "Grant Morrison",
+        "archive",
+        "creativity"
+      ]
+    },
+    {
+      "id": "substack:top:liana\u2019s_newsletter_-_liana_finck",
+      "title": "Liana\u2019s Newsletter - Liana Finck",
+      "cleaned_title": "Liana\u2019s Newsletter",
+      "summary": "A weekly newsletter featuring a collection of drawings and insights from New Yorker cartoonist Liana Finck, enriched with autobiographical comics.",
+      "kind": "feed",
+      "feed_url": "https://lianafinck.substack.com/feed",
+      "details": "Original category: Substack top newsletters about comics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "cleaned_author": "Liana Finck",
+      "language": "en",
+      "keywords": [
+        "Liana Finck",
+        "cartoons",
+        "drawings"
+      ]
+    },
+    {
+      "id": "feed:https://laughingsquid.com/feed/",
+      "title": "Laughing Squid",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://laughingsquid.com/feed/",
+      "summary": "Features a daily dose of unique art, culture and technology.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Laughing Squid",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Art",
+        "Music",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "quirky",
+        "art",
+        "technology",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:https://www.newsfromme.com/feed/",
+      "title": "News From ME",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.newsfromme.com/feed/",
+      "summary": "About TV, movies, theatre, comics, news, politics and other forms of fantasy.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "News From ME",
+      "cleaned_author": "Mark Evanier",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Theater",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "Mark Evanier",
+        "TV",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:https://www.spectrecollie.com/feed/",
+      "title": "Spectre Collie",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.spectrecollie.com/feed/",
+      "summary": "The Journal of Poorly-Explained Phenomena.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "Spectre Collie",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Music",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "phenomena",
+        "pop culture",
+        "Captain America",
+        "Civilization",
+        "opinions"
+      ]
+    },
+    {
+      "id": "feed:https://psychotronicpaul.blogspot.com/feeds/posts/default",
+      "title": "Way Too Damn Lazy To Write A Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://psychotronicpaul.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Way Too Damn Lazy To Write A Blog",
+      "cleaned_author": "Psychotronic Paul",
+      "summary": "A personal blog sharing insights and reflections on 20th-century pop culture, from cartoons to notable figures.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Pop"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture",
+        "cartoons",
+        "historical insights"
+      ]
+    },
+    {
+      "id": "feed:https://cwickham.blogspot.com/feeds/posts/default",
+      "title": "Ludicrously Niche",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cwickham.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Ludicrously Niche",
+      "cleaned_author": null,
+      "summary": "A light-hearted blog exploring the quirky aspects of TV and related culture, perfect for niche interest enthusiasts.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "niche culture",
+        "TV exploration",
+        "quirky interests"
+      ]
+    },
+    {
+      "id": "feed:https://crazywalls.tumblr.com/rss",
+      "title": "Crazy Walls",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://crazywalls.tumblr.com/rss",
+      "summary": "Yarn time!",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Crazy Walls",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://disneyweirdness.blogspot.com/feeds/posts/default",
+      "title": "Disney Weirdness",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://disneyweirdness.blogspot.com/feeds/posts/default",
+      "summary": "It's a weird world after all.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Disney Weirdness",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://skookworks.com/feed/",
+      "title": "Skookworks.com - Established 2003",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://skookworks.com/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Skookworks.com",
+      "cleaned_author": null,
+      "summary": "Skookworks is an established blog that delves into the world of comics and artistic musings, presenting stories and reflections through various artistic forms. It's an engaging space for comic enthusiasts and creators.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Art",
+        "_artsy",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "stories",
+        "artistic musings",
+        "illustration"
+      ]
+    },
+    {
+      "id": "feed:https://thebristolboard.tumblr.com/rss",
+      "title": "The Bristol Board",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thebristolboard.tumblr.com/rss",
+      "summary": "A virtual gallery celebrating the greatness of la the comics medium, past and present.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The Bristol Board",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "art gallery",
+        "illustration"
+      ]
+    },
+    {
+      "id": "feed:http://blog.fivecentsplease.org/feeds/posts/default",
+      "title": "The FiveCentsPlease Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://blog.fivecentsplease.org/feeds/posts/default",
+      "summary": "News and interesting stuff about the world of Charles M. Schulz's Peanuts.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The FiveCentsPlease Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "Peanuts",
+        "Charles M. Schulz",
+        "comic news"
+      ]
+    },
+    {
+      "id": "feed:https://aaugh.com/wordpress/feed/",
+      "title": "The AAUGH Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aaugh.com/wordpress/feed/",
+      "summary": "for Peanuts book news and views.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The AAUGH Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "Peanuts",
+        "comic strip",
+        "Charles Schulz",
+        "books",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:https://jpawlik.com/blog/feed/",
+      "title": "Art by Jey Pawlik",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jpawlik.com/blog/feed/",
+      "summary": "Illustration, fanart, and comics.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Art by Jey Pawlik",
+      "cleaned_author": "Jey Pawlik",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "illustration",
+        "fanart",
+        "comics",
+        "art blog",
+        "Jey Pawlik"
+      ]
+    },
+    {
+      "id": "feed:https://atomicjunkshop.com/feed/",
+      "title": "Atomic Junk Shop",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://atomicjunkshop.com/feed/",
+      "summary": "Celebrating the Unpopular Arts.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Atomic Junk Shop",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "arts",
+        "unpopular culture",
+        "comics",
+        "commentary",
+        "cultural history"
+      ]
+    },
+    {
+      "id": "feed:https://bearalley.blogspot.com/feeds/posts/default",
+      "title": "Bear Alley",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bearalley.blogspot.com/feeds/posts/default",
+      "summary": "Somewhere I can talk about my favourite subjects: old British comics, story papers and paperbacks.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Bear Alley",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "British comics",
+        "story papers",
+        "paperbacks",
+        "vintage"
+      ]
+    },
+    {
+      "id": "feed:https://www.conniewonnie.com/feeds/posts/default",
+      "title": "cartoonconnie comics blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.conniewonnie.com/feeds/posts/default",
+      "summary": "Sketchbook Comics & Illustration.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "cartoonconnie comics blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "illustration",
+        "sketchbook",
+        "art blog",
+        "cartooning"
+      ]
+    },
+    {
+      "id": "feed:https://catandgirl.com/feed/",
+      "title": "Cat and Girl",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://catandgirl.com/feed/",
+      "summary": "An illustrative blog that features humorous commentary and stories through the lens of cats and girls in various situations.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Cat and Girl",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "humor",
+        "cats",
+        "stories",
+        "illustration"
+      ]
+    },
+    {
+      "id": "feed:https://joshreads.com/feed/",
+      "title": "The Comics Curmudgeon",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://joshreads.com/feed/",
+      "summary": "A humorous critique of daily comic strips, where the author shares insights and commentary on various comics, often with a satirical twist.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The Comics Curmudgeon",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "_artsy",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "humor",
+        "critique",
+        "satire"
+      ]
+    },
+    {
+      "id": "feed:http://comicsdc.blogspot.com/feeds/posts/default",
+      "title": "ComicsDC",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://comicsdc.blogspot.com/feeds/posts/default",
+      "summary": "For information and events relating to comic books, comic strips, political cartoons, animation and caricature in Washington, DC and its environs.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "ComicsDC",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Comics",
+        "_establishment"
+      ],
+      "language": "en",
+      "keywords": [
+        "Washington DC",
+        "comics",
+        "political cartoons",
+        "anime",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:https://comicsworthreading.com/feed/",
+      "title": "Comics Worth Reading",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://comicsworthreading.com/feed/",
+      "summary": "Independent Opinions, News, and Reviews of Graphic Novels, Manga, and Comic Books.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Comics Worth Reading",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "graphic novels",
+        "manga",
+        "reviews",
+        "comics"
+      ]
+    },
+    {
+      "id": "feed:https://www.dailycartoonist.com/index.php/feed/",
+      "title": "The Daily Cartoonist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.dailycartoonist.com/index.php/feed/",
+      "summary": "Industry news for the professional cartoonist.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The Daily Cartoonist",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "cartooning",
+        "industry news",
+        "professionals",
+        "comics"
+      ]
+    },
+    {
+      "id": "feed:http://everydayislikewednesday.blogspot.com/feeds/posts/default",
+      "title": "Every Day Is Like Wednesday",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://everydayislikewednesday.blogspot.com/feeds/posts/default",
+      "summary": "Trudging slowly over wet sand.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Every Day Is Like Wednesday",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "superheroes",
+        "comic reviews",
+        "DC Comics",
+        "Marvel Comics"
+      ]
+    },
+    {
+      "id": "feed:https://www.hawkworld.org/feeds/posts/default",
+      "title": "HAWKWORLD",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hawkworld.org/feeds/posts/default",
+      "summary": "Welcome to the World of Hawkman and Hawkgirl!",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "HAWKWORLD",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hawkman",
+        "Hawkwoman",
+        "DC Comics",
+        "comic news"
+      ]
+    },
+    {
+      "id": "feed:http://highlowcomics.blogspot.com/feeds/posts/default",
+      "title": "High-Low",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://highlowcomics.blogspot.com/feeds/posts/default",
+      "summary": "This is the blog of comics critic Rob Clough.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "High-Low",
+      "cleaned_author": "Rob Clough",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "indie comics",
+        "reviews",
+        "Rob Clough",
+        "minicomics"
+      ]
+    },
+    {
+      "id": "feed:https://thisisindexed.com/feed/",
+      "title": "Indexed",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thisisindexed.com/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Indexed",
+      "cleaned_author": null,
+      "summary": "A whimsical comic series that combines humor and insightful commentary on life and society, presented in a unique index format. Perfect for those who enjoy a light-hearted take on complex subjects.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "humor",
+        "life",
+        "society",
+        "insight"
+      ]
+    },
+    {
+      "id": "feed:https://www.jordanmechner.com/feed/",
+      "title": "Jordan Mechner - Latest News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.jordanmechner.com/feed/",
+      "details": "Original Category: arts -> games -> video-games.opml",
+      "cleaned_title": "Jordan Mechner - Latest News",
+      "cleaned_author": "Jordan Mechner",
+      "summary": "Updates from the acclaimed creator of the iconic video game 'Prince of Persia'. This feed features news about his projects, art, and reflections on gaming history, appealing to both fans of retro games and graphic novels.",
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "Prince of Persia",
+        "artwork",
+        "video games",
+        "graphic novel"
+      ]
+    },
+    {
+      "id": "feed:https://www.matthewbogart.net/rss/",
+      "title": "Matthew Bogart",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.matthewbogart.net/rss/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Matthew Bogart",
+      "cleaned_author": null,
+      "summary": "A collection of slice-of-life comics that explore everyday moments and emotions. Matthew Bogart's work resonates with readers, offering a relatable glimpse into life through charming illustrations.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "slice-of-life",
+        "comics",
+        "relatable",
+        "everyday"
+      ]
+    },
+    {
+      "id": "feed:https://www.progressiveruin.com/feed/",
+      "title": "Mike Sterling's Progressive Ruin",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.progressiveruin.com/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Mike Sterling's Progressive Ruin",
+      "cleaned_author": "Mike Sterling",
+      "summary": "A comic-related blog that offers sharp commentary, news, and observations on the comic book industry. Known for its humor and engaging discussions on all things comics, it's a go-to for enthusiasts.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "industry news",
+        "humor",
+        "commentary"
+      ]
+    },
+    {
+      "id": "feed:http://www.thenewestrant.com/feeds/posts/default",
+      "title": "The Newest Rant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.thenewestrant.com/feeds/posts/default",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The Newest Rant",
+      "cleaned_author": null,
+      "summary": "A provocative commentary on comic book news and culture, delivering unfiltered takes on current events in the comic world. This feed is for those who prefer their news with a side of dissent.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "comic book news",
+        "critique",
+        "current events",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://thepatronsaintofsuperheroes.wordpress.com/feed/",
+      "title": "The Patron Saint of Superheroes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thepatronsaintofsuperheroes.wordpress.com/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The Patron Saint of Superheroes",
+      "cleaned_author": "Chris Gavaler",
+      "summary": "Exploring the intricate relationship between comics, pop culture, and political discourse, Chris Gavaler offers an insightful look at how superheroes reflect societal issues and narratives.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "superheroes",
+        "politics",
+        "pop culture",
+        "comics"
+      ]
+    },
+    {
+      "id": "feed:https://www.pipelinecomics.com/feed/",
+      "title": "PIPELINE COMICS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.pipelinecomics.com/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "PIPELINE COMICS",
+      "cleaned_author": null,
+      "summary": "Focusing on European comics from a North American perspective, this feed provides reviews and insights into lesser-known works, appealing to comic aficionados and new readers alike.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "European comics",
+        "reviews",
+        "North America",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.badspacecomics.com/blog-feed.xml",
+      "title": "Science fiction comics | Bad Space",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.badspacecomics.com/blog-feed.xml",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Science fiction comics | Bad Space",
+      "cleaned_author": null,
+      "summary": "A collection of science fiction comics that delve into imaginative storytelling and inventive worlds. Perfect for readers who seek adventure through the lens of speculative fiction.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction",
+        "comics",
+        "imagination",
+        "adventure"
+      ]
+    },
+    {
+      "id": "feed:https://smashpages.net/feed/",
+      "title": "SMASH PAGES",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://smashpages.net/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "SMASH PAGES",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to the world of comics, featuring news on upcoming releases and interviews with creators. Expect insights into the latest happenings in the comic book universe.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "Bram Stoker Awards",
+        "comics news",
+        "creators"
+      ]
+    },
+    {
+      "id": "feed:https://thesolarpool.weebly.com/1/feed",
+      "title": "The Solar Pool - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thesolarpool.weebly.com/1/feed",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "The Solar Pool",
+      "cleaned_author": null,
+      "summary": "A blog exploring various revisitations and reflections, examining storytelling and character development in a creative context.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "revisitation",
+        "stories",
+        "narrative analysis"
+      ]
+    },
+    {
+      "id": "feed:https://speedforce.org/feed/",
+      "title": "Speed Force",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://speedforce.org/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Speed Force",
+      "cleaned_author": null,
+      "summary": "A blog specifically focused on the lore and adventures of The Flash, providing summaries and previews of comic issues and upcoming solicitations.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "Flash",
+        "comic book review",
+        "DC solicitations"
+      ]
+    },
+    {
+      "id": "feed:https://stevedoescomics.blogspot.com/feeds/posts/default",
+      "title": "Steve Does Comics",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stevedoescomics.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Steve Does Comics",
+      "cleaned_author": null,
+      "summary": "A blog sharing reflections on comic book history and nostalgia, offering insights into recently uncovered gems from the past.",
+      "tags": [
+        "Arts & Culture",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "comic history",
+        "nostalgia",
+        "Marvel UK"
+      ]
+    },
+    {
+      "title": "xkcd",
+      "popularity_score": 3.413888888888889,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://xkcd.com/rss.xml",
+      "kind": "feed",
+      "id": "feed:http://xkcd.com/rss.xml",
+      "cleaned_title": "xkcd",
+      "cleaned_author": null,
+      "summary": "A webcomic series combining themes of math, science, and romance, known for its witty take on complexities through simple drawings.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "webcomic",
+        "math humor",
+        "science"
+      ]
+    }
+  ],
+  "child_categories": []
+}

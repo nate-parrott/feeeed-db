@@ -1,0 +1,2679 @@
+{
+  "id": "art",
+  "display_name": "Art",
+  "feeds": [
+    {
+      "id": "substack:top:open_windows-_ann_telnaes",
+      "title": "Open Windows- Ann Telnaes",
+      "cleaned_title": "Open Windows",
+      "summary": "A visual storytelling project exploring current events through satirical and artistic reflections, led by a prominent illustrator.",
+      "kind": "feed",
+      "feed_url": "https://anntelnaes.substack.com/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Humor"
+      ],
+      "cleaned_author": "Ann Telnaes",
+      "language": "en",
+      "keywords": [
+        "political cartoons",
+        "illustration",
+        "satire",
+        "current events"
+      ]
+    },
+    {
+      "id": "substack:top:drawtogether_with_wendymac_-_wendy_macnaughton",
+      "title": "DrawTogether with WendyMac - Wendy MacNaughton",
+      "cleaned_title": "DrawTogether with WendyMac",
+      "summary": "An art-focused platform that combines drawing lessons, creative explorations, and community engagement to inspire creativity and expression.",
+      "kind": "feed",
+      "feed_url": "https://club.drawtogether.studio/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Art",
+        "Writing"
+      ],
+      "cleaned_author": "Wendy MacNaughton",
+      "language": "en",
+      "keywords": [
+        "drawing lessons",
+        "art community",
+        "creativity",
+        "assignments"
+      ]
+    },
+    {
+      "id": "substack:top:austin_kleon",
+      "title": "Austin Kleon",
+      "cleaned_title": "Austin Kleon",
+      "summary": "Weekly insights on creativity, writing, and art from the bestselling author, encouraging readers to harness their creative potential.",
+      "kind": "feed",
+      "feed_url": "https://austinkleon.substack.com/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Writing",
+        "Art"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "writing advice",
+        "art inspiration",
+        "bestselling author"
+      ]
+    },
+    {
+      "id": "substack:top:eko_loves_you",
+      "title": "EKO LOVES YOU",
+      "cleaned_title": "EKO LOVES YOU",
+      "summary": "An inventive venture that tells compelling stories through visual narratives, blending artistic flair with meaningful themes.",
+      "kind": "feed",
+      "feed_url": "https://eko.substack.com/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "storytelling",
+        "visual narratives",
+        "art themes"
+      ]
+    },
+    {
+      "id": "substack:top:a_gathering_of_spirits__-_carrie_newcomer",
+      "title": "A Gathering of Spirits  - Carrie Newcomer",
+      "cleaned_title": "A Gathering of Spirits",
+      "summary": "Carrie Newcomer's exploration of music, poetry, and spiritual commentary, reflecting on life's profound moments.",
+      "kind": "feed",
+      "feed_url": "https://carrienewcomer.substack.com/feed",
+      "details": "Original category: Substack top newsletters about music",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art"
+      ],
+      "cleaned_author": "Carrie Newcomer",
+      "language": "en",
+      "keywords": [
+        "music",
+        "poetry",
+        "spirituality",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:feeds2.feedburner.com:It's Nice That",
+      "cleaned_title": "It's Nice That",
+      "summary": "A vibrant showcase of the world's most inspiring and innovative design and art.",
+      "title": "It's Nice That",
+      "kind": "feed",
+      "feed_url": "http://feeds2.feedburner.com/itsnicethat/SlXC",
+      "popularity_score": 11.185272129101788,
+      "details": "Original category: Arts",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "design",
+        "inspiration"
+      ]
+    },
+    {
+      "id": "feed:artsy.net:Artsy News",
+      "cleaned_title": "Artsy News",
+      "summary": "Artsy is an online platform for discovering, buying, and selling art. It features a wide range of artworks from galleries, museums, and artists around the world.",
+      "title": "Artsy News",
+      "kind": "feed",
+      "feed_url": "https://www.artsy.net/rss/news",
+      "details": "Original category: Arts -> Visual Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art news",
+        "art market",
+        "galleries"
+      ]
+    },
+    {
+      "id": "feed:feeds.hyperallergic.com:Hyperallergic",
+      "cleaned_title": "Hyperallergic",
+      "summary": "Hyperallergic is a leading art publication that covers contemporary art, culture, and activism. It offers insightful articles, reviews, and news about the art world.",
+      "title": "Hyperallergic",
+      "kind": "feed",
+      "feed_url": "http://feeds.hyperallergic.com/hyperallergic",
+      "details": "Original category: Travel -> Culture",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art culture",
+        "activism",
+        "contemporary art"
+      ]
+    },
+    {
+      "id": "feed:juxtapoz.com:Juxtapoz Magazine - Juxtapoz Magazine - Home",
+      "cleaned_title": "Juxtapoz Magazine",
+      "summary": "Juxtapoz is a magazine and website that celebrates contemporary art, street art, and underground culture. It showcases a diverse range of artists and their works.",
+      "title": "Juxtapoz Magazine - Juxtapoz Magazine - Home",
+      "kind": "feed",
+      "feed_url": "http://www.juxtapoz.com/rss/en/frontpage-rss-feed/",
+      "details": "Original category: Arts -> Visual Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "contemporary art",
+        "street art",
+        "creativity"
+      ]
+    },
+    {
+      "id": "reddit:Art",
+      "cleaned_title": "Art",
+      "summary": "A subreddit dedicated to sharing and discussing art in all its forms. It's a vibrant community where artists and art enthusiasts come together to appreciate and critique artworks.",
+      "title": "Art",
+      "kind": "reddit",
+      "subreddit": "Art",
+      "details": "Original category: Arts -> Visual Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art discussions",
+        "community",
+        "art appreciation"
+      ]
+    },
+    {
+      "id": "feed:news.artnet.com:Artnet News",
+      "cleaned_title": "Artnet News",
+      "summary": "Artnet is a comprehensive platform for art market insights, auctions, and online galleries. It provides access to a vast collection of artworks and information about artists, galleries, and art events.",
+      "title": "Artnet News",
+      "kind": "feed",
+      "feed_url": "http://news.artnet.com/feed/",
+      "details": "Original category: Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "art market",
+        "auctions",
+        "artists",
+        "galleries",
+        "art events"
+      ]
+    },
+    {
+      "id": "feed:anothermag.com:AnOther",
+      "cleaned_title": "AnOther",
+      "summary": "AnOther is a publication that fuses high fashion with artistic expression, offering features on leading designers, artists, and cultural phenomena. It serves as an essential source for those who appreciate the intersection of style and social commentary.",
+      "title": "AnOther",
+      "kind": "feed",
+      "feed_url": "http://www.anothermag.com/feed",
+      "details": "Original category: Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fashion",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "high fashion",
+        "designers",
+        "art culture"
+      ]
+    },
+    {
+      "id": "youtube:The National Gallery",
+      "cleaned_title": "The National Gallery",
+      "summary": "The National Gallery is a renowned art museum in London. Their YouTube channel offers virtual tours, artist interviews, and insights into their extensive collection of visual art.",
+      "title": "The National Gallery",
+      "kind": "youtube",
+      "channel_id": "UCrPOgNsUldOtQsTf9Kjlm_A",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMa-_WXt4n6PJhN2IDYKkPo4QFBftdDqUFz5pjdDm0=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Visual Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "art museum",
+        "virtual tours",
+        "art collection"
+      ]
+    },
+    {
+      "id": "reddit:ArtHistory",
+      "cleaned_title": "ArtHistory",
+      "summary": "Delve into the rich history of visual art with the r/ArtHistory subreddit. Engage in discussions, share interesting facts, and explore the evolution of art through the ages.",
+      "title": "ArtHistory",
+      "kind": "reddit",
+      "subreddit": "ArtHistory",
+      "details": "Original category: Arts -> Visual Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "art history",
+        "discussions",
+        "visual arts"
+      ]
+    },
+    {
+      "id": "youtube:The Museum of Modern Art",
+      "cleaned_title": "The Museum of Modern Art",
+      "summary": "MoMA is a renowned art museum in New York City. Their YouTube channel offers virtual tours, artist interviews, and insights into their collection of modern and contemporary visual art.",
+      "title": "The Museum of Modern Art",
+      "kind": "youtube",
+      "channel_id": "UC9CswYtb5rL31CHwyVoyJvQ",
+      "thumbnail_url": "https://yt3.ggpht.com/lqjvVXGEJF6aBY_ciSpI7QrHOHE9Mng8X1sdnrhii6bx0hLxUjg29N__c4kNoRX-qBUInGd5q3A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Visual Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "modern art",
+        "contemporary art",
+        "museum tours"
+      ]
+    },
+    {
+      "id": "feed:weeklyspecial.substack.com:Weekly Special",
+      "cleaned_title": "Weekly Special",
+      "summary": "Weekly Special features intriguing intersections of art and food, presenting bite-sized pieces that will appeal to anyone interested in the creative aspects of culinary culture.",
+      "title": "Weekly Special",
+      "kind": "feed",
+      "feed_url": "https://weeklyspecial.substack.com/feed",
+      "details": "Original category: Food & Drink -> Restaurants",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "art and food",
+        "creative culture",
+        "food dispatches"
+      ]
+    },
+    {
+      "id": "feed:http://www.messynessychic.com/feed/",
+      "title": "Messy Nessy Chic",
+      "kind": "feed",
+      "feed_url": "http://www.messynessychic.com/feed/",
+      "sources": [
+        "ooh_directory",
+        "curated"
+      ],
+      "summary": "Cabinet of Chic Curiosities.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Messy Nessy Chic",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "curiosities",
+        "culture",
+        "history",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://www.openculture.com/feed",
+      "title": "Open Culture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.openculture.com/feed",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Open Culture",
+      "cleaned_author": null,
+      "summary": "Open Culture curates and shares a wealth of cultural and educational media from around the web, offering insights into art, literature, and music while promoting free access to knowledge.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "cultural media",
+        "free access"
+      ]
+    },
+    {
+      "id": "feed:https://mossandfog.com/feed/",
+      "title": "Moss and Fog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mossandfog.com/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Moss and Fog",
+      "cleaned_author": null,
+      "summary": "A visually-driven blog that offers a daily feast of nature, design, and creative inspiration, showcasing everything from iconic performances to stunning landscapes.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "nature",
+        "design",
+        "visual inspiration",
+        "architecture"
+      ]
+    },
+    {
+      "id": "feed:https://we-make-money-not-art.com/feed/",
+      "title": "We Make Money Not Art",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://we-make-money-not-art.com/feed/",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "We Make Money Not Art",
+      "cleaned_author": null,
+      "summary": "A blog exploring contemporary art, politics, and innovation, with thoughtful critiques of modern culture and technology.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Activism",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "art criticism",
+        "politics in art",
+        "cultural innovation"
+      ]
+    },
+    {
+      "id": "feed:https://laughingsquid.com/feed/",
+      "title": "Laughing Squid",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://laughingsquid.com/feed/",
+      "summary": "Features a daily dose of unique art, culture and technology.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Laughing Squid",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Art",
+        "Music",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "quirky",
+        "art",
+        "technology",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:https://www.3ammagazine.com/3am/feed/",
+      "title": "3:AM Magazine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.3ammagazine.com/3am/feed/",
+      "summary": "Whatever it is, we're against it.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "3:AM Magazine",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Art",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "provocative",
+        "unconventional ideas",
+        "innovative arts"
+      ]
+    },
+    {
+      "id": "feed:https://digicult.it/feed/",
+      "title": "DIGICULT | Digital Art, Design and Culture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://digicult.it/feed/",
+      "summary": "Since 2005, Digicult is a platform that critically examines the impact of digital technologies and science on art, design, culture and contemporary society.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "DIGICULT",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital art",
+        "contemporary society",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://neural.it/feed/",
+      "title": "Neural",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://neural.it/feed/",
+      "summary": "Critical digital culture and media arts.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "Neural",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital culture",
+        "media arts",
+        "critical analysis"
+      ]
+    },
+    {
+      "id": "feed:https://hermitary.com/around/?feed=rss2",
+      "title": "Hermitary \u2013 hermits around the web",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hermitary.com/around/?feed=rss2",
+      "summary": "news, sites, and pages of interest about hermits and solitude.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Hermitary \u2013 hermits around the web",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "History",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "hermits",
+        "solitude",
+        "Buddhism",
+        "historical figures",
+        "solitary living"
+      ]
+    },
+    {
+      "id": "feed:https://postsecret.com/feed/",
+      "title": "PostSecret",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://postsecret.com/feed/",
+      "summary": "You are invited to anonymously contribute a secret to a group art project.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "PostSecret",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "secrets",
+        "art project",
+        "community",
+        "anonymity"
+      ]
+    },
+    {
+      "id": "feed:https://ayearinthecountry.co.uk/feed/",
+      "title": "A Year In The Country",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ayearinthecountry.co.uk/feed/",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "A Year In The Country",
+      "cleaned_author": null,
+      "summary": "An exploration of rural life through art and media, highlighting elements of folklore and contemporary analysis.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "folklore",
+        "rural life",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/dangerousminds/dot/net",
+      "title": "Dangerous Minds",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/dangerousminds/dot/net",
+      "summary": "A compendium of the new and strange-new ideas, new art forms, new approaches to social issues and new finds from the outer reaches of pop culture.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Dangerous Minds",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature",
+        "Music",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture",
+        "art forms",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:https://dreamsbuiltbyhand.blogspot.com/feeds/posts/default",
+      "title": "Dreams, Built By Hand",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dreamsbuiltbyhand.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "Dreams, Built By Hand",
+      "cleaned_author": null,
+      "summary": "A blog that explores various forms of analogue animation, from stop motion to experimental films, delving into the unique and often quirky visual storytelling techniques.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "animation",
+        "experimental films",
+        "stop motion"
+      ]
+    },
+    {
+      "id": "feed:https://fxrant.blogspot.com/feeds/posts/default",
+      "title": "FXRant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fxrant.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> movies.opml",
+      "cleaned_title": "FXRant",
+      "cleaned_author": "Todd Vaziri",
+      "summary": "A blog offering insights into visual effects in cinema, with commentary ranging from industry analysis to personal anecdotes surrounding film artistry.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "visual effects",
+        "film commentary"
+      ]
+    },
+    {
+      "id": "feed:https://design-is-fine.org/feed/",
+      "title": "Design is fine. History is mine.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://design-is-fine.org/feed/",
+      "summary": "Imagine a time with no computers but with lots of craftsmanship and creativity. This is my library...",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Design is fine. History is mine.",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design",
+        "_intellectual",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "artifacts",
+        "craftsmanship",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:http://josenaranja.blogspot.com/feeds/posts/default",
+      "title": "Jos\u00e9 Naranja",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://josenaranja.blogspot.com/feeds/posts/default",
+      "summary": "Notebookmaker, artjournaling, writer of irrelevant things, beginner calligrapher and dreamer. Author of The Orange Manuscript and The Nautilus Manuscript.Art, notebook, journals, travel, photography, watercolor, cuadernos, illustration, design, handwriting.",
+      "details": "Original Category: arts -> illustration.opml",
+      "cleaned_title": "Jos\u00e9 Naranja",
+      "cleaned_author": "Jos\u00e9 Naranja",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design",
+        "Writing",
+        "_artsy",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "notebooks",
+        "art",
+        "journals",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://juliabausenhardt.com/feed/",
+      "title": "Julia Bausenhardt Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://juliabausenhardt.com/feed/",
+      "summary": "Illustration + Nature Sketching.",
+      "details": "Original Category: arts -> illustration.opml",
+      "cleaned_title": "Julia Bausenhardt Blog",
+      "cleaned_author": "Julia Bausenhardt",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature",
+        "_intellectual",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "illustration",
+        "sketching",
+        "nature",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://www.frankching.com/wordpress/?feed=rss2",
+      "title": "Seeing.Thinking.Drawing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.frankching.com/wordpress/?feed=rss2",
+      "summary": "Drawing thoughts and observations.",
+      "details": "Original Category: arts -> illustration.opml",
+      "cleaned_title": "Seeing.Thinking.Drawing",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "drawing",
+        "observations",
+        "art",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://skookworks.com/feed/",
+      "title": "Skookworks.com - Established 2003",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://skookworks.com/feed/",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Skookworks.com",
+      "cleaned_author": null,
+      "summary": "Skookworks is an established blog that delves into the world of comics and artistic musings, presenting stories and reflections through various artistic forms. It's an engaging space for comic enthusiasts and creators.",
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Art",
+        "_artsy",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "comics",
+        "stories",
+        "artistic musings",
+        "illustration"
+      ]
+    },
+    {
+      "id": "feed:https://dru-withoutamap.blogspot.com/feeds/posts/default",
+      "title": "upside down in cloud",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dru-withoutamap.blogspot.com/feeds/posts/default",
+      "summary": "Illustrator in Bristol, England. I blog local interest, poetry, wildlife, travel, and art. Also LGBT and gender politics!",
+      "details": "Original Category: arts -> illustration.opml",
+      "cleaned_title": "upside down in cloud",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "poetry",
+        "local interest",
+        "art",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:https://70sscifiart.tumblr.com/rss",
+      "title": "70s Sci-Fi Art",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://70sscifiart.tumblr.com/rss",
+      "summary": "Art. Sci-fi art. From the 70s.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "70s Sci-Fi Art",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "sci-fi art",
+        "1970s",
+        "art history"
+      ]
+    },
+    {
+      "id": "feed:https://brucesterling.tumblr.com/rss",
+      "title": "BruceS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brucesterling.tumblr.com/rss",
+      "summary": "Graphic whimsy via Bruce Sterling, [email\u00a0protected].",
+      "details": "Original Category: arts -> images.opml",
+      "cleaned_title": "BruceS",
+      "cleaned_author": "Bruce Sterling",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "graphic art",
+        "whimsy",
+        "Bruce Sterling",
+        "visual commentary"
+      ]
+    },
+    {
+      "id": "feed:https://aaronland.info/orthis/feeds/atom.xml",
+      "title": "orthis",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aaronland.info/orthis/feeds/atom.xml",
+      "summary": "this is aaronland / or this...",
+      "details": "Original Category: arts -> images.opml",
+      "cleaned_title": "or this...",
+      "cleaned_author": "Aaron Land",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "illustration",
+        "sketches",
+        "nostalgia",
+        "Aaron Land"
+      ]
+    },
+    {
+      "id": "feed:https://migurski.tumblr.com/rss",
+      "title": "Tecznts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://migurski.tumblr.com/rss",
+      "summary": "A collection of contemporary art concepts and intriguing installations that push the boundaries of traditional media.",
+      "details": "Original Category: arts -> images.opml",
+      "cleaned_title": "Tecznts",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "contemporary art",
+        "installations",
+        "creative concepts"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/thisisnthappiness",
+      "title": "this isn't happiness\u2122 Peteski",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/thisisnthappiness",
+      "summary": "ART, PHOTOGRAPHY, DESIGN & DISAPPOINTMENT INSTAGRAM.",
+      "details": "Original Category: arts -> images.opml",
+      "cleaned_title": "this isn't happiness\u2122",
+      "cleaned_author": "Peteski",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "photography",
+        "design",
+        "disappointment"
+      ]
+    },
+    {
+      "id": "feed:https://drawingmatter.org/feed/",
+      "title": "Drawing Matter",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://drawingmatter.org/feed/",
+      "summary": "Exploring the role of drawing in architectural thought and practice.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Drawing Matter",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "architecture",
+        "drawing",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://magculture.com/blogs/journal.atom",
+      "title": "magCulture \u2014 Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://magculture.com/blogs/journal.atom",
+      "summary": "We stock an ever-changing selection of 600 magazines, and deliver internationally from our London shop.",
+      "details": "Original Category: arts -> magazines.opml",
+      "cleaned_title": "magCulture \u2014 Journal",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "magazines",
+        "culture",
+        "print"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/artistsnotebook",
+      "title": "The Artist\u2019s Notebook",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/artistsnotebook",
+      "summary": "Paul Watson\u2019s notes on ongoing artwork, giving an insight into the creative process.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "The Artist\u2019s Notebook",
+      "cleaned_author": "Paul Watson",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "creative process",
+        "art journal",
+        "Paul Watson"
+      ]
+    },
+    {
+      "id": "feed:https://blakegopnik.com/rss",
+      "title": "BLAKE GOPNIK on art",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blakegopnik.com/rss",
+      "summary": "Art critic Blake Gopnik shares his thoughts and reviews on various art shows and significant works.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "BLAKE GOPNIK on art",
+      "cleaned_author": "Blake Gopnik",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art reviews",
+        "Blake Gopnik",
+        "art shows"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/TheCassandraPages",
+      "title": "the cassandra pages",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/TheCassandraPages",
+      "summary": "An artist, graphic designer, writer and publisher.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "the cassandra pages",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "art and literature",
+        "thematic exploration",
+        "graphic design"
+      ]
+    },
+    {
+      "id": "feed:https://creativeramblings.com/feed/",
+      "title": "Cendrine Marrouat - Artist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://creativeramblings.com/feed/",
+      "summary": "A poet, photographer, multi-genre author, fiction writer, co-founder of Auroras & Blossoms, and creator of literary forms.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Cendrine Marrouat - Artist",
+      "cleaned_author": "Cendrine Marrouat",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "visual poetry",
+        "Cendrine Marrouat",
+        "creative processes"
+      ]
+    },
+    {
+      "id": "feed:https://stacks.contemporaryartlibrary.org/daily/feed.rss",
+      "title": "Contemporary Art Daily",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stacks.contemporaryartlibrary.org/daily/feed.rss",
+      "summary": "New art exhibitions and performances from around the world are published every day on our website and in our newsletter.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Contemporary Art Daily",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "art exhibitions",
+        "performances",
+        "global art news"
+      ]
+    },
+    {
+      "id": "feed:https://www.danielsroka.com/blog/feed/",
+      "title": "Daniel Sroka Open Studio",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.danielsroka.com/blog/feed/",
+      "summary": "I am a fine art nature photographer, and these are my reflections on making art: the inspiration, the process, and the business.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Daniel Sroka Open Studio",
+      "cleaned_author": "Daniel Sroka",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "nature photography",
+        "Daniel Sroka",
+        "art inspiration"
+      ]
+    },
+    {
+      "id": "feed:https://www.davidrevoy.com/feed/rss",
+      "title": "David Revoy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.davidrevoy.com/feed/rss",
+      "summary": "Artist, Instructor, using only Free/Libre and Open-Source software since 2009.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "David Revoy",
+      "cleaned_author": "David Revoy",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "open-source art",
+        "David Revoy",
+        "art techniques"
+      ]
+    },
+    {
+      "id": "feed:https://dulltooldimbulb.blogspot.com/feeds/posts/default",
+      "title": "Dull Tool Dim Bulb",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dulltooldimbulb.blogspot.com/feeds/posts/default",
+      "summary": "Jim Linderman blog about surface, wear, form and authenticity in self-taught art, outsider art, antique american folk art, antiques and photography.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Dull Tool Dim Bulb",
+      "cleaned_author": "Jim Linderman",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "outsider art",
+        "folk art",
+        "photography",
+        "antiques"
+      ]
+    },
+    {
+      "id": "feed:https://www.johncoulthart.com/feuilleton/feed/",
+      "title": "{ feuilleton }",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.johncoulthart.com/feuilleton/feed/",
+      "summary": "A journal by artist and designer John Coulthart.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "{ feuilleton }",
+      "cleaned_author": "John Coulthart",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "design",
+        "culture",
+        "reflections"
+      ]
+    },
+    {
+      "id": "feed:https://greg.org/feed",
+      "title": "greg.org",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://greg.org/feed",
+      "summary": "the making of, by greg allen.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "greg.org",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "texts",
+        "literature",
+        "audiobooks"
+      ]
+    },
+    {
+      "id": "feed:http://gurneyjourney.blogspot.com/feeds/posts/default",
+      "title": "Gurney Journey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://gurneyjourney.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Gurney Journey",
+      "cleaned_author": "James Gurney",
+      "summary": "A blog offering practical tips and insights for artists, sharing experiences from art schools and museums with a focus on illustration and plein-air painting.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "illustration",
+        "painting",
+        "tips"
+      ]
+    },
+    {
+      "id": "feed:https://atlantasurrealistgroup.com/feed/",
+      "title": "House of Mysticum",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://atlantasurrealistgroup.com/feed/",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "House of Mysticum",
+      "cleaned_author": null,
+      "summary": "A creative space exploring themes of mysticism and the fantastical, showcasing unique artistic expressions that invite deeper reflection on the nature of reality.",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "mysticism",
+        "art",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://jamesrussellontheweb.blogspot.com/feeds/posts/default",
+      "title": "James Russell",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jamesrussellontheweb.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "James Russell",
+      "cleaned_author": null,
+      "summary": "A feed sharing insights and news about various artistic exhibitions and events, particularly focusing on notable artists and their contributions.",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "exhibitions",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:http://linesandcolors.com/feed/",
+      "title": "Lines and Colors",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://linesandcolors.com/feed/",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Lines and Colors",
+      "cleaned_author": null,
+      "summary": "A platform dedicated to the appreciation of visual arts, featuring insights into artists and artworks that shape the contemporary art landscape.",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "visual arts",
+        "artists"
+      ]
+    },
+    {
+      "id": "feed:https://lucas.art/blog/rss/",
+      "title": "Lucas da Silva - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lucas.art/blog/rss/",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Lucas da Silva - Blog",
+      "cleaned_author": "Lucas da Silva",
+      "summary": "The reflections of a multidisciplinary artist exploring various themes and personal experiences, offering a glimpse into the artistic process and ongoing projects.",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "multidisciplinary",
+        "experiences"
+      ]
+    },
+    {
+      "id": "feed:https://paulregan.studio/feed/",
+      "title": "paulregan.studio \u2013 From the studio",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://paulregan.studio/feed/",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "paulregan.studio",
+      "cleaned_author": null,
+      "summary": "This blog offers a look into artistic exploration and reflections from an art studio setting, showcasing various artistic endeavors and experiences.",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "Impressionism",
+        "Tate Modern",
+        "Gallery",
+        "Kent"
+      ]
+    },
+    {
+      "id": "feed:https://seanbonner.com/feed/",
+      "title": "Sean Bonner",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://seanbonner.com/feed/",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Sean Bonner",
+      "cleaned_author": null,
+      "summary": "A blog by Sean Bonner that discusses various cultural themes while highlighting the intersection of technology and art through innovative concepts.",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "CryptoPunks",
+        "Cultural Legacy"
+      ]
+    },
+    {
+      "id": "feed:https://some-landscapes.blogspot.com/feeds/posts/default",
+      "title": "some LANDSCAPES",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://some-landscapes.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "some LANDSCAPES",
+      "cleaned_author": null,
+      "summary": "An evocative exploration of landscapes through artistic expression, capturing unique glimpses into different geographical inspirations.",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "Maps",
+        "Outcrop",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "feed:https://www.aaronland.info/weblog/syndication/atom-1.0.xml",
+      "title": "[this is aaronland] listening past the delivery",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.aaronland.info/weblog/syndication/atom-1.0.xml",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "[this is aaronland] listening past the delivery",
+      "cleaned_author": null,
+      "summary": "A blog capturing spontaneous artistic impressions from Melbourne, offering sketches and reflections on local life and culture.",
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "Sketches",
+        "Melbourne"
+      ]
+    },
+    {
+      "id": "feed:https://www.alex-kunz.com/feed/",
+      "title": "Alexander S. Kunz Photography \u2013 Weblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.alex-kunz.com/feed/",
+      "summary": "Landscape & Nature Photographer \u2014 Lightroom Expert & Tutor.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Alexander S. Kunz Photography",
+      "cleaned_author": "Alexander S. Kunz",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "Lightroom",
+        "landscape"
+      ]
+    },
+    {
+      "id": "feed:https://blog.atmtxphoto.com/feed/",
+      "title": "atmtx photo blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.atmtxphoto.com/feed/",
+      "summary": "For the Love of Photography + Stories + Gear.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "atmtx photo blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Gadgets",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "gear",
+        "stories"
+      ]
+    },
+    {
+      "id": "feed:https://fogblog-hermansheephouse.blogspot.com/feeds/posts/default",
+      "title": "FogBlog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fogblog-hermansheephouse.blogspot.com/feeds/posts/default",
+      "summary": "A gripping thrill-ride through the world of current traditional photography, exploring technique, darkrooms, chemicals and more.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "FogBlog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "DIY",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "traditional photography",
+        "techniques",
+        "darkrooms",
+        "nostalgia"
+      ]
+    },
+    {
+      "id": "feed:https://guytal.blog/feed/",
+      "title": "Guy Tal | Photographer, Author",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://guytal.blog/feed/",
+      "summary": "This is a reader-supported, ad-free zone. New posts added monthly.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Guy Tal",
+      "cleaned_author": "Guy Tal",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing",
+        "Photos",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "creative expression",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://www.mrussellphotography.com/feed/",
+      "title": "Landscape and Nature Photography Photoblog \u2022 Michael Russell Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mrussellphotography.com/feed/",
+      "summary": "Based in the Fraser Valley of British Columbia, I photograph the landscapes and nature of Southwestern BC and the PNW's Washington State.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Michael Russell Photography",
+      "cleaned_author": "Michael Russell",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art",
+        "Canada",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "landscape",
+        "nature photography",
+        "British Columbia",
+        "Pacific Northwest"
+      ]
+    },
+    {
+      "id": "feed:https://www.lensrentals.com/blog/feed/",
+      "title": "Lens Rentals | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.lensrentals.com/blog/feed/",
+      "summary": "The largest online rental provider for photography, videography, and lighting equipment and accessories in the United States.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Lens Rentals",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Cinema",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography tips",
+        "video equipment",
+        "creative prompts"
+      ]
+    },
+    {
+      "id": "feed:http://alifeinphotography.blogspot.com/feeds/posts/default",
+      "title": "A Life in Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://alifeinphotography.blogspot.com/feeds/posts/default",
+      "summary": "This blog is about life, about photography, and about my life in photography.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "A Life in Photography",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "personal stories",
+        "birds"
+      ]
+    },
+    {
+      "id": "feed:https://www.longdelayspossible.com/feed/",
+      "title": "Long Delays Possible",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.longdelayspossible.com/feed/",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Long Delays Possible",
+      "cleaned_author": "Omar Parada",
+      "summary": "A photography blog by Omar Parada featuring a variety of photographic expressions including travel and nature themes.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel photography",
+        "nature",
+        "Venice"
+      ]
+    },
+    {
+      "id": "feed:https://onlinedarkroom.blogspot.com/feeds/posts/default",
+      "title": "The Online Darkroom",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://onlinedarkroom.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Online Darkroom",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to the art of darkroom photography, preserving traditional techniques in the digital age.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "darkroom techniques",
+        "photography"
+      ]
+    },
+    {
+      "id": "feed:https://www.outsidetheworld.com/feeds/posts/default",
+      "title": "Outside the World dot com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.outsidetheworld.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Outside the World",
+      "cleaned_author": null,
+      "summary": "A personal photography blog exploring various themes and emotions through photos and reflective writing.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "personal reflections"
+      ]
+    },
+    {
+      "id": "feed:https://www.thephoblographer.com/feed/",
+      "title": "The Phoblographer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thephoblographer.com/feed/",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Phoblographer",
+      "cleaned_author": null,
+      "summary": "A photography blog known for its informal yet insightful reviews and discussions about the latest camera gear and industry trends.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Gadgets",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "camera reviews",
+        "photography gear"
+      ]
+    },
+    {
+      "id": "feed:https://www.aphotoeditor.com/feed/",
+      "title": "A Photo Editor",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.aphotoeditor.com/feed/",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "A Photo Editor",
+      "cleaned_author": "Rob Haggart",
+      "summary": "A platform showcasing insights into photography projects and business practices for professionals in the field. This blog covers personal projects, pricing negotiation strategies, and highlights artists in residency.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "personal projects",
+        "pricing",
+        "negotiation"
+      ]
+    },
+    {
+      "id": "feed:https://www.stephenknightphotography.com/blog-feed.xml",
+      "title": "Stephen Knight Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.stephenknightphotography.com/blog-feed.xml",
+      "summary": "Articles and Tutorials on Light Painting Techniques. Reviews and Buying Guides for Flashlights, Torches, and Light Painting Tools.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "Stephen Knight Photography",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "light painting",
+        "flashlights",
+        "photography tools",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://visualsciencelab.blogspot.com/feeds/posts/default",
+      "title": "The Visual Science Lab / Kirk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://visualsciencelab.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Visual Science Lab",
+      "cleaned_author": "Kirk",
+      "summary": "A blog that delves into various aspects of photography, encompassing gear reviews, personal reflections, and technical discussions, all from a photography enthusiast's perspective.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "gear reviews",
+        "blogging"
+      ]
+    },
+    {
+      "id": "feed:https://www.thewanderinglensman.com/feeds/posts/default",
+      "title": "The Wandering Lensman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thewanderinglensman.com/feeds/posts/default",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "The Wandering Lensman",
+      "cleaned_author": "Dennis A. Mook",
+      "summary": "A personal blog by a traveling photographer and writer, sharing experiences, equipment reviews, and reflections on photography in various landscapes and contexts.",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "travel",
+        "equipment"
+      ]
+    },
+    {
+      "id": "feed:https://www.sierz.co.uk/blog/feed/",
+      "title": "Aleks Sierz - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sierz.co.uk/blog/feed/",
+      "summary": "Journalist, author, broadcaster and theatre critic. New Writing for the British Stage.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Aleks Sierz - Blog",
+      "cleaned_author": "Aleks Sierz",
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "writing",
+        "performances"
+      ]
+    },
+    {
+      "id": "feed:https://www.sierz.co.uk/reviews/feed/",
+      "title": "Aleks Sierz - Reviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sierz.co.uk/reviews/feed/",
+      "summary": "Journalist, author, broadcaster and theatre critic. New Writing for the British Stage.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Aleks Sierz - Reviews",
+      "cleaned_author": "Aleks Sierz",
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre reviews",
+        "performances",
+        "art critiques"
+      ]
+    },
+    {
+      "id": "feed:https://www.alledinburghtheatre.com/feed/",
+      "title": "All Edinburgh Theatre.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.alledinburghtheatre.com/feed/",
+      "summary": "Reviews, news and previews edited by Thom Dibdin.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "All Edinburgh Theatre.com",
+      "cleaned_author": "Thom Dibdin",
+      "tags": [
+        "Local",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "Edinburgh",
+        "theatre reviews",
+        "theatrical events"
+      ]
+    },
+    {
+      "id": "feed:https://breaking-the-fourth-wall.com/feed/",
+      "title": "Breaking The Fourth Wall",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://breaking-the-fourth-wall.com/feed/",
+      "summary": "Michael Davis' thoughts on theatre and the Arts.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Breaking The Fourth Wall",
+      "cleaned_author": "Michael Davis",
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre criticism",
+        "insights",
+        "art discussions"
+      ]
+    },
+    {
+      "id": "feed:https://www.wemadethis.co.uk/blog/feed/",
+      "title": "We Made This - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.wemadethis.co.uk/blog/feed/",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "We Made This",
+      "cleaned_author": null,
+      "summary": "A blog that shares creative projects and discussions surrounding design and art, celebrated for its innovative content.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "design",
+        "art",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:https://www.dreamweapons.net/feeds/posts/default",
+      "title": "DREAM WEAPONS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.dreamweapons.net/feeds/posts/default",
+      "summary": "An exploration of experimental soundscapes and unique music compilations.",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "DREAM WEAPONS",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "experimental",
+        "compilations",
+        "soundscapes"
+      ]
+    },
+    {
+      "id": "feed:https://floatingliferecs.blogspot.com/feeds/posts/default",
+      "title": "axel powrie",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://floatingliferecs.blogspot.com/feeds/posts/default",
+      "summary": "axel powrie, sydney australia, experimental music, improvised music, noise music.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "axel powrie",
+      "cleaned_author": "axel powrie",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "experimental",
+        "noise music",
+        "improvised music"
+      ]
+    },
+    {
+      "id": "feed:https://tristanlouthrobins.wordpress.com/feed/",
+      "title": "TRISTAN LOUTH-ROBINS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tristanlouthrobins.wordpress.com/feed/",
+      "summary": "I'm a sound fl\u00e2neur, composer, acoustic ecologist, seeker of resonance. Creator of Fleurieu & KI Sound Map.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "TRISTAN LOUTH-ROBINS",
+      "cleaned_author": "Tristan Louth-Robins",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "soundscapes",
+        "acoustic ecology",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://southern-railway.com/feed/",
+      "title": "Southern Railway, Fisherton Sarum, Canute Road Quay & Westhill Road",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://southern-railway.com/feed/",
+      "summary": "The model railway world and mainly Southern Railway meanderings of Graham 'Muz' Muspratt.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "Southern Railway",
+      "cleaned_author": "Graham 'Muz' Muspratt",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "Art",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "model railway",
+        "Southern Railway",
+        "rail modelling",
+        "train news"
+      ]
+    },
+    {
+      "id": "feed:https://westhalton.wordpress.com/feed/",
+      "title": "West Halton Sidings",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://westhalton.wordpress.com/feed/",
+      "summary": "A bit of North Lincolnshire on the North Lindsey Light Railway.",
+      "details": "Original Category: arts -> crafts -> modelmaking -> railway-modelling.opml",
+      "cleaned_title": "West Halton Sidings",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "Art",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "railway modelling",
+        "North Lincolnshire",
+        "model trains"
+      ]
+    },
+    {
+      "id": "feed:https://handprinted.co.uk/blogs/blog.atom",
+      "title": "Handprinted \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://handprinted.co.uk/blogs/blog.atom",
+      "summary": "Handprinted | UK shop and studio for Batik, Screen Printing, Relief Printmaking, Art and Dyeing materials. Supplying the artist, printmaker and craftsperson. Friendly, knowledgeable advice, tutorials, instructions and videos.",
+      "details": "Original Category: arts -> art -> printing.opml",
+      "cleaned_title": "Handprinted",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Crafts",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "printmaking",
+        "batik",
+        "screen printing",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://www.hazelmcnab.com/blogs/news.atom",
+      "title": "Hazel McNab \u2013 News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hazelmcnab.com/blogs/news.atom",
+      "summary": "Bring the natural world into your home with my stunning range of hand-printed artworks.",
+      "details": "Original Category: arts -> art -> printing.opml",
+      "cleaned_title": "Hazel McNab",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "artworks",
+        "nature",
+        "printing"
+      ]
+    },
+    {
+      "id": "feed:https://www.allencompassingtrip.com/feed",
+      "title": "All-Encompassing Trip",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.allencompassingtrip.com/feed",
+      "summary": "Photography by Guillermo Esteves.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "All-Encompassing Trip",
+      "cleaned_author": "Guillermo Esteves",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "art",
+        "Mexico City"
+      ]
+    },
+    {
+      "id": "feed:https://brianevansphoto.com/feed/",
+      "title": "BrianEvansPhoto.com \u2013 Recent Blog Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brianevansphoto.com/feed/",
+      "summary": "Brian Evans, a photographer from Lititz, PA, shares recent work that bridges personal anecdotes with visual storytelling. His blog captures both local scenes and abstract perspectives.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "BrianEvansPhoto.com",
+      "cleaned_author": "Brian Evans",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "visual storytelling",
+        "Lititz"
+      ]
+    },
+    {
+      "id": "feed:https://frishmanphoto.wordpress.com/feed/",
+      "title": "Crest, Cliff & Canyon",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://frishmanphoto.wordpress.com/feed/",
+      "summary": "Landscape Photography by A. Jackson Frishman.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Crest, Cliff & Canyon",
+      "cleaned_author": "A. Jackson Frishman",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "landscape photography",
+        "nature",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://blog.jimgrey.net/feed/",
+      "title": "Down the Road",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.jimgrey.net/feed/",
+      "summary": "Photographs and stories by Jim Grey.",
+      "details": "Original Category: arts -> photography -> photographs.opml",
+      "cleaned_title": "Down the Road",
+      "cleaned_author": "Jim Grey",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "stories",
+        "Jim Grey"
+      ]
+    },
+    {
+      "id": "feed:https://jpawlik.com/blog/feed/",
+      "title": "Art by Jey Pawlik",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jpawlik.com/blog/feed/",
+      "summary": "Illustration, fanart, and comics.",
+      "details": "Original Category: arts -> books -> comics.opml",
+      "cleaned_title": "Art by Jey Pawlik",
+      "cleaned_author": "Jey Pawlik",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "illustration",
+        "fanart",
+        "comics",
+        "art blog",
+        "Jey Pawlik"
+      ]
+    },
+    {
+      "id": "feed:http://kelvingreen.blogspot.com/feeds/posts/default",
+      "title": "Aiee! Run From Kelvin's Brainsplurge!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://kelvingreen.blogspot.com/feeds/posts/default",
+      "summary": "I'm Kelvin Green. I sometimes draw. I sometimes write. I'm trying to get better at both.",
+      "details": "Original Category: arts -> games -> tabletop-games -> role-playing-games.opml",
+      "cleaned_title": "Aiee! Run From Kelvin's Brainsplurge!",
+      "cleaned_author": "Kelvin Green",
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Rock",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "tabletop games",
+        "role-playing games",
+        "drawing",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:https://spacebiff.com/feed/",
+      "title": "SPACE-BIFF!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://spacebiff.com/feed/",
+      "summary": "Fiercely Independent. Independant? Crap.",
+      "details": "Original Category: arts -> games -> tabletop-games -> board-games.opml",
+      "cleaned_title": "SPACE-BIFF!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gaming",
+        "Boston",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "board games",
+        "independent",
+        "gaming commentary"
+      ]
+    },
+    {
+      "id": "feed:https://evermorestud.io/feed/",
+      "title": "EvermoreStudio",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://evermorestud.io/feed/",
+      "summary": "A creative blog showcasing various art projects and design patterns, emphasizing hands-on artwork and cultural designs.",
+      "details": "Original Category: technology -> hardware.opml",
+      "cleaned_title": "EvermoreStudio",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art projects",
+        "design patterns",
+        "Celtic art"
+      ]
+    },
+    {
+      "id": "feed:https://soup.agnescameron.info/feed.xml",
+      "title": "things from the room in the back",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soup.agnescameron.info/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "things from the room in the back",
+      "cleaned_author": null,
+      "summary": "A quirky blog that offers a mix of thoughts and explorations on technology, food, and societal issues.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "society",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://simonschreibt.de/feed/",
+      "title": "Simon schreibt.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://simonschreibt.de/feed/",
+      "summary": "I'm a VFX Artist & Consultant writing about game art tricks that impressed me.",
+      "details": "Original Category: technology -> graphics.opml",
+      "cleaned_title": "Simon schreibt.",
+      "cleaned_author": "Simon",
+      "tags": [
+        "Tech",
+        "Gaming",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "VFX",
+        "game art",
+        "tech art"
+      ]
+    },
+    {
+      "id": "feed:https://www.miriamsuzanne.com/feed.atom",
+      "title": "Miriam Eric Suzanne",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.miriamsuzanne.com/feed.atom",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Miriam Eric Suzanne",
+      "cleaned_author": "Miriam Suzanne",
+      "summary": "An eclectic mix of art, writing, and code, reflecting on the intersections of technology and creativity in a modern context.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "writing",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://cafleurebon.com/feed/",
+      "title": "\u00c7aFleureBon Perfume Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cafleurebon.com/feed/",
+      "summary": "A top 5 award-winning fragrance site featuring perfume reviews, interviews with master perfumers and articles on ingredients in perfumery.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "\u00c7aFleureBon",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gadgets",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance",
+        "perfume reviews",
+        "interviews",
+        "perfume ingredients"
+      ]
+    },
+    {
+      "id": "feed:https://frompyrgos.blogspot.com/feeds/posts/default",
+      "title": "From Pyrgos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://frompyrgos.blogspot.com/feeds/posts/default",
+      "summary": "From Pyrgos delves into niche perfume offerings, providing detailed insights and reviews that cater to fragrance enthusiasts seeking unique scents.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "From Pyrgos",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gadgets",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "niche perfume",
+        "fragrance reviews"
+      ]
+    },
+    {
+      "id": "feed:http://perfumeposse.com/feed/",
+      "title": "Perfume Posse",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://perfumeposse.com/feed/",
+      "summary": "Perfume Reviews.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Perfume Posse",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance reviews",
+        "scent discussions"
+      ]
+    },
+    {
+      "id": "feed:https://perfumeprofessor.net/feed/",
+      "title": "PERFUME PROFESSOR",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://perfumeprofessor.net/feed/",
+      "summary": "studying the art of fragrance...and writing about it here since 2017.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Perfume Professor",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance study",
+        "perfume reviews",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:http://perfumeshrine.blogspot.com/feeds/posts/default",
+      "title": "Perfume Shrine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://perfumeshrine.blogspot.com/feeds/posts/default",
+      "summary": "A Perfume, Beauty, Style, Food Blog: fragrance reviews, interviews, comparison of classics and vintages, new launches, candles, beauty, and arts.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Perfume Shrine",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance history",
+        "scent comparisons",
+        "perfume reviews"
+      ]
+    },
+    {
+      "id": "feed:https://scentsandsensibilities.co/feed/",
+      "title": "Serenity Now Scents and Sensibilities",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scentsandsensibilities.co/feed/",
+      "summary": "I am a lover of beauty, an introvert, an empath and INTJ. I have an inquiring mind, dozens of perfumes, and thousands of books.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Serenity Now Scents and Sensibilities",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance discussions",
+        "perfume community"
+      ]
+    },
+    {
+      "id": "feed:https://takeonethingoff.com/feed/",
+      "title": "takeonethingoff.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://takeonethingoff.com/feed/",
+      "summary": "A quest to pare it down to the best.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "takeonethingoff.com",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance reviews",
+        "standout perfumes"
+      ]
+    },
+    {
+      "id": "feed:https://www.londonology.co.uk/feed/",
+      "title": "Londonology - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.londonology.co.uk/feed/",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "Londonology",
+      "cleaned_author": null,
+      "summary": "A thoughtful blog focusing on various cultural and social aspects of London, with insightful reviews and guides showcasing the city's dynamic arts scene.",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Theater",
+        "London",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "London",
+        "arts",
+        "reviews",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Colossal",
+      "cleaned_title": "Colossal",
+      "summary": "Colossal showcases the intersection of art, design, and technology. Explore their website for captivating visual art projects, installations, and creative innovations.",
+      "title": "Colossal",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/colossal",
+      "details": "Original category: Arts",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular",
+        "ooh_directory"
+      ],
+      "popularity_score": 2.112351808170532,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "design",
+        "visual culture",
+        "creativity"
+      ]
+    }
+  ],
+  "child_categories": []
+}

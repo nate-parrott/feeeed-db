@@ -1,0 +1,156 @@
+{
+  "id": "canada",
+  "display_name": "Canada",
+  "feeds": [
+    {
+      "id": "youtube:CTV News",
+      "cleaned_title": "CTV News",
+      "summary": "CTV News is a Canadian news organization providing breaking news, live events, and in-depth analysis on YouTube.",
+      "title": "CTV News",
+      "kind": "youtube",
+      "channel_id": "UCi7Zk9baY1tvdlgxIML8MXg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNMDVNP5hC4NxVDgzDMvSPY08yXy2QCkKG6qCMZZzY=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Canada",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada"
+      ],
+      "language": "en",
+      "keywords": [
+        "Canada",
+        "breaking news",
+        "current events"
+      ]
+    },
+    {
+      "id": "youtube:Global News",
+      "cleaned_title": "Global News",
+      "summary": "Global News is a Canadian news organization delivering breaking news, investigative journalism, and feature stories on YouTube.",
+      "title": "Global News",
+      "kind": "youtube",
+      "channel_id": "UChLtXXpo4Ge1ReTEboVvTDg",
+      "thumbnail_url": "https://yt3.ggpht.com/jiUGvHJL6pzbzE_tEtmhAJEfNZNXs_8vLokuqObIPAq8mrt22NeW1OZOpcm-azNJTmNwj03Z9Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Canada",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada"
+      ],
+      "language": "en",
+      "keywords": [
+        "Canada",
+        "investigative journalism",
+        "news"
+      ]
+    },
+    {
+      "id": "youtube:CBC News",
+      "cleaned_title": "CBC News",
+      "summary": "The official YouTube channel of CBC News, providing Canadian and international news coverage.",
+      "title": "CBC News",
+      "kind": "youtube",
+      "channel_id": "UCuFFtHWoLl5fauMMD5Ww2jA",
+      "thumbnail_url": "https://yt3.ggpht.com/UDLxCALyHXJN1-ZTawdO39fhMZLrAiPH2EiwbPNffqmGHkU01HVT20oaPCJvt7iSoRchrTTwvA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Local -> Canada",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "Canada",
+        "international"
+      ]
+    },
+    {
+      "id": "feed:https://mtlcityweblog.com/feed/",
+      "title": "Montreal City Weblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mtlcityweblog.com/feed/",
+      "summary": "Threatening national cohesion since 1847!",
+      "details": "Original Category: countries.opml",
+      "cleaned_title": "Montreal City Weblog",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada"
+      ],
+      "language": "en",
+      "keywords": [
+        "Montreal",
+        "local news",
+        "community",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.mrussellphotography.com/feed/",
+      "title": "Landscape and Nature Photography Photoblog \u2022 Michael Russell Photography",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mrussellphotography.com/feed/",
+      "summary": "Based in the Fraser Valley of British Columbia, I photograph the landscapes and nature of Southwestern BC and the PNW's Washington State.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Michael Russell Photography",
+      "cleaned_author": "Michael Russell",
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Art",
+        "Canada",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "landscape",
+        "nature photography",
+        "British Columbia",
+        "Pacific Northwest"
+      ]
+    },
+    {
+      "id": "feed:http://beachburg.blogspot.com/feeds/posts/default",
+      "title": "THE BEACHBURG SUB",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://beachburg.blogspot.com/feeds/posts/default",
+      "summary": "Thoughts and musings about a lifelong fascination with railways.",
+      "details": "Original Category: recreation -> public-transport -> trains.opml",
+      "cleaned_title": "THE BEACHBURG SUB",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Canada",
+        "Trains",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "railways",
+        "Ottawa",
+        "transportation",
+        "history"
+      ]
+    }
+  ],
+  "child_categories": []
+}

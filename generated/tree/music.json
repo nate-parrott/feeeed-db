@@ -1,0 +1,3297 @@
+{
+  "id": "music",
+  "display_name": "Music",
+  "feeds": [
+    {
+      "id": "substack:top:the_honest_broker_-_ted_gioia",
+      "title": "The Honest Broker - Ted Gioia",
+      "cleaned_title": "The Honest Broker",
+      "summary": "A well-rounded guide to music, literature, and arts that offers critical insights and thoughtful recommendations, positioning itself as a reliable source for cultural commentary.",
+      "kind": "feed",
+      "feed_url": "https://www.honest-broker.com/feed",
+      "details": "Original category: Substack top newsletters about music",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "cleaned_author": "Ted Gioia",
+      "language": "en",
+      "keywords": [
+        "music critique",
+        "book recommendations",
+        "cultural insights"
+      ]
+    },
+    {
+      "id": "substack:top:starship_casual_-_jeff_tweedy",
+      "title": "Starship Casual - Jeff Tweedy",
+      "cleaned_title": "Starship Casual",
+      "summary": "A personal glimpse into the mind of musician Jeff Tweedy, where he shares songs, musings, and general reflections on life and art.",
+      "kind": "feed",
+      "feed_url": "https://jefftweedy.substack.com/feed",
+      "details": "Original category: Substack top newsletters about music",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "cleaned_author": "Jeff Tweedy",
+      "language": "en",
+      "keywords": [
+        "songs",
+        "advice",
+        "musings",
+        "music"
+      ]
+    },
+    {
+      "id": "substack:top:patti_smith",
+      "title": "Patti Smith",
+      "cleaned_title": "Patti Smith",
+      "summary": "A notebook-style collection of thoughts and musings from the iconic musician and poet, Patti Smith.",
+      "kind": "feed",
+      "feed_url": "https://pattismith.substack.com/feed",
+      "details": "Original category: Substack top newsletters about music",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "art",
+        "thoughts",
+        "musings",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "substack:top:a_gathering_of_spirits__-_carrie_newcomer",
+      "title": "A Gathering of Spirits  - Carrie Newcomer",
+      "cleaned_title": "A Gathering of Spirits",
+      "summary": "Carrie Newcomer's exploration of music, poetry, and spiritual commentary, reflecting on life's profound moments.",
+      "kind": "feed",
+      "feed_url": "https://carrienewcomer.substack.com/feed",
+      "details": "Original category: Substack top newsletters about music",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art"
+      ],
+      "cleaned_author": "Carrie Newcomer",
+      "language": "en",
+      "keywords": [
+        "music",
+        "poetry",
+        "spirituality",
+        "art"
+      ]
+    },
+    {
+      "id": "substack:top:entering_the_lung_-_neko_case",
+      "title": "Entering The Lung - Neko Case",
+      "cleaned_title": "Entering The Lung",
+      "summary": "Neko Case's introspective reflections and poetic insights shed light on her personal journey and views on nature.",
+      "kind": "feed",
+      "feed_url": "https://nekocase.substack.com/feed",
+      "details": "Original category: Substack top newsletters about music",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "cleaned_author": "Neko Case",
+      "language": "en",
+      "keywords": [
+        "nature",
+        "poetry",
+        "reflections",
+        "musings"
+      ]
+    },
+    {
+      "id": "feed:pitchfork.com:Pitchfork",
+      "cleaned_title": "Pitchfork",
+      "summary": "A leading music publication known for its reviews, news, and features on a diverse range of music genres. Pitchfork covers both emerging artists and established acts, making it a definitive source for music lovers.",
+      "title": "Pitchfork",
+      "kind": "feed",
+      "feed_url": "http://pitchfork.com/rss/news/",
+      "popularity_score": 2.4118055555555555,
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music news",
+        "album releases",
+        "tours",
+        "Nathan Fielder"
+      ]
+    },
+    {
+      "id": "feed:vulture.com:Vulture",
+      "cleaned_title": "Vulture",
+      "summary": "An entertainment website that covers movies, TV shows, music, and more, with a focus on pop culture.",
+      "title": "Vulture",
+      "kind": "feed",
+      "feed_url": "https://www.vulture.com/feeds/flipboard.rss",
+      "details": "Original category: Entertainment",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.502222203337979,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Celebs & Entertainment",
+        "Movies",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "entertainment",
+        "recaps",
+        "pop culture"
+      ]
+    },
+    {
+      "id": "youtube:NPR Music",
+      "cleaned_title": "NPR Music",
+      "summary": "NPR Music's YouTube channel features live performances, interviews, and music documentaries from a diverse range of artists and genres.",
+      "title": "NPR Music",
+      "kind": "youtube",
+      "channel_id": "UC4eYXhJI4-7wSWc8UNRwD4A",
+      "thumbnail_url": "https://yt3.ggpht.com/0xQ36bByrRGcbiCG2a6Xb-pft78OAm0GW-5vRjC_uPGWD1mfAK8w7J-IjL4NbZGKbimh3QE1Zg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.428427419354839,
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "performances",
+        "documentaries",
+        "artists",
+        "live"
+      ]
+    },
+    {
+      "id": "feed:consequenceofsound.net:Album Reviews - Consequence of Sound",
+      "cleaned_title": "Album Reviews - Consequence of Sound",
+      "summary": "Consequence of Sound covers music news, reviews, and features, with a focus on alternative and indie music.",
+      "title": "Album Reviews - Consequence of Sound",
+      "kind": "feed",
+      "feed_url": "http://consequenceofsound.net/category/reviews/album-reviews/feed/",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music reviews",
+        "indie music",
+        "album news"
+      ]
+    },
+    {
+      "id": "youtube:Genius",
+      "cleaned_title": "Genius",
+      "summary": "Genius is a YouTube channel that offers song explanations, artist interviews, and behind-the-scenes content for music enthusiasts.",
+      "title": "Genius",
+      "kind": "youtube",
+      "channel_id": "UCyFZMEnm1il5Wv3a6tPscbA",
+      "thumbnail_url": "https://yt3.ggpht.com/gDCwhZGxgUY2Psz0NciwaxgVukw3MWf_f6T4OhymWkRQBdN8UGmGwsVhqiUjde98Dh8meWEE0g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "song explanations",
+        "artist interviews",
+        "music videos"
+      ]
+    },
+    {
+      "id": "reddit:indieheads",
+      "cleaned_title": "indieheads",
+      "summary": "A subreddit dedicated to indie music, featuring discussions, news, and recommendations for indie artists and bands.",
+      "title": "indieheads",
+      "kind": "reddit",
+      "subreddit": "indieheads",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "indie music",
+        "music discussions",
+        "song recommendations"
+      ]
+    },
+    {
+      "id": "youtube:COLORS",
+      "cleaned_title": "COLORS",
+      "summary": "Colors is a YouTube channel that showcases performances from a diverse range of artists, with a focus on unique visuals and stripped-down live renditions.",
+      "title": "COLORS",
+      "kind": "youtube",
+      "channel_id": "UC2Qw1dzXDBAZPwS7zm37g8g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMN56yvtBWYjztcRvqF73sKDKu4DhsdCb8KfE0GYw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "live performances",
+        "music videos",
+        "artist showcases"
+      ]
+    },
+    {
+      "id": "feed:stereogum.com:Stereogum",
+      "cleaned_title": "Stereogum",
+      "summary": "Stereogum covers music news, reviews, and features, with a mix of mainstream and indie artists across various genres.",
+      "title": "Stereogum",
+      "kind": "feed",
+      "feed_url": "http://stereogum.com/feed/",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music news",
+        "indie reviews",
+        "artist features"
+      ]
+    },
+    {
+      "id": "feed:broadwayworld.com:BroadwayWorld.com Featured Content",
+      "cleaned_title": "BroadwayWorld.com Featured Content",
+      "summary": "The leading source for all things Broadway, including news, reviews, interviews, and more.",
+      "title": "BroadwayWorld.com Featured Content",
+      "kind": "feed",
+      "feed_url": "http://www.broadwayworld.com/bwwrss2.cfm",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Broadway",
+        "theater",
+        "news",
+        "reviews"
+      ]
+    },
+    {
+      "id": "reddit:Broadway",
+      "cleaned_title": "Broadway",
+      "summary": "A subreddit dedicated to Broadway shows, musicals, actors, and everything related to the world of theater.",
+      "title": "Broadway",
+      "kind": "reddit",
+      "subreddit": "Broadway",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Broadway",
+        "musicals",
+        "performing arts"
+      ]
+    },
+    {
+      "id": "youtube:The Shows Must Go On!",
+      "cleaned_title": "The Shows Must Go On!",
+      "summary": "A YouTube channel that streams full-length musicals and stage performances for free, including popular shows from Broadway and the West End.",
+      "title": "The Shows Must Go On!",
+      "kind": "youtube",
+      "channel_id": "UCdmPjhKMaXNNeCr1FjuMvag",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMf5jyLz_MxlQyzsD1pQk47cOu0W28go57aWu1s=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "musicals",
+        "stage performances",
+        "theater"
+      ]
+    },
+    {
+      "id": "youtube:Broadwaycom",
+      "cleaned_title": "Broadwaycom",
+      "summary": "The official YouTube channel of Broadway.com, featuring interviews, behind-the-scenes footage, and highlights from Broadway shows and performances.",
+      "title": "Broadwaycom",
+      "kind": "youtube",
+      "channel_id": "UCc5dpUKLcZQQaDxMB_nYi5g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNvSVuJXqvuiD2jzPXAjTAxNLAJOzR03iv2ENGeuQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Broadway",
+        "interviews",
+        "behind-the-scenes"
+      ]
+    },
+    {
+      "id": "reddit:MusicalTheatre",
+      "cleaned_title": "MusicalTheatre",
+      "summary": "A subreddit dedicated to the discussion and appreciation of musical theatre, including recommendations, reviews, and news about upcoming productions.",
+      "title": "MusicalTheatre",
+      "kind": "reddit",
+      "subreddit": "MusicalTheatre",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "musical theatre",
+        "discussions",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:theatermania.com:TheaterMania.com",
+      "cleaned_title": "TheaterMania.com",
+      "summary": "A comprehensive resource for theater lovers, offering news, reviews, ticket information, and exclusive features about Broadway, Off-Broadway, and regional theater.",
+      "title": "TheaterMania.com",
+      "kind": "feed",
+      "feed_url": "http://www.theatermania.com/rss.xml",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "theater",
+        "reviews",
+        "ticket information"
+      ]
+    },
+    {
+      "id": "youtube:Trap Nation",
+      "cleaned_title": "Trap Nation",
+      "summary": "Trap Nation is a popular YouTube channel that showcases the best of trap and electronic music, featuring music videos, mixes, and exclusive releases.",
+      "title": "Trap Nation",
+      "kind": "youtube",
+      "channel_id": "UCa10nxShhzNrCE1o2ZOPztg",
+      "thumbnail_url": "https://yt3.ggpht.com/ZoViy6jSW8lGsT7Fgz7PsxsWznVseOVjGNkqh9U34cJ-7eXAGs_f2s0yCWwgxsxZT6d7icafVr8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "trap music",
+        "electronic music",
+        "music videos"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The FADER",
+      "cleaned_title": "The FADER",
+      "summary": "The FADER is an online music publication that covers emerging artists, music news, and cultural trends in the music industry.",
+      "title": "The FADER",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/TheFaderMagazine",
+      "details": "Original category: Entertainment -> Music",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Celebs & Entertainment",
+        "Hip-Hop",
+        "Pop",
+        "_mainstream",
+        "_hip",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "music news",
+        "emerging artists",
+        "cultural trends",
+        "Oscars",
+        "Drake"
+      ]
+    },
+    {
+      "id": "feed:https://www.ethanhein.com/wp/feed/",
+      "title": "The Ethan Hein Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ethanhein.com/wp/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "The Ethan Hein Blog",
+      "cleaned_author": null,
+      "summary": "This blog explores music and a variety of related topics, providing insights and reflections that are both thoughtful and provocative. Blogs include analyses on contemporary artists and commentary on music trends.",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "analysis",
+        "trends"
+      ]
+    },
+    {
+      "id": "feed:https://www.openculture.com/feed",
+      "title": "Open Culture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.openculture.com/feed",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Open Culture",
+      "cleaned_author": null,
+      "summary": "Open Culture curates and shares a wealth of cultural and educational media from around the web, offering insights into art, literature, and music while promoting free access to knowledge.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "cultural media",
+        "free access"
+      ]
+    },
+    {
+      "id": "feed:https://www.holovaty.com/rss/",
+      "title": "Holovaty.com | Article archive",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.holovaty.com/rss/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Holovaty.com",
+      "cleaned_author": "Adrian Holovaty",
+      "summary": "A personal blog by Adrian Holovaty sharing thoughts on technology, music composition, and reflections from his programming pursuits.",
+      "tags": [
+        "Tech",
+        "Music",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Adrian Holovaty",
+        "music",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://laughingsquid.com/feed/",
+      "title": "Laughing Squid",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://laughingsquid.com/feed/",
+      "summary": "Features a daily dose of unique art, culture and technology.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Laughing Squid",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Art",
+        "Music",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "quirky",
+        "art",
+        "technology",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:http://culturalsnow.blogspot.com/feeds/posts/default",
+      "title": "cultural snow",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://culturalsnow.blogspot.com/feeds/posts/default",
+      "summary": "Author of books about Radiohead, Leonard Cohen and The Noughties, plus odds and sods for The Guardian, Mojo, Time Out, Prospect, BBC, CNN and more.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "cultural snow",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Literature",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Radiohead",
+        "Leonard Cohen",
+        "media commentary"
+      ]
+    },
+    {
+      "id": "feed:https://neural.it/feed/",
+      "title": "Neural",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://neural.it/feed/",
+      "summary": "Critical digital culture and media arts.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "Neural",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital culture",
+        "media arts",
+        "critical analysis"
+      ]
+    },
+    {
+      "id": "feed:https://www.spectrecollie.com/feed/",
+      "title": "Spectre Collie",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.spectrecollie.com/feed/",
+      "summary": "The Journal of Poorly-Explained Phenomena.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "Spectre Collie",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Music",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "phenomena",
+        "pop culture",
+        "Captain America",
+        "Civilization",
+        "opinions"
+      ]
+    },
+    {
+      "id": "feed:https://www.huckmag.com/feed.rss",
+      "title": "Huck",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.huckmag.com/feed.rss",
+      "summary": "Celebrates independence, seeking out the artists, activists and creative pioneers who are challenging mainstream culture.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Huck",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Activism",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "independent artists",
+        "New York culture",
+        "Bad Bunny",
+        "creative pioneers",
+        "historical context"
+      ]
+    },
+    {
+      "id": "feed:https://www.its-her-factory.com/feed/",
+      "title": "it's her factory",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.its-her-factory.com/feed/",
+      "summary": "philosophy, pop music, sound studies, feminism.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "it's her factory",
+      "cleaned_author": "Robin James",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Academia",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "feminism",
+        "pop music",
+        "modern rock",
+        "music industry",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://8sided.blog/feed/",
+      "title": "8Sided Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://8sided.blog/feed/",
+      "summary": "a zine about sound, culture, and the punk rock dream.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "8Sided Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "punk rock",
+        "sound culture",
+        "zine"
+      ]
+    },
+    {
+      "id": "feed:https://onetwoxu.de/language/en/feed/",
+      "title": "12XU | Verspannungsmusik!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://onetwoxu.de/language/en/feed/",
+      "summary": "A DIY music blog about underground punk, noise & garage.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "12XU | Verspannungsmusik!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "underground music",
+        "punk",
+        "noise"
+      ]
+    },
+    {
+      "id": "feed:https://333sound.com/feed/",
+      "title": "333SOUND",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://333sound.com/feed/",
+      "summary": "Short books about albums. Published by Bloomsbury.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "333SOUND",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "albums",
+        "music",
+        "books"
+      ]
+    },
+    {
+      "id": "feed:https://addtowantlist.com/index.php/feed/",
+      "title": "Add To Wantlist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://addtowantlist.com/index.php/feed/",
+      "summary": "Music worth exploring.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Add To Wantlist",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "album reviews",
+        "EPs"
+      ]
+    },
+    {
+      "id": "feed:https://slab.org/feed/",
+      "title": "Alex McLean \u2013 Making music with text[ure]",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://slab.org/feed/",
+      "summary": "A blog focused on the intersection of music and coding, exploring innovative ways to create music using text and algorithms.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Alex McLean \u2013 Making music with text[ure]",
+      "cleaned_author": "Alex McLean",
+      "tags": [
+        "Tech",
+        "Music",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "algorithmic music",
+        "music technology",
+        "programming"
+      ]
+    },
+    {
+      "id": "feed:https://globalvariables.net/feed/",
+      "title": "audio.out",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://globalvariables.net/feed/",
+      "summary": "1990 was twenty years ago. Ten years ago.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "audio.out",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music history",
+        "1980s",
+        "charts"
+      ]
+    },
+    {
+      "id": "feed:https://banbantonton.com/feed/",
+      "title": "Ban Ban Ton Ton",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://banbantonton.com/feed/",
+      "summary": "A music website / blog, run out of rural Japan. \u201cBan\u201d ( \u30d0\u30f3) and \u201cTon\u201d (\u30c8\u30f3) are Japanese onomatopoeia \u2013 like \u201cBang\u201d or \u201cCrash\u201d, the sound of a child hitting a drum.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Ban Ban Ton Ton",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music blog",
+        "Japan",
+        "cultural reviews"
+      ]
+    },
+    {
+      "id": "feed:http://www.bradleysalmanac.com/feed",
+      "title": "Bradley's Almanac",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.bradleysalmanac.com/feed",
+      "summary": "A Boston-Based Music Blog.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Bradley's Almanac",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Boston music",
+        "music reviews",
+        "radio show"
+      ]
+    },
+    {
+      "id": "feed:http://breakingmorewaves.blogspot.com/feeds/posts/default",
+      "title": "Breaking More Waves",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://breakingmorewaves.blogspot.com/feeds/posts/default",
+      "summary": "An independent unfunded music blog from south-central UK.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Breaking More Waves",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "independent music",
+        "upcoming artists",
+        "music trends"
+      ]
+    },
+    {
+      "id": "feed:https://cardrossmaniac2.blogspot.com/feeds/posts/default",
+      "title": "CardrossManiac2",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cardrossmaniac2.blogspot.com/feeds/posts/default",
+      "summary": "A blog about music and pop culture.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "CardrossManiac2",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture",
+        "music reviews",
+        "critique"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/dangerousminds/dot/net",
+      "title": "Dangerous Minds",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/dangerousminds/dot/net",
+      "summary": "A compendium of the new and strange-new ideas, new art forms, new approaches to social issues and new finds from the outer reaches of pop culture.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Dangerous Minds",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Literature",
+        "Music",
+        "Cinema"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture",
+        "art forms",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:https://darrensmusicblog.com/feed/",
+      "title": "Darren's music blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://darrensmusicblog.com/feed/",
+      "summary": "News, reviews, interviews and more. From classic rock to contemporary folk.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Darren's music blog",
+      "cleaned_author": "Darren",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Fiction",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "music reviews",
+        "interviews",
+        "classic rock"
+      ]
+    },
+    {
+      "id": "feed:https://www.dgmlive.com/feeds/rss/all",
+      "title": "DGM Live",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.dgmlive.com/feeds/rss/all",
+      "summary": "The aim of DGM is to connect music, musician and audience in a way that supports the power of music, the integrity of the musician and the needs of the audience.",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "DGM Live",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "King Crimson",
+        "Robert Fripp",
+        "music updates"
+      ]
+    },
+    {
+      "id": "feed:https://disquiet.com/feed/",
+      "title": "Disquiet",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://disquiet.com/feed/",
+      "summary": "Listening to culture. Playing with audio. Sounding out technology. Composing in code.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "Disquiet",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "audio culture",
+        "sound technology",
+        "experimental music"
+      ]
+    },
+    {
+      "id": "feed:https://cdn.dnalounge.com/backstage/log/feed/",
+      "title": "DNA Lounge: DNA Sequencing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cdn.dnalounge.com/backstage/log/feed/",
+      "summary": "A late-night, all ages San Francisco nightclub featuring live music, DJ dancing, burlesque shows, and private parties.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "DNA Lounge: DNA Sequencing",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Music",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "nightlife",
+        "San Francisco",
+        "live music"
+      ]
+    },
+    {
+      "id": "feed:https://doomandgloomfromthetomb.tumblr.com/rss",
+      "title": "Doom & Gloom From The Tomb",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://doomandgloomfromthetomb.tumblr.com/rss",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Doom & Gloom From The Tomb",
+      "cleaned_author": null,
+      "summary": "A feed featuring an eclectic collection of live bootlegs and recordings for music enthusiasts looking for rare finds.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "bootlegs",
+        "live recordings",
+        "music enthusiasts"
+      ]
+    },
+    {
+      "id": "feed:https://door.link/rss.xml",
+      "title": "door.link",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://door.link/rss.xml",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "door.link",
+      "cleaned_author": null,
+      "summary": "A curated selection of music crafted for intimate listening and dancing experiences in small spaces.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "curated music",
+        "listening",
+        "dancing"
+      ]
+    },
+    {
+      "id": "feed:https://www.tonmeister.ca/wordpress/feed/",
+      "title": "earfluff and eyecandy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.tonmeister.ca/wordpress/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "earfluff and eyecandy",
+      "cleaned_author": null,
+      "summary": "A blog primarily focused on audio topics, occasionally venturing into other creative realms.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "audio",
+        "creative topics",
+        "technical"
+      ]
+    },
+    {
+      "id": "feed:https://www.edwardseckerson.biz/blog/feed/",
+      "title": "Edward Seckerson | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.edwardseckerson.biz/blog/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Edward Seckerson",
+      "cleaned_author": null,
+      "summary": "A seasoned writer and broadcaster, Edward Seckerson provides in-depth insights into classical music through interviews and critiques, backed by his extensive experience as the chief classical music critic for The Independent and as a host on BBC Radio3.",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "classical music",
+        "interviews",
+        "Edward Seckerson",
+        "BBC Radio3",
+        "The Independent"
+      ]
+    },
+    {
+      "id": "feed:https://eqmusicblog.com/feed/",
+      "title": "EQ Music Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://eqmusicblog.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "EQ Music Blog",
+      "cleaned_author": null,
+      "summary": "EQ Music Blog highlights the latest in pop, electronic, and alternative music, serving as a platform for new artists and trends since 2009.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop music",
+        "electronic music",
+        "alternative music",
+        "music reviews",
+        "emerging artists"
+      ]
+    },
+    {
+      "id": "feed:https://vassifer.blogs.com/alexinnyc/atom.xml",
+      "title": "Flaming Pablum",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://vassifer.blogs.com/alexinnyc/atom.xml",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Flaming Pablum",
+      "cleaned_author": null,
+      "summary": "Flaming Pablum offers a quirky blend of music commentary and cultural criticism, presenting an eclectic assortment of musings and reflections, often with a touch of humor.",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "music commentary",
+        "cultural criticism",
+        "humorous blog",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "feed:https://freakytrigger.co.uk/feed",
+      "title": "FreakyTrigger",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://freakytrigger.co.uk/feed",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "FreakyTrigger",
+      "cleaned_author": null,
+      "summary": "FreakyTrigger celebrates a playful take on culture, mixing pop music with quirky commentary and engaging entries that explore both high and low cultural phenomena.",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture",
+        "music discussions",
+        "quirky commentary",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://blog.chrisrowbury.com/feeds/posts/default",
+      "title": "From the front of the choir",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.chrisrowbury.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "From the Front of the Choir",
+      "cleaned_author": "Chris Rowbury",
+      "summary": "Chris Rowbury shares insights on choirs and singing, offering practical advice and personal reflections that resonate with choirs and singers at all levels.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "choir blog",
+        "singing advice",
+        "choir leadership",
+        "community singing",
+        "singer tips"
+      ]
+    },
+    {
+      "id": "feed:https://www.furia.com/feed.cgi?source=log",
+      "title": "furialog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.furia.com/feed.cgi?source=log",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "furialog",
+      "cleaned_author": "glenn mcdonald",
+      "summary": "Furialog explores music and culture with a personal touch, engaging readers with thoughtful insights and a unique perspective on various topics.",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "music reflections",
+        "cultural insights",
+        "personal blog",
+        "music geekery"
+      ]
+    },
+    {
+      "id": "feed:https://gloriousnoise.com/feed",
+      "title": "Glorious Noise",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gloriousnoise.com/feed",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Glorious Noise",
+      "cleaned_author": null,
+      "summary": "Glorious Noise advocates for the transformative power of rock and roll, offering a space for passionate discussions on new music and artists that can shake up your perspective.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "rock and roll",
+        "music reviews",
+        "new artists",
+        "music culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.gorillavsbear.net/feed/",
+      "title": "GORILLA VS. BEAR",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.gorillavsbear.net/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "GORILLA VS. BEAR",
+      "cleaned_author": null,
+      "summary": "GORILLA VS. BEAR curates the finest in contemporary music, spotlighting lesser-known talents and premieres while connecting music lovers with innovative sounds.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music discovery",
+        "new releases",
+        "artist showcases",
+        "contemporary music"
+      ]
+    },
+    {
+      "id": "feed:https://hardlybaked2.blogspot.com/feeds/posts/default",
+      "title": "Hardly Baked 2 - my drivel blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hardlybaked2.blogspot.com/feeds/posts/default",
+      "summary": "replacing Hardly Baked \u2026 \"Really awful is more interesting to listen to than pretty good\" - Eno.",
+      "details": "Original Category: arts -> music -> simon-reynolds.opml",
+      "cleaned_title": "Hardly Baked 2",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "drivel",
+        "music",
+        "Eno",
+        "blog"
+      ]
+    },
+    {
+      "id": "feed:https://mccookerybook.blogspot.com/feeds/posts/default",
+      "title": "Helen McCookerybook",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mccookerybook.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Helen McCookerybook",
+      "cleaned_author": null,
+      "summary": "Helen McCookerybook explores the intersection of food and music with light-hearted commentary and reflections on everyday experiences.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "cooking",
+        "music",
+        "experiences",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://history-is-made-at-night.blogspot.com/feeds/posts/default",
+      "title": "History is made at night",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://history-is-made-at-night.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "History is made at night",
+      "cleaned_author": null,
+      "summary": "Delving into the politics surrounding dance and music, this blog intertwines critical theory with cultural commentary, examining societal issues through a rhythmic lens.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "dance",
+        "music",
+        "cultural commentary"
+      ]
+    },
+    {
+      "id": "feed:https://humanizingthevacuum.wordpress.com/feed/",
+      "title": "Humanizing The Vacuum",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://humanizingthevacuum.wordpress.com/feed/",
+      "summary": "Alfred Soto's blog about arts and politics.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Humanizing The Vacuum",
+      "cleaned_author": "Alfred Soto",
+      "tags": [
+        "Politics",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "politics",
+        "rankings",
+        "Oscars"
+      ]
+    },
+    {
+      "id": "feed:https://www.psychedelicbabymag.com/feed",
+      "title": "It's Psychedelic Baby Magazine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.psychedelicbabymag.com/feed",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "It's Psychedelic Baby Magazine",
+      "cleaned_author": null,
+      "summary": "This independent magazine celebrates the underground music scene, highlighting non-commercial and alternative artists across various genres in an intimate and engaging format.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "independent music",
+        "underground",
+        "alternative",
+        "non-commercial"
+      ]
+    },
+    {
+      "id": "feed:http://itstartswithabirthstone.blogspot.com/feeds/posts/default",
+      "title": "It starts with a birthstone...",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://itstartswithabirthstone.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "It starts with a birthstone...",
+      "cleaned_author": null,
+      "summary": "An eclectic exploration of music history and records, this blog charts significant albums and artists through engaging commentary and interesting insights.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music history",
+        "albums",
+        "records",
+        "commentary"
+      ]
+    },
+    {
+      "id": "feed:https://iwilldare.com/feed/",
+      "title": "I Will Dare",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://iwilldare.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "I Will Dare",
+      "cleaned_author": null,
+      "summary": "A contemplative space where personal musings on life and music intersect, this blog embraces vulnerability and sincerity amid a backdrop of musical exploration.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal reflections",
+        "music",
+        "sincerity",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:https://www.jarretthousenorth.com/feed/",
+      "title": "Jarrett House North",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.jarretthousenorth.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Jarrett House North",
+      "cleaned_author": null,
+      "summary": "This blog serves as a nostalgic journey through music soundtracks and iconic albums, revisiting and celebrating the essence of classic tracks and their lasting impact.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music soundtracks",
+        "albums",
+        "nostalgia",
+        "classic tracks"
+      ]
+    },
+    {
+      "id": "feed:https://lannerchronicle.wordpress.com/feed/",
+      "title": "Lanner Chronicle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lannerchronicle.wordpress.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Lanner Chronicle",
+      "cleaned_author": null,
+      "summary": "A focused resource dedicated to the work of Aphex Twin, featuring archives of interviews and reviews.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Aphex Twin",
+        "music",
+        "electronic"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/largeheartedboy",
+      "title": "largehearted boy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/largeheartedboy",
+      "details": "Original Category: arts -> books.opml",
+      "cleaned_title": "largehearted boy",
+      "cleaned_author": null,
+      "summary": "A blog that combines the worlds of literature and music, showcasing curated playlists from authors for their books.",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "playlists",
+        "music",
+        "books",
+        "authors"
+      ]
+    },
+    {
+      "id": "feed:http://likepunkneverhappened.blogspot.com/feeds/posts/default",
+      "title": "Like Punk Never Happened",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://likepunkneverhappened.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Like Punk Never Happened",
+      "cleaned_author": null,
+      "summary": "A nostalgic dive into iconic music eras with detailed retrospectives and issues from the past.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "punk",
+        "music history",
+        "retrospectives"
+      ]
+    },
+    {
+      "id": "feed:https://www.listenfaster.com/main/rss.xml",
+      "title": "Listen Faster",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.listenfaster.com/main/rss.xml",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Listen Faster",
+      "cleaned_author": null,
+      "summary": "A Seattle-based blog from a guitarist and composer, offering insights and updates on music contributions.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "guitar",
+        "composition",
+        "Seattle music"
+      ]
+    },
+    {
+      "id": "feed:https://listenofthe.day/feed.xml",
+      "title": "Listen Of The Day",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://listenofthe.day/feed.xml",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Listen Of The Day",
+      "cleaned_author": null,
+      "summary": "A playful exploration of various music albums, seriously taken with a hint of humor.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "albums",
+        "music review",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:https://minutestomidnight.co.uk/feed.xml",
+      "title": "Minutes to Midnight - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://minutestomidnight.co.uk/feed.xml",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Minutes to Midnight - Blog",
+      "cleaned_author": null,
+      "summary": "Exploring the balance of art and technology, this blog offers commentary on contemporary cultural issues.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "technology",
+        "cultural commentary"
+      ]
+    },
+    {
+      "id": "feed:https://nobells.blog/feed/",
+      "title": "No Bells",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nobells.blog/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "No Bells",
+      "cleaned_author": null,
+      "summary": "A platform dedicated to independent music journalism, providing insights and reviews across genres.",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "independent music",
+        "journalism",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:http://oneman1001albums2.blogspot.com/feeds/posts/default",
+      "title": "One Man 1001 Albums",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://oneman1001albums2.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "One Man 1001 Albums",
+      "cleaned_author": null,
+      "summary": "A comprehensive project that reviews and discusses a wide array of music albums from notable artists.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "album reviews",
+        "music exploration",
+        "1001 albums"
+      ]
+    },
+    {
+      "id": "feed:https://plainlyandpainfully.com/feed/",
+      "title": "Plainly & Painfully",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://plainlyandpainfully.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Plainly & Painfully",
+      "cleaned_author": null,
+      "summary": "A blog exploring the underground sounds of lo-fi and garage music, featuring raw and innovative tracks that embrace a jangled aesthetic.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "lo-fi",
+        "garage",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://stlenox.com/feed/",
+      "title": "Pop, in Service of the Good",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stlenox.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Pop, in Service of the Good",
+      "cleaned_author": null,
+      "summary": "A reflective blog that delves into the nuances of pop culture, exploring its impact, trends, and the intersection of music and social issues.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "pop culture",
+        "music",
+        "social issues"
+      ]
+    },
+    {
+      "id": "feed:https://thequietus.com/feed/",
+      "title": "The Quietus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thequietus.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "The Quietus",
+      "cleaned_author": null,
+      "summary": "Known for its incisive and thought-provoking critiques, this platform is a prominent voice in music and cultural commentary, offering insights into various artistic perspectives.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "cultural criticism",
+        "music news"
+      ]
+    },
+    {
+      "id": "feed:https://www.ravensingstheblues.com/feed/",
+      "title": "Raven Sings The Blues",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ravensingstheblues.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Raven Sings The Blues",
+      "cleaned_author": null,
+      "summary": "A site dedicated to the exploration of eclectic sounds, featuring a wide range of artists and projects revolving around the blues and beyond.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "blues",
+        "eclectic music"
+      ]
+    },
+    {
+      "id": "feed:https://www.recordturnover.com/feed/",
+      "title": "RECORD TURNOVER",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.recordturnover.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "RECORD TURNOVER",
+      "cleaned_author": null,
+      "summary": "A music blog focused on unearthing and sharing new and obscure sounds, celebrating hidden gems in the music scene.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "new music",
+        "obscure artists"
+      ]
+    },
+    {
+      "id": "feed:https://robinthefog.com/feed/",
+      "title": "Robin The Fog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://robinthefog.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Robin The Fog",
+      "cleaned_author": null,
+      "summary": "An innovative sound art platform that produces immersive radio content and experimental music, emphasizing the beauty and complexity of tape loops.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "sound art",
+        "tape loops",
+        "experimental music"
+      ]
+    },
+    {
+      "id": "feed:https://sampleface.co.uk/feed/",
+      "title": "Sampleface",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sampleface.co.uk/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Sampleface",
+      "cleaned_author": null,
+      "summary": "A blog that provides insights into influential music figures and the art of sampling, highlighting the intersections of music across genres.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "sampling",
+        "music history",
+        "influential artists"
+      ]
+    },
+    {
+      "id": "feed:https://theseconddisc.com/feed/",
+      "title": "The Second Disc",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theseconddisc.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "The Second Disc",
+      "cleaned_author": null,
+      "summary": "A resource for music enthusiasts that covers news about expanded and remastered album releases, unearthing classic tracks and reissues.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "album reissues",
+        "music news",
+        "expanded editions"
+      ]
+    },
+    {
+      "id": "feed:https://shindig-magazine.com/?feed=rss2",
+      "title": "Shindig!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shindig-magazine.com/?feed=rss2",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Shindig!",
+      "cleaned_author": null,
+      "summary": "Shindig! is a music publication that blends an appreciation for classic fanzines with modern readership sensibilities. Covering a range of topics within music, it seeks to engage fans and readers with sincerity and informed insights.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "fanzines",
+        "rock",
+        "interviews",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.thesquirepresents.co.uk/feed/",
+      "title": "The Squire Presents",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thesquirepresents.co.uk/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "The Squire Presents",
+      "cleaned_author": null,
+      "summary": "The Squire Presents curates a collection of music-related content, focusing on compilations and album reviews that celebrate a variety of artists and genres. It's a place for music lovers looking to discover new and noteworthy tracks.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "various artists",
+        "album reviews",
+        "compilations"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/SteveHuffPhotos",
+      "title": "Steve Huff Reviews - HiFi Reviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/SteveHuffPhotos",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Steve Huff Reviews - HiFi Reviews",
+      "cleaned_author": "Steve Huff",
+      "summary": "A thorough resource for audiophiles, Steve Huff Reviews provides detailed critiques of hi-fi audio equipment. The blog features comprehensive reviews, focusing on sound quality and performance, making it a go-to for music lovers seeking the best in audio.",
+      "tags": [
+        "Tech",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "hi-fi",
+        "audio reviews",
+        "equipment",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:http://streamsofexpression.blogspot.com/feeds/posts/default",
+      "title": "streams of expression",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://streamsofexpression.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "streams of expression",
+      "cleaned_author": null,
+      "summary": "Streams of Expression is an eclectic music blog that brings attention to various artistic expressions in music, with articles ranging from deep dives into individual artists to explorations of new musical trends.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "artistic expression",
+        "new trends",
+        "artists"
+      ]
+    },
+    {
+      "id": "feed:http://sweepingthenation.blogspot.com/feeds/posts/default",
+      "title": "Sweeping The Nation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://sweepingthenation.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Sweeping The Nation",
+      "cleaned_author": null,
+      "summary": "Sweeping The Nation is dedicated to the vibrant and diverse world of new music. With a focus on upcoming releases and exploration of notable tracks, it aims to inform readers about the latest and greatest in the music scene.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "new music",
+        "upcoming releases",
+        "music scene",
+        "album lists"
+      ]
+    },
+    {
+      "id": "feed:https://thebluemoment.com/feed/",
+      "title": "thebluemoment.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thebluemoment.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "thebluemoment.com",
+      "cleaned_author": "Richard Williams",
+      "summary": "Thebluemoment.com is a thoughtful blog by Richard Williams, discussing various aspects of music. From artist spotlights to reflections on significant moments in the industry, it offers a deep appreciation of music across genres.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "artist reflections",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.thevpme.com/feed/",
+      "title": "The VPME | New Music From The Von Pip Musical Express",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thevpme.com/feed/",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "The VPME",
+      "cleaned_author": null,
+      "summary": "A music blog focusing on new releases and emerging artists, offering weekly music round-ups and album recommendations.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "new music",
+        "tracks of the week",
+        "albums"
+      ]
+    },
+    {
+      "id": "feed:https://yrheartout.blogspot.com/feeds/posts/default",
+      "title": "Your Heart Out",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://yrheartout.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> music.opml",
+      "cleaned_title": "Your Heart Out",
+      "cleaned_author": null,
+      "summary": "An eclectic exploration of music and culture, featuring unique narratives and insights on various musical pieces.",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music culture",
+        "eclectic narratives",
+        "music reviews"
+      ]
+    },
+    {
+      "id": "feed:https://soundtrackheaven.blogspot.com/feeds/posts/default",
+      "title": "soundtrack heaven",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soundtrackheaven.blogspot.com/feeds/posts/default",
+      "summary": "for movie enthusiasts and music afficianados, a collection of rare, hard to find, out of print, lost, forgotten and classic movie soundtracks.",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "soundtrack heaven",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "soundtracks",
+        "film music",
+        "posters"
+      ]
+    },
+    {
+      "id": "feed:https://radiojayallen.com/feed/",
+      "title": "radiojayallen",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://radiojayallen.com/feed/",
+      "summary": "Jay's Radio Reviews, Comparisons & Restorations.",
+      "details": "Original Category: arts -> radio.opml",
+      "cleaned_title": "radiojayallen",
+      "cleaned_author": "Jay",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Radio",
+        "Reviews",
+        "Comparisons"
+      ]
+    },
+    {
+      "id": "feed:https://fiftyfootshadows.net/feed/",
+      "title": "fiftyfootshadows.net",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fiftyfootshadows.net/feed/",
+      "summary": "Photography. Music. Life.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "fiftyfootshadows.net",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Photos",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "music",
+        "life reflections",
+        "visual storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://simonparrismaninchair.com/feed/",
+      "title": "Man in Chair",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://simonparrismaninchair.com/feed/",
+      "summary": "Music Theatre, Opera, Ballet and Play Reviews.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Man in Chair",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music",
+        "Dance"
+      ],
+      "language": "en",
+      "keywords": [
+        "music theatre reviews",
+        "opera critiques",
+        "ballet performances"
+      ]
+    },
+    {
+      "id": "feed:https://pleasemindtheblog.wordpress.com/feed/",
+      "title": "Mind the blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pleasemindtheblog.wordpress.com/feed/",
+      "summary": "Here you\u2019ll find reviews and features on theatre, concerts, albums, and anything else that\u2019s even tenuously related.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Mind the blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre reviews",
+        "concert insights",
+        "artistic features"
+      ]
+    },
+    {
+      "id": "feed:https://www.ambientblog.net/blog/feed/",
+      "title": "Ambientblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ambientblog.net/blog/feed/",
+      "summary": "Ambient Music Recommendations and Mixes.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "Ambientblog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "ambient music",
+        "music recommendations",
+        "mixes",
+        "artists"
+      ]
+    },
+    {
+      "id": "feed:https://www.blackplastic.co.uk/alternative-electronic-music-b?format=rss",
+      "title": "BlackPlastic.co.uk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.blackplastic.co.uk/alternative-electronic-music-b?format=rss",
+      "summary": "An alternative music blog focused on sharing the best electronic music.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "BlackPlastic",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "alternative music",
+        "electronic sounds"
+      ]
+    },
+    {
+      "id": "feed:http://www.cloudberryrecords.com/blog/?feed=rss2",
+      "title": "Cloudberry Cake Proselytism",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.cloudberryrecords.com/blog/?feed=rss2",
+      "summary": "C86 \u2022 indie pop \u2022 neo-aco \u2022 with love and no full album download.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "Cloudberry Cake Proselytism",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "indie pop",
+        "neo-aco"
+      ]
+    },
+    {
+      "id": "feed:https://indienumber1s.blogspot.com/feeds/posts/default",
+      "title": "everybody's number one to someone",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://indienumber1s.blogspot.com/feeds/posts/default",
+      "summary": "All the singles to top the NME Indie Charts since its launch in 1981.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "everybody's number one to someone",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "NME",
+        "Indie charts",
+        "singles"
+      ]
+    },
+    {
+      "id": "feed:https://garagehangover.com/feed/",
+      "title": "Garage Hangover | The site for '60s garage bands since 2004",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://garagehangover.com/feed/",
+      "summary": "This site is a work in progress on 1960s garage rock bands.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "Garage Hangover",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "garage rock",
+        "1960s",
+        "music history"
+      ]
+    },
+    {
+      "id": "feed:https://thehippiesnowwearblack.org.uk/feed/",
+      "title": "The Hippies Now Wear Black",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thehippiesnowwearblack.org.uk/feed/",
+      "summary": "The online accompaniment to a variety of writing projects on the history, culture, politics and practice of British anarcho-punk, 1977-1984.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "The Hippies Now Wear Black",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "anarcho-punk",
+        "UK history",
+        "music culture"
+      ]
+    },
+    {
+      "id": "feed:https://theprogmind.com/feed/",
+      "title": "The PROG Mind",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theprogmind.com/feed/",
+      "summary": "Delve Deeper.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "The PROG Mind",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "progressive music",
+        "latest releases"
+      ]
+    },
+    {
+      "id": "feed:http://feeds2.feedburner.com/SlicingUpEyeballs",
+      "title": "Slicing Up Eyeballs",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds2.feedburner.com/SlicingUpEyeballs",
+      "summary": "'80s College Rock, Alternative Music, Indie.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "Slicing Up Eyeballs",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "'80s music",
+        "college rock",
+        "alternative"
+      ]
+    },
+    {
+      "id": "feed:https://www.synthpopfanatic.com/feed/",
+      "title": "Synthpop Fanatic",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.synthpopfanatic.com/feed/",
+      "summary": "Devoted to dark dance music: synthpop, futurepop, darkwave, electro. Songs you hear on a dark, smoky dancefloor.",
+      "details": "Original Category: arts -> music -> genres.opml",
+      "cleaned_title": "Synthpop Fanatic",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "synthpop",
+        "darkwave",
+        "dance music"
+      ]
+    },
+    {
+      "id": "feed:https://synthanatomy.com/feed",
+      "title": "SYNTH ANATOMY",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://synthanatomy.com/feed",
+      "summary": "Music Tech News, Reviews, Events, Music.",
+      "details": "Original Category: arts -> music -> musical-instruments.opml",
+      "cleaned_title": "SYNTH ANATOMY",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gadgets",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "synthesizers",
+        "music tech",
+        "reviews",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:https://www.synthtopia.com/feed/",
+      "title": "Synthtopia",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.synthtopia.com/feed/",
+      "summary": "Synthesizer and electronic music news, synth and music software reviews and more!",
+      "details": "Original Category: arts -> music -> musical-instruments.opml",
+      "cleaned_title": "Synthtopia",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "synthesizers",
+        "electronic music",
+        "reviews",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:http://blissout.blogspot.com/feeds/posts/default",
+      "title": "blissblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://blissout.blogspot.com/feeds/posts/default",
+      "summary": "blissblog offers a unique cultural perspective, often invoking pop music criticism with a twist, influenced by Simon Reynolds.",
+      "details": "Original Category: arts -> music -> simon-reynolds.opml",
+      "cleaned_title": "blissblog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "culture",
+        "music critique",
+        "Simon Reynolds"
+      ]
+    },
+    {
+      "id": "feed:http://energyflashbysimonreynolds.blogspot.com/feeds/posts/default",
+      "title": "Energy Flash",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://energyflashbysimonreynolds.blogspot.com/feeds/posts/default",
+      "summary": "\"My purpose was simple: to catch the feel, the pulse of rock, as I had lived through it. What I was after was guts, and flash, and energy, and speed\" - NIK  COHN.",
+      "details": "Original Category: arts -> music -> simon-reynolds.opml",
+      "cleaned_title": "Energy Flash",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "rock music",
+        "Nik Cohn",
+        "music history"
+      ]
+    },
+    {
+      "id": "feed:http://musicpresspantheon.blogspot.com/feeds/posts/default",
+      "title": "PANTHEON",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://musicpresspantheon.blogspot.com/feeds/posts/default",
+      "summary": "PANTHEON features vibrant discussions and analyses of music through the lens of popular journalism, revisiting iconic reviews and articles.",
+      "details": "Original Category: arts -> music -> simon-reynolds.opml",
+      "cleaned_title": "PANTHEON",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "music reviews",
+        "journalism",
+        "music history"
+      ]
+    },
+    {
+      "id": "feed:http://reynoldsretro.blogspot.com/feeds/posts/default",
+      "title": "ReynoldsRetro",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://reynoldsretro.blogspot.com/feeds/posts/default",
+      "summary": "\"there are immaturities, but there are immensities\" -  Bright Star (dir. Jane Campion).",
+      "details": "Original Category: arts -> music -> simon-reynolds.opml",
+      "cleaned_title": "ReynoldsRetro",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "obituaries",
+        "music history",
+        "critique"
+      ]
+    },
+    {
+      "id": "feed:https://shockandawesimonreynolds2.blogspot.com/feeds/posts/default",
+      "title": "Shock and Awe 2",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shockandawesimonreynolds2.blogspot.com/feeds/posts/default",
+      "summary": "successor to Shock and Awe \u2026 the blog of the Simon Reynolds book about glam and artpop of the 1970s and its aftershocks and reflections to this day.",
+      "details": "Original Category: arts -> music -> simon-reynolds.opml",
+      "cleaned_title": "Shock and Awe 2",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "glam rock",
+        "art pop",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://thinkigekru2.blogspot.com/feeds/posts/default",
+      "title": "Thinkige Kru 2",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thinkigekru2.blogspot.com/feeds/posts/default",
+      "summary": "successor to Thinkige Kru \u2026 vintage thoughts from others, vintage thoughts from me - varying degrees of profundity.",
+      "details": "Original Category: arts -> music -> simon-reynolds.opml",
+      "cleaned_title": "Thinkige Kru 2",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "thoughts",
+        "music culture",
+        "quotations"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/feedburner/bmEr",
+      "title": "Austin Town Hall",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/feedburner/bmEr",
+      "summary": "Bringing the jams...",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "Austin Town Hall",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "tracks",
+        "jams",
+        "artists"
+      ]
+    },
+    {
+      "id": "feed:https://blackhandinn2.blogspot.com/feeds/posts/default",
+      "title": "Black Hand Inn",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blackhandinn2.blogspot.com/feeds/posts/default",
+      "summary": "This is a place you can find some links of metal, punk, hardcore albums, old and new.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "Black Hand Inn",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal",
+        "punk",
+        "hardcore",
+        "albums"
+      ]
+    },
+    {
+      "id": "feed:https://josephbarulho.blogspot.com/feeds/posts/default",
+      "title": "COVA - ARGH!!!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://josephbarulho.blogspot.com/feeds/posts/default",
+      "summary": "Downloads Metal Extremo.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "COVA - ARGH!!!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal",
+        "downloads",
+        "extreme music"
+      ]
+    },
+    {
+      "id": "feed:https://oldwax.blogspot.com/feeds/posts/default",
+      "title": "Dead Wax",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://oldwax.blogspot.com/feeds/posts/default",
+      "summary": "A blog featuring discussion and sharing of music with a nostalgic touch.",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "Dead Wax",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "music",
+        "nostalgia",
+        "vinyl"
+      ]
+    },
+    {
+      "id": "feed:https://www.dreamweapons.net/feeds/posts/default",
+      "title": "DREAM WEAPONS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.dreamweapons.net/feeds/posts/default",
+      "summary": "An exploration of experimental soundscapes and unique music compilations.",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "DREAM WEAPONS",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "experimental",
+        "compilations",
+        "soundscapes"
+      ]
+    },
+    {
+      "id": "feed:https://www.fluxblog.org/feed/",
+      "title": "Fluxblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fluxblog.org/feed/",
+      "summary": "Fluxblog is the first MP3 Blog. It was founded by me, Matthew Perpetua, in 2002.",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "Fluxblog",
+      "cleaned_author": "Matthew Perpetua",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "MP3",
+        "blog",
+        "music",
+        "curated"
+      ]
+    },
+    {
+      "id": "feed:https://greek-metal-area.blogspot.com/feeds/posts/default",
+      "title": "GREEK METAL",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://greek-metal-area.blogspot.com/feeds/posts/default",
+      "summary": "A hub for fans of Greek metal, sharing heavy sounds from various artists.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "GREEK METAL",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "Greek metal",
+        "heavy metal",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://floatingliferecs.blogspot.com/feeds/posts/default",
+      "title": "axel powrie",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://floatingliferecs.blogspot.com/feeds/posts/default",
+      "summary": "axel powrie, sydney australia, experimental music, improvised music, noise music.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "axel powrie",
+      "cleaned_author": "axel powrie",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "experimental",
+        "noise music",
+        "improvised music"
+      ]
+    },
+    {
+      "id": "feed:https://soundstudiesblog.com/feed/",
+      "title": "Sounding Out!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soundstudiesblog.com/feed/",
+      "summary": "pushing sound studies into the red since 2009.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "Sounding Out!",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Hip-Hop",
+        "Words"
+      ],
+      "language": "en",
+      "keywords": [
+        "sound studies",
+        "music culture",
+        "hip-hop analysis"
+      ]
+    },
+    {
+      "id": "feed:https://tristanlouthrobins.wordpress.com/feed/",
+      "title": "TRISTAN LOUTH-ROBINS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tristanlouthrobins.wordpress.com/feed/",
+      "summary": "I'm a sound fl\u00e2neur, composer, acoustic ecologist, seeker of resonance. Creator of Fleurieu & KI Sound Map.",
+      "details": "Original Category: arts -> music -> sound.opml",
+      "cleaned_title": "TRISTAN LOUTH-ROBINS",
+      "cleaned_author": "Tristan Louth-Robins",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "soundscapes",
+        "acoustic ecology",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://chitareconcert.wordpress.com/feed/",
+      "title": "Alexandru Marian Spanish Guitars",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chitareconcert.wordpress.com/feed/",
+      "summary": "Maker of Spanish Guitars.",
+      "details": "Original Category: arts -> music -> musical-instruments -> guitars.opml",
+      "cleaned_title": "Alexandru Marian Spanish Guitars",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "Spanish guitars",
+        "luthier",
+        "guitar making"
+      ]
+    },
+    {
+      "id": "feed:https://www.guitarpedalx.com/Syndication/DF.cfm?f=5&ft=10",
+      "title": "Guitar Pedal X - News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.guitarpedalx.com/Syndication/DF.cfm?f=5&ft=10",
+      "summary": "A resource for enthusiasts of guitar gear, offering reviews and comparisons of the latest pedals, amps, and accessories in the music industry.",
+      "details": "Original Category: arts -> music -> musical-instruments -> guitars.opml",
+      "cleaned_title": "Guitar Pedal X",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Music",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "guitar pedals",
+        "gear reviews",
+        "music technology"
+      ]
+    },
+    {
+      "id": "feed:https://guitar-maker.blogspot.com/feeds/posts/default",
+      "title": "A Luthier's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://guitar-maker.blogspot.com/feeds/posts/default",
+      "summary": "A professional luthier making mandolins and guitars by hand, to the highest standards, in my analogue workshop.",
+      "details": "Original Category: arts -> music -> musical-instruments -> guitars.opml",
+      "cleaned_title": "A Luthier's Blog",
+      "cleaned_author": "Gary Nava",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "luthiery",
+        "mandolins",
+        "guitar crafting"
+      ]
+    },
+    {
+      "id": "feed:https://mwdales-guitars.uk/blog/index.xml",
+      "title": "Michael Winston Dales Guitars: Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mwdales-guitars.uk/blog/index.xml",
+      "summary": "I have a passion for building guitars that combines hand-crafted traditional woodwork along with modern digital fabrication techniques, such as building custom 3D-printed parts and laser-cutting.",
+      "details": "Original Category: arts -> music -> musical-instruments -> guitars.opml",
+      "cleaned_title": "Michael Winston Dales Guitars: Blog",
+      "cleaned_author": "Michael Winston Dales",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "guitar building",
+        "3D printing",
+        "workshop blog"
+      ]
+    },
+    {
+      "id": "feed:https://arsoncafe.blogspot.com/feeds/posts/default",
+      "title": "Arson Cafe",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://arsoncafe.blogspot.com/feeds/posts/default",
+      "summary": "Comfort in dissonance.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "Arson Cafe",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal music",
+        "music reviews",
+        "albums"
+      ]
+    },
+    {
+      "id": "feed:http://thedeathchamber.blogspot.com/feeds/posts/default",
+      "title": "The Death Chamber",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thedeathchamber.blogspot.com/feeds/posts/default",
+      "summary": "A focused blog on the metal genre, featuring reviews and discussions of recent releases and artists within the heavy music scene.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "The Death Chamber",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal reviews",
+        "music blog",
+        "genre analysis"
+      ]
+    },
+    {
+      "id": "feed:https://hatemeditations.com/feed/",
+      "title": "Hate Meditations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hatemeditations.com/feed/",
+      "summary": "Armchair rhetoric on extreme metal.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "Hate Meditations",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal",
+        "extreme music",
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/Metalsucks",
+      "title": "MetalSucks",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/Metalsucks",
+      "summary": "Metal News, Tour Dates, Reviews and Videos.",
+      "details": "Original Category: arts -> music -> genres -> metal.opml",
+      "cleaned_title": "MetalSucks",
+      "cleaned_author": "Petar Spajic, Brandon Hahn, Jozalyn Sharp",
+      "tags": [
+        "Arts & Culture",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "metal news",
+        "podcast",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:https://ecmreviews.com/feed/",
+      "title": "Between Sound and Space: ECM Records and Beyond",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ecmreviews.com/feed/",
+      "summary": "The only archive reviewing every ECM album in existence.",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "Between Sound and Space: ECM Records and Beyond",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "ECM Records",
+        "jazz albums",
+        "music reviews"
+      ]
+    },
+    {
+      "id": "feed:http://flophousemagazine.com/feed/",
+      "title": "FLOPHOUSE | magazine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://flophousemagazine.com/feed/",
+      "summary": "\u2026dedicated to hard bop, soul jazz and Hammond grooves.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "FLOPHOUSE",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "jazz magazine",
+        "soul jazz",
+        "Hammond organ"
+      ]
+    },
+    {
+      "id": "feed:http://www.fwrarejazzvinylcollector.com/blog?format=rss",
+      "title": "FW Rare Jazz Vinyl Collector",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.fwrarejazzvinylcollector.com/blog?format=rss",
+      "summary": "Focused on rare jazz vinyl, this feed offers insights into hard-to-find records celebrated by collectors and enthusiasts alike.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "FW Rare Jazz Vinyl Collector",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "jazz vinyl",
+        "record collecting",
+        "rare music"
+      ]
+    },
+    {
+      "id": "feed:http://impressionsofvince.blogspot.com/feeds/posts/default",
+      "title": "Impressions of Vince",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://impressionsofvince.blogspot.com/feeds/posts/default",
+      "summary": "Commentary, discussions and random thoughts about San Francisco-born jazz pianist Vince Guaraldi, beloved by many \u2026 and affectionately known as Dr. Funk.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "Impressions of Vince",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "Vince Guaraldi",
+        "jazz pianist",
+        "music commentary"
+      ]
+    },
+    {
+      "id": "feed:https://jazzcollector.com/feed/",
+      "title": "Jazz Collector",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jazzcollector.com/feed/",
+      "summary": "Jazz Collector is the leading jazz blog and jazz website for those who love jazz and treasure the history, archives, ephemera and, most of all, the music.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "Jazz Collector",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "jazz history",
+        "vinyl collections",
+        "music blog"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedblitz.com/Jazzwax",
+      "title": "JazzWax",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedblitz.com/Jazzwax",
+      "summary": "Marc Myers writes daily on jazz legends and legendary jazz recordings.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "JazzWax",
+      "cleaned_author": "Marc Myers",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "jazz legends",
+        "music writing",
+        "recording reviews"
+      ]
+    },
+    {
+      "id": "feed:https://londonjazzcollector.wordpress.com/feed/",
+      "title": "LondonJazzCollector",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://londonjazzcollector.wordpress.com/feed/",
+      "summary": "Adventures in collecting \"modern jazz\": the classical music of America from the Fifties and Sixties, and a little Seventies, on original vinyl, on a budget, from England.",
+      "details": "Original Category: arts -> music -> genres -> jazz.opml",
+      "cleaned_title": "LondonJazzCollector",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Jazz"
+      ],
+      "language": "en",
+      "keywords": [
+        "modern jazz",
+        "vinyl collecting",
+        "budget vinyl"
+      ]
+    },
+    {
+      "id": "feed:http://silentfilmlivemusic.blogspot.com/feeds/posts/default",
+      "title": "Jeff Rapsis / Silent Film Music",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://silentfilmlivemusic.blogspot.com/feeds/posts/default",
+      "summary": "Chronicling the ongoing adventure of staging silent film screenings with live music in theaters in New England, USA and elsewhere.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Jeff Rapsis / Silent Film Music",
+      "cleaned_author": "Jeff Rapsis",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "silent film screenings",
+        "live music",
+        "film music",
+        "New England"
+      ]
+    },
+    {
+      "id": "feed:https://chrisdyson55.blogspot.com/feeds/posts/default",
+      "title": "Real Ale, Real Music",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chrisdyson55.blogspot.com/feeds/posts/default",
+      "summary": "A celebration of the intersection of real ale and music, featuring highlights from various locations and events.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Real Ale, Real Music",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "Restaurants",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "real ale",
+        "live music",
+        "events"
+      ]
+    }
+  ],
+  "child_categories": []
+}

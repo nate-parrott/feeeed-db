@@ -1,0 +1,269 @@
+{
+  "id": "space",
+  "display_name": "Space",
+  "feeds": [
+    {
+      "id": "substack:top:the_corners_by_nadia_bolz-weber",
+      "title": "The Corners by Nadia Bolz-Weber",
+      "cleaned_title": "The Corners",
+      "summary": "A voice for those who feel like misfits in their spirituality, offering unconventional insights and thoughts on faith and life.",
+      "kind": "feed",
+      "feed_url": "https://thecorners.substack.com/feed",
+      "details": "Original category: Substack top newsletters about faith",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Space"
+      ],
+      "cleaned_author": "Nadia Bolz-Weber",
+      "language": "en",
+      "keywords": [
+        "spirituality",
+        "faith",
+        "unconventional",
+        "misfits"
+      ]
+    },
+    {
+      "id": "feed:https://www.nextbigfuture.com/feed",
+      "title": "NextBigFuture.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nextbigfuture.com/feed",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "NextBigFuture",
+      "cleaned_author": null,
+      "summary": "A technology blog dissecting breakthrough ideas in science and the implications for the future, from AI advancements to space exploration.",
+      "tags": [
+        "Tech",
+        "AI",
+        "Space",
+        "Internet",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "science",
+        "AI",
+        "space",
+        "future"
+      ]
+    },
+    {
+      "id": "feed:https://follow.it/centauri-dreams-imagining-and-planning-interstellar-exploration",
+      "title": "Centauri Dreams",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://follow.it/centauri-dreams-imagining-and-planning-interstellar-exploration",
+      "summary": "Imagining and Planning Interstellar Exploration.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Centauri Dreams",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "interstellar exploration",
+        "space technology",
+        "SETI",
+        "exoplanets"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/CollectspaceTodayInSpaceHistory",
+      "title": "collectSPACE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/CollectspaceTodayInSpaceHistory",
+      "summary": "Source for space history, space artifacts, and space memorabilia. Learn where astronauts will appear, browse collecting guides, and read original space history-related daily reports.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "collectSPACE",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "space history",
+        "astronaut memorabilia",
+        "collecting guides"
+      ]
+    },
+    {
+      "id": "feed:http://dreamsofspace.blogspot.com/feeds/posts/default",
+      "title": "Dreams of Space - Books and Ephemera",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://dreamsofspace.blogspot.com/feeds/posts/default",
+      "summary": "Non-fiction children's space flight stuff 1945-1975.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Dreams of Space - Books and Ephemera",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "children's books",
+        "space flight history",
+        "non-fiction"
+      ]
+    },
+    {
+      "id": "feed:https://www.drewexmachina.com/feed/",
+      "title": "Drew Ex Machina | Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.drewexmachina.com/feed/",
+      "summary": "My website is dedicated to the presentation and discussion of my past and current professional work. My areas of interest include remote sensing, spaceflight, astronomy and astrobiology.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Drew Ex Machina",
+      "cleaned_author": "Andrew LePage",
+      "tags": [
+        "Science",
+        "Astronomy",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space research",
+        "NASA",
+        "astronomy insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.fraknoi.com/feed/",
+      "title": "Exploring the Universe with Andrew Fraknoi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fraknoi.com/feed/",
+      "summary": "This resource aims to simplify astronomy for everyone, bringing complex topics within reach while celebrating celestial events and cosmic phenomena.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Exploring the Universe with Andrew Fraknoi",
+      "cleaned_author": "Andrew Fraknoi",
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "celestial events",
+        "moon phases"
+      ]
+    },
+    {
+      "id": "feed:http://laurelsplutoblog.blogspot.com/feeds/posts/default",
+      "title": "LaurelsPlutoBlog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://laurelsplutoblog.blogspot.com/feeds/posts/default",
+      "summary": "This is a blog advocating the overturning and/or ignoring of the controversial IAU planet definition that demoted Pluto, the adoption of a broader planet definition that includes all dwarf planets, and the chronicling of worldwide efforts toward these goals.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "LaurelsPlutoBlog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "Pluto",
+        "planet definition",
+        "astronomy advocacy"
+      ]
+    },
+    {
+      "id": "feed:https://www.LeonardDavid.com/feed/",
+      "title": "Leonard David's INSIDE OUTER SPACE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.LeonardDavid.com/feed/",
+      "summary": "A space journalist, reporting on space activities for over 50 years.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Leonard David's INSIDE OUTER SPACE",
+      "cleaned_author": "Leonard David",
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space journalism",
+        "NASA updates",
+        "moon missions"
+      ]
+    },
+    {
+      "id": "feed:https://www.thespacereview.com/articles.xml",
+      "title": "The Space Review",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thespacereview.com/articles.xml",
+      "summary": "Essays and commentary about the final frontier.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "The Space Review",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space exploration",
+        "essays",
+        "commentary"
+      ]
+    },
+    {
+      "id": "feed:https://www.universetoday.com/feed/",
+      "title": "Universe Today",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.universetoday.com/feed/",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Universe Today",
+      "cleaned_author": null,
+      "summary": "A leading source for space and astronomy news, covering the latest discoveries and developments in our universe.",
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space news",
+        "astronomy updates"
+      ]
+    }
+  ],
+  "child_categories": []
+}

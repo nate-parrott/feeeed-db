@@ -1,0 +1,6208 @@
+{
+  "id": "science",
+  "display_name": "Science",
+  "feeds": [
+    {
+      "id": "substack:top:fabricated_knowledge_-_doug_olaughlin",
+      "title": "Fabricated Knowledge - Doug OLaughlin",
+      "cleaned_title": "Fabricated Knowledge",
+      "summary": "This newsletter provides insightful analysis on the manufacturing industry, dissecting earnings reports and market trends while occasionally offering investment ideas.",
+      "kind": "feed",
+      "feed_url": "https://www.fabricatedknowledge.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Data",
+        "Finance",
+        "Science",
+        "_high_quality"
+      ],
+      "cleaned_author": "Doug OLaughlin",
+      "language": "en",
+      "keywords": [
+        "manufacturing",
+        "investment",
+        "markets"
+      ]
+    },
+    {
+      "id": "substack:top:noahpinion_-_noah_smith",
+      "title": "Noahpinion - Noah Smith",
+      "cleaned_title": "Noahpinion",
+      "summary": "An engaging exploration of economics, this newsletter blends insightful commentary with current events, making complex topics accessible and relevant to a broader audience.",
+      "kind": "feed",
+      "feed_url": "https://www.noahpinion.blog/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top",
+        "curated"
+      ],
+      "tags": [
+        "Money",
+        "Finance",
+        "Science",
+        "Social",
+        "_intellectual"
+      ],
+      "cleaned_author": "Noah Smith",
+      "language": "en",
+      "keywords": [
+        "economics",
+        "current events",
+        "analysis"
+      ]
+    },
+    {
+      "id": "substack:top:the_crucial_years_-_bill_mckibben",
+      "title": "The Crucial Years - Bill McKibben",
+      "cleaned_title": "The Crucial Years",
+      "summary": "A critical voice in the climate conversation, Bill McKibben offers insights and proposals for winning the fight against climate change.",
+      "kind": "feed",
+      "feed_url": "https://billmckibben.substack.com/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": "Bill McKibben",
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "policy",
+        "environment",
+        "sustainability"
+      ]
+    },
+    {
+      "id": "substack:top:volts_-_david_roberts",
+      "title": "Volts - David Roberts",
+      "cleaned_title": "Volts",
+      "summary": "This newsletter blends technology, politics, and policy discussions around decarbonization, providing a community-focused approach to tackling climate challenges.",
+      "kind": "feed",
+      "feed_url": "https://www.volts.wtf/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": "David Roberts",
+      "language": "en",
+      "keywords": [
+        "decarbonization",
+        "climate policy",
+        "community",
+        "renewable energy"
+      ]
+    },
+    {
+      "id": "substack:top:heated_-_emily_atkin",
+      "title": "HEATED - Emily Atkin",
+      "cleaned_title": "HEATED",
+      "summary": "This passionate newsletter calls for urgent action on climate issues, combining sharp commentary with a focus on the people behind the climate crisis.",
+      "kind": "feed",
+      "feed_url": "https://heated.world/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top",
+        "curated"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": "Emily Atkin",
+      "language": "en",
+      "keywords": [
+        "climate crisis",
+        "activism",
+        "news",
+        "ecological impact"
+      ]
+    },
+    {
+      "id": "substack:top:the_hotshot_wake_up",
+      "title": "The Hotshot Wake Up",
+      "cleaned_title": "The Hotshot Wake Up",
+      "summary": "A practical source for information on wildfires, fire technology, and policies affecting firefighting, aimed at engaging a community concerned about wildfire safety.",
+      "kind": "feed",
+      "feed_url": "https://thehotshotwakeup.substack.com/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "wildfires",
+        "fire management",
+        "policy",
+        "firefighting"
+      ]
+    },
+    {
+      "id": "substack:top:the_mcj_newsletter_-_mcj",
+      "title": "the MCJ Newsletter - MCJ",
+      "cleaned_title": "the MCJ Newsletter",
+      "summary": "A deep dive into energy and industry transition topics, this newsletter curates community-generated solutions for tackling climate issues.",
+      "kind": "feed",
+      "feed_url": "https://newsletter.mcj.vc/feed",
+      "details": "Original category: Substack top newsletters about climate",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "cleaned_author": "MCJ",
+      "language": "en",
+      "keywords": [
+        "energy transition",
+        "solutions",
+        "community",
+        "climate crisis"
+      ]
+    },
+    {
+      "id": "substack:top:your_local_epidemiologist_-_katelyn_jetelina",
+      "title": "Your Local Epidemiologist - Katelyn Jetelina",
+      "cleaned_title": "Your Local Epidemiologist",
+      "summary": "Bridging the gap between public health science and everyday understanding, this newsletter translates complex topics into accessible information.",
+      "kind": "feed",
+      "feed_url": "https://yourlocalepidemiologist.substack.com/feed",
+      "details": "Original category: Substack top newsletters about science",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science"
+      ],
+      "cleaned_author": "Katelyn Jetelina",
+      "language": "en",
+      "keywords": [
+        "public health",
+        "epidemiology",
+        "science communication",
+        "vaccines"
+      ]
+    },
+    {
+      "id": "substack:top:astral_codex_ten_-_scott_alexander",
+      "title": "Astral Codex Ten - Scott Alexander",
+      "cleaned_title": "Astral Codex Ten",
+      "summary": "An analytical blog that intertwines commentary on rationality and various topics, Scott Alexander shares unique insights that challenge conventional thinking.",
+      "kind": "feed",
+      "feed_url": "https://www.astralcodexten.com/feed",
+      "details": "Original category: Substack top newsletters about science",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science"
+      ],
+      "cleaned_author": "Scott Alexander",
+      "language": "en",
+      "keywords": [
+        "rationality",
+        "commentary",
+        "analysis",
+        "science"
+      ]
+    },
+    {
+      "id": "substack:top:razib_khan's_unsupervised_learning",
+      "title": "Razib Khan's Unsupervised Learning",
+      "cleaned_title": "Razib Khan's Unsupervised Learning",
+      "summary": "Exploring genetics, history, and culture, Razib Khan provides thought-provoking insights intertwined with discussion on evolution and its implications.",
+      "kind": "feed",
+      "feed_url": "https://www.razibkhan.com/feed",
+      "details": "Original category: Substack top newsletters about science",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science"
+      ],
+      "cleaned_author": "Razib Khan",
+      "language": "en",
+      "keywords": [
+        "genetics",
+        "history",
+        "culture",
+        "evolution"
+      ]
+    },
+    {
+      "id": "substack:top:rob_henderson's_newsletter",
+      "title": "Rob Henderson's Newsletter",
+      "cleaned_title": "Rob Henderson's Newsletter",
+      "summary": "This newsletter offers a professional perspective on human behavior and social dynamics, connecting psychology with themes of class and societal beliefs.",
+      "kind": "feed",
+      "feed_url": "https://www.robkhenderson.com/feed",
+      "details": "Original category: Substack top newsletters about science",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science"
+      ],
+      "cleaned_author": "Rob Henderson",
+      "language": "en",
+      "keywords": [
+        "psychology",
+        "social class",
+        "human nature",
+        "beliefs"
+      ]
+    },
+    {
+      "id": "substack:top:sensible_medicine_-_vinay_prasad",
+      "title": "Sensible Medicine - Vinay Prasad",
+      "cleaned_title": "Sensible Medicine",
+      "summary": "With a focus on common sense in bio-medicine, Vinay Prasad challenges conventional views and emphasizes thoughtful discussions around health policies.",
+      "kind": "feed",
+      "feed_url": "https://www.sensible-med.com/feed",
+      "details": "Original category: Substack top newsletters about science",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science"
+      ],
+      "cleaned_author": "Vinay Prasad",
+      "language": "en",
+      "keywords": [
+        "bio-medicine",
+        "health policy",
+        "common sense",
+        "medical insights"
+      ]
+    },
+    {
+      "id": "substack:top:the_vajenda_-_dr._jen_gunter",
+      "title": "The Vajenda - Dr. Jen Gunter",
+      "cleaned_title": "The Vajenda",
+      "summary": "The Vajenda expertly navigates the intersection of medical facts and feminism, addressing critical women's health issues with a fiery and informed perspective.",
+      "kind": "feed",
+      "feed_url": "https://vajenda.substack.com/feed",
+      "details": "Original category: Substack top newsletters about health",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Science",
+        "Health"
+      ],
+      "cleaned_author": "Dr. Jen Gunter",
+      "language": "en",
+      "keywords": [
+        "women's health",
+        "feminism",
+        "medical facts",
+        "menopause",
+        "estrogen"
+      ]
+    },
+    {
+      "id": "substack:top:force_of_infection_-_caitlin_rivers",
+      "title": "Force of Infection - Caitlin Rivers",
+      "cleaned_title": "Force of Infection",
+      "summary": "Weekly updates on infectious diseases, designed to keep vulnerable populations informed about health risks.",
+      "kind": "feed",
+      "feed_url": "https://caitlinrivers.substack.com/feed",
+      "details": "Original category: Substack top newsletters about parenting",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Science",
+        "Health"
+      ],
+      "cleaned_author": "Caitlin Rivers",
+      "language": "en",
+      "keywords": [
+        "COVID-19",
+        "health updates",
+        "influenza"
+      ]
+    },
+    {
+      "id": "substack:top:classical_wisdom",
+      "title": "Classical Wisdom",
+      "cleaned_title": "Classical Wisdom",
+      "summary": "Exploring ancient principles and ideas to inform modern life through philosophy, history, literature, and mythology.",
+      "kind": "feed",
+      "feed_url": "https://classicalwisdom.substack.com/feed",
+      "details": "Original category: Substack top newsletters about philosophy",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Science"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "history",
+        "literature"
+      ]
+    },
+    {
+      "id": "feed:popsci.com:Popular Science \u2013 popsci.com",
+      "cleaned_title": "Popular Science",
+      "summary": "With a history of awe-inspiring science reporting, Popular Science covers a broad range of topics from groundbreaking technology to environmental studies, blending curiosity with critical inquiry.",
+      "title": "Popular Science \u2013 popsci.com",
+      "kind": "feed",
+      "feed_url": "https://www.popsci.com/feed/",
+      "popularity_score": 3.3843755920639484,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Tech",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "technology",
+        "innovation",
+        "environment"
+      ]
+    },
+    {
+      "id": "feed:arstechnica.com:Eric Berger \u2013 Ars Technica",
+      "cleaned_title": "Eric Berger",
+      "summary": "Ars Technica's space and technology reporter shares news and analysis about advancements in space exploration and the industry\u2019s future.",
+      "title": "Eric Berger \u2013 Ars Technica",
+      "kind": "feed",
+      "feed_url": "http://arstechnica.com/author/ericberger/feed/",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Eric Berger",
+      "tags": [
+        "Tech",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "space news",
+        "technology",
+        "Elon Musk",
+        "asteroids",
+        "NASA"
+      ]
+    },
+    {
+      "id": "youtube:CrashCourse",
+      "cleaned_title": "CrashCourse",
+      "summary": "A YouTube channel that provides engaging educational videos on a wide range of subjects, including history, science, and literature.",
+      "title": "CrashCourse",
+      "kind": "youtube",
+      "channel_id": "UCX6b17PVsYBQ0ip5gyeme-Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNDCC3BJ44W3MDohf4nPpubWUJjtUNZj335w-0UiA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Online Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "educational videos",
+        "learning resources",
+        "various subjects"
+      ]
+    },
+    {
+      "id": "youtube:TED-Ed",
+      "cleaned_title": "TED-Ed",
+      "summary": "A YouTube channel that features educational videos on a wide range of topics, presented in an engaging and animated format.",
+      "title": "TED-Ed",
+      "kind": "youtube",
+      "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
+      "thumbnail_url": "https://yt3.ggpht.com/HjXKmDGoAp6b-JdGYpqJYYeN4S_CMpD_kqWvldpN53cbzn-i73t6mVNo8mNki-xLPwi0BVSFi-o=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Online Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "animated videos",
+        "educational content",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:blog.mywonderfulworld.org:National Geographic Education Blog",
+      "cleaned_title": "National Geographic Education Blog",
+      "summary": "A website that provides educational resources, lesson plans, and activities focused on geography, science, and exploration.",
+      "title": "National Geographic Education Blog",
+      "kind": "feed",
+      "feed_url": "http://blog.mywonderfulworld.org/atom.xml",
+      "details": "Original category: Education",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "geography resources",
+        "lesson plans",
+        "exploration education"
+      ]
+    },
+    {
+      "id": "youtube:Vsauce",
+      "cleaned_title": "Vsauce",
+      "summary": "A YouTube channel that explores fascinating scientific and philosophical questions through entertaining and thought-provoking videos.",
+      "title": "Vsauce",
+      "kind": "youtube",
+      "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNx1IvwpJ-9sFULjVZHecThPUxDKUCgeRVm5vhMtw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Online Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "science questions",
+        "philosophical exploration",
+        "entertaining videos"
+      ]
+    },
+    {
+      "id": "youtube:Our Changing Climate",
+      "cleaned_title": "Our Changing Climate",
+      "summary": "A YouTube channel that explores various environmental topics, including climate change, sustainability, and conservation.",
+      "title": "Our Changing Climate",
+      "kind": "youtube",
+      "channel_id": "UCNXvxXpDJXp-mZu3pFMzYHQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPm7RF8UKE4ZweyjGWPripW4wXr9p8jwSN5oa_Q=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "sustainability",
+        "pollution",
+        "environmental education"
+      ]
+    },
+    {
+      "id": "reddit:environment",
+      "cleaned_title": "environment",
+      "summary": "A subreddit dedicated to discussions, news, and articles related to the environment, sustainability, and conservation.",
+      "title": "environment",
+      "kind": "reddit",
+      "subreddit": "environment",
+      "details": "Original category: Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "environmental discussions",
+        "sustainability",
+        "conservation news"
+      ]
+    },
+    {
+      "id": "youtube:National Geographic",
+      "cleaned_title": "National Geographic",
+      "summary": "The official YouTube channel of National Geographic, featuring documentaries, explorations, and stories about the natural world and environmental issues.",
+      "title": "National Geographic",
+      "kind": "youtube",
+      "channel_id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "thumbnail_url": "https://yt3.ggpht.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "documentaries",
+        "natural history",
+        "environmental education",
+        "exploration"
+      ]
+    },
+    {
+      "id": "youtube:Engineering Explained",
+      "cleaned_title": "Engineering Explained",
+      "summary": "Engineering Explained is a YouTube channel that focuses on explaining the engineering behind cars and automotive technology.",
+      "title": "Engineering Explained",
+      "kind": "youtube",
+      "channel_id": "UClqhvGmHcvWL9w3R48t9QXQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKZKwJ5be5LBkhR4393YZNI1xhUVtZOzdCACkB-xPw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Cars",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "engineering",
+        "automotive technology",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "feed:mindbodygreen.com:mindbodygreen",
+      "cleaned_title": "mindbodygreen",
+      "summary": "Mind is a UK-based mental health charity that offers information, support, and resources for anyone experiencing mental health problems.",
+      "title": "mindbodygreen",
+      "kind": "feed",
+      "feed_url": "http://www.mindbodygreen.com/rss/feed.xml",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "wellness",
+        "mental health",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "youtube:Pick Up Limes",
+      "cleaned_title": "Pick Up Limes",
+      "summary": "A YouTube channel hosted by a registered dietitian that offers delicious and nutritious plant-based recipes, meal prep ideas, and evidence-based nutrition tips.",
+      "title": "Pick Up Limes",
+      "kind": "youtube",
+      "channel_id": "UCq2E1mIwUKMWzCA4liA_XGQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMe-IKUMfA-CJ3wl55Oqy4EjuV6yXhJsINskIo4Sg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Healthy Eating",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Cooking",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "plant-based",
+        "recipes",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "feed:practiceofwellness.com:Practice of Wellness",
+      "cleaned_title": "Practice of Wellness",
+      "summary": "A resource focused on integrating movement, nutrition, and community for a holistic approach to wellness.",
+      "title": "Practice of Wellness",
+      "kind": "feed",
+      "feed_url": "https://practiceofwellness.com/feed/",
+      "details": "Original category: Health -> Wellness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "wellness",
+        "nutrition",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:feeds.everydayhealth.com:google-discover",
+      "cleaned_title": "google-discover",
+      "summary": "A health-focused source providing medically reviewed information and expert advice for living a healthier life.",
+      "title": "google-discover",
+      "kind": "feed",
+      "feed_url": "https://feeds.everydayhealth.com/google-discover.xml",
+      "details": "Original category: Health -> Wellness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "health",
+        "wellness",
+        "medical advice"
+      ]
+    },
+    {
+      "id": "feed:wellnessmama.com:Natural Health and Wellness Articles & Information | Wellness Mama",
+      "cleaned_title": "Wellness Mama",
+      "summary": "A platform offering straightforward health and wellness information aimed at families and individuals seeking healthier lifestyles.",
+      "title": "Natural Health and Wellness Articles & Information | Wellness Mama",
+      "kind": "feed",
+      "feed_url": "https://wellnessmama.com/health/feed/",
+      "details": "Original category: Health -> Wellness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "wellness",
+        "health tips",
+        "families"
+      ]
+    },
+    {
+      "id": "feed:chriskresser.com:Chris Kresser",
+      "cleaned_title": "Chris Kresser",
+      "summary": "A health blog emphasizing functional medicine and providing insights into various health topics, with a focus on evidence-based practices.",
+      "title": "Chris Kresser",
+      "kind": "feed",
+      "feed_url": "https://chriskresser.com/feed/",
+      "details": "Original category: Health -> Wellness",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "functional medicine",
+        "health advice",
+        "wellness"
+      ]
+    },
+    {
+      "id": "feed:precisionnutrition.com:Precision Nutrition",
+      "cleaned_title": "Precision Nutrition",
+      "summary": "A website that offers evidence-based nutrition and fitness coaching, with articles, guides, and resources to help individuals make sustainable changes to their diet and lifestyle.",
+      "title": "Precision Nutrition",
+      "kind": "feed",
+      "feed_url": "http://www.precisionnutrition.com/feed",
+      "details": "Original category: Health -> Nutrition",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "nutrition",
+        "coaching",
+        "health"
+      ]
+    },
+    {
+      "id": "youtube:Simnett Nutrition",
+      "cleaned_title": "Simnett Nutrition",
+      "summary": "A YouTube channel hosted by a certified nutritionist that provides informative videos on plant-based nutrition, healthy recipes, and fitness tips.",
+      "title": "Simnett Nutrition",
+      "kind": "youtube",
+      "channel_id": "UCpyhJZhJQWKDdJCR07jPY-Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNnZlEk3teLm-CaRLFOmRPdc5OeqTFpnM5_TYZH2g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Nutrition",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health",
+        "Fitness"
+      ],
+      "language": "en",
+      "keywords": [
+        "nutrition",
+        "plant-based",
+        "healthy recipes",
+        "fitness tips"
+      ]
+    },
+    {
+      "id": "reddit:nutrition",
+      "cleaned_title": "nutrition",
+      "summary": "A subreddit dedicated to discussions and sharing of evidence-based information on nutrition, diet, and health.",
+      "title": "nutrition",
+      "kind": "reddit",
+      "subreddit": "nutrition",
+      "details": "Original category: Health -> Nutrition",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Dublin"
+      ],
+      "language": "en",
+      "keywords": [
+        "nutrition science",
+        "diet discussion",
+        "nutrition news"
+      ]
+    },
+    {
+      "id": "youtube:Nutrition with Judy",
+      "cleaned_title": "Nutrition with Judy",
+      "summary": "A YouTube channel hosted by a certified nutritionist that provides educational videos on nutrition science, debunking myths, and practical tips for healthy eating.",
+      "title": "Nutrition with Judy",
+      "kind": "youtube",
+      "channel_id": "UCgXrNUokx_Zgprns3z6zqSg",
+      "thumbnail_url": "https://yt3.ggpht.com/aPJ16N5C_OpDbgGo_-gEEFz5_VuNj7O-nn3LKORZAl4nc7NsmOq8m9s_t6dwphJn1StKS6bFtA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Nutrition",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "nutrition education",
+        "myth debunking",
+        "healthy eating"
+      ]
+    },
+    {
+      "id": "youtube:Kati Morton",
+      "cleaned_title": "Kati Morton",
+      "summary": "Kati Morton is a licensed therapist who creates educational videos on mental health topics. Her YouTube channel covers various aspects of mental health, including anxiety, depression, and self-care.",
+      "title": "Kati Morton",
+      "kind": "youtube",
+      "channel_id": "UCzBYOHyEEzlkRdDOSobbpvw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPIDpsQ7IL3pk1j9l3BG7K1Ox7-RrUVx22XU1WvcA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mental health education",
+        "therapy techniques",
+        "anxiety"
+      ]
+    },
+    {
+      "id": "reddit:mentalhealth",
+      "cleaned_title": "mentalhealth",
+      "summary": "A subreddit dedicated to discussions, support, and resources related to mental health. It provides a platform for individuals to share their experiences and seek advice.",
+      "title": "mentalhealth",
+      "kind": "reddit",
+      "subreddit": "mentalhealth",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mental health support",
+        "community discussions",
+        "personal experiences"
+      ]
+    },
+    {
+      "id": "youtube:Therapy in a Nutshell",
+      "cleaned_title": "Therapy in a Nutshell",
+      "summary": "Therapy in a Nutshell is a YouTube channel created by a licensed therapist. It provides educational videos on mental health, therapy techniques, and self-improvement.",
+      "title": "Therapy in a Nutshell",
+      "kind": "youtube",
+      "channel_id": "UCpuqYFKLkcEryEieomiAv3Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOG3Xuqpu1X6noG12zW3z9hg48fNZygIdb_9MWMsg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mental health education",
+        "self-improvement",
+        "therapy insights"
+      ]
+    },
+    {
+      "id": "reddit:anxiety",
+      "cleaned_title": "anxiety",
+      "summary": "A subreddit dedicated to discussions, support, and resources specifically related to anxiety. It provides a community for individuals dealing with anxiety to connect and share coping strategies.",
+      "title": "anxiety",
+      "kind": "reddit",
+      "subreddit": "anxiety",
+      "details": "Original category: Health -> Mental Health",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "anxiety support",
+        "coping strategies",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:pubmed.ncbi.nlm.nih.gov:Science",
+      "cleaned_title": "Science",
+      "summary": "PubMed is a widely used database of medical research articles. It provides access to a vast collection of scientific literature in the field of medicine.",
+      "title": "Science",
+      "kind": "feed",
+      "feed_url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/0404511/?limit=15&name=Science&utm_campaign=journals",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "medical research",
+        "scientific articles",
+        "PubMed"
+      ]
+    },
+    {
+      "id": "feed:feeds.nature.com:Nature Medicine",
+      "cleaned_title": "Nature Medicine",
+      "summary": "Nature Medicine is a prestigious scientific journal that publishes cutting-edge research in the field of medical science.",
+      "title": "Nature Medicine",
+      "kind": "feed",
+      "feed_url": "http://feeds.nature.com/nm/rss/current",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Health",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "biomedical research",
+        "cancer biology",
+        "neurology",
+        "infectious disease",
+        "metabolic disorders"
+      ]
+    },
+    {
+      "id": "feed:feeds.nature.com:Nature Medicine",
+      "cleaned_title": "Nature Medicine",
+      "summary": "Nature Medicine is a prestigious scientific journal that publishes cutting-edge research in the field of medical science.",
+      "title": "Nature Medicine",
+      "kind": "feed",
+      "feed_url": "http://feeds.nature.com/nm/rss/current",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Health",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "biomedical research",
+        "cancer biology",
+        "neurology",
+        "infectious disease",
+        "metabolic disorders"
+      ]
+    },
+    {
+      "id": "feed:stm.sciencemag.org:AAAS: Science Translational Medicine: Table of Contents",
+      "cleaned_title": "AAAS: Science Translational Medicine",
+      "summary": "Science Translational Medicine publishes research that bridges the gap between basic science and clinical applications, focusing on translational research in medicine.",
+      "title": "AAAS: Science Translational Medicine: Table of Contents",
+      "kind": "feed",
+      "feed_url": "http://stm.sciencemag.org/rss/current.xml",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Biology",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "translational research",
+        "clinical applications",
+        "medical science"
+      ]
+    },
+    {
+      "id": "feed:stm.sciencemag.org:AAAS: Science Translational Medicine: Table of Contents",
+      "cleaned_title": "AAAS: Science Translational Medicine",
+      "summary": "Science Translational Medicine publishes research that bridges the gap between basic science and clinical applications, focusing on translational research in medicine.",
+      "title": "AAAS: Science Translational Medicine: Table of Contents",
+      "kind": "feed",
+      "feed_url": "http://stm.sciencemag.org/rss/current.xml",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Biology",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "translational research",
+        "clinical applications",
+        "medical science"
+      ]
+    },
+    {
+      "id": "feed:jamanetwork.com:JAMA Network Open New Online",
+      "cleaned_title": "JAMA Network Open",
+      "summary": "The JAMA Network consists of a range of medical journals published by the American Medical Association, covering various specialties and research areas.",
+      "title": "JAMA Network Open New Online",
+      "kind": "feed",
+      "feed_url": "https://jamanetwork.com/rss/site_214/187.xml",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "medical research",
+        "healthcare",
+        "clinical studies"
+      ]
+    },
+    {
+      "id": "feed:jamanetwork.com:JAMA Network Open New Online",
+      "cleaned_title": "JAMA Network Open",
+      "summary": "The JAMA Network consists of a range of medical journals published by the American Medical Association, covering various specialties and research areas.",
+      "title": "JAMA Network Open New Online",
+      "kind": "feed",
+      "feed_url": "https://jamanetwork.com/rss/site_214/187.xml",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "medical research",
+        "healthcare",
+        "clinical studies"
+      ]
+    },
+    {
+      "id": "youtube:TEDMED",
+      "cleaned_title": "TEDMED",
+      "summary": "TEDMED is a YouTube channel that features talks and presentations from leading experts in the field of medical research, covering a wide range of topics.",
+      "title": "TEDMED",
+      "kind": "youtube",
+      "channel_id": "UC6Arrv8WD3Z2CehgFefCXTA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqN6KPfLLpjEs0Ldl8Dx90GbSDML86il2lLgojgQOA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "medical research",
+        "TED talks",
+        "health insights"
+      ]
+    },
+    {
+      "id": "youtube:NIH VideoCast",
+      "cleaned_title": "NIH VideoCast",
+      "summary": "The NIH Videocasting channel on YouTube provides access to a wealth of videos related to medical research, including lectures, conferences, and interviews with experts.",
+      "title": "NIH VideoCast",
+      "kind": "youtube",
+      "channel_id": "UCgyzPgagPZxXM8dOAjE9B2w",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPcVs8Thm0E-WtN3DFfd96ZhBNWVqS0tmfCJqpo1A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "medical research",
+        "lectures",
+        "interviews"
+      ]
+    },
+    {
+      "id": "reddit:Science",
+      "cleaned_title": "Science",
+      "summary": "A subreddit for the discussion of scientific research, news, and related topics across various disciplines.",
+      "title": "Science",
+      "kind": "reddit",
+      "subreddit": "Science",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Biology",
+        "Physics",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific research",
+        "community discussions",
+        "latest publications"
+      ]
+    },
+    {
+      "id": "reddit:AskScience",
+      "cleaned_title": "AskScience",
+      "summary": "r/AskScience is a subreddit where users can ask questions and receive answers from a community of knowledgeable individuals, including experts in the field of medical research.",
+      "title": "AskScience",
+      "kind": "reddit",
+      "subreddit": "AskScience",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "science questions",
+        "expert answers",
+        "community knowledge"
+      ]
+    },
+    {
+      "id": "feed:schoolofthought.substack.com:School of Thought",
+      "cleaned_title": "School of Thought",
+      "summary": "A blog focusing on evidence-based ideas and making them usable, emphasizing the importance of learning with visual tools.",
+      "title": "School of Thought",
+      "kind": "feed",
+      "feed_url": "https://schoolofthought.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Learning",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "evidence-based learning",
+        "visual learning",
+        "learning strategies"
+      ]
+    },
+    {
+      "id": "feed:export.arxiv.org:ArXiv Query: search_query=au: Bengio_Y&id_list=&start=0&max_results=100",
+      "cleaned_title": "ArXiv Query",
+      "summary": "A repository of electronic preprints in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, and statistics.",
+      "title": "ArXiv Query: search_query=au: Bengio_Y&id_list=&start=0&max_results=100",
+      "kind": "feed",
+      "feed_url": "http://export.arxiv.org/api/query?search_query=au:+Bengio_Y&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics",
+        "Math",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "preprints",
+        "research",
+        "academic publishing"
+      ]
+    },
+    {
+      "id": "feed:daily.jstor.org:JSTOR Daily",
+      "cleaned_title": "JSTOR Daily",
+      "summary": "A digital library that provides access to academic journals, books, and primary sources in the humanities, social sciences, and natural sciences.",
+      "title": "JSTOR Daily",
+      "kind": "feed",
+      "feed_url": "http://daily.jstor.org/feed/",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db",
+        "curated"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "academic research",
+        "scholarly articles",
+        "humanities",
+        "social sciences"
+      ]
+    },
+    {
+      "id": "youtube:TED",
+      "cleaned_title": "TED",
+      "summary": "The official YouTube channel of TED Talks, featuring inspiring and thought-provoking talks from experts in various fields, including academic research.",
+      "title": "TED",
+      "kind": "youtube",
+      "channel_id": "UCAuUUnT6oDeKwE6v1NGQxug",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNnFV3H1lIKv43VSVdknMH6aJPNAbyTmpSK173s3w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Education",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "TED Talks",
+        "inspiration",
+        "education"
+      ]
+    },
+    {
+      "id": "youtube:SciShow",
+      "cleaned_title": "SciShow",
+      "summary": "A YouTube channel that explores scientific topics with a focus on making complex concepts accessible and engaging for a general audience, including academic research.",
+      "title": "SciShow",
+      "kind": "youtube",
+      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
+      "thumbnail_url": "https://yt3.ggpht.com/QYr8VgYcdA4FBDExWgAqUHCrBq0dgJvPPy-S4hUa_H00wVlIej_otvyHMLmRFYz5FqH6zPlrvg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "science education",
+        "explaining science",
+        "accessibility in science"
+      ]
+    },
+    {
+      "id": "feed:mattsclancy.substack.com:What's New Under the Sun",
+      "cleaned_title": "What's New Under the Sun",
+      "summary": "A thoughtful exploration of academia's insights into innovation, focusing on government funding and research dynamics.",
+      "title": "What's New Under the Sun",
+      "kind": "feed",
+      "feed_url": "https://mattsclancy.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "innovation",
+        "R&D",
+        "government funding"
+      ]
+    },
+    {
+      "id": "feed:oneusefulthing.org:One Useful Thing",
+      "cleaned_title": "One Useful Thing",
+      "summary": "A blog dedicated to dissecting the implications of artificial intelligence on work and education, featuring insightful guides and analyses.",
+      "title": "One Useful Thing",
+      "kind": "feed",
+      "feed_url": "https://www.oneusefulthing.org/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Prof. Ethan Mollick",
+      "tags": [
+        "Tech",
+        "Science",
+        "AI",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "education",
+        "work"
+      ]
+    },
+    {
+      "id": "feed:gradingforgrowth.com:Grading for Growth",
+      "cleaned_title": "Grading for Growth",
+      "summary": "A research-based blog discussing innovative grading practices in higher education, emphasizing alternative and constructive approaches.",
+      "title": "Grading for Growth",
+      "kind": "feed",
+      "feed_url": "https://gradingforgrowth.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "grading reform",
+        "higher education"
+      ]
+    },
+    {
+      "id": "feed:freaktakes.com:FreakTakes",
+      "cleaned_title": "FreakTakes",
+      "summary": "A resource for aspiring researchers, offering insights into the operations of historically significant R&D organizations.",
+      "title": "FreakTakes",
+      "kind": "feed",
+      "feed_url": "https://www.freaktakes.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "research",
+        "innovation",
+        "R&D"
+      ]
+    },
+    {
+      "id": "feed:pershmail.substack.com:Pershmail",
+      "cleaned_title": "Pershmail",
+      "summary": "A blog reflecting on teaching methodologies and mathematical concepts, inviting debate around educational practices.",
+      "title": "Pershmail",
+      "kind": "feed",
+      "feed_url": "https://pershmail.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "teaching",
+        "math",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:loleen.substack.com:Academia Made Easier",
+      "cleaned_title": "Academia Made Easier",
+      "summary": "A blog serving educators in academia with tips on productivity, teaching strategies, and achieving a work-life balance.",
+      "title": "Academia Made Easier",
+      "kind": "feed",
+      "feed_url": "https://loleen.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "productivity",
+        "teaching",
+        "work-life balance"
+      ]
+    },
+    {
+      "id": "feed:scholarstage.substack.com:Scholar's Stage",
+      "cleaned_title": "Scholar's Stage",
+      "summary": "A platform for in-depth discussions on international politics, history, and insights on the Communist Party of China and American conservatism.",
+      "title": "Scholar's Stage",
+      "kind": "feed",
+      "feed_url": "https://scholarstage.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "Academia",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "China",
+        "politics",
+        "history"
+      ]
+    },
+    {
+      "id": "youtube:Khan Academy",
+      "cleaned_title": "Khan Academy",
+      "summary": "A nonprofit organization that provides free educational resources, including video lessons, practice exercises, and personalized learning tools.",
+      "title": "Khan Academy",
+      "kind": "youtube",
+      "channel_id": "UC4a-Gbdw7vOaccHmFo40b9g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNL-mJbhcGBphzkMF6OIxzjMDbLqfkHw23k8WIW=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "free education",
+        "learning resources",
+        "Khan Academy"
+      ]
+    },
+    {
+      "id": "feed:edsurge.com:EdSurge Articles",
+      "cleaned_title": "EdSurge Articles",
+      "summary": "A website that covers the latest news, trends, and insights in education technology and innovation.",
+      "title": "EdSurge Articles",
+      "kind": "feed",
+      "feed_url": "https://www.edsurge.com/articles_rss.rss",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education technology",
+        "EdSurge",
+        "teaching insights"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Hechinger Report",
+      "cleaned_title": "The Hechinger Report",
+      "summary": "An independent nonprofit news organization that covers educational policy and issues, with a focus on equity and innovation.",
+      "title": "The Hechinger Report",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/HechingerReport",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education policy",
+        "innovation",
+        "inequality"
+      ]
+    },
+    {
+      "id": "feed:ecs.org:Education Commission of the States",
+      "cleaned_title": "Education Commission of the States",
+      "summary": "An organization that tracks education policy and provides research, analysis, and resources to inform policy decisions at the state level.",
+      "title": "Education Commission of the States",
+      "kind": "feed",
+      "feed_url": "http://www.ecs.org/feed/",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "Education",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "education policy",
+        "state policy",
+        "research",
+        "analysis"
+      ]
+    },
+    {
+      "id": "youtube:THE BREAKDOWN",
+      "cleaned_title": "THE BREAKDOWN",
+      "summary": "The Breakdown is a YouTube channel hosted by Shaun McBride that explores environmental issues and sustainability.",
+      "title": "THE BREAKDOWN",
+      "kind": "youtube",
+      "channel_id": "UCTNn5302BU-aBtQcsWdLsgw",
+      "thumbnail_url": "https://yt3.ggpht.com/vgJgoX5hNrHCp2dpL-GEGaRrBMQsEiCniXQvcOpw2JvY-nenvRixhPTVaig_jXMSfG3We7cW=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Shaun McBride",
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "environment",
+        "sustainability",
+        "humor"
+      ]
+    },
+    {
+      "id": "youtube:BBC Earth",
+      "cleaned_title": "BBC Earth",
+      "summary": "BBC Earth's YouTube channel showcases stunning wildlife documentaries, including footage of rare and endangered species from around the world.",
+      "title": "BBC Earth",
+      "kind": "youtube",
+      "channel_id": "UCwmZiChSryoWQCZMIQezgTg",
+      "thumbnail_url": "https://yt3.ggpht.com/ENqrWbIENEEkPzhincJKsAZNIMo0j0Y6yqp9BQizNIYqPlZrUA8fUqD49wh3BDnLFbUXdNoEV2E=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Wildlife",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "World News",
+        "Climate & Environment",
+        "Biology",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "wildlife",
+        "documentaries",
+        "nature"
+      ]
+    },
+    {
+      "id": "youtube:The Dodo",
+      "cleaned_title": "The Dodo",
+      "summary": "The Dodo's YouTube channel features heartwarming and inspiring stories about animals, including wildlife rescues, rehabilitations, and conservation efforts.",
+      "title": "The Dodo",
+      "kind": "youtube",
+      "channel_id": "UCINb0wqPz-A0dV9nARjJlOQ",
+      "thumbnail_url": "https://yt3.ggpht.com/Qh30zzYakOakdqkxoBxcgtKizM1n62XDssdR92hl69geJNbEPkAyZG1osr-BpCDP54H4EX48pA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Wildlife",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "World News",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "animal stories",
+        "rescues",
+        "conservation"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Climate Home News",
+      "cleaned_title": "Climate Home News",
+      "summary": "Climate Home News is an independent news site dedicated to bringing you the latest updates and analysis on climate change and its impacts.",
+      "title": "Climate Home News",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/ClimateHome",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "politics",
+        "environment"
+      ]
+    },
+    {
+      "id": "youtube:PBS Eons",
+      "cleaned_title": "PBS Eons",
+      "summary": "PBS Eons is a YouTube channel that explores the history of life on Earth, including episodes on climate change and its effects on the planet.",
+      "title": "PBS Eons",
+      "kind": "youtube",
+      "channel_id": "UCzR-rom72PHN9Zg7RML9EbA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMHi7nSeBdU2dg_aAdmLpyvYX1cx9-0TpqmXN_3zQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "evolution",
+        "climate change",
+        "Earth history"
+      ]
+    },
+    {
+      "id": "youtube:ClimateAdam",
+      "cleaned_title": "ClimateAdam",
+      "summary": "ClimateAdam is a YouTube channel hosted by climate scientist Adam Levy, who breaks down complex climate science topics in an engaging and accessible way.",
+      "title": "ClimateAdam",
+      "kind": "youtube",
+      "channel_id": "UCCu5wtZ5uOWZp_roz7wHPfg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPlHVo9IVo3LAw-pBJ3yAitu-9b_JGkVNOxX8OPDg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Adam Levy",
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate science",
+        "education",
+        "greenhouse gases"
+      ]
+    },
+    {
+      "id": "youtube:Climate LAB",
+      "cleaned_title": "Climate LAB",
+      "summary": "Climate Lab is a YouTube series produced by the University of California that explores the science of climate change and its potential solutions.",
+      "title": "Climate LAB",
+      "kind": "youtube",
+      "channel_id": "UCzVNI-3TjCVBbRzJRwKbqSA",
+      "thumbnail_url": "https://yt3.ggpht.com/kHfwshmiER5qfBJyKO-HFwFUzW2UxRd-RpP8hSFtd81qncvSgxEK34eMjbla7r1OlGlyR0QcxA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate science",
+        "education",
+        "environmental solutions"
+      ]
+    },
+    {
+      "id": "feed:cleantechnica.com:CleanTechnica",
+      "cleaned_title": "CleanTechnica",
+      "summary": "A website that focuses on clean technology and renewable energy news, analysis, and insights.",
+      "title": "CleanTechnica",
+      "kind": "feed",
+      "feed_url": "http://cleantechnica.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "Cars",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "electric vehicles",
+        "renewable energy",
+        "clean tech"
+      ]
+    },
+    {
+      "id": "feed:solarpowerworldonline.com:Solar Power World",
+      "cleaned_title": "Solar Power World",
+      "summary": "A comprehensive resource for solar power news, technology, and installation insights.",
+      "title": "Solar Power World",
+      "kind": "feed",
+      "feed_url": "http://www.solarpowerworldonline.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "solar power",
+        "installation",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:windpowerengineering.com:Windpower Engineering & Development",
+      "cleaned_title": "Windpower Engineering & Development",
+      "summary": "A leading source for wind energy news, technology updates, and project developments.",
+      "title": "Windpower Engineering & Development",
+      "kind": "feed",
+      "feed_url": "http://www.windpowerengineering.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "wind energy",
+        "technology",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:hydroreview.com:Hydro Review",
+      "cleaned_title": "Hydro Review",
+      "summary": "A publication that covers hydropower news, technology advancements, and project updates.",
+      "title": "Hydro Review",
+      "kind": "feed",
+      "feed_url": "https://www.hydroreview.com/feed/",
+      "details": "Original category: Environment -> Green Energy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Data",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "hydropower",
+        "technology",
+        "updates"
+      ]
+    },
+    {
+      "id": "bluesky:did:plc:cyyd366g3hrxp5rynixm2mm3",
+      "title": "depthsofwikipedia.bsky.social",
+      "kind": "bluesky",
+      "bluesky_did": "did:plc:cyyd366g3hrxp5rynixm2mm3",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "depthsofwikipedia",
+      "cleaned_author": null,
+      "summary": "This feed explores the depths of Wikipedia, engaging with its vast array of topics in a light-hearted manner, inviting conversations and discussions about unique articles.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Learning",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Wikipedia",
+        "articles",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "feed:http://www.instapaper.com/daily.rss",
+      "title": "Instapaper Daily",
+      "kind": "feed",
+      "feed_url": "http://www.instapaper.com/daily.rss",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Instapaper Daily",
+      "cleaned_author": null,
+      "summary": "This daily feed curates an eclectic mix of topical analyses and thought-provoking viewpoints, covering a range of societal and technological issues.",
+      "tags": [
+        "News",
+        "Politics",
+        "Science",
+        "Thinking",
+        "Humor",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "politics",
+        "technology",
+        "opinion"
+      ]
+    },
+    {
+      "id": "feed:https://www.outofpocket.health/p/rss.xml",
+      "title": "Out-of-Pocket Blog \u2013 outofpocket.health",
+      "kind": "feed",
+      "feed_url": "https://www.outofpocket.health/p/rss.xml",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Out-of-Pocket Blog",
+      "cleaned_author": null,
+      "summary": "This blog examines the intricacies of healthcare with an emphasis on digital therapeutics, offering insights via a somewhat irregular posting schedule.",
+      "tags": [
+        "Science",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "healthcare",
+        "digital therapeutics",
+        "medicine"
+      ]
+    },
+    {
+      "id": "feed:https://grist.org/feed/",
+      "title": "Grist",
+      "kind": "feed",
+      "feed_url": "https://grist.org/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Grist",
+      "cleaned_author": null,
+      "summary": "A thought-provoking platform dedicated to climate justice and practical solutions, Grist provides commentary on environmental issues and policies influencing sustainability.",
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "environment",
+        "sustainability",
+        "policy"
+      ]
+    },
+    {
+      "id": "feed:https://abakcus.com/feed/",
+      "title": "Abakcus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://abakcus.com/feed/",
+      "summary": "The best curation site for only math and science.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Abakcus",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "math",
+        "science",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:http://donaldclarkplanb.blogspot.com/feeds/posts/default",
+      "title": "Donald Clark Plan B",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://donaldclarkplanb.blogspot.com/feeds/posts/default",
+      "summary": "What is Plan B? Not Plan A!",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Donald Clark Plan B",
+      "cleaned_author": "Donald Clark",
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "AI",
+        "learning methods",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:http://notawfulandboring.blogspot.com/feeds/posts/default",
+      "title": "Not awful and boring ideas for teaching statistics",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://notawfulandboring.blogspot.com/feeds/posts/default",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Not awful and boring ideas for teaching statistics",
+      "cleaned_author": null,
+      "summary": "This blog provides engaging and innovative ideas for teaching statistics, seeking to make the subject interesting and approachable for both teachers and students.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "teaching",
+        "statistics",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:https://punyamishra.com/feed/",
+      "title": "Punya Mishra's Web | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://punyamishra.com/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Punya Mishra's Web",
+      "cleaned_author": "Punya Mishra",
+      "summary": "A blog exploring the intersection of education, creativity, technology, and design. The posts provide insightful discussions on modern educational practices and innovative uses of AI in learning.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "creativity",
+        "technology",
+        "design",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:https://researchwhisperer.org/feed/",
+      "title": "The Research Whisperer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://researchwhisperer.org/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "The Research Whisperer",
+      "cleaned_author": null,
+      "summary": "This blog offers practical advice and insights on research processes, aiding scholars in navigating the complexities of academia, particularly post-dissertation challenges.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "research",
+        "academia",
+        "dissertation",
+        "peer review",
+        "integrity"
+      ]
+    },
+    {
+      "id": "feed:https://www.resourceaholic.com/feeds/posts/default",
+      "title": "Resourceaholic",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.resourceaholic.com/feeds/posts/default",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Resourceaholic",
+      "cleaned_author": null,
+      "summary": "A dedicated resource for educators focusing on secondary school mathematics, providing innovative teaching ideas and practical resources to engage students effectively.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "teaching resources",
+        "education",
+        "secondary school"
+      ]
+    },
+    {
+      "id": "feed:https://www.specialneedsjungle.com/feed/",
+      "title": "Special Needs Jungle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.specialneedsjungle.com/feed/",
+      "summary": "News, info, resources & informed opinion about Special Educational Needs, disability, children\u2019s physical and mental health, rare disease. Campaigning to #FixSEND.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "Special Needs Jungle",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "special education",
+        "disability",
+        "advocacy",
+        "health",
+        "education policy"
+      ]
+    },
+    {
+      "id": "feed:https://www.teachertoolkit.co.uk/feed/",
+      "title": "TeacherToolkit - Teacher Blog Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.teachertoolkit.co.uk/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "TeacherToolkit",
+      "cleaned_author": null,
+      "summary": "Considered one of the most influential education blogs in the UK, TeacherToolkit provides insightful articles aimed at enhancing teaching practices and understanding contemporary educational challenges.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education blog",
+        "teaching strategies",
+        "UK education",
+        "classroom practices"
+      ]
+    },
+    {
+      "id": "feed:https://www.teachthefuture.org/blog-feed.xml",
+      "title": "Teach the Future | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.teachthefuture.org/blog-feed.xml",
+      "summary": "Get inspired by ideas on teaching the future from our global team of volunteers, facilitators, trainers, academics and teachers.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Teach the Future",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "future",
+        "innovation",
+        "sustainability",
+        "global education"
+      ]
+    },
+    {
+      "id": "feed:https://thesiswhisperer.com/feed/",
+      "title": "The Thesis Whisperer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thesiswhisperer.com/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "The Thesis Whisperer",
+      "cleaned_author": null,
+      "summary": "An informative blog dedicated to demystifying the thesis writing process, offering tips, advice, and reflections on academic life to help students successfully navigate their scholarly journeys.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "thesis",
+        "academia",
+        "academic life",
+        "scholarship",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:https://www.ikkaro.com/feed/",
+      "title": "Ikkaro - Homemade inventions and DIY",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ikkaro.com/feed/",
+      "summary": "The best inventions and homemade bots, scientific curiosities, techniques, engineering and more from a Maker / Hacker.",
+      "details": "Original Category: science -> engineering.opml",
+      "cleaned_title": "Ikkaro - Homemade inventions and DIY",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "DIY",
+        "Science",
+        "_intellectual"
+      ],
+      "language": "es",
+      "keywords": [
+        "DIY",
+        "inventions",
+        "experiments"
+      ]
+    },
+    {
+      "id": "feed:https://www.ikkaro.com/feed/",
+      "title": "Ikkaro - Homemade inventions and DIY",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.ikkaro.com/feed/",
+      "summary": "The best inventions and homemade bots, scientific curiosities, techniques, engineering and more from a Maker / Hacker.",
+      "details": "Original Category: science -> engineering.opml",
+      "cleaned_title": "Ikkaro - Homemade inventions and DIY",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "DIY",
+        "Science",
+        "_intellectual"
+      ],
+      "language": "es",
+      "keywords": [
+        "DIY",
+        "inventions",
+        "experiments"
+      ]
+    },
+    {
+      "id": "feed:https://labmuffin.com/feed/",
+      "title": "Lab Muffin Beauty Science",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://labmuffin.com/feed/",
+      "summary": "The science behind beauty and cosmetic products, explained in an easy-to-understand way by a PhD scientist and science educator.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Lab Muffin Beauty Science",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Beauty",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "beauty science",
+        "cosmetics",
+        "research"
+      ]
+    },
+    {
+      "id": "feed:https://www.dutchgenealogy.nl/feed/",
+      "title": "Dutch Genealogy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.dutchgenealogy.nl/feed/",
+      "summary": "Find your ancestors from the Netherlands.",
+      "details": "Original Category: humanities -> history -> genealogy.opml",
+      "cleaned_title": "Dutch Genealogy",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "History",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "genealogy",
+        "ancestors",
+        "Netherlands",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://www.autodidacts.io/rss/",
+      "title": "The Autodidacts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.autodidacts.io/rss/",
+      "summary": "Exploring the universe from the inside out.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "The Autodidacts",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://writing.kemitchell.com/feed.xml",
+      "title": "/dev/lawyer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://writing.kemitchell.com/feed.xml",
+      "summary": "law, technology, and the space between.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "/dev/lawyer",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Law",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "law",
+        "technology",
+        "LLM",
+        "code generation"
+      ]
+    },
+    {
+      "id": "feed:https://rjlipton.com/feed/",
+      "title": "G\u00f6del's Lost Letter and P=NP",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rjlipton.com/feed/",
+      "summary": "a personal view of the theory of computation.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "G\u00f6del's Lost Letter and P=NP",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "computation",
+        "mathematics",
+        "theory"
+      ]
+    },
+    {
+      "id": "feed:https://zettelkasten.de/feed.atom",
+      "title": "Zettelkasten knowledge and info management",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://zettelkasten.de/feed.atom",
+      "summary": "A Zettelkasten is a personal tool for thinking and writing that creates an interconnected web of thought. Its emphasis is on connection and not mere collection of ideas.",
+      "details": "Original Category: humanities.opml",
+      "cleaned_title": "Zettelkasten knowledge and info management",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Writing",
+        "Thinking",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "Zettelkasten",
+        "knowledge management",
+        "personal development"
+      ]
+    },
+    {
+      "title": "Aeon | a world of ideas",
+      "popularity_score": 6.421125116713352,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://aeon.co/feed.rss",
+      "kind": "feed",
+      "id": "feed:https://aeon.co/feed.rss",
+      "cleaned_title": "Aeon",
+      "cleaned_author": null,
+      "summary": "A deep dive into thought-provoking essays and videos that encourage exploration and consideration of diverse ideas and cultures.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Physics",
+        "Photos",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "ideas",
+        "culture",
+        "essays"
+      ]
+    },
+    {
+      "id": "feed:https://www.neatorama.com/feed/",
+      "title": "Neatorama",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.neatorama.com/feed/",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Neatorama",
+      "cleaned_author": null,
+      "summary": "A treasure trove of bizarre and fascinating facts, Neatorama brings together the neatest stories and curiosities from around the web, perfect for those who love learning and discovery.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "curiosities",
+        "facts",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:https://tywkiwdbi.blogspot.com/feeds/posts/default",
+      "title": "TYWKIWDBI (\"Tai-Wiki-Widbee\")",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tywkiwdbi.blogspot.com/feeds/posts/default",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "TYWKIWDBI",
+      "cleaned_author": null,
+      "summary": "This blog curates unusual and fascinating facts that may have been overlooked elsewhere. With its eclectic content, it brings to light things readers likely wouldn\u2019t know without the blog's intermittent updates.",
+      "tags": [
+        "Arts & Culture",
+        "Education",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "curated facts",
+        "interesting knowledge",
+        "obscure topics"
+      ]
+    },
+    {
+      "id": "feed:https://digicult.it/feed/",
+      "title": "DIGICULT | Digital Art, Design and Culture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://digicult.it/feed/",
+      "summary": "Since 2005, Digicult is a platform that critically examines the impact of digital technologies and science on art, design, culture and contemporary society.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "DIGICULT",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "digital art",
+        "contemporary society",
+        "cultural critique"
+      ]
+    },
+    {
+      "id": "feed:https://jainfamilyinstitute.org/category/news/feed/",
+      "title": "Jain Family Institute - News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jainfamilyinstitute.org/category/news/feed/",
+      "summary": "Our mission is to address pressing social problems by identifying and building high-impact interventions that translate to real world progress.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Jain Family Institute",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "social problems",
+        "research",
+        "interventions",
+        "guaranteed income"
+      ]
+    },
+    {
+      "id": "feed:https://4gravitons.com/feed/",
+      "title": "4 gravitons",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://4gravitons.com/feed/",
+      "summary": "The trials and tribulations of four gravitons and a physicist.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "4 gravitons",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "physics",
+        "science",
+        "creativity",
+        "humor"
+      ]
+    },
+    {
+      "id": "feed:http://fetchrss.com/rss/6349952558d159296d0ef0c2634994e836de582f7528bc52.xml",
+      "title": "THE ANOMALIST",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://fetchrss.com/rss/6349952558d159296d0ef0c2634994e836de582f7528bc52.xml",
+      "summary": "World News on UFOs, Bigfoot, the Paranormal, and Other Mysteries at the Edge of Science.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "THE ANOMALIST",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "mysteries",
+        "UFOs",
+        "science",
+        "anomalies"
+      ]
+    },
+    {
+      "id": "feed:https://asymptotia.com/feed/",
+      "title": "Asymptotia",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://asymptotia.com/feed/",
+      "summary": "A personal blog accompanying a physicist's journey through complex topics in science, presented with nuance and depth.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Asymptotia",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "personal blog",
+        "physicist"
+      ]
+    },
+    {
+      "id": "feed:https://johncarlosbaez.wordpress.com/feed/",
+      "title": "Azimuth",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://johncarlosbaez.wordpress.com/feed/",
+      "summary": "From math to physics to earth science and biology, computer science \u2026 centered around the theme of what scientists, engineers and programmers can do to help save a planet in crisis.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Azimuth",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "environment",
+        "engineering",
+        "mathematics",
+        "physics"
+      ]
+    },
+    {
+      "id": "feed:https://condensedconcepts.blogspot.com/feeds/posts/default",
+      "title": "Condensed concepts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://condensedconcepts.blogspot.com/feeds/posts/default",
+      "summary": "Ruminations on emergent phenomena in condensed phases of matter.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Condensed Concepts",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "emergent phenomena",
+        "condensed matter physics",
+        "quantum states"
+      ]
+    },
+    {
+      "id": "feed:http://datacolada.org/feed",
+      "title": "Data Colada",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://datacolada.org/feed",
+      "summary": "Thinking about evidence and vice versa.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Data Colada",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "evidence",
+        "data analysis",
+        "research methods"
+      ]
+    },
+    {
+      "id": "feed:https://www.newthingsunderthesun.com/rss.xml",
+      "title": "New Things Under the Sun",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.newthingsunderthesun.com/rss.xml",
+      "summary": "A living literature review on social science research about innovation.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "New Things Under the Sun",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "innovation",
+        "social science",
+        "government funding"
+      ]
+    },
+    {
+      "id": "feed:https://nintil.com/rss.xml",
+      "title": "Nintil",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nintil.com/rss.xml",
+      "summary": "To estimate, compare, distinguish, discuss, and trace to its principal sources everything.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Nintil",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "analysis",
+        "comparison",
+        "science"
+      ]
+    },
+    {
+      "id": "feed:https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
+      "title": "Not Even Wrong",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.math.columbia.edu/~woit/wordpress/?feed=rss2",
+      "summary": "Not Even Wrong provides critical commentary on current scientific discourse, addressing various topics related to academia and physics with a focus on clarity and engagement.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Not Even Wrong",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Physics",
+        "Academia",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific critique",
+        "academic discourse",
+        "physics"
+      ]
+    },
+    {
+      "id": "feed:https://retractionwatch.com/feed/",
+      "title": "Retraction Watch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://retractionwatch.com/feed/",
+      "summary": "Tracking retractions as a window into the scientific process.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Retraction Watch",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Journalism",
+        "Academia",
+        "_intellectual",
+        "_mainstream"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific integrity",
+        "research retractions",
+        "academic scrutiny"
+      ]
+    },
+    {
+      "id": "feed:https://backreaction.blogspot.com/feeds/posts/default",
+      "title": "Sabine Hossenfelder: Backreaction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://backreaction.blogspot.com/feeds/posts/default",
+      "summary": "Science News, Physics, Science, Philosophy, Philosophy of Science.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Backreaction",
+      "cleaned_author": "Sabine Hossenfelder",
+      "tags": [
+        "Science",
+        "Physics",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "universe",
+        "physics",
+        "science",
+        "philosophy"
+      ]
+    },
+    {
+      "id": "feed:https://scottaaronson.blog/?feed=rss2",
+      "title": "Shtetl-Optimized",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scottaaronson.blog/?feed=rss2",
+      "summary": "The Blog of Scott Aaronson.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Shtetl-Optimized",
+      "cleaned_author": "Scott Aaronson",
+      "tags": [
+        "Science",
+        "AI",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "quantum computing",
+        "complexity theory",
+        "science"
+      ]
+    },
+    {
+      "id": "feed:https://singularityhub.com/feed/",
+      "title": "Singularity Hub",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://singularityhub.com/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Singularity Hub",
+      "cleaned_author": null,
+      "summary": "Chronicling the technological frontier, this blog covers groundbreaking breakthroughs and discussions shaping the future of technology and science.",
+      "tags": [
+        "Science",
+        "AI",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "science breakthroughs",
+        "future"
+      ]
+    },
+    {
+      "id": "feed:https://slimemoldtimemold.com/feed/",
+      "title": "SLIME MOLD TIME MOLD",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://slimemoldtimemold.com/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "SLIME MOLD TIME MOLD",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to unconventional and fascinating explorations of science, particularly engaging with unusual topics and thought experiments.",
+      "tags": [
+        "Science",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "mad science",
+        "thought experiments",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:https://statmodeling.stat.columbia.edu/feed/",
+      "title": "Statistical Modeling, Causal Inference, and Social Science",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://statmodeling.stat.columbia.edu/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Statistical Modeling, Causal Inference, and Social Science",
+      "cleaned_author": null,
+      "summary": "Focused on statistical methodologies and their applications in social science, this blog discusses important topics in statistical modeling and causal inference.",
+      "tags": [
+        "Science",
+        "Data",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "social science",
+        "causal inference"
+      ]
+    },
+    {
+      "id": "feed:https://thinking-about-science.com/feed/",
+      "title": "Thinking about Science with David Hukins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thinking-about-science.com/feed/",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Thinking about Science with David Hukins",
+      "cleaned_author": "David Hukins",
+      "summary": "This blog aims to promote a deeper understanding of scientific concepts rather than just typical fact learning, focusing on the nature of science itself.",
+      "tags": [
+        "Science",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "science education",
+        "understanding science",
+        "concepts"
+      ]
+    },
+    {
+      "id": "feed:https://scifiinterfaces.com/feed/",
+      "title": "Sci-fi interfaces | Stop watching sci-fi. Start using it.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scifiinterfaces.com/feed/",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Sci-fi interfaces",
+      "cleaned_author": "N/A",
+      "summary": "A unique blog that bridges the gap between science fiction and practical applications, encouraging readers to utilize concepts from sci-fi in the real world.",
+      "tags": [
+        "Tech",
+        "Movies",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "sci-fi technology",
+        "futuristic design",
+        "film tech"
+      ]
+    },
+    {
+      "id": "feed:https://journeysofdrg.org/feed/",
+      "title": "Journeys of Dr. G",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://journeysofdrg.org/feed/",
+      "summary": "Earth science and creative science communication, with Dr. Laura Guertin.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Journeys of Dr. G",
+      "cleaned_author": "Dr. Laura Guertin",
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "earth science",
+        "science communication"
+      ]
+    },
+    {
+      "id": "feed:https://galacticjourney.org/feed/",
+      "title": "Galactic Journey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://galacticjourney.org/feed/",
+      "summary": "55 years ago: Science Fact and Fiction.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Galactic Journey",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Fiction"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction",
+        "retrospective",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://glasgowtheatreblog.com/feed/",
+      "title": "Glasgow Theatre Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://glasgowtheatreblog.com/feed/",
+      "summary": "The best place for news, interviews and reviews of theatre in Glasgow and beyond.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Glasgow Theatre Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Science",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "Glasgow theatre",
+        "theatre reviews",
+        "arts events"
+      ]
+    },
+    {
+      "id": "feed:https://stephanieevergreen.com/blog/feed/",
+      "title": "Evergreen Data Visualization Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stephanieevergreen.com/blog/feed/",
+      "summary": "How to make high impact data visualization right inside Excel along with real life case examples organizational culture change.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "Evergreen Data Visualization Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data",
+        "Data",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "Excel",
+        "reporting",
+        "organizational culture"
+      ]
+    },
+    {
+      "id": "feed:https://flowingdata.com/feed",
+      "title": "FlowingData",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://flowingdata.com/feed",
+      "summary": "Data Visualization and Statistics.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "FlowingData",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Data",
+        "Design",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "data visualization",
+        "statistics",
+        "analytics"
+      ]
+    },
+    {
+      "id": "feed:http://www.antipope.org/charlie/blog-static/atom.xml",
+      "title": "Charlie's Diary",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.antipope.org/charlie/blog-static/atom.xml",
+      "summary": "Being the blog of Charles Stross, author, and occasional guests.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Charlie's Diary",
+      "cleaned_author": "Charles Stross",
+      "tags": [
+        "Politics",
+        "Writing",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Charles Stross",
+        "politics",
+        "writing tips"
+      ]
+    },
+    {
+      "id": "feed:https://christopherlbennett.wordpress.com/feed/",
+      "title": "Christopher L. Bennett: Written Worlds",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://christopherlbennett.wordpress.com/feed/",
+      "summary": "An author's journal.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Christopher L. Bennett: Written Worlds",
+      "cleaned_author": "Christopher L. Bennett",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Science",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "author insights",
+        "writing process",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://classicsofsciencefiction.com/feed/",
+      "title": "Classics of Science Fiction",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://classicsofsciencefiction.com/feed/",
+      "summary": "Remembering the Best Short Science Fiction.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Classics of Science Fiction",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction classics",
+        "short stories",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:http://kenmacleod.blogspot.com/feeds/posts/default",
+      "title": "The Early Days of a Better Nation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://kenmacleod.blogspot.com/feeds/posts/default",
+      "summary": "Ken MacLeod's comments.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "The Early Days of a Better Nation",
+      "cleaned_author": "Ken MacLeod",
+      "tags": [
+        "Politics",
+        "Activism",
+        "Science",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ken MacLeod",
+        "future visions",
+        "social commentary"
+      ]
+    },
+    {
+      "id": "feed:https://fromearthtothestars.com/feed/",
+      "title": "From Earth to the Stars",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fromearthtothestars.com/feed/",
+      "summary": "The Asimov's Science Fiction Magazine Author & Editor Blog.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "From Earth to the Stars",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "Asimov's Science Fiction",
+        "author interviews",
+        "science fiction updates"
+      ]
+    },
+    {
+      "id": "feed:https://hugoclub.blogspot.com/feeds/posts/default",
+      "title": "Hugo Book Club Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://hugoclub.blogspot.com/feeds/posts/default",
+      "summary": "Discussion of Hugo Award nominees for best novel, other science fiction novels, and analysis of the awards.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Hugo Book Club Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Literature",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "Hugo Awards",
+        "book reviews",
+        "science fiction"
+      ]
+    },
+    {
+      "id": "feed:https://sciencefictionruminations.com/feed/",
+      "title": "Science Fiction and Other Suspect Ruminations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sciencefictionruminations.com/feed/",
+      "summary": "Reviews of Vintage Science Fiction (1945-1985).",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Science Fiction and Other Suspect Ruminations",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction",
+        "reviews",
+        "vintage literature"
+      ]
+    },
+    {
+      "id": "feed:https://reactormag.com/feed/",
+      "title": "Tor.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://reactormag.com/feed/",
+      "summary": "Science fiction. Fantasy. The universe. And related subjects.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Tor.com",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Science",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "science fiction",
+        "fantasy",
+        "literature",
+        "media"
+      ]
+    },
+    {
+      "id": "feed:https://errorstatistics.com/feed/",
+      "title": "Error Statistics Philosophy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://errorstatistics.com/feed/",
+      "summary": "A scholarly blog delving into the philosophy of statistics and the nuances of epistemology, making complex topics accessible.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Error Statistics Philosophy",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "epistemology",
+        "philosophical discussions"
+      ]
+    },
+    {
+      "id": "feed:https://ndpr.nd.edu/reviews.atom",
+      "title": "Notre Dame Philosophical Reviews | University of Notre Dame",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ndpr.nd.edu/reviews.atom",
+      "summary": "Entirely devoted to publishing substantive, high-quality scholarly philosophy books reviews.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "Notre Dame Philosophical Reviews",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Physics",
+        "Literature",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "book reviews",
+        "scholarship"
+      ]
+    },
+    {
+      "id": "feed:https://schwitzsplinters.blogspot.com/feeds/posts/default",
+      "title": "The Splintered Mind",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://schwitzsplinters.blogspot.com/feeds/posts/default",
+      "summary": "reflections in philosophy of psychology, broadly construed.",
+      "details": "Original Category: humanities -> philosophy.opml",
+      "cleaned_title": "The Splintered Mind",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Thinking",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "psychology",
+        "philosophy",
+        "reflection"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/longnow",
+      "title": "Long Now - Ideas",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/longnow",
+      "summary": "A living archive of long-term thinking.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Long Now - Ideas",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Future",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "long-term thinking",
+        "ideas",
+        "time"
+      ]
+    },
+    {
+      "id": "feed:https://www.overcomingbias.com/feed",
+      "title": "Overcoming Bias",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.overcomingbias.com/feed",
+      "summary": "This is a blog on why we believe and do what we do, why we pretend otherwise, how we might do better, and what our descendants might do, if they don't all die.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Overcoming Bias",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Thinking",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "cognitive bias",
+        "beliefs",
+        "behavior"
+      ]
+    },
+    {
+      "id": "feed:https://paleofuture.com/blog?format=rss",
+      "title": "Paleofuture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://paleofuture.com/blog?format=rss",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Paleofuture",
+      "cleaned_author": null,
+      "summary": "A historical examination of futurism, highlighting how past visions of the future\u2014from flying cars to utopian societies\u2014shaped our present day.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "futurism",
+        "history",
+        "cultural visions"
+      ]
+    },
+    {
+      "id": "feed:https://soif.org.uk/blog/feed/",
+      "title": "School of International Futures - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soif.org.uk/blog/feed/",
+      "summary": "This blog focuses on the future of international policy and governance, exploring vital themes like intergenerational solidarity and traditional governance through posts that highlight initiatives and dialogues around future generations.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "School of International Futures",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "History",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "future",
+        "governance",
+        "intergenerational",
+        "dialogue"
+      ]
+    },
+    {
+      "id": "feed:https://feedpress.me/thetechnium",
+      "title": "The Technium",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feedpress.me/thetechnium",
+      "summary": "Making the Inevitable Obvious.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "The Technium",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Science",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "trends",
+        "analysis",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://www.acelinguist.com/feeds/posts/default",
+      "title": "Ace Linguist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.acelinguist.com/feeds/posts/default",
+      "summary": "At the crossroads of linguistics and pop culture.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Ace Linguist",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "linguistics",
+        "language",
+        "pop culture",
+        "media"
+      ]
+    },
+    {
+      "id": "feed:https://allthingslinguistic.com/rss",
+      "title": "All Things Linguistic",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://allthingslinguistic.com/rss",
+      "summary": "A blog about all things linguistic by Gretchen McCulloch. I cohost Lingthusiasm, a podcast that's enthusiastic about linguistics. I'm the author of Because Internet, a book about internet language!",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "All Things Linguistic",
+      "cleaned_author": "Gretchen McCulloch",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "linguistics",
+        "language",
+        "internet language",
+        "podcast"
+      ]
+    },
+    {
+      "id": "feed:https://arnoldzwicky.org/feed/",
+      "title": "Arnold Zwicky's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://arnoldzwicky.org/feed/",
+      "summary": "A blog mostly about language.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "Arnold Zwicky's Blog",
+      "cleaned_author": "Arnold Zwicky",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "language",
+        "linguistics",
+        "observations",
+        "critiques"
+      ]
+    },
+    {
+      "id": "feed:https://grammaticus.blog/feed/",
+      "title": "grammaticus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://grammaticus.blog/feed/",
+      "summary": "weekly posts on literature, languages, and learning.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "grammaticus",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Literature",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "literature",
+        "languages",
+        "learning",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://ideophone.org/feed/",
+      "title": "The Ideophone",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ideophone.org/feed/",
+      "summary": "Sounding out ideas on language, vivid sensory words, and iconicity.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "The Ideophone",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "language",
+        "interaction",
+        "iconicity",
+        "sensory words"
+      ]
+    },
+    {
+      "id": "feed:https://languagehat.com/feed/",
+      "title": "languagehat.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://languagehat.com/feed/",
+      "summary": "Languagehat.com celebrates the intricacies of language through a diverse array of posts, engaging readers with commentary on linguistic phenomena and delightful explorations of language and culture.",
+      "details": "Original Category: humanities -> language.opml",
+      "cleaned_title": "languagehat.com",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "Language"
+      ],
+      "language": "en",
+      "keywords": [
+        "language",
+        "linguistics",
+        "cultural commentary"
+      ]
+    },
+    {
+      "id": "feed:https://archeothoughts.wordpress.com/feed/",
+      "title": "ArcheoThoughts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://archeothoughts.wordpress.com/feed/",
+      "summary": "Andre Costopoulos, University of Alberta.",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "ArcheoThoughts",
+      "cleaned_author": "Andre Costopoulos",
+      "tags": [
+        "Science",
+        "History",
+        "Architecture"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://dralun.wordpress.com/feed/",
+      "title": "Dr Alun Withey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dralun.wordpress.com/feed/",
+      "summary": "I am an academic historian of medicine and the body,  and 2014 AHRC/BBC 'New Generation Thinker'.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "Dr Alun Withey",
+      "cleaned_author": "Alun Withey",
+      "tags": [
+        "Science",
+        "Health",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "medicine",
+        "history",
+        "Victorian travel",
+        "adverts"
+      ]
+    },
+    {
+      "id": "feed:https://markgelbart.wordpress.com/feed/",
+      "title": "Georgia Before People",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://markgelbart.wordpress.com/feed/",
+      "summary": "I\u2019m writing this blog because I\u2019m fascinated with what the ecology of southeastern North America was before people colonized the region and ruined it.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Georgia Before People",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "ecology",
+        "Southeastern North America",
+        "colonization",
+        "megafauna"
+      ]
+    },
+    {
+      "id": "feed:https://historyofknowledge.hypotheses.org/feed",
+      "title": "History of Knowledge",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://historyofknowledge.hypotheses.org/feed",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "History of Knowledge",
+      "cleaned_author": null,
+      "summary": "This feed explores various academic perspectives on the history of knowledge, covering topics such as cultural evolution and historical events. It serves as a valuable resource for those interested in the intersection of knowledge and history.",
+      "tags": [
+        "Science",
+        "Arts & Culture",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "knowledge",
+        "history",
+        "research",
+        "perspectives"
+      ]
+    },
+    {
+      "id": "feed:http://historyunfolding.blogspot.com/feeds/posts/default",
+      "title": "History Unfolding",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://historyunfolding.blogspot.com/feeds/posts/default",
+      "summary": "A historian's comments on current events, foreign and domestic.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "History Unfolding",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "politics",
+        "current events",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:https://www.labrujulaverde.com/en/feed/",
+      "title": "LBV Magazine English Edition \u2013 History & Culture",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.labrujulaverde.com/en/feed/",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "LBV Magazine English Edition",
+      "cleaned_author": null,
+      "summary": "This English edition of LBV Magazine delves into history and culture, uncovering fascinating narratives and archaeological findings that reflect on human civilization over the ages.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "history",
+        "culture",
+        "archaeology",
+        "civilization"
+      ]
+    },
+    {
+      "id": "feed:https://www.leidenmedievalistsblog.nl/feed",
+      "title": "Leiden Medievalists Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.leidenmedievalistsblog.nl/feed",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Leiden Medievalists Blog",
+      "cleaned_author": null,
+      "summary": "This blog presents scholarly insights into medieval studies, offering a platform for discussions on various aspects of medieval history and culture from a diverse array of academic contributors.",
+      "tags": [
+        "Arts & Culture",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "medieval studies",
+        "history",
+        "scholarship",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://brilliantmaps.com/feed/",
+      "title": "Brilliant Maps",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brilliantmaps.com/feed/",
+      "summary": "Making Sense Of The World, One Map At A Time.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Brilliant Maps",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "geography"
+      ]
+    },
+    {
+      "id": "feed:https://imagico.de/blog/en/feed/",
+      "title": "Imagico.de | blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://imagico.de/blog/en/feed/",
+      "summary": "Imagico.de is a blog dedicated to map analysis, offering insights on cartographic practices and the art of map-making.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Imagico.de",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "cartography"
+      ]
+    },
+    {
+      "id": "feed:https://bigthink.com/feed/all",
+      "title": "Strange Maps - Big Think",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bigthink.com/feed/all",
+      "summary": "A special series by Frank Jacobs.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Strange Maps - Big Think",
+      "cleaned_author": "Frank Jacobs",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Science",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "culture",
+        "Big Think",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:https://blog.georgeshakan.com/feed/",
+      "title": "George Shakan",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.georgeshakan.com/feed/",
+      "summary": "Math and Machine Learning Blog.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "George Shakan",
+      "cleaned_author": "George Shakan",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "data science",
+        "mathematics",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "feed:https://www.zenaassaad.com/blog?format=rss",
+      "title": "Zena Assaad, PhD",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.zenaassaad.com/blog?format=rss",
+      "summary": "I am an aerospace engineer and senior research fellow.",
+      "details": "Original Category: technology -> ai.opml",
+      "cleaned_title": "Zena Assaad, PhD",
+      "cleaned_author": "Zena Assaad",
+      "tags": [
+        "Tech",
+        "AI",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI ethics",
+        "military technology",
+        "aerospace engineering"
+      ]
+    },
+    {
+      "id": "feed:https://leancrew.com/all-this/feed/",
+      "title": "And now it\u2019s all this",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://leancrew.com/all-this/feed/",
+      "summary": "I just said what I said and it was wrong. Or was taken wrong.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "And now it\u2019s all this",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "communication",
+        "interpretation",
+        "thoughts"
+      ]
+    },
+    {
+      "id": "feed:https://blog.computationalcomplexity.org/feeds/posts/default",
+      "title": "Computational Complexity",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.computationalcomplexity.org/feeds/posts/default",
+      "summary": "Computational Complexity and other fun stuff in math and computer science.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Computational Complexity",
+      "cleaned_author": "Lance Fortnow and Bill Gasarch",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "computational complexity",
+        "math",
+        "computer science",
+        "algorithms"
+      ]
+    },
+    {
+      "id": "feed:http://momentsingraphics.de/RSS.xml",
+      "title": "Moments in Graphics | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://momentsingraphics.de/RSS.xml",
+      "summary": "I strive to make graphics research more accessible by providing additional information. It is about interesting works of others as well as my own work.",
+      "details": "Original Category: technology -> graphics.opml",
+      "cleaned_title": "Moments in Graphics",
+      "cleaned_author": "Christoph Peters",
+      "tags": [
+        "Tech",
+        "Design",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "radiometry",
+        "path tracing",
+        "polynomial roots"
+      ]
+    },
+    {
+      "id": "feed:https://mathspp.com/blog.rss",
+      "title": "Mathspp Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mathspp.com/blog.rss",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Mathspp Blog",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to the intersection of mathematics and programming, sharing articles and insights to keep enthusiasts informed.",
+      "tags": [
+        "Science",
+        "Math",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "programming",
+        "Python"
+      ]
+    },
+    {
+      "id": "feed:https://www.science.org/blogs/pipeline/feed",
+      "title": "In the Pipeline by Derek Lowe | Science | AAAS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.science.org/blogs/pipeline/feed",
+      "summary": "Derek Lowe\u2019s editorially independent blog on drug discovery and the pharma industry.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "In the Pipeline by Derek Lowe",
+      "cleaned_author": "Derek Lowe",
+      "tags": [
+        "Science",
+        "Physics",
+        "Health",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "drug discovery",
+        "pharmaceuticals",
+        "biomedical research"
+      ]
+    },
+    {
+      "id": "feed:https://www.nationalelfservice.net/feed/",
+      "title": "The Mental Elf",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.nationalelfservice.net/feed/",
+      "summary": "Keeping you up to date with reliable mental health research, policy & guidance.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "The Mental Elf",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "mental health",
+        "research",
+        "guidance",
+        "policy"
+      ]
+    },
+    {
+      "id": "feed:https://www.england.nhs.uk/feed/",
+      "title": "NHS England \u00bb Blogs",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.england.nhs.uk/feed/",
+      "summary": "Latest blog posts from NHS England.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "NHS England Blogs",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "NHS",
+        "health",
+        "blog",
+        "norovirus",
+        "cancer screening"
+      ]
+    },
+    {
+      "id": "feed:https://www.plengegen.com/feed/",
+      "title": "Plenge Gen @rplenge",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.plengegen.com/feed/",
+      "summary": "Discovery Research | Better Health.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "Plenge Gen",
+      "cleaned_author": "R Plenge",
+      "tags": [
+        "Science",
+        "Health",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "drug discovery",
+        "health",
+        "immunotherapy",
+        "research"
+      ]
+    },
+    {
+      "id": "feed:https://thesavvydiabetic.com/feed/",
+      "title": "The Savvy Diabetic | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thesavvydiabetic.com/feed/",
+      "summary": "Visit the post for more.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "The Savvy Diabetic",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Diplomacy"
+      ],
+      "language": "en",
+      "keywords": [
+        "diabetes",
+        "insulin",
+        "health",
+        "updates"
+      ]
+    },
+    {
+      "id": "feed:https://virology.ws/feed/",
+      "title": "virology blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://virology.ws/feed/",
+      "summary": "About viruses and viral disease.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "Virology Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "viruses",
+        "viral disease",
+        "vaccines",
+        "research"
+      ]
+    },
+    {
+      "id": "feed:http://astroblogger.blogspot.com/feeds/posts/default",
+      "title": "Astroblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://astroblogger.blogspot.com/feeds/posts/default",
+      "summary": "Obscured by Clouds. The rough and ready blog of a cloud benighted biologist and amateur astronomer.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Astroblog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Astronomy",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "space",
+        "celestial events"
+      ]
+    },
+    {
+      "id": "feed:https://www.duluthnewstribune.com/lifestyle/astro-bob.rss",
+      "title": "Astro Bob | Duluth News Tribune",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.duluthnewstribune.com/lifestyle/astro-bob.rss",
+      "summary": "Bob King's 'Astro Bob' is astronomy for everyone. Mars, Milky Way, Northern Lights, constellations, star gazing and much more.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Astro Bob",
+      "cleaned_author": "Bob King",
+      "tags": [
+        "Science",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "stars",
+        "aurora",
+        "constellations"
+      ]
+    },
+    {
+      "id": "feed:https://follow.it/centauri-dreams-imagining-and-planning-interstellar-exploration",
+      "title": "Centauri Dreams",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://follow.it/centauri-dreams-imagining-and-planning-interstellar-exploration",
+      "summary": "Imagining and Planning Interstellar Exploration.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Centauri Dreams",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "interstellar exploration",
+        "space technology",
+        "SETI",
+        "exoplanets"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/CollectspaceTodayInSpaceHistory",
+      "title": "collectSPACE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/CollectspaceTodayInSpaceHistory",
+      "summary": "Source for space history, space artifacts, and space memorabilia. Learn where astronauts will appear, browse collecting guides, and read original space history-related daily reports.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "collectSPACE",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "space history",
+        "astronaut memorabilia",
+        "collecting guides"
+      ]
+    },
+    {
+      "id": "feed:http://dreamsofspace.blogspot.com/feeds/posts/default",
+      "title": "Dreams of Space - Books and Ephemera",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://dreamsofspace.blogspot.com/feeds/posts/default",
+      "summary": "Non-fiction children's space flight stuff 1945-1975.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Dreams of Space - Books and Ephemera",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "children's books",
+        "space flight history",
+        "non-fiction"
+      ]
+    },
+    {
+      "id": "feed:https://www.drewexmachina.com/feed/",
+      "title": "Drew Ex Machina | Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.drewexmachina.com/feed/",
+      "summary": "My website is dedicated to the presentation and discussion of my past and current professional work. My areas of interest include remote sensing, spaceflight, astronomy and astrobiology.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Drew Ex Machina",
+      "cleaned_author": "Andrew LePage",
+      "tags": [
+        "Science",
+        "Astronomy",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space research",
+        "NASA",
+        "astronomy insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.fraknoi.com/feed/",
+      "title": "Exploring the Universe with Andrew Fraknoi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fraknoi.com/feed/",
+      "summary": "This resource aims to simplify astronomy for everyone, bringing complex topics within reach while celebrating celestial events and cosmic phenomena.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Exploring the Universe with Andrew Fraknoi",
+      "cleaned_author": "Andrew Fraknoi",
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "celestial events",
+        "moon phases"
+      ]
+    },
+    {
+      "id": "feed:https://telescoper.blog/feed/",
+      "title": "In the Dark",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://telescoper.blog/feed/",
+      "summary": "A blog about the Universe, and all that surrounds it.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "In the Dark",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "universe",
+        "astrobiology",
+        "scientific reflections"
+      ]
+    },
+    {
+      "id": "feed:http://laurelsplutoblog.blogspot.com/feeds/posts/default",
+      "title": "LaurelsPlutoBlog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://laurelsplutoblog.blogspot.com/feeds/posts/default",
+      "summary": "This is a blog advocating the overturning and/or ignoring of the controversial IAU planet definition that demoted Pluto, the adoption of a broader planet definition that includes all dwarf planets, and the chronicling of worldwide efforts toward these goals.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "LaurelsPlutoBlog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "Pluto",
+        "planet definition",
+        "astronomy advocacy"
+      ]
+    },
+    {
+      "id": "feed:https://www.LeonardDavid.com/feed/",
+      "title": "Leonard David's INSIDE OUTER SPACE",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.LeonardDavid.com/feed/",
+      "summary": "A space journalist, reporting on space activities for over 50 years.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Leonard David's INSIDE OUTER SPACE",
+      "cleaned_author": "Leonard David",
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space journalism",
+        "NASA updates",
+        "moon missions"
+      ]
+    },
+    {
+      "id": "feed:https://www.thespacereview.com/articles.xml",
+      "title": "The Space Review",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.thespacereview.com/articles.xml",
+      "summary": "Essays and commentary about the final frontier.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "The Space Review",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space exploration",
+        "essays",
+        "commentary"
+      ]
+    },
+    {
+      "id": "feed:https://starinastar.com/feed/",
+      "title": "Star In A Star",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://starinastar.com/feed/",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Star In A Star",
+      "cleaned_author": null,
+      "summary": "A resource aimed at learning and teaching astronomy, providing accessible and informative content for astronomy enthusiasts.",
+      "tags": [
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "educational"
+      ]
+    },
+    {
+      "id": "feed:http://uncle-rods.blogspot.com/feeds/posts/default",
+      "title": "Uncle Rod's Astro Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://uncle-rods.blogspot.com/feeds/posts/default",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Uncle Rod's Astro Blog",
+      "cleaned_author": "Rod Mollise",
+      "summary": "A personal blog where Rod Mollise shares his experiences, adventures, and thoughts in the world of astronomy, connecting with fellow star-gazers.",
+      "tags": [
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "personal anecdotes"
+      ]
+    },
+    {
+      "id": "feed:https://www.universetoday.com/feed/",
+      "title": "Universe Today",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.universetoday.com/feed/",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Universe Today",
+      "cleaned_author": null,
+      "summary": "A leading source for space and astronomy news, covering the latest discoveries and developments in our universe.",
+      "tags": [
+        "Science",
+        "Space"
+      ],
+      "language": "en",
+      "keywords": [
+        "space news",
+        "astronomy updates"
+      ]
+    },
+    {
+      "id": "feed:https://climateinstitute.ca/feed/",
+      "title": "Canadian Climate Institute - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://climateinstitute.ca/feed/",
+      "summary": "Various topics related to climate change and climate policy.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Canadian Climate Institute - Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "policy research"
+      ]
+    },
+    {
+      "id": "feed:https://roseannechambers.com/feed/",
+      "title": "Dr. Roseanne Chambers \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://roseannechambers.com/feed/",
+      "summary": "Geologist, geographer and writer in the San Francisco Bay Area.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Dr. Roseanne Chambers \u2013 Blog",
+      "cleaned_author": "Dr. Roseanne Chambers",
+      "tags": [
+        "Science",
+        "Germany"
+      ],
+      "language": "en",
+      "keywords": [
+        "geology",
+        "geography",
+        "environmental science"
+      ]
+    },
+    {
+      "id": "feed:https://eos.org/feed",
+      "title": "Editors\u2019 Vox - Eos",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://eos.org/feed",
+      "summary": "Eos is the science news magazine published by AGU [Advancing Earth and Space Science].",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Editors\u2019 Vox",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "AGU",
+        "Earth Science",
+        "Climate Change"
+      ]
+    },
+    {
+      "id": "feed:https://fossilhuntress.blogspot.com/feeds/posts/default",
+      "title": "Fossil Huntress",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fossilhuntress.blogspot.com/feeds/posts/default",
+      "summary": "Musings in natural history meant to captivate, educate & inspire. Deepen your world.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Fossil Huntress",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Fiction",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fossils",
+        "Natural History",
+        "Education"
+      ]
+    },
+    {
+      "id": "feed:https://glacierchange.blog/feed/",
+      "title": "From a Glacier's Perspective - AGU Blogosphere",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://glacierchange.blog/feed/",
+      "summary": "Glacier change in a world of climate change.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "From a Glacier's Perspective",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "Glaciers",
+        "Climate Change",
+        "Environmental Science"
+      ]
+    },
+    {
+      "id": "feed:https://geotripper.blogspot.com/feeds/posts/default",
+      "title": "Geotripper",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://geotripper.blogspot.com/feeds/posts/default",
+      "summary": "I am a teacher of geology at Modesto Junior College and former president of the National Association of Geoscience Teachers, Far Western Section.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Geotripper",
+      "cleaned_author": "Geotripper",
+      "tags": [
+        "Science",
+        "Germany",
+        "USA",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "Geology",
+        "Education",
+        "Natural History"
+      ]
+    },
+    {
+      "id": "feed:https://www.southernfriedscience.com/feed/",
+      "title": "Southern Fried Science",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.southernfriedscience.com/feed/",
+      "summary": "Over 15 years of ocean science and conservation online.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Southern Fried Science",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ocean Conservation",
+        "Marine Science",
+        "Education"
+      ]
+    },
+    {
+      "id": "feed:https://sharonahill.com/feed/",
+      "title": "Spooky Geology",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sharonahill.com/feed/",
+      "summary": "Earth mysteries, weird locations, anomalous phenomena.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Spooky Geology",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Earth Mysteries",
+        "Geology",
+        "Anomalous Phenomena"
+      ]
+    },
+    {
+      "id": "feed:https://www.volcanocafe.org/feed/",
+      "title": "VolcanoCafe",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.volcanocafe.org/feed/",
+      "summary": "Because Volcanoes are Ewesome.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "VolcanoCafe",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Germany",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "Volcanoes",
+        "Earth Science",
+        "Geology"
+      ]
+    },
+    {
+      "id": "feed:https://practical.engineering/blog?format=rss",
+      "title": "Practical Engineering \u2014 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://practical.engineering/blog?format=rss",
+      "summary": "With a focus on civil engineering and public works, Practical Engineering highlights the innovative structures and projects that meet humanity\u2019s basic needs.",
+      "details": "Original Category: science -> engineering.opml",
+      "cleaned_title": "Practical Engineering",
+      "cleaned_author": "Practical Engineering",
+      "tags": [
+        "Tech",
+        "Science",
+        "Architecture"
+      ],
+      "language": "en",
+      "keywords": [
+        "Civil Engineering",
+        "Infrastructure",
+        "Public Works"
+      ]
+    },
+    {
+      "id": "feed:https://11011110.github.io/blog/feed.xml",
+      "title": "11011110",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://11011110.github.io/blog/feed.xml",
+      "summary": "Geometry, graphs, algorithms, and more.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "11011110",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "geometry",
+        "graphs",
+        "algorithms"
+      ]
+    },
+    {
+      "id": "feed:https://aperiodical.com/feed/",
+      "title": "The Aperiodical",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aperiodical.com/feed/",
+      "summary": "Occasional(ly) mathematical blogging.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "The Aperiodical",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "blogging",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://notstatschat.rbind.io/index.xml",
+      "title": "Biased and Inefficient",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://notstatschat.rbind.io/index.xml",
+      "summary": "I\u2019m a statistical researcher in Auckland.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Biased and Inefficient",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "research",
+        "data analysis"
+      ]
+    },
+    {
+      "id": "feed:https://gilkalai.wordpress.com/feed/",
+      "title": "Combinatorics and more",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gilkalai.wordpress.com/feed/",
+      "summary": "Gil Kalai's blog.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Combinatorics and more",
+      "cleaned_author": "Gil Kalai",
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "combinatorics",
+        "quantum computing",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://girlsangle.wordpress.com/feed/",
+      "title": "Girls' Angle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://girlsangle.wordpress.com/feed/",
+      "summary": "A Math Club for Girls.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Girls' Angle",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "math club",
+        "girls",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:https://igorpak.wordpress.com/feed/",
+      "title": "Igor Pak's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://igorpak.wordpress.com/feed/",
+      "summary": "Views on life and math.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Igor Pak's blog",
+      "cleaned_author": "Igor Pak",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "math",
+        "philosophy",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://jdh.hamkins.org/feed/",
+      "title": "Joel David Hamkins",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jdh.hamkins.org/feed/",
+      "summary": "mathematics and philosophy of the infinite.",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Joel David Hamkins",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "infinity",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://www.johndcook.com/blog/feed/",
+      "title": "John D. Cook Consulting",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.johndcook.com/blog/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "John D. Cook Consulting",
+      "cleaned_author": "John D. Cook",
+      "summary": "As a consultant in applied mathematics, John D. Cook shares insights on various mathematical applications in real-world scenarios.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "applied mathematics",
+        "consulting",
+        "real-world applications"
+      ]
+    },
+    {
+      "id": "feed:https://davidlowryduda.com/rss/recent.rss/",
+      "title": "MixedMath: Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://davidlowryduda.com/rss/recent.rss/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "MixedMath",
+      "cleaned_author": "David",
+      "summary": "MixedMath is David's personal blog that explores various mathematical subjects, including cryptography and computational methods.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "cryptography",
+        "programming",
+        "Python",
+        "CPP"
+      ]
+    },
+    {
+      "id": "feed:https://golem.ph.utexas.edu/category/atom10.xml",
+      "title": "The n-Category Caf\u00e9",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://golem.ph.utexas.edu/category/atom10.xml",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "The n-Category Caf\u00e9",
+      "cleaned_author": null,
+      "summary": "The n-Category Caf\u00e9 is a collaborative blog where mathematicians delve into topics that intertwine mathematics, physics, and philosophy.",
+      "tags": [
+        "Science",
+        "Math",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "category theory",
+        "functors",
+        "AI",
+        "Borel spaces"
+      ]
+    },
+    {
+      "id": "feed:https://www.galoisrepresentations.com/feed/",
+      "title": "Persiflage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.galoisrepresentations.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Persiflage",
+      "cleaned_author": null,
+      "summary": "Persiflage covers a range of mathematical discussions, including advanced concepts like Galois representations.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "Galois representations",
+        "homology",
+        "mathematics talks"
+      ]
+    },
+    {
+      "id": "feed:https://cameroncounts.wordpress.com/feed/",
+      "title": "Peter Cameron's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cameroncounts.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Peter Cameron's Blog",
+      "cleaned_author": "Peter Cameron",
+      "summary": "Peter Cameron's Blog reflects his interests in combinatorial mathematics and various academic endeavors.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "conferences",
+        "lectures"
+      ]
+    },
+    {
+      "id": "feed:https://pbelmans.ncag.info/blog/feed/",
+      "title": "Pieter Belmans \u2014 blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pbelmans.ncag.info/blog/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Pieter Belmans",
+      "cleaned_author": null,
+      "summary": "Pieter Belmans' blog features insights into mathematical research and academic events in the field.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "algebraic geometry",
+        "workshops",
+        "Hilbert schemes"
+      ]
+    },
+    {
+      "id": "feed:https://www.sharonlohr.com/blog?format=rss",
+      "title": "Sharon Lohr \u2014 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sharonlohr.com/blog?format=rss",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Sharon Lohr",
+      "cleaned_author": "Sharon Lohr",
+      "summary": "Sharon Lohr's blog discusses applications of statistical analysis in various fields, often relating to societal issues.",
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "AI",
+        "crime statistics",
+        "religion"
+      ]
+    },
+    {
+      "id": "feed:https://www.statschat.org.nz/feed/",
+      "title": "Stats Chat",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.statschat.org.nz/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Stats Chat",
+      "cleaned_author": null,
+      "summary": "Stats Chat emphasizes the importance of statistical literacy, providing predictions and insights into sports statistics.",
+      "tags": [
+        "Science",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "predictions",
+        "sports"
+      ]
+    },
+    {
+      "id": "feed:https://blog.tanyakhovanova.com/feed/",
+      "title": "Tanya Khovanova's Math Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.tanyakhovanova.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Tanya Khovanova's Math Blog",
+      "cleaned_author": "Tanya Khovanova",
+      "summary": "A blog dedicated to the exploration of mathematical concepts and their practical applications, intertwined with the author's personal experiences as a mathematician.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "applications",
+        "personal experiences"
+      ]
+    },
+    {
+      "id": "feed:https://terrytao.wordpress.com/feed/",
+      "title": "What's new",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://terrytao.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "What's new",
+      "cleaned_author": "Terence Tao",
+      "summary": "A blog by renowned mathematician Terence Tao providing updates on his research, expository papers, and discussions on various mathematical challenges.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "research",
+        "expository papers",
+        "open problems"
+      ]
+    },
+    {
+      "id": "feed:https://xenaproject.wordpress.com/feed/",
+      "title": "Xena",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xenaproject.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Xena",
+      "cleaned_author": null,
+      "summary": "A collaborative platform for mathematicians to learn and share insights while exploring the Lean proof assistant through practical engagement.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "Lean",
+        "learning",
+        "mathematics"
+      ]
+    },
+    {
+      "id": "feed:https://xianblog.wordpress.com/feed/",
+      "title": "Xi'an's Og",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xianblog.wordpress.com/feed/",
+      "details": "Original Category: science -> mathematics.opml",
+      "cleaned_title": "Xi'an's Og",
+      "cleaned_author": null,
+      "summary": "A personal blog offering musings on various mathematical topics, occasional commentary on societal issues, and reflections on the year 2025.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal blog",
+        "mathematics",
+        "societal issues"
+      ]
+    },
+    {
+      "id": "feed:https://aphascience.blog.gov.uk/feed/",
+      "title": "APHA Science Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aphascience.blog.gov.uk/feed/",
+      "summary": "News and updates from the Animal and Plant Health Agency on science.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "APHA Science Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "UK",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "animal health",
+        "plant health",
+        "research"
+      ]
+    },
+    {
+      "id": "feed:https://aphascience.blog.gov.uk/feed/",
+      "title": "APHA Science Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aphascience.blog.gov.uk/feed/",
+      "summary": "News and updates from the Animal and Plant Health Agency on science.",
+      "details": "Original Category: countries -> uk -> uk-government.opml",
+      "cleaned_title": "APHA Science Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "UK",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "animal health",
+        "plant health",
+        "research"
+      ]
+    },
+    {
+      "id": "feed:https://theapiarist.org/rss/",
+      "title": "The Apiarist - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theapiarist.org/rss/",
+      "summary": "Weekly posts on the science and practice of beekeeping. Bees, honey, swarms, bad backs, stings and just about everything else as well.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "The Apiarist - Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Beauty",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "beekeeping",
+        "sustainability",
+        "honey"
+      ]
+    },
+    {
+      "id": "feed:https://theapiarist.org/rss/",
+      "title": "The Apiarist - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theapiarist.org/rss/",
+      "summary": "Weekly posts on the science and practice of beekeeping. Bees, honey, swarms, bad backs, stings and just about everything else as well.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "The Apiarist - Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Beauty",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "beekeeping",
+        "sustainability",
+        "honey"
+      ]
+    },
+    {
+      "id": "feed:https://www.sciencebase.com/science-blog/feed",
+      "title": "David Bradley",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sciencebase.com/science-blog/feed",
+      "summary": "Science Communication since 1989.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "David Bradley",
+      "cleaned_author": "David Bradley",
+      "tags": [
+        "Science",
+        "Science",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "science communication",
+        "photography",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "feed:https://www.sciencebase.com/science-blog/feed",
+      "title": "David Bradley",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sciencebase.com/science-blog/feed",
+      "summary": "Science Communication since 1989.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "David Bradley",
+      "cleaned_author": "David Bradley",
+      "tags": [
+        "Science",
+        "Science",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "science communication",
+        "photography",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "feed:https://www.goatorama.com/feed/",
+      "title": "Goat-O-Rama",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.goatorama.com/feed/",
+      "summary": "Put some color in your herd!",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Goat-O-Rama",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Writing",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "goat herding",
+        "livestock",
+        "colorful practices"
+      ]
+    },
+    {
+      "id": "feed:https://julian-hoffman.com/feed/",
+      "title": "Julian Hoffman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://julian-hoffman.com/feed/",
+      "summary": "Notes from Near and Far.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Julian Hoffman",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://natural-history-journal.blogspot.com/feeds/posts/default",
+      "title": "Natural History Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://natural-history-journal.blogspot.com/feeds/posts/default",
+      "summary": "Notes from a California Naturalist.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Natural History Journal",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://pandasthumb.org/feed",
+      "title": "The Panda\u2019s Thumb",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://pandasthumb.org/feed",
+      "summary": "A blog dedicated to evolutionary biology and the latest scientific findings, with a focus on some of nature's most fascinating creatures.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "The Panda\u2019s Thumb",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://svpow.com/feed/",
+      "title": "Sauropod Vertebra Picture of the Week | SV-POW!",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://svpow.com/feed/",
+      "summary": "All sauropod vertebrae, except when we're talking about Open Access.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Sauropod Vertebra Picture of the Week | SV-POW!",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://www.southernrockiesnatureblog.com/feeds/posts/default",
+      "title": "Southern Rockies Nature Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.southernrockiesnatureblog.com/feeds/posts/default",
+      "summary": "Where Nature Meets Culture\u2014Plus Wildfire, Dogs, Environmental News, and Writing with a Southern Rockies Perspective.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Southern Rockies Nature Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Cities",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://stephenbodio.com/feed/",
+      "title": "Stephen Bodio",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stephenbodio.com/feed/",
+      "summary": "Notes from Tiger Country.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Stephen Bodio",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://tetzoo.com/blog?format=rss",
+      "title": "Tetrapod Zoology",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tetzoo.com/blog?format=rss",
+      "summary": "Discussion of all things tetrapod and vertebrate palaeontology, and many things not.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Tetrapod Zoology",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "paleontology",
+        "tetrapods",
+        "zoology",
+        "vertebrates"
+      ]
+    },
+    {
+      "id": "feed:https://cloudappreciationsociety.org/feed/",
+      "title": "The Cloud Appreciation Society",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cloudappreciationsociety.org/feed/",
+      "summary": "The society for people who love the sky.",
+      "details": "Original Category: science -> earth-science -> atmospheric-science.opml",
+      "cleaned_title": "The Cloud Appreciation Society",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Weather"
+      ],
+      "language": "en",
+      "keywords": [
+        "clouds",
+        "sky",
+        "atmosphere",
+        "nature"
+      ]
+    },
+    {
+      "id": "feed:https://www.realclimate.org/index.php/feed/langswitch_lang/en/",
+      "title": "RealClimate",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.realclimate.org/index.php/feed/langswitch_lang/en/",
+      "summary": "Climate science from climate scientists...",
+      "details": "Original Category: science -> earth-science -> atmospheric-science.opml",
+      "cleaned_title": "RealClimate",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Weather"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "research",
+        "scientific studies"
+      ]
+    },
+    {
+      "id": "feed:https://solarpunks.net/rss",
+      "title": "SOLARPUNKS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://solarpunks.net/rss",
+      "summary": "At once a vision of the future, a thoughtful provocation, and an achievable lifestyle.",
+      "details": "Original Category: science -> earth-science -> atmospheric-science.opml",
+      "cleaned_title": "SOLARPUNKS",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "sustainability",
+        "renewable energy",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "feed:https://weatherwest.com/feed",
+      "title": "Weather West",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://weatherwest.com/feed",
+      "summary": "California weather and climate perspectives.",
+      "details": "Original Category: science -> earth-science -> atmospheric-science.opml",
+      "cleaned_title": "Weather West",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Weather"
+      ],
+      "language": "en",
+      "keywords": [
+        "California",
+        "weather systems",
+        "climate impact"
+      ]
+    },
+    {
+      "id": "feed:https://pedestrianobservations.com/feed/",
+      "title": "Pedestrian Observations",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pedestrianobservations.com/feed/",
+      "summary": "For Walkability and Good Transit, and Against Boondoggles and Pollution.",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "Pedestrian Observations",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Urban",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "walkability",
+        "transit",
+        "urban planning",
+        "environmental policy"
+      ]
+    },
+    {
+      "id": "feed:https://thetrolleydodger.com/feed/",
+      "title": "The Trolley Dodger",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thetrolleydodger.com/feed/",
+      "summary": "Musings on transit, past, present, and future.",
+      "details": "Original Category: recreation -> public-transport.opml",
+      "cleaned_title": "The Trolley Dodger",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "transit",
+        "public transportation",
+        "urban development",
+        "history"
+      ]
+    },
+    {
+      "id": "feed:http://swoleateveryheight.blogspot.com/feeds/posts/default",
+      "title": "Swole at Every Height",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://swoleateveryheight.blogspot.com/feeds/posts/default",
+      "summary": "Strength and conditioning by Cody Lefever.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "Swole at Every Height",
+      "cleaned_author": "Cody Lefever",
+      "tags": [
+        "Living",
+        "Science",
+        "Fitness",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "strength training",
+        "conditioning",
+        "health"
+      ]
+    },
+    {
+      "id": "feed:http://www.tabletenniscoaching.com/rss.xml",
+      "title": "TableTennisCoaching.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.tabletenniscoaching.com/rss.xml",
+      "summary": "Your Worldwide Center for Table Tennis Coaching.",
+      "details": "Original Category: recreation -> sport.opml",
+      "cleaned_title": "TableTennisCoaching.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Sports"
+      ],
+      "language": "en",
+      "keywords": [
+        "table tennis",
+        "coaching",
+        "sports"
+      ]
+    },
+    {
+      "id": "feed:https://boakandbailey.com/feed/",
+      "title": "Boak & Bailey's Beer Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://boakandbailey.com/feed/",
+      "summary": "UK beer blog running since 2007, with tasting notes, beer history, pub reports and commentary on British booze culture.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Boak & Bailey's Beer Blog",
+      "cleaned_author": "Boak & Bailey",
+      "tags": [
+        "Living",
+        "Science",
+        "Drinks",
+        "Restaurants",
+        "UK",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "craft beer",
+        "real ale",
+        "pub culture",
+        "beer history"
+      ]
+    },
+    {
+      "id": "feed:https://lrb.co.uk/feeds/rss",
+      "title": "LRB Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lrb.co.uk/feeds/rss",
+      "summary": "Europe\u2019s leading magazine of ideas, published twice a month.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "LRB Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Physics",
+        "History",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "Literary Critique",
+        "Political Essays",
+        "Cultural Commentary"
+      ]
+    },
+    {
+      "id": "feed:https://freethoughtblogs.com/pharyngula/feed/",
+      "title": "Pharyngula",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://freethoughtblogs.com/pharyngula/feed/",
+      "summary": "Evolution, development, and random biological ejaculations from a godless liberal.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Pharyngula",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "evolution",
+        "biological sciences",
+        "secularism"
+      ]
+    },
+    {
+      "id": "feed:http://observationalepidemiology.blogspot.com/feeds/posts/default",
+      "title": "West Coast Stat Views (on Observational Epidemiology and more)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://observationalepidemiology.blogspot.com/feeds/posts/default",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "West Coast Stat Views",
+      "cleaned_author": null,
+      "summary": "A collaborative blog shedding light on applied statistics, epidemiology, and higher education, featuring insights from two knowledgeable bloggers.",
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "epidemiology",
+        "higher education"
+      ]
+    },
+    {
+      "id": "feed:https://conversableeconomist.com/feed/",
+      "title": "Conversable Economist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://conversableeconomist.com/feed/",
+      "summary": "In Hume\u2019s spirit, I will attempt to serve as an ambassador from my world of economics, and help in \u201cfinding topics of conversation fit for the entertainment of rational creatures.\u201d.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Conversable Economist",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Finance",
+        "Law"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "public discourse",
+        "conversational topics"
+      ]
+    },
+    {
+      "id": "feed:https://econbrowser.com/feed",
+      "title": "Econbrowser",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://econbrowser.com/feed",
+      "summary": "Analysis of current economic conditions and policy.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Econbrowser",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Finance",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic analysis",
+        "current conditions",
+        "policy insights"
+      ]
+    },
+    {
+      "id": "feed:http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+      "title": "The Enlightened Economist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+      "summary": "Economics and business books.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "The Enlightened Economist",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics books",
+        "business literature",
+        "critical analysis"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedblitz.com/marginalrevolution",
+      "title": "Marginal REVOLUTION",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedblitz.com/marginalrevolution",
+      "summary": "Small Steps Toward A Much Better World.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Marginal REVOLUTION",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic revolution",
+        "analytical insights",
+        "contemporary issues"
+      ]
+    },
+    {
+      "id": "feed:https://timharford.com/feed/",
+      "title": "Tim Harford | Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://timharford.com/feed/",
+      "summary": "The Undercover Economist.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "Tim Harford",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Science",
+        "Finance",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "growth",
+        "Cautionary Tales"
+      ]
+    },
+    {
+      "title": "\u5947\u5ba2Solidot\u2013\u4f20\u9012\u6700\u65b0\u79d1\u6280\u60c5\u62a5",
+      "popularity_score": 3.542900042900043,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.solidot.org/index.rss",
+      "kind": "feed",
+      "id": "feed:http://www.solidot.org/index.rss",
+      "cleaned_title": "\u5947\u5ba2Solidot",
+      "cleaned_author": null,
+      "summary": "A source for the latest technology intelligence, focusing on key knowledge and significant technological updates.",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "Science"
+      ],
+      "language": "zh",
+      "keywords": [
+        "technology",
+        "updates",
+        "intelligence",
+        "science"
+      ]
+    },
+    {
+      "title": "r/Damnthatsinteresting",
+      "popularity_score": 2.8172920288009804,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "Damnthatsinteresting",
+      "kind": "reddit",
+      "id": "reddit:Damnthatsinteresting",
+      "cleaned_title": "r/Damnthatsinteresting",
+      "cleaned_author": null,
+      "summary": "A subreddit that curates and shares intriguing and enlightening content from across the internet.",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Science",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "interesting",
+        "curated content",
+        "internet"
+      ]
+    },
+    {
+      "title": "Golem.de",
+      "popularity_score": 2.591190476190476,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.golem.de/rss.php?feed=RSS1.0",
+      "kind": "feed",
+      "id": "feed:http://www.golem.de/rss.php?feed=RSS1.0",
+      "cleaned_title": "Golem.de",
+      "cleaned_author": null,
+      "summary": "An online news source providing the latest updates and expert commentary on developments in information technology, focusing on in-depth analyses and reviews.",
+      "tags": [
+        "Tech",
+        "Internet",
+        "Science"
+      ],
+      "language": "de",
+      "keywords": [
+        "IT news",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "title": "Nature",
+      "popularity_score": 2.378787878787879,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.nature.com/nature/current_issue/rss",
+      "kind": "feed",
+      "id": "feed:http://www.nature.com/nature/current_issue/rss",
+      "cleaned_title": "Nature",
+      "cleaned_author": null,
+      "summary": "One of the leading international scientific journals, publishing significant research and advances in all areas of science and technology.",
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "research",
+        "innovation"
+      ]
+    },
+    {
+      "title": "Kurzgesagt \u2013 In a Nutshell",
+      "popularity_score": 2.1706349206349205,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "kind": "youtube",
+      "id": "youtube:channel:UCsXVk37bltHxD1rDPwtNM8Q",
+      "cleaned_title": "Kurzgesagt \u2013 In a Nutshell",
+      "cleaned_author": null,
+      "summary": "A popular educational channel that simplifies complex topics through engaging animation and short videos.",
+      "tags": [
+        "Science",
+        "Learning"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "education",
+        "animation",
+        "short videos"
+      ]
+    },
+    {
+      "title": "3Blue1Brown",
+      "popularity_score": 2.1666666666666665,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "kind": "youtube",
+      "id": "youtube:channel:UCYO_jab_esuFRV4b17AJtAw",
+      "cleaned_title": "3Blue1Brown",
+      "cleaned_author": null,
+      "summary": "A mathematics educational channel that uses visual storytelling to explain complex concepts in an accessible way.",
+      "tags": [
+        "Science",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "math",
+        "education",
+        "visualization",
+        "cosmology"
+      ]
+    },
+    {
+      "id": "feed:quantamagazine.org:Quanta Magazine",
+      "cleaned_title": "Quanta Magazine",
+      "summary": "A source that illuminates complex scientific concepts, making them accessible to a broader audience. Its intriguing articles cover a range of topics from theoretical physics to biology.",
+      "title": "Quanta Magazine",
+      "kind": "feed",
+      "feed_url": "http://www.quantamagazine.org/feed/",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular",
+        "ooh_directory"
+      ],
+      "popularity_score": 6.348774433451852,
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "mathematics",
+        "research",
+        "coral reefs",
+        "black holes"
+      ]
+    }
+  ],
+  "child_categories": [
+    {
+      "id": "astronomy",
+      "display_name": "Astronomy",
+      "emoji": "\ud83d\udd2d",
+      "sfSymbol": "star",
+      "count": 13
+    },
+    {
+      "id": "academia",
+      "display_name": "Academia",
+      "emoji": "\ud83c\udf93",
+      "sfSymbol": "graduationcap",
+      "count": 41
+    },
+    {
+      "id": "science",
+      "display_name": "Science",
+      "emoji": "\ud83d\udd2c",
+      "sfSymbol": "microscope",
+      "count": 251
+    },
+    {
+      "id": "math",
+      "display_name": "Math",
+      "emoji": "\ud83e\uddee",
+      "sfSymbol": "function",
+      "count": 31
+    },
+    {
+      "id": "history",
+      "display_name": "History",
+      "emoji": "\ud83d\udcdc",
+      "sfSymbol": "clock.arrow.circlepath",
+      "count": 132
+    },
+    {
+      "id": "learning",
+      "display_name": "Learning",
+      "emoji": "\ud83d\udcdd",
+      "sfSymbol": "book",
+      "count": 5
+    },
+    {
+      "id": "language",
+      "display_name": "Language",
+      "emoji": "\ud83d\udd24",
+      "sfSymbol": "character.bubble",
+      "count": 16
+    },
+    {
+      "id": "data",
+      "display_name": "Data",
+      "emoji": "\ud83d\udcca",
+      "sfSymbol": "chart.bar",
+      "count": 37
+    },
+    {
+      "id": "education",
+      "display_name": "Education",
+      "emoji": "\ud83c\udfeb",
+      "sfSymbol": "book.closed",
+      "count": 102
+    },
+    {
+      "id": "future",
+      "display_name": "Future",
+      "emoji": "\ud83d\udd2e",
+      "sfSymbol": "clock.arrow.2.circlepath",
+      "count": 16
+    },
+    {
+      "id": "space",
+      "display_name": "Space",
+      "emoji": "\ud83d\ude80",
+      "sfSymbol": "star.fill",
+      "count": 11
+    },
+    {
+      "id": "climate_environment",
+      "display_name": "Climate & Environment",
+      "emoji": "\ud83c\udf0d",
+      "sfSymbol": "leaf.circle",
+      "count": 27
+    },
+    {
+      "id": "biology",
+      "display_name": "Biology",
+      "emoji": "\ud83e\uddec",
+      "sfSymbol": "dna",
+      "count": 21
+    },
+    {
+      "id": "physics",
+      "display_name": "Physics",
+      "emoji": "\u269b\ufe0f",
+      "sfSymbol": "atom",
+      "count": 29
+    },
+    {
+      "id": "weather",
+      "display_name": "Weather",
+      "emoji": "\u2601\ufe0f",
+      "sfSymbol": "cloud.sun",
+      "count": 4
+    }
+  ]
+}

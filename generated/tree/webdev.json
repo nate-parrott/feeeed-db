@@ -1,0 +1,2734 @@
+{
+  "id": "webdev",
+  "display_name": "WebDev",
+  "feeds": [
+    {
+      "id": "substack:top:the_pragmatic_engineer_-_gergely_orosz",
+      "title": "The Pragmatic Engineer - Gergely Orosz",
+      "cleaned_title": "The Pragmatic Engineer",
+      "summary": "A focused look at the inner workings of Big Tech and startups, this newsletter offers valuable insights for software engineers and managers, presenting relevant industry trends and expert commentary.",
+      "kind": "feed",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top",
+        "original_feed_db"
+      ],
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Coding",
+        "Internet",
+        "_intellectual"
+      ],
+      "cleaned_author": "Gergely Orosz",
+      "language": "en",
+      "keywords": [
+        "software engineering",
+        "Big Tech",
+        "startups"
+      ]
+    },
+    {
+      "id": "youtube:Mango Street",
+      "cleaned_title": "Mango Street",
+      "summary": "A YouTube channel hosted by photographers Rachel and Daniel, providing tutorials, tips, and creative ideas for photography.",
+      "title": "Mango Street",
+      "kind": "youtube",
+      "channel_id": "UC5bp5_6h-ZxkBz6S_33ZUVg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaRha_6AD4Hc4gmL7Skip13Sh9DfckSbj0xCCssr0w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Tech",
+        "WebDev",
+        "Gadgets",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "tutorials",
+        "creative ideas"
+      ]
+    },
+    {
+      "id": "youtube:Y Combinator",
+      "cleaned_title": "Y Combinator",
+      "summary": "Y Combinator is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. Their YouTube channel features talks and interviews with successful startup founders.",
+      "title": "Y Combinator",
+      "kind": "youtube",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "thumbnail_url": "https://yt3.ggpht.com/mSqaIvHn4agaznTzuOZg8-cbSl8rt_K5FhkyQ_C6_VhPfXZagDrS1OvkLz9Dyax9fq7Curoo=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Startups",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "WebDev",
+        "AI",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "startup",
+        "entrepreneurship",
+        "funding",
+        "mentorship"
+      ]
+    },
+    {
+      "id": "feed:tomshw.it:Tom's Hardware",
+      "cleaned_title": "Tom's Hardware",
+      "summary": "Tom's Hardware offers news, reviews, and guides on computer hardware, including CPUs, GPUs, storage devices, and peripherals.",
+      "title": "Tom's Hardware",
+      "kind": "feed",
+      "feed_url": "http://www.tomshw.it/rss_news.xml",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware",
+        "reviews",
+        "guides",
+        "CPUs",
+        "GPUs"
+      ]
+    },
+    {
+      "id": "youtube:Gamers Nexus",
+      "cleaned_title": "Gamers Nexus",
+      "summary": "Gamers Nexus focuses on in-depth hardware reviews, benchmarks, and analysis, with a particular emphasis on PC gaming hardware.",
+      "title": "Gamers Nexus",
+      "kind": "youtube",
+      "channel_id": "UChIs72whgZI9w6d6FhwGGHA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKaTOIvrrjSZw0R_N63QxSQizomjd375Gs7dHJpHdA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "PC gaming",
+        "hardware reviews",
+        "benchmarks",
+        "NVIDIA",
+        "AMD"
+      ]
+    },
+    {
+      "id": "feed:guru3d.com:www.guru3d.com",
+      "cleaned_title": "Guru3D",
+      "summary": "Guru3D provides hardware reviews, benchmarks, and guides for CPUs, GPUs, motherboards, and other PC components.",
+      "title": "www.guru3d.com",
+      "kind": "feed",
+      "feed_url": "https://www.guru3d.com/rss.xml",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "graphics cards",
+        "CPUs",
+        "reviews",
+        "benchmarks"
+      ]
+    },
+    {
+      "id": "feed:techpowerup.com:TechPowerUp",
+      "cleaned_title": "TechPowerUp",
+      "summary": "TechPowerUp provides news, reviews, and analysis of computer hardware, including graphics cards, CPUs, and storage devices.",
+      "title": "TechPowerUp",
+      "kind": "feed",
+      "feed_url": "https://www.techpowerup.com/rss/news",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware news",
+        "reviews",
+        "CPUs",
+        "GPUs"
+      ]
+    },
+    {
+      "id": "youtube:Bitwit",
+      "cleaned_title": "Bitwit",
+      "summary": "Bitwit is a YouTube channel that covers PC hardware, gaming, and tech news, with a mix of reviews, tutorials, and build guides.",
+      "title": "Bitwit",
+      "kind": "youtube",
+      "channel_id": "UCftcLVz-jtPXoH3cWUUDwYw",
+      "thumbnail_url": "https://yt3.ggpht.com/umrRc78oH9He_JY3XX7bQyQel2_LM6veh4BbsmlzgNOlMLuxB0aGtwfJHtXbS3zc0qj5BOafJA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gaming"
+      ],
+      "language": "en",
+      "keywords": [
+        "PC hardware",
+        "gaming news",
+        "build guides"
+      ]
+    },
+    {
+      "id": "feed:servethehome.com:ServeTheHome",
+      "cleaned_title": "ServeTheHome",
+      "summary": "ServeTheHome provides comprehensive reviews of servers and workstations, focusing on the latest technology in hardware. Their posts feature deep dives into trending tech like NVMe and cutting-edge processors.",
+      "title": "ServeTheHome",
+      "kind": "feed",
+      "feed_url": "https://www.servethehome.com/feed/",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "server reviews",
+        "workstation",
+        "hardware",
+        "NVMe",
+        "Intel Xeon",
+        "Cisco"
+      ]
+    },
+    {
+      "id": "youtube:Traversy Media",
+      "cleaned_title": "Traversy Media",
+      "summary": "A YouTube channel that offers tutorials and courses on web development, including HTML, CSS, JavaScript, and more.",
+      "title": "Traversy Media",
+      "kind": "youtube",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaT_7mZQjCdmaa3h1bJ-jUspCCfvL_1MNLRWYP-L3A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "tutorials",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "youtube:freeCodeCamp.org",
+      "cleaned_title": "freeCodeCamp.org",
+      "summary": "A YouTube channel associated with the FreeCodeCamp platform, providing tutorials and projects for learning web development.",
+      "title": "freeCodeCamp.org",
+      "kind": "youtube",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTs1IEit9EUooQAJkWS4SkpUE7oMDXYrjIgnOk1Kw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "tutorials",
+        "AI",
+        "machine learning",
+        "full-stack"
+      ]
+    },
+    {
+      "id": "feed:medium.com:Towards Data Science - Medium",
+      "cleaned_title": "Towards Data Science",
+      "summary": "A platform for sharing knowledge and insights about data science, machine learning, and artificial intelligence.",
+      "title": "Towards Data Science - Medium",
+      "kind": "feed",
+      "feed_url": "https://medium.com/feed/towards-data-science",
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.232530029707449,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "data science",
+        "machine learning",
+        "analytics",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:heydesigner.com:HeyDesigner",
+      "cleaned_title": "HeyDesigner",
+      "summary": "HeyDesigner serves as a useful resource for product people, UX designers, and PMs, providing insights on product design and engineering.",
+      "title": "HeyDesigner",
+      "kind": "feed",
+      "feed_url": "http://heydesigner.com/feed/",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "product design",
+        "UX",
+        "design systems",
+        "AI tools",
+        "iconography"
+      ]
+    },
+    {
+      "id": "feed:uxdesignweekly.com:UX Design Weekly",
+      "cleaned_title": "UX Design Weekly",
+      "summary": "Curated by Kenny Chen, UX Design Weekly provides a thoughtful selection of user experience links each week, catering to design enthusiasts.",
+      "title": "UX Design Weekly",
+      "kind": "feed",
+      "feed_url": "https://uxdesignweekly.com/feed/",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Kenny Chen",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "user experience",
+        "design links",
+        "curated content"
+      ]
+    },
+    {
+      "id": "feed:http://chriscoyier.net/feed/",
+      "title": "Chris Coyier",
+      "kind": "feed",
+      "feed_url": "http://chriscoyier.net/feed/",
+      "sources": [
+        "ooh_directory",
+        "curated"
+      ],
+      "summary": "Web craftsman, blogger, author, speaker.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Chris Coyier",
+      "cleaned_author": "Chris Coyier",
+      "tags": [
+        "Tech",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "blogging",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://simonwillison.net/atom/everything/",
+      "title": "Simon Willison\u2019s Weblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://simonwillison.net/atom/everything/",
+      "summary": "This blog by Simon Willison covers various topics in technology, particularly focusing on development and programming languages like Python.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Simon Willison\u2019s Weblog",
+      "cleaned_author": "Simon Willison",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "development",
+        "programming"
+      ]
+    },
+    {
+      "id": "feed:https://blog.tomayac.com/feed/feed.xml",
+      "title": "Blogccasion",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.tomayac.com/feed/feed.xml",
+      "summary": "The personal blog of Thomas Steiner.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Blogccasion",
+      "cleaned_author": "Thomas Steiner",
+      "tags": [
+        "Tech",
+        "AI",
+        "WebDev",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI inference",
+        "Web extensions",
+        "Eleventy",
+        "UK Competition and Markets Authority",
+        "Web Conf 2024"
+      ]
+    },
+    {
+      "id": "feed:https://blog.jonudell.net/feed/",
+      "title": "Jon Udell",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.jonudell.net/feed/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Jon Udell",
+      "cleaned_author": "Jon Udell",
+      "summary": "Jon Udell\u2019s blog focuses on strategies for navigating the internet, with insights into software design, web technologies, and online experiences.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "software",
+        "internet",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://meyerweb.com/eric/thoughts/rss2/full",
+      "title": "meyerweb.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://meyerweb.com/eric/thoughts/rss2/full",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "meyerweb.com",
+      "cleaned_author": "Eric A. Meyer",
+      "summary": "A blog by CSS expert Eric A. Meyer, encompassing web standards, technology, and various cultural and personal observations.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "web standards",
+        "technology",
+        "personal observations"
+      ]
+    },
+    {
+      "id": "feed:https://shkspr.mobi/blog/feed/atom/",
+      "title": "Terence Eden\u2019s Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://shkspr.mobi/blog/feed/atom/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Terence Eden\u2019s Blog",
+      "cleaned_author": "Terence Eden",
+      "summary": "A blog where Terence Eden explores topics in technology and accessibility, combining personal insights with practical advice.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Aviation",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "accessibility",
+        "technology reviews",
+        "coding insights"
+      ]
+    },
+    {
+      "id": "feed:http://xml.onfocus.com/posts",
+      "title": "onfocus by Paul Bausch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://xml.onfocus.com/posts",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "onfocus",
+      "cleaned_author": "Paul Bausch",
+      "summary": "A personal blog by web developer Paul Bausch, where he shares insights on technology, media, and current events. It offers a unique perspective on topics affecting the web development community and beyond.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "media",
+        "technology",
+        "current events"
+      ]
+    },
+    {
+      "id": "feed:https://brendandawes.com/blog/feed",
+      "title": "Brendan Dawes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brendandawes.com/blog/feed",
+      "summary": "collected thoughts, processes and observations made during the course of making things.",
+      "details": "Original Category: technology -> graphics.opml",
+      "cleaned_title": "Brendan Dawes",
+      "cleaned_author": "Brendan Dawes",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "generative art",
+        "Brendan Dawes",
+        "design thoughts"
+      ]
+    },
+    {
+      "id": "feed:https://www.fluxblog.org/feed/",
+      "title": "Fluxblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.fluxblog.org/feed/",
+      "summary": "Fluxblog is the first MP3 Blog. It was founded by me, Matthew Perpetua, in 2002.",
+      "details": "Original Category: arts -> music -> mp3-blogs.opml",
+      "cleaned_title": "Fluxblog",
+      "cleaned_author": "Matthew Perpetua",
+      "tags": [
+        "Arts & Culture",
+        "Music",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "MP3",
+        "blog",
+        "music",
+        "curated"
+      ]
+    },
+    {
+      "id": "feed:https://scottjehl.com/feed.xml",
+      "title": "Scott Jehl, Web Designer/Developer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scottjehl.com/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Scott Jehl",
+      "cleaned_author": "Scott Jehl",
+      "summary": "A thoughtful exploration of web design and development, focusing on practical insights, presentations, and essential links for front-end developers.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "frontend development",
+        "CSS",
+        "HTML"
+      ]
+    },
+    {
+      "id": "feed:https://comicss.art/rss.xml",
+      "title": "comiCSS",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://comicss.art/rss.xml",
+      "summary": "A webcomic about CSS. Coded in CSS.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "comiCSS",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "webcomic",
+        "humor",
+        "coding"
+      ]
+    },
+    {
+      "id": "feed:https://allenpike.com/feed/",
+      "title": "Allen Pike, pixel crafter",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://allenpike.com/feed/",
+      "summary": "Allen Pike writes about making nice software, building teams, and other tricky things.",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Allen Pike",
+      "cleaned_author": "Allen Pike",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "software",
+        "teams",
+        "development"
+      ]
+    },
+    {
+      "id": "feed:https://danielmangum.com/posts/index.xml",
+      "title": "Daniel Mangum \u00b7 Posts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://danielmangum.com/posts/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Daniel Mangum \u00b7 Posts",
+      "cleaned_author": "Daniel Mangum",
+      "summary": "Daniel Mangum shares his expertise through posts about technology and development, covering topics like wireless technology and modem communication, ideal for tech enthusiasts and developers.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Wi-Fi stack",
+        "Qualcomm modem",
+        "USB",
+        "inter-processor communication"
+      ]
+    },
+    {
+      "id": "feed:https://qmacro.org/feed.xml",
+      "title": "DJ Adams",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://qmacro.org/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "DJ Adams",
+      "cleaned_author": null,
+      "summary": "An informative resource on Node.js development, shared through a series of technical notes and practical guides aimed at developers eager to enhance their skills in JavaScript frameworks.",
+      "tags": [
+        "Tech",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "Node.js",
+        "plugins",
+        "JavaScript",
+        "programming"
+      ]
+    },
+    {
+      "id": "feed:https://macwright.com/rss.xml",
+      "title": "macwright.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://macwright.com/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "macwright.com",
+      "cleaned_author": null,
+      "summary": "A blog exploring JavaScript, mathematics, and mapping technologies.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "JavaScript",
+        "math",
+        "maps"
+      ]
+    },
+    {
+      "id": "feed:https://brooker.co.za/blog/rss.xml",
+      "title": "Marc Brooker's Blog - Marc's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://brooker.co.za/blog/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Marc Brooker's Blog",
+      "cleaned_author": "Marc Brooker",
+      "summary": "Insightful discussions on software development concepts, including isolation and versioning.",
+      "tags": [
+        "Tech",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fekete's Anomaly",
+        "Snapshot Isolation",
+        "Transactions"
+      ]
+    },
+    {
+      "id": "feed:https://www.mattkeeter.com/atom.xml",
+      "title": "Matt Keeter // blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mattkeeter.com/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Matt Keeter",
+      "cleaned_author": null,
+      "summary": "A blog reflecting on software development challenges and solutions.",
+      "tags": [
+        "Tech",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "test suite",
+        "compiler",
+        "async runtime"
+      ]
+    },
+    {
+      "id": "feed:https://journal.paoloamoroso.com/feed/",
+      "title": "Paolo Amoroso's Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://journal.paoloamoroso.com/feed/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Paolo Amoroso's Journal",
+      "cleaned_author": "Paolo Amoroso",
+      "summary": "Thoughts on technology, programming, and personal projects from a seasoned developer.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Linux",
+        "uLisp",
+        "interpinkie"
+      ]
+    },
+    {
+      "id": "feed:https://paul.totterman.name/index.xml",
+      "title": "Paul's page",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://paul.totterman.name/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Paul's page",
+      "cleaned_author": null,
+      "summary": "A technical blog focused on system administration using NixOS and associated technologies.",
+      "tags": [
+        "Tech",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "Docker",
+        "Grafana",
+        "rsync"
+      ]
+    },
+    {
+      "id": "feed:https://til.simonwillison.net/tils/feed.atom",
+      "title": "Simon Willison: TIL",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://til.simonwillison.net/tils/feed.atom",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Simon Willison: TIL",
+      "cleaned_author": "Simon Willison",
+      "summary": "Simon Willison covers practical tech insights and personal learnings, focusing on Python, cloud services, and software development.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Software Design",
+        "WebDev",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "cloud",
+        "software development",
+        "web applications"
+      ]
+    },
+    {
+      "id": "feed:https://stratus3d.com/atom.xml",
+      "title": "Software Engineering, Web Development and 3D Design - Stratus3D",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stratus3d.com/atom.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Software Engineering, Web Development and 3D Design - Stratus3D",
+      "cleaned_author": null,
+      "summary": "Stratus3D focuses on a wide array of software engineering topics, including hardware reviews and programming in diverse languages.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "software engineering",
+        "hardware reviews",
+        "3D design",
+        "Rust"
+      ]
+    },
+    {
+      "id": "feed:https://xavd.id/blog/feeds/rss.xml",
+      "title": "xavd.id | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xavd.id/blog/feeds/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "xavd.id",
+      "cleaned_author": null,
+      "summary": "A diverse collection of insights covering various topics, ideal for those who enjoy a broad range of subjects.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "media",
+        "SNL",
+        "CA propositions",
+        "changelogs",
+        "versioning"
+      ]
+    },
+    {
+      "id": "feed:https://xeiaso.net/blog.rss",
+      "title": "Xe - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xeiaso.net/blog.rss",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Xe",
+      "cleaned_author": "Xe Iaso",
+      "summary": "Xe Iaso shares personal thoughts and practical advice ranging from tech updates to life tips.",
+      "tags": [
+        "Tech",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "Anubis Update",
+        "flu shot",
+        "PowerShell tips"
+      ]
+    },
+    {
+      "id": "feed:https://frankforce.com/feed/",
+      "title": "Killed By A Pixel",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://frankforce.com/feed/",
+      "summary": "Building Universes One Pixel at a Time.",
+      "details": "Original Category: technology -> graphics.opml",
+      "cleaned_title": "Killed By A Pixel",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Gaming",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "LittleJS Jam",
+        "arcade game development",
+        "JavaScript talks"
+      ]
+    },
+    {
+      "id": "feed:https://mediocregopher.com/feed.xml",
+      "title": "mediocregopher's lil web corner",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mediocregopher.com/feed.xml",
+      "summary": "I publish posts about projects I'm working on and things that interest me.",
+      "details": "Original Category: technology -> internet.opml",
+      "cleaned_title": "mediocregopher's lil web corner",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "projects",
+        "technology",
+        "development"
+      ]
+    },
+    {
+      "id": "feed:https://2ality.com/feeds/posts.atom",
+      "title": "2ality \u2013 JavaScript and more",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://2ality.com/feeds/posts.atom",
+      "summary": "A detailed exploration of JavaScript and TypeScript, aimed at developers across all skill levels.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "2ality",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "development"
+      ]
+    },
+    {
+      "id": "feed:https://dev.37signals.com/feed/posts.xml",
+      "title": "37signals Dev",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dev.37signals.com/feed/posts.xml",
+      "summary": "The 37signals Dev blog is brought to you by the people who build Basecamp and HEY \u270c\ufe0f\u2764\ufe0f.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "37signals Dev",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Basecamp",
+        "web development",
+        "software"
+      ]
+    },
+    {
+      "id": "feed:https://www.amitmerchant.com/feed.xml",
+      "title": "Amit Merchant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "summary": "A blog on PHP, JavaScript, and more.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Amit Merchant",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "PHP",
+        "JavaScript",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.clintmcmahon.com/rss/",
+      "title": "Clint McMahon",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.clintmcmahon.com/rss/",
+      "summary": "Freelance web & mobile app developer in Minneapolis, Minnesota. I build websites, mobile apps and consult on technology strategies.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Clint McMahon",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "freelance",
+        "web development",
+        "apps"
+      ]
+    },
+    {
+      "id": "feed:https://www.codingwithjesse.com/blog/feed",
+      "title": "Coding with Jesse",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.codingwithjesse.com/blog/feed",
+      "summary": "Web development blog about Svelte, JavaScript, HTML and CSS.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Coding with Jesse",
+      "cleaned_author": "Jesse",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Svelte",
+        "JavaScript",
+        "web design"
+      ]
+    },
+    {
+      "id": "feed:https://www.content-technologist.com/rss/",
+      "title": "The Content Technologist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.content-technologist.com/rss/",
+      "summary": "Building better content operations. Understanding how algorithms process content. Weekly newsletter & resource by award-winning strategist Deborah Carver.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "The Content Technologist",
+      "cleaned_author": "Deborah Carver",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Internet",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "content strategy",
+        "algorithms",
+        "SEO",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "feed:https://www.earth.org.uk/sitemap.atom",
+      "title": "Earth Notes - On Website Technicals",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.earth.org.uk/sitemap.atom",
+      "summary": "Read nitty-gritty tech updates and daily learnings that keep the Earth Notes site up and running; site stats also.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Earth Notes",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "technical updates",
+        "website maintenance",
+        "site stats"
+      ]
+    },
+    {
+      "id": "feed:https://jakearchibald.com/posts.rss",
+      "title": "JakeArchibald.com - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jakearchibald.com/posts.rss",
+      "summary": "A technical blog featuring discussions on web development topics, bugs, and enhancements directly related to the experience of building websites.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "JakeArchibald.com",
+      "cleaned_author": "Jake Archibald",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "custom elements",
+        "HTML",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "feed:https://www.lambrospetrou.com/feed/rss.xml",
+      "title": "Lambros Petrou | Home",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.lambrospetrou.com/feed/rss.xml",
+      "summary": "My personal blog where I publish my thoughts.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Lambros Petrou",
+      "cleaned_author": "Lambros Petrou",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "encryption",
+        "Cloudflare",
+        "API",
+        "technical guides"
+      ]
+    },
+    {
+      "id": "feed:https://localghost.dev/feed.xml",
+      "title": "Localghost - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://localghost.dev/feed.xml",
+      "summary": "Sophie builds fun things out of HTML, CSS & JavaScript, and writes blog posts about tech and mental health.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Localghost",
+      "cleaned_author": "Sophie",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "mental health",
+        "Sophie"
+      ]
+    },
+    {
+      "id": "feed:https://loige.co/rss.xml",
+      "title": "Luciano Mammino's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://loige.co/rss.xml",
+      "summary": "I am a Full stack web developer working on cloud products.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Luciano Mammino's Blog",
+      "cleaned_author": "Luciano Mammino",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "cloud architecture",
+        "full-stack development",
+        "programming tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://fantinel.dev/rss.xml",
+      "title": "Matt Fantinel",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fantinel.dev/rss.xml",
+      "summary": "I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Matt Fantinel",
+      "cleaned_author": "Matt Fantinel",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "projects",
+        "technology reflections"
+      ]
+    },
+    {
+      "id": "feed:https://philna.sh/feed.xml",
+      "title": "Phil Nash | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://philna.sh/feed.xml",
+      "summary": "A developer, speaker, blogger, developer advocate, sausage dog owner and beer lover.",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Phil Nash",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "JavaScript",
+        "Node.js",
+        "web development",
+        "form data",
+        "pagination"
+      ]
+    },
+    {
+      "id": "feed:https://rachsmith.com/feed.xml",
+      "title": "Rach Smith's digital garden",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rachsmith.com/feed.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Rach Smith's digital garden",
+      "cleaned_author": "Rach Smith",
+      "summary": "A personal digital garden from a productive developer that balances tech insights with reflections on family and life, fostering a unique blend of software and personal growth.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "productivity",
+        "notes",
+        "planner",
+        "social skills"
+      ]
+    },
+    {
+      "id": "feed:https://robinrendle.com/feed.xml",
+      "title": "Robin Rendle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://robinrendle.com/feed.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Robin Rendle",
+      "cleaned_author": null,
+      "summary": "A reflective blog showcasing personal insights and observations from the world of technology, emphasizing a thoughtful approach to coding and blogging.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "blogging",
+        "work",
+        "reflection"
+      ]
+    },
+    {
+      "id": "feed:http://rolandtanglao.com/feed.xml",
+      "title": "Roland Tanglao",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://rolandtanglao.com/feed.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Roland Tanglao",
+      "cleaned_author": "Roland Tanglao",
+      "summary": "A blog that collates thoughts and resources on creative coding and programming education, combining personal insights with broader discussions on teaching techniques.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "pedagogy",
+        "creative coding",
+        "blog"
+      ]
+    },
+    {
+      "id": "feed:https://seldo.com/rss.xml",
+      "title": "Seldo.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://seldo.com/rss.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Seldo.com",
+      "cleaned_author": "Laurie Voss",
+      "summary": "A personal site that shares insights on software development and artificial intelligence, offering informed commentary from an experienced developer.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "AI",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI",
+        "ML",
+        "web development",
+        "frameworks",
+        "crypto"
+      ]
+    },
+    {
+      "id": "feed:https://swizec.com/rss.xml",
+      "title": "Swizec Teller",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://swizec.com/rss.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Swizec Teller",
+      "cleaned_author": "Swizec Teller",
+      "summary": "A resourceful blog featuring software engineering lessons tied to practical experience, complete with articles and insights catered to developers at all levels.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "software engineering",
+        "databases",
+        "UI design",
+        "patterns"
+      ]
+    },
+    {
+      "id": "feed:https://tantek.com/updates.atom",
+      "title": "Tantek \u00c7elik",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tantek.com/updates.atom",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Tantek \u00c7elik",
+      "cleaned_author": "Tantek \u00c7elik",
+      "summary": "A platform for sharing thoughts and insights on web development and the IndieWeb movement, focusing on personal contributions to web security and privacy.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity",
+        "IndieWeb"
+      ]
+    },
+    {
+      "id": "feed:https://www.andreagrandi.it/index.xml",
+      "title": "Andrea Grandi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.andreagrandi.it/index.xml",
+      "summary": "A blog dedicated to Python development, offering tutorials and reflections that cater to both new learners and experienced developers in the community.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Andrea Grandi",
+      "cleaned_author": "Andrea Grandi",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Education",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "virtual environment",
+        "open source"
+      ]
+    },
+    {
+      "id": "feed:https://djangoandy.com/feed/",
+      "title": "Django Andy",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://djangoandy.com/feed/",
+      "summary": "My travels through the worlds of Django, Python, DevOps and Full Stack web development.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Django Andy",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Django",
+        "Python",
+        "DevOps",
+        "full stack"
+      ]
+    },
+    {
+      "id": "feed:https://reinout.vanrees.org/weblog/atom.xml",
+      "title": "Reinout van Rees' personal website",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://reinout.vanrees.org/weblog/atom.xml",
+      "summary": "Personal website of Reinout van Rees. Django/Python software developer. Ligfietsen.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Reinout van Rees' personal website",
+      "cleaned_author": "Reinout van Rees",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Django",
+        "Python",
+        "meetups"
+      ]
+    },
+    {
+      "id": "feed:https://www.paleblueapps.com/rockandnull/rss/",
+      "title": "Rock and Null",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.paleblueapps.com/rockandnull/rss/",
+      "summary": "Tech, software and whatever comes to mind.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "Rock and Null",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "software",
+        "Jetpack Compose",
+        "code reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.aaron-gustafson.com/feeds/all.xml",
+      "title": "Aaron Gustafson :: My Notebook",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.aaron-gustafson.com/feeds/all.xml",
+      "summary": "Hi there. My name is Aaron Gustafson and I work on the web.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Aaron Gustafson :: My Notebook",
+      "cleaned_author": "Aaron Gustafson",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "accessibility",
+        "AI",
+        "Web Components"
+      ]
+    },
+    {
+      "id": "feed:https://adactio.com/journal/rss",
+      "title": "Adactio: Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://adactio.com/journal/rss",
+      "summary": "The thoughts and ramblings of Jeremy Keith, a web developer living in Brighton in southern England.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Adactio: Journal",
+      "cleaned_author": "Jeremy Keith",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "Brighton",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://adactio.com/links/rss",
+      "title": "Adactio: Links",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://adactio.com/links/rss",
+      "summary": "Hyperlinks hand-picked by Jeremy Keith.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Adactio",
+      "cleaned_author": "Jeremy Keith",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "hyperlinks",
+        "resources"
+      ]
+    },
+    {
+      "id": "feed:https://nerdy.dev/rss.xml",
+      "title": "Adam Argyle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nerdy.dev/rss.xml",
+      "summary": "Website for Adam Argyle: Teacher, Speaker, CSSWG member, and creator of Open Props and VisBug.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Adam Argyle",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "JS",
+        "HTML",
+        "design",
+        "UX"
+      ]
+    },
+    {
+      "id": "feed:https://adrianroselli.com/feed",
+      "title": "Adrian Roselli",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://adrianroselli.com/feed",
+      "summary": "I have worked with companies of all sizes, from independents to Fortune 5s, to help stand up accessibility teams and processes.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Adrian Roselli",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "accessibility",
+        "consultant",
+        "web development"
+      ]
+    },
+    {
+      "id": "feed:https://bell.bz/feed.xml",
+      "title": "Andy Bell | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bell.bz/feed.xml",
+      "summary": "A designer, front-end developer and design agency founder\u2014based in the UK.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Andy Bell | Blog",
+      "cleaned_author": "Andy Bell",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "development",
+        "personal"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/brad-frosts-blog",
+      "title": "Brad Frost | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/brad-frosts-blog",
+      "summary": "Design Systems Consulting, Web Development, Workshops, and Music.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Brad Frost | Blog",
+      "cleaned_author": "Brad Frost",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design systems",
+        "web development",
+        "workshops",
+        "music"
+      ]
+    },
+    {
+      "id": "feed:https://www.bram.us/feed/",
+      "title": "Bram.us",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.bram.us/feed/",
+      "summary": "A rather geeky/technical weblog.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Bram.us",
+      "cleaned_author": "Bramus",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "web technologies",
+        "development"
+      ]
+    },
+    {
+      "id": "feed:https://chenhuijing.com/feed.xml",
+      "title": "Chen Hui Jing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chenhuijing.com/feed.xml",
+      "summary": "The chronicles of a self-taught designer and developer.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Chen Hui Jing",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "self-taught",
+        "design",
+        "development",
+        "chronicles"
+      ]
+    },
+    {
+      "id": "feed:https://chrisburnell.com/feed.xml",
+      "title": "Chris Burnell \u00b7 The Homepage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://chrisburnell.com/feed.xml",
+      "summary": "I\u2019m Chris Burnell, a Canadian Front End Developer, and this is where I think, write, and share my passion for the web.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Chris Burnell",
+      "cleaned_author": "Chris Burnell",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "personal blog",
+        "updates"
+      ]
+    },
+    {
+      "id": "feed:https://clagnut.com/feeds/summaries.xml",
+      "title": "Clagnut by Richard Rutter",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://clagnut.com/feeds/summaries.xml",
+      "summary": "The online home and blog of Richard Rutter, cofounder of Clearleft and Fontdeck. Here he writes about web typography, human-centred design, Brighton, music and occasionally cycling.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Clagnut",
+      "cleaned_author": "Richard Rutter",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "typography",
+        "development",
+        "Brighton",
+        "cycling"
+      ]
+    },
+    {
+      "id": "feed:https://cloudfour.com/feed/",
+      "title": "Cloud Four \u2013 Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cloudfour.com/feed/",
+      "summary": "We share what we learn so we can build a better web, together.",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Cloud Four \u2013 Articles",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "responsive design",
+        "progressive web apps",
+        "web development",
+        "tips"
+      ]
+    },
+    {
+      "id": "feed:https://css-irl.info/rss.xml",
+      "title": "CSS { In Real Life }",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://css-irl.info/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "CSS { In Real Life }",
+      "cleaned_author": null,
+      "summary": "This blog offers insights, tips, and tutorials on mastering CSS, the essential language for web styling.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "tips",
+        "tutorials",
+        "web development"
+      ]
+    },
+    {
+      "id": "feed:https://gomakethings.com/feed/index.xml",
+      "title": "Daily Developer Tips | Go Make Things",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://gomakethings.com/feed/index.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Daily Developer Tips | Go Make Things",
+      "cleaned_author": "Chris Ferdinandi",
+      "summary": "A source of practical tips and advice from Chris Ferdinandi, aimed at helping developers improve their web-building skills.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "developer tips",
+        "web development",
+        "ADHD",
+        "productivity"
+      ]
+    },
+    {
+      "id": "feed:https://dbushell.com/rss.xml",
+      "title": "David Bushell \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dbushell.com/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "David Bushell \u2013 Blog",
+      "cleaned_author": "David Bushell",
+      "summary": "David Bushell's insights into web design and front-end development covering a range of topics in the field.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "front-end development",
+        "blog"
+      ]
+    },
+    {
+      "id": "feed:https://darn.es/rss.xml",
+      "title": "David Darnes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://darn.es/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "David Darnes",
+      "cleaned_author": "David Darnes",
+      "summary": "This blog highlights the expertise of David Darnes in design systems and front-end development across various platforms.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "design systems",
+        "front-end development",
+        "Writing"
+      ]
+    },
+    {
+      "id": "feed:https://ericwbailey.design/feed/feed.xml",
+      "title": "Eric Bailey \u2013 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ericwbailey.design/feed/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Eric Bailey",
+      "cleaned_author": null,
+      "summary": "Eric Bailey combines his expertise as a developer and inclusive design advocate to deliver thought-provoking insights into web development. His writing navigates the intersection of accessibility and innovation, offering readers fresh perspectives on creating inclusive digital experiences.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development",
+        "Internet",
+        "Design",
+        "Software Design",
+        "_intellectual",
+        "_academic",
+        "_technical"
+      ],
+      "language": "en",
+      "keywords": [
+        "inclusive design",
+        "web development",
+        "accessibility",
+        "CSS",
+        "localization"
+      ]
+    },
+    {
+      "id": "feed:https://blog.jim-nielsen.com/feed.xml",
+      "title": "Jim Nielsen\u2019s Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.jim-nielsen.com/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Jim Nielsen\u2019s Blog",
+      "cleaned_author": null,
+      "summary": "A blog where Jim Nielsen shares his knowledge on web development and design principles.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "CSS",
+        "blog"
+      ]
+    },
+    {
+      "id": "feed:https://www.joshwcomeau.com/rss.xml",
+      "title": "Josh W Comeau",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.joshwcomeau.com/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Josh W Comeau",
+      "cleaned_author": "Josh W Comeau",
+      "summary": "Friendly tutorials aimed at developers, focusing on React, CSS, and animation, to help build a better understanding of web technologies.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "React",
+        "CSS",
+        "tutorials",
+        "animation"
+      ]
+    },
+    {
+      "id": "feed:https://justmarkup.com/feed/feed.xml",
+      "title": "justmarkup",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://justmarkup.com/feed/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "justmarkup",
+      "cleaned_author": null,
+      "summary": "A blog focused on front-end web development, with insights and updates reflecting over a decade of evolution in the field.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "front-end",
+        "design"
+      ]
+    },
+    {
+      "id": "feed:https://keithjgrant.com/posts/index.xml",
+      "title": "Keith J. Grant",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://keithjgrant.com/posts/index.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Keith J. Grant",
+      "cleaned_author": null,
+      "summary": "This blog offers practical insights into front-end development, emphasizing improvements and tools for building better web interfaces.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "JavaScript",
+        "web design"
+      ]
+    },
+    {
+      "id": "feed:https://una.im/rss.xml",
+      "title": "Una Kravets Online",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://una.im/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Una Kravets Online",
+      "cleaned_author": "Una Kravets",
+      "summary": "A personal blog providing valuable perspectives on web development, design, and emerging platform technologies.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "design",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "feed:https://lea.verou.me/feed.xml",
+      "title": "Lea Verou \u2022 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lea.verou.me/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Lea Verou \u2022 Blog",
+      "cleaned_author": "Lea Verou",
+      "summary": "Lea Verou shares insights on web standards, usability, and software engineering, with a focus on enhancing web experiences.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "JavaScript",
+        "web standards"
+      ]
+    },
+    {
+      "id": "feed:https://blog.logrocket.com/feed/",
+      "title": "LogRocket Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.logrocket.com/feed/",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "LogRocket Blog",
+      "cleaned_author": null,
+      "summary": "This blog offers resources for product teams, providing strategies to improve digital experiences through insightful development practices.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "product management",
+        "web development",
+        "user experience"
+      ]
+    },
+    {
+      "id": "feed:https://lynnandtonic.com/feed.xml",
+      "title": "Lynn Fisher | Thoughts",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lynnandtonic.com/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Lynn Fisher | Thoughts",
+      "cleaned_author": "Lynn Fisher",
+      "summary": "Lynn Fisher shares reflections on design and the web, offering a thoughtful perspective on the evolution of digital design practices.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "web development",
+        "blogging"
+      ]
+    },
+    {
+      "id": "feed:https://matthiasott.com/feed",
+      "title": "Matthias Ott \u00b7 Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://matthiasott.com/feed",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Matthias Ott \u00b7 Articles",
+      "cleaned_author": "Matthias Ott",
+      "summary": "Matthias Ott's articles and notes focus on user experience design, blending insights from a practical design standpoint.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "user experience",
+        "design",
+        "blogging"
+      ]
+    },
+    {
+      "id": "feed:https://www.miriamsuzanne.com/feed.atom",
+      "title": "Miriam Eric Suzanne",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.miriamsuzanne.com/feed.atom",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Miriam Eric Suzanne",
+      "cleaned_author": "Miriam Suzanne",
+      "summary": "An eclectic mix of art, writing, and code, reflecting on the intersections of technology and creativity in a modern context.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "writing",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://ohhelloana.blog/feed.xml",
+      "title": "Oh Hello Ana - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ohhelloana.blog/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Oh Hello Ana",
+      "cleaned_author": "Ana Rodrigues",
+      "summary": "This personal blog explores various thoughts and experiences related to technology and community events, offering a candid glimpse into the life of its author.",
+      "tags": [
+        "Tech",
+        "Living",
+        "WebDev",
+        "Frontend Development",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal blog",
+        "community",
+        "technology",
+        "thoughts"
+      ]
+    },
+    {
+      "id": "feed:https://piccalil.li/feed.xml",
+      "title": "Piccalilli - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://piccalil.li/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Piccalilli",
+      "cleaned_author": null,
+      "summary": "Piccalilli provides insightful educational content aimed at enhancing front-end development skills, making it a valuable resource for web developers at all levels.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "frontend skills",
+        "web development",
+        "accessibility"
+      ]
+    },
+    {
+      "id": "feed:https://nolanlawson.com/feed/",
+      "title": "Read the Tea Leaves",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nolanlawson.com/feed/",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Read the Tea Leaves",
+      "cleaned_author": "Nolan Lawson",
+      "summary": "Nolan Lawson navigates the intricacies of software development, sharing insights on web technologies and the trials of modern programming.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "software development",
+        "JavaScript",
+        "frameworks",
+        "web technologies"
+      ]
+    },
+    {
+      "id": "feed:https://remysharp.com/feed.xml",
+      "title": "remy sharp's b:log",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://remysharp.com/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "remy sharp's b:log",
+      "cleaned_author": "Remy Sharp",
+      "summary": "Remy Sharp\u2019s blog offers a mix of practical coding tips and deeper reflections on web design, aimed at a broad audience of developers.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "coding tips",
+        "web design",
+        "USB-C",
+        "Google Workspace"
+      ]
+    },
+    {
+      "id": "feed:https://ryanmulligan.dev/feed.xml",
+      "title": "Ryan Mulligan | Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ryanmulligan.dev/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Ryan Mulligan",
+      "cleaned_author": "Ryan Mulligan",
+      "summary": "Ryan Mulligan shares a variety of articles focusing on web development, featuring code snippets and thoughtful commentary on design practices.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "blogging",
+        "web development",
+        "animations",
+        "Eleventy"
+      ]
+    },
+    {
+      "id": "feed:https://sia.codes/feed/feed.xml",
+      "title": "Sia Karamalegos: Blog Archive",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://sia.codes/feed/feed.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Sia Karamalegos: Blog Archive",
+      "cleaned_author": "Sia Karamalegos",
+      "summary": "Sia Karamalegos offers insights into performance engineering and web development, combining personal experiences with professional tips for aspiring developers.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "performance engineer",
+        "web development",
+        "consulting",
+        "personal experiences"
+      ]
+    },
+    {
+      "id": "feed:https://www.stefanjudis.com/rss.xml",
+      "title": "Stefan Judis Web Development",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.stefanjudis.com/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "Stefan Judis Web Development",
+      "cleaned_author": "Stefan Judis",
+      "summary": "Stefan Judis compiles his web development insights and daily tips, catering to fellow developers looking to enhance their skills and methodologies.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "tips",
+        "command line",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "feed:https://www.swyx.io/rss.xml",
+      "title": "swyx's site",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.swyx.io/rss.xml",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "swyx's site",
+      "cleaned_author": "Swyx",
+      "summary": "Swyx's site features a collection of thoughts and writings on software development and design, reflecting a keen interest in practical tech and personal insights.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "YouTube",
+        "Home Assistant",
+        "design",
+        "journaling"
+      ]
+    },
+    {
+      "id": "feed:https://www.zachleat.com/web/feed/",
+      "title": "zachleat.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.zachleat.com/web/feed/",
+      "details": "Original Category: technology -> development -> web -> front-end.opml",
+      "cleaned_title": "zachleat.com",
+      "cleaned_author": "@zachleat",
+      "summary": "A blog focused on web development, where Zach Leat shares insights on front-end techniques and tools. The posts cover various topics including patterns in web performance and a deep dive into Eleventy.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Frontend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "front-end",
+        "Eleventy",
+        "performance"
+      ]
+    },
+    {
+      "id": "feed:https://adamj.eu/tech/atom.xml",
+      "title": "Adam Johnson",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://adamj.eu/tech/atom.xml",
+      "summary": "I'm an author and solo consultant working with Ansible, AWS, Django, and Python.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "Adam Johnson",
+      "cleaned_author": "Adam Johnson",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ansible",
+        "AWS",
+        "Django",
+        "Python",
+        "development tips"
+      ]
+    },
+    {
+      "id": "feed:https://james.brooks.page/rss/feed.xml",
+      "title": "James Brooks - Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://james.brooks.page/rss/feed.xml",
+      "summary": "Sometimes I write things and put them here.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "James Brooks",
+      "cleaned_author": "James Brooks",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "developer tools",
+        "Cloudflare",
+        "Laravel",
+        "technical writing"
+      ]
+    },
+    {
+      "id": "feed:https://blog.laravel.com/feed",
+      "title": "The Laravel Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.laravel.com/feed",
+      "summary": "The official blog for Laravel updates developers on new features, releases, and community news. It covers a wide range of topics from backend development to best practices in using this popular PHP framework.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "The Laravel Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Laravel",
+        "PHP",
+        "updates",
+        "features"
+      ]
+    },
+    {
+      "id": "feed:https://michaelhebblethwaite.com/index.xml",
+      "title": "Michael's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://michaelhebblethwaite.com/index.xml",
+      "summary": "The personal website and blog of Michael Hebblethwaite, a web developer based in Nagoya, Japan.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "Michael's Blog",
+      "cleaned_author": "Michael Hebblethwaite",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ruby on Rails",
+        "web development",
+        "Japan",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "feed:https://pawelurbanek.com/feed.xml",
+      "title": "Pawe\u0142 U.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pawelurbanek.com/feed.xml",
+      "summary": "Ruby on Rails Web Development Consultant Full Stack Blog.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "Pawe\u0142 U.",
+      "cleaned_author": "Pawe\u0142 U.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ruby on Rails",
+        "performance",
+        "consulting",
+        "database"
+      ]
+    },
+    {
+      "id": "feed:https://railsnotes.xyz/feed.xml",
+      "title": "RailsNotes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://railsnotes.xyz/feed.xml",
+      "summary": "A collection of the Ruby on Rails guides you wished you had, when you were first starting out.",
+      "details": "Original Category: technology -> development -> web -> back-end.opml",
+      "cleaned_title": "RailsNotes",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Backend Development"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ruby on Rails",
+        "guides",
+        "development",
+        "best practices"
+      ]
+    },
+    {
+      "id": "feed:https://www.annashipman.co.uk/atom.xml",
+      "title": "Anna Shipman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.annashipman.co.uk/atom.xml",
+      "summary": "I write about tech, leadership and tech leadership.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Anna Shipman",
+      "cleaned_author": "Anna Shipman",
+      "tags": [
+        "Tech",
+        "Software Design",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "leadership",
+        "technology",
+        "management"
+      ]
+    },
+    {
+      "id": "feed:https://lethain.com/feeds.xml",
+      "title": "Irrational Exuberance",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://lethain.com/feeds.xml",
+      "summary": "I\u2019m a writer and a software engineering leader.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Irrational Exuberance",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Software Design",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "engineering strategy",
+        "software development",
+        "data management"
+      ]
+    },
+    {
+      "id": "feed:https://techleader.pro/atom.xml",
+      "title": "TechLeader.pro",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://techleader.pro/atom.xml",
+      "summary": "Software engineering leadership.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "TechLeader.pro",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Software Design",
+        "WebDev"
+      ],
+      "language": "en",
+      "keywords": [
+        "leadership",
+        "software engineering",
+        "technology trends"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:CSS-Tricks",
+      "cleaned_title": "CSS-Tricks",
+      "summary": "A website dedicated to all things CSS, with tutorials, articles, and resources for web developers.",
+      "title": "CSS-Tricks",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/CssTricks",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "CSS",
+        "web development",
+        "tutorials",
+        "design techniques"
+      ]
+    },
+    {
+      "id": "feed:rss1.smashingmagazine.com:Smashing Magazine",
+      "cleaned_title": "Smashing Magazine",
+      "summary": "An online publication that covers UX design, front-end development, and web technologies, with a focus on practical insights and techniques.",
+      "title": "Smashing Magazine",
+      "kind": "feed",
+      "feed_url": "http://rss1.smashingmagazine.com/feed/",
+      "details": "Original category: Arts -> Design",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Coding",
+        "Security"
+      ],
+      "language": "en",
+      "keywords": [
+        "web design",
+        "development",
+        "user experience",
+        "best practices"
+      ]
+    }
+  ],
+  "child_categories": []
+}

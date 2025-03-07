@@ -1,0 +1,682 @@
+{
+  "id": "theater",
+  "display_name": "Theater",
+  "feeds": [
+    {
+      "id": "feed:broadwayworld.com:BroadwayWorld.com Featured Content",
+      "cleaned_title": "BroadwayWorld.com Featured Content",
+      "summary": "The leading source for all things Broadway, including news, reviews, interviews, and more.",
+      "title": "BroadwayWorld.com Featured Content",
+      "kind": "feed",
+      "feed_url": "http://www.broadwayworld.com/bwwrss2.cfm",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Broadway",
+        "theater",
+        "news",
+        "reviews"
+      ]
+    },
+    {
+      "id": "reddit:Broadway",
+      "cleaned_title": "Broadway",
+      "summary": "A subreddit dedicated to Broadway shows, musicals, actors, and everything related to the world of theater.",
+      "title": "Broadway",
+      "kind": "reddit",
+      "subreddit": "Broadway",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Broadway",
+        "musicals",
+        "performing arts"
+      ]
+    },
+    {
+      "id": "youtube:The Shows Must Go On!",
+      "cleaned_title": "The Shows Must Go On!",
+      "summary": "A YouTube channel that streams full-length musicals and stage performances for free, including popular shows from Broadway and the West End.",
+      "title": "The Shows Must Go On!",
+      "kind": "youtube",
+      "channel_id": "UCdmPjhKMaXNNeCr1FjuMvag",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMf5jyLz_MxlQyzsD1pQk47cOu0W28go57aWu1s=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "musicals",
+        "stage performances",
+        "theater"
+      ]
+    },
+    {
+      "id": "youtube:Broadwaycom",
+      "cleaned_title": "Broadwaycom",
+      "summary": "The official YouTube channel of Broadway.com, featuring interviews, behind-the-scenes footage, and highlights from Broadway shows and performances.",
+      "title": "Broadwaycom",
+      "kind": "youtube",
+      "channel_id": "UCc5dpUKLcZQQaDxMB_nYi5g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNvSVuJXqvuiD2jzPXAjTAxNLAJOzR03iv2ENGeuQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "Broadway",
+        "interviews",
+        "behind-the-scenes"
+      ]
+    },
+    {
+      "id": "reddit:MusicalTheatre",
+      "cleaned_title": "MusicalTheatre",
+      "summary": "A subreddit dedicated to the discussion and appreciation of musical theatre, including recommendations, reviews, and news about upcoming productions.",
+      "title": "MusicalTheatre",
+      "kind": "reddit",
+      "subreddit": "MusicalTheatre",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "musical theatre",
+        "discussions",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:theatermania.com:TheaterMania.com",
+      "cleaned_title": "TheaterMania.com",
+      "summary": "A comprehensive resource for theater lovers, offering news, reviews, ticket information, and exclusive features about Broadway, Off-Broadway, and regional theater.",
+      "title": "TheaterMania.com",
+      "kind": "feed",
+      "feed_url": "http://www.theatermania.com/rss.xml",
+      "details": "Original category: Arts -> Performing Arts",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "theater",
+        "reviews",
+        "ticket information"
+      ]
+    },
+    {
+      "id": "feed:https://www.newsfromme.com/feed/",
+      "title": "News From ME",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.newsfromme.com/feed/",
+      "summary": "About TV, movies, theatre, comics, news, politics and other forms of fantasy.",
+      "details": "Original Category: arts.opml",
+      "cleaned_title": "News From ME",
+      "cleaned_author": "Mark Evanier",
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Theater",
+        "Comics"
+      ],
+      "language": "en",
+      "keywords": [
+        "Mark Evanier",
+        "TV",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:http://thiswayupzine.blogspot.com/feeds/posts/default",
+      "title": "This Way Up",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thiswayupzine.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "This Way Up",
+      "cleaned_author": "John Connors",
+      "summary": "This Way Up is a comprehensive blog by John Connors that reviews both new and classic films and television shows. Its engaging content offers critiques and insights that cater to entertainment enthusiasts seeking to explore a variety of media.",
+      "tags": [
+        "Arts & Culture",
+        "Cinema",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "film reviews",
+        "television critique",
+        "entertainment",
+        "media"
+      ]
+    },
+    {
+      "id": "feed:https://www.sierz.co.uk/blog/feed/",
+      "title": "Aleks Sierz - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sierz.co.uk/blog/feed/",
+      "summary": "Journalist, author, broadcaster and theatre critic. New Writing for the British Stage.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Aleks Sierz - Blog",
+      "cleaned_author": "Aleks Sierz",
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "writing",
+        "performances"
+      ]
+    },
+    {
+      "id": "feed:https://www.sierz.co.uk/reviews/feed/",
+      "title": "Aleks Sierz - Reviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sierz.co.uk/reviews/feed/",
+      "summary": "Journalist, author, broadcaster and theatre critic. New Writing for the British Stage.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Aleks Sierz - Reviews",
+      "cleaned_author": "Aleks Sierz",
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre reviews",
+        "performances",
+        "art critiques"
+      ]
+    },
+    {
+      "id": "feed:https://www.alledinburghtheatre.com/feed/",
+      "title": "All Edinburgh Theatre.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.alledinburghtheatre.com/feed/",
+      "summary": "Reviews, news and previews edited by Thom Dibdin.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "All Edinburgh Theatre.com",
+      "cleaned_author": "Thom Dibdin",
+      "tags": [
+        "Local",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "Edinburgh",
+        "theatre reviews",
+        "theatrical events"
+      ]
+    },
+    {
+      "id": "feed:https://breaking-the-fourth-wall.com/feed/",
+      "title": "Breaking The Fourth Wall",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://breaking-the-fourth-wall.com/feed/",
+      "summary": "Michael Davis' thoughts on theatre and the Arts.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Breaking The Fourth Wall",
+      "cleaned_author": "Michael Davis",
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre criticism",
+        "insights",
+        "art discussions"
+      ]
+    },
+    {
+      "id": "feed:https://maryamphilpottblog.wordpress.com/feed/",
+      "title": "Cultural Capital",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://maryamphilpottblog.wordpress.com/feed/",
+      "summary": "Theatre, arts and events in London.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Cultural Capital",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "London"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "events",
+        "London Arts"
+      ]
+    },
+    {
+      "id": "feed:http://www.thefamilystage.co.uk/feed/",
+      "title": "The Family Stage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.thefamilystage.co.uk/feed/",
+      "summary": "For PLAYful families: News and reviews of theatrical things for every age.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "The Family Stage",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatrical reviews",
+        "family theatre",
+        "children's shows"
+      ]
+    },
+    {
+      "id": "feed:https://glasgowtheatreblog.com/feed/",
+      "title": "Glasgow Theatre Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://glasgowtheatreblog.com/feed/",
+      "summary": "The best place for news, interviews and reviews of theatre in Glasgow and beyond.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Glasgow Theatre Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Science",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "Glasgow theatre",
+        "theatre reviews",
+        "arts events"
+      ]
+    },
+    {
+      "id": "feed:https://krishallett.wordpress.com/feed/",
+      "title": "Kris Hallett - life as theatre",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://krishallett.wordpress.com/feed/",
+      "summary": "Director, Teacher, Writer.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Kris Hallett - life as theatre",
+      "cleaned_author": "Kris Hallett",
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre reviews",
+        "director insights",
+        "theatrical commentaries"
+      ]
+    },
+    {
+      "id": "feed:https://loureviews.blog/feed/",
+      "title": "LouReviews",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://loureviews.blog/feed/",
+      "summary": "London theatre - films, books, digital shows worldwide.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "LouReviews",
+      "cleaned_author": "Lou",
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Movies"
+      ],
+      "language": "en",
+      "keywords": [
+        "London theatre",
+        "film reviews",
+        "book critiques"
+      ]
+    },
+    {
+      "id": "feed:https://simonparrismaninchair.com/feed/",
+      "title": "Man in Chair",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://simonparrismaninchair.com/feed/",
+      "summary": "Music Theatre, Opera, Ballet and Play Reviews.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Man in Chair",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music",
+        "Dance"
+      ],
+      "language": "en",
+      "keywords": [
+        "music theatre reviews",
+        "opera critiques",
+        "ballet performances"
+      ]
+    },
+    {
+      "id": "feed:https://pleasemindtheblog.wordpress.com/feed/",
+      "title": "Mind the blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pleasemindtheblog.wordpress.com/feed/",
+      "summary": "Here you\u2019ll find reviews and features on theatre, concerts, albums, and anything else that\u2019s even tenuously related.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Mind the blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater",
+        "Music"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre reviews",
+        "concert insights",
+        "artistic features"
+      ]
+    },
+    {
+      "id": "feed:https://musicaltheatrereview.com/feed/",
+      "title": "Musical Theatre Review",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://musicaltheatrereview.com/feed/",
+      "summary": "Onstage. Backstage. Worldwide.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Musical Theatre Review",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "musical theatre",
+        "theatrical performances",
+        "West End reviews"
+      ]
+    },
+    {
+      "id": "feed:https://partially-obstructed-view.blogspot.com/feeds/posts/default",
+      "title": "Partially Obstructed View",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://partially-obstructed-view.blogspot.com/feeds/posts/default",
+      "summary": "Writing down what I think about theatre I've seen in That London, whether I've been asked to or not.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Partially Obstructed View",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "reviews",
+        "London"
+      ]
+    },
+    {
+      "id": "feed:https://theplaysthethinguk.com/feed/",
+      "title": "The Play's The Thing UK",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theplaysthethinguk.com/feed/",
+      "summary": "British Theatre & Performance Criticism.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "The Play's The Thing UK",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "performance",
+        "criticism",
+        "UK"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/revstanstheatreblog",
+      "title": "Rev Stan's theatre blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/revstanstheatreblog",
+      "summary": "Reviews, views and interviews by a theatre fan.",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Rev Stan's theatre blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "reviews",
+        "interviews",
+        "London"
+      ]
+    },
+    {
+      "id": "feed:https://www.rewritethisstory.com/feeds/posts/default",
+      "title": "Rewrite This Story",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.rewritethisstory.com/feeds/posts/default",
+      "summary": "For all your musical theatre needs including news, reviews and interviews straight from the West End and Broadway!",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Rewrite This Story",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "music",
+        "reviews",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:https://theatrecat.com/feed/",
+      "title": "theatreCat",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theatrecat.com/feed/",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "theatreCat",
+      "cleaned_author": "Libby Purves",
+      "summary": "Libby Purves and her associates provide critical reviews and thoughtful commentary on a variety of theatre productions, showcasing their expert insights into the current theatrical landscape.",
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "reviews",
+        "Libby Purves"
+      ]
+    },
+    {
+      "id": "feed:https://theblogoftheatrethings.com/feed/",
+      "title": "Theatre Things",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theblogoftheatrethings.com/feed/",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "Theatre Things",
+      "cleaned_author": null,
+      "summary": "This blog features an array of reviews covering various theatre productions, providing readers with insights into both established and emerging works in the theatrical scene.",
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:https://oughttobeclowns.com/feed/",
+      "title": "There Ought To Be Clowns",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://oughttobeclowns.com/feed/",
+      "details": "Original Category: arts -> theatre.opml",
+      "cleaned_title": "There Ought To Be Clowns",
+      "cleaned_author": null,
+      "summary": "A resourceful blog that explores not just theatre reviews but also offers commentary on TV and theatre news, keeping readers well-informed about the latest happenings.",
+      "tags": [
+        "Arts & Culture",
+        "Theater"
+      ],
+      "language": "en",
+      "keywords": [
+        "theatre",
+        "reviews",
+        "TV",
+        "news"
+      ]
+    },
+    {
+      "id": "feed:https://www.londonology.co.uk/feed/",
+      "title": "Londonology - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.londonology.co.uk/feed/",
+      "details": "Original Category: countries -> uk -> london.opml",
+      "cleaned_title": "Londonology",
+      "cleaned_author": null,
+      "summary": "A thoughtful blog focusing on various cultural and social aspects of London, with insightful reviews and guides showcasing the city's dynamic arts scene.",
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Theater",
+        "London",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "London",
+        "arts",
+        "reviews",
+        "culture"
+      ]
+    }
+  ],
+  "child_categories": []
+}

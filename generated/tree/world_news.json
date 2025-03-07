@@ -1,0 +1,1061 @@
+{
+  "id": "world_news",
+  "display_name": "World News",
+  "feeds": [
+    {
+      "id": "substack:top:thinking_about..._-_timothy_snyder",
+      "title": "Thinking about... - Timothy Snyder",
+      "cleaned_title": "Thinking about...",
+      "summary": "A scholarly approach to current events, emphasizing the lessons of history to guide understanding of contemporary political landscapes.",
+      "kind": "feed",
+      "feed_url": "https://snyder.substack.com/feed",
+      "details": "Original category: Substack top newsletters about world-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "Living",
+        "History",
+        "World News"
+      ],
+      "cleaned_author": "Timothy Snyder",
+      "language": "en",
+      "keywords": [
+        "politics",
+        "history",
+        "current events",
+        "Ukraine"
+      ]
+    },
+    {
+      "id": "substack:top:drop_site_news",
+      "title": "Drop Site News",
+      "cleaned_title": "Drop Site News",
+      "summary": "A source of independent journalism focusing on politics and war, providing timely analyses and news on critical global issues.",
+      "kind": "feed",
+      "feed_url": "https://www.dropsitenews.com/feed",
+      "details": "Original category: Substack top newsletters about world-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "World News"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "politics",
+        "war",
+        "independent journalism",
+        "current events"
+      ]
+    },
+    {
+      "id": "substack:top:the_chris_hedges_report_-_chris_hedges",
+      "title": "The Chris Hedges Report - Chris Hedges",
+      "cleaned_title": "The Chris Hedges Report",
+      "summary": "A platform dedicated to unpacking U.S. foreign policy, economic realities, and civil liberties through insightful commentary.",
+      "kind": "feed",
+      "feed_url": "https://chrishedges.substack.com/feed",
+      "details": "Original category: Substack top newsletters about world-politics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "World News"
+      ],
+      "cleaned_author": "Chris Hedges",
+      "language": "en",
+      "keywords": [
+        "foreign policy",
+        "civil liberties",
+        "political commentary",
+        "USA"
+      ]
+    },
+    {
+      "id": "substack:top:the_counteroffensive_with_tim_mak",
+      "title": "The Counteroffensive with Tim Mak",
+      "cleaned_title": "The Counteroffensive",
+      "summary": "A war correspondent's first-hand account from Kyiv, sharing human stories that portray the impact of war and the struggle for democracy.",
+      "kind": "feed",
+      "feed_url": "https://www.counteroffensive.news/feed",
+      "details": "Original category: Substack top newsletters about international",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "News",
+        "World News",
+        "Journalism"
+      ],
+      "cleaned_author": "Tim Mak",
+      "language": "en",
+      "keywords": [
+        "Tim Mak",
+        "Ukraine",
+        "war",
+        "democracy"
+      ]
+    },
+    {
+      "id": "substack:top:phillips\u2019s_newsletter_-_phillips_p._obrien",
+      "title": "Phillips\u2019s Newsletter - Phillips P. OBrien",
+      "cleaned_title": "Phillips\u2019s Newsletter",
+      "summary": "Phillips P. OBrien offers deep dives into the Russo-Ukraine War and other intriguing topics, reflecting on political narratives and their implications.",
+      "kind": "feed",
+      "feed_url": "https://phillipspobrien.substack.com/feed",
+      "details": "Original category: Substack top newsletters about international",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "World News",
+        "Journalism"
+      ],
+      "cleaned_author": "Phillips P. OBrien",
+      "language": "en",
+      "keywords": [
+        "Phillips P. OBrien",
+        "Ukraine",
+        "political narratives"
+      ]
+    },
+    {
+      "id": "substack:top:spytalk_-_jeff_stein",
+      "title": "SpyTalk - Jeff Stein",
+      "cleaned_title": "SpyTalk",
+      "summary": "Jeff Stein delivers insightful analysis on intelligence matters, aimed at readers interested in the complexities of global espionage.",
+      "kind": "feed",
+      "feed_url": "https://www.spytalk.co/feed",
+      "details": "Original category: Substack top newsletters about international",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Politics",
+        "World News"
+      ],
+      "cleaned_author": "Jeff Stein",
+      "language": "en",
+      "keywords": [
+        "Jeff Stein",
+        "intelligence",
+        "espionage"
+      ]
+    },
+    {
+      "id": "feed:guardian.co.uk:The Guardian",
+      "cleaned_title": "The Guardian",
+      "summary": "Global news with a focus on ethical journalism and diverse perspectives.",
+      "title": "The Guardian",
+      "kind": "feed",
+      "feed_url": "http://www.guardian.co.uk/rssfeed/0,,1,00.xml",
+      "popularity_score": 14.264209821302197,
+      "details": "Original category: News -> Global",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "global",
+        "politics"
+      ]
+    },
+    {
+      "id": "feed:nytimes.com:New York Times \u2013 nytimes.com",
+      "cleaned_title": "New York Times",
+      "summary": "Renowned news coverage with a global perspective on various topics.",
+      "title": "New York Times \u2013 nytimes.com",
+      "kind": "feed",
+      "feed_url": "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "popularity_score": 19.580611061387646,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "politics",
+        "analysis",
+        "world events"
+      ]
+    },
+    {
+      "title": "r/worldnews",
+      "popularity_score": 53.664271063009,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "worldnews",
+      "kind": "reddit",
+      "id": "reddit:worldnews",
+      "cleaned_title": "r/worldnews",
+      "cleaned_author": null,
+      "summary": "A subreddit dedicated to major global news stories, providing diverse perspectives while excluding internal US news, making it a resource for international events.",
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "international affairs",
+        "world events"
+      ]
+    },
+    {
+      "id": "feed:feeds.bbci.co.uk:BBC News - World \u2013 bbci.co.uk",
+      "cleaned_title": "BBC News - World",
+      "summary": "A global news service providing coverage of significant events from around the world, maintaining a commitment to impartial journalism.",
+      "title": "BBC News - World \u2013 bbci.co.uk",
+      "kind": "feed",
+      "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "popularity_score": 4.836643046831403,
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "global news",
+        "reporting",
+        "world events"
+      ]
+    },
+    {
+      "id": "feed:foreignaffairs.com:Foreign Affairs",
+      "cleaned_title": "Foreign Affairs",
+      "summary": "A respected publication that dives deep into global affairs, providing analysis and insight on international relations and current geopolitical issues.",
+      "title": "Foreign Affairs",
+      "kind": "feed",
+      "feed_url": "http://www.foreignaffairs.com/rss.xml",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.133133017810437,
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "international relations",
+        "geopolitics",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:foreignpolicy.com:FP Foreign Policy",
+      "cleaned_title": "FP Foreign Policy",
+      "summary": "A global magazine offering in-depth articles and perspectives on international relations and policy issues shaping the world today.",
+      "title": "FP Foreign Policy",
+      "kind": "feed",
+      "feed_url": "http://foreignpolicy.com/feed/",
+      "popularity_score": 1.9315557729941288,
+      "details": "Original category: News -> Global",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "foreign policy",
+        "international relations",
+        "Ukraine",
+        "Trump",
+        "security"
+      ]
+    },
+    {
+      "id": "feed:skift.com:Skift",
+      "cleaned_title": "Skift",
+      "summary": "A leading source for travel news, particularly focused on airline and hotel industries, providing in-depth reporting on trends and changes in tourism.",
+      "title": "Skift",
+      "kind": "feed",
+      "feed_url": "http://skift.com/feed/",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Living",
+        "Aviation",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel news",
+        "tourism",
+        "airlines"
+      ]
+    },
+    {
+      "id": "reddit:business",
+      "cleaned_title": "business",
+      "summary": "A subreddit for general business discussions, news, and insights from the business community.",
+      "title": "business",
+      "kind": "reddit",
+      "subreddit": "business",
+      "details": "Original category: Business",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "USA",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "business discussions",
+        "news",
+        "insights"
+      ]
+    },
+    {
+      "id": "youtube:BBC News",
+      "cleaned_title": "BBC News",
+      "summary": "The official YouTube channel of BBC News, providing breaking news, analysis, interviews, and documentaries.",
+      "title": "BBC News",
+      "kind": "youtube",
+      "channel_id": "UC16niRr50-MSBwiO3YDb3RA",
+      "thumbnail_url": "https://yt3.ggpht.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.1797961300498367,
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "interviews",
+        "analysis",
+        "headlines",
+        "reports"
+      ]
+    },
+    {
+      "id": "youtube:Democracy Now!",
+      "cleaned_title": "Democracy Now!",
+      "summary": "A daily independent news program that covers a wide range of topics, including politics, social justice, and global events.",
+      "title": "Democracy Now!",
+      "kind": "youtube",
+      "channel_id": "UCzuqE7-t13O4NIDYJfakrhw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTSNodnY4pCvuhfz-gMl9qHAg8AGYDSIslmg3YYTA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "USA",
+        "World News",
+        "Activism"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "politics",
+        "social justice"
+      ]
+    },
+    {
+      "id": "youtube:CNBC International",
+      "cleaned_title": "CNBC International",
+      "summary": "CNBC International's YouTube channel covers the latest economic news, market updates, and interviews with industry experts.",
+      "title": "CNBC International",
+      "kind": "youtube",
+      "channel_id": "UCo7a6riBFJ3tkeHjvkXPn1g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPmGw2g3okHgqNR9eeXqrJPqfQIZWB_VijukZyeJ80=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "economic news",
+        "market updates",
+        "expert interviews"
+      ]
+    },
+    {
+      "id": "feed:theovershoot.co:The Overshoot",
+      "cleaned_title": "The Overshoot",
+      "summary": "A platform dissecting the complexities of the global economy and financial markets, offering insights to navigate current economic challenges.",
+      "title": "The Overshoot",
+      "kind": "feed",
+      "feed_url": "https://theovershoot.co/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "global economy",
+        "financial insights",
+        "market analysis"
+      ]
+    },
+    {
+      "id": "feed:profstevekeen.substack.com:Building a New Economics",
+      "cleaned_title": "Building a New Economics",
+      "summary": "This blog presents an alternative to mainstream economics by focusing on systems-based approaches. Readers seeking to explore progressive economic ideas will find insightful discussions here.",
+      "title": "Building a New Economics",
+      "kind": "feed",
+      "feed_url": "https://profstevekeen.substack.com/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "climate change",
+        "trade",
+        "macroeconomics"
+      ]
+    },
+    {
+      "id": "feed:apricitas.io:Apricitas Economics",
+      "cleaned_title": "Apricitas Economics",
+      "summary": "Apricitas Economics provides data-driven insights into economics, business, and public policy, making it a valuable source for those interested in current economic affairs and their implications.",
+      "title": "Apricitas Economics",
+      "kind": "feed",
+      "feed_url": "https://www.apricitas.io/feed",
+      "details": "Original category: Business -> Economy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Finance",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics",
+        "business",
+        "public policy",
+        "trade"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Decanter",
+      "cleaned_title": "Decanter",
+      "summary": "A trusted source for wine lovers, offering wine news, reviews, and articles from around the globe.",
+      "title": "Decanter",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/wwwdecantercomfeedsrssnewsxml",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine",
+        "reviews",
+        "news",
+        "educational articles"
+      ]
+    },
+    {
+      "id": "reddit:Asia",
+      "cleaned_title": "Asia",
+      "summary": "A subreddit for discussions and news about Asia, covering a wide range of topics including politics, culture, and travel.",
+      "title": "Asia",
+      "kind": "reddit",
+      "subreddit": "Asia",
+      "details": "Original category: Local -> Asia",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Asia",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "discussions",
+        "culture",
+        "politics"
+      ]
+    },
+    {
+      "id": "youtube:FRANCE 24 English",
+      "cleaned_title": "FRANCE 24 English",
+      "summary": "France 24 English is the English-language YouTube channel of France 24. Watch news, interviews, and documentaries about France and global affairs from a French perspective.",
+      "title": "FRANCE 24 English",
+      "kind": "youtube",
+      "channel_id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNNrxL3Bam46oeoN-tJlZBWkunod2b7AUNRasWbrA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: News -> Global",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "World News",
+        "France"
+      ],
+      "language": "en",
+      "keywords": [
+        "France",
+        "global affairs",
+        "news",
+        "interviews",
+        "documentaries"
+      ]
+    },
+    {
+      "id": "youtube:BBC Earth",
+      "cleaned_title": "BBC Earth",
+      "summary": "BBC Earth's YouTube channel showcases stunning wildlife documentaries, including footage of rare and endangered species from around the world.",
+      "title": "BBC Earth",
+      "kind": "youtube",
+      "channel_id": "UCwmZiChSryoWQCZMIQezgTg",
+      "thumbnail_url": "https://yt3.ggpht.com/ENqrWbIENEEkPzhincJKsAZNIMo0j0Y6yqp9BQizNIYqPlZrUA8fUqD49wh3BDnLFbUXdNoEV2E=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Wildlife",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "World News",
+        "Climate & Environment",
+        "Biology",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "wildlife",
+        "documentaries",
+        "nature"
+      ]
+    },
+    {
+      "id": "youtube:The Dodo",
+      "cleaned_title": "The Dodo",
+      "summary": "The Dodo's YouTube channel features heartwarming and inspiring stories about animals, including wildlife rescues, rehabilitations, and conservation efforts.",
+      "title": "The Dodo",
+      "kind": "youtube",
+      "channel_id": "UCINb0wqPz-A0dV9nARjJlOQ",
+      "thumbnail_url": "https://yt3.ggpht.com/Qh30zzYakOakdqkxoBxcgtKizM1n62XDssdR92hl69geJNbEPkAyZG1osr-BpCDP54H4EX48pA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Wildlife",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "World News",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "animal stories",
+        "rescues",
+        "conservation"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Climate Home News",
+      "cleaned_title": "Climate Home News",
+      "summary": "Climate Home News is an independent news site dedicated to bringing you the latest updates and analysis on climate change and its impacts.",
+      "title": "Climate Home News",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/ClimateHome",
+      "details": "Original category: Environment -> Climate Change",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "climate change",
+        "politics",
+        "environment"
+      ]
+    },
+    {
+      "id": "feed:lastweekin.ai:Last Week in AI",
+      "cleaned_title": "Last Week in AI",
+      "summary": "This feed provides weekly summaries and insights on the latest news in AI along with editorials, perfect for keeping up-to-date in the fast-moving world of artificial intelligence.",
+      "title": "Last Week in AI",
+      "kind": "feed",
+      "feed_url": "https://lastweekin.ai/feed",
+      "popularity_score": 3.6208995825375134,
+      "details": "Original category: Tech -> AI & Machine Learning",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "AI news",
+        "summaries",
+        "editorials"
+      ]
+    },
+    {
+      "id": "youtube:Vox",
+      "cleaned_title": "Vox",
+      "summary": "Vox Borders is a YouTube series that explores the intersections of culture, politics, and geography, offering fascinating insights into different cultures and their unique characteristics.",
+      "title": "Vox",
+      "kind": "youtube",
+      "channel_id": "UCLXo7UDZvByw2ixzpQCufnA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM8rHWDu071t1WRxP7fThK1xi42GWsJEWFqRxyqnw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Travel -> Culture",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Social",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "culture",
+        "politics",
+        "geography",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://www.semafor.com/rss.xml",
+      "title": "Semafor",
+      "kind": "feed",
+      "feed_url": "https://www.semafor.com/rss.xml",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Semafor",
+      "cleaned_author": null,
+      "summary": "Semafor provides comprehensive coverage of breaking news, analysis, and video content, catering to a global audience.",
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "analysis",
+        "videos",
+        "global"
+      ]
+    },
+    {
+      "id": "feed:https://bellingcat.com/feed/",
+      "title": "bellingcat",
+      "kind": "feed",
+      "feed_url": "https://bellingcat.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "bellingcat",
+      "cleaned_author": null,
+      "summary": "Bellingcat is renowned for its groundbreaking online investigations and open-source intelligence work, covering critical global issues.",
+      "tags": [
+        "News",
+        "Journalism",
+        "Crime",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "investigations",
+        "open source",
+        "global issues",
+        "journalism"
+      ]
+    },
+    {
+      "id": "feed:https://www.sagoodnews.co.za/feed/",
+      "title": "SA Good News",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sagoodnews.co.za/feed/",
+      "summary": "A news website that highlights the positive developments in South Africa.",
+      "details": "Original Category: arts -> news.opml",
+      "cleaned_title": "SA Good News",
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "positive news",
+        "South Africa",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:https://stacks.contemporaryartlibrary.org/daily/feed.rss",
+      "title": "Contemporary Art Daily",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stacks.contemporaryartlibrary.org/daily/feed.rss",
+      "summary": "New art exhibitions and performances from around the world are published every day on our website and in our newsletter.",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Contemporary Art Daily",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "art exhibitions",
+        "performances",
+        "global art news"
+      ]
+    },
+    {
+      "id": "feed:https://www.maproomblog.com/feed/",
+      "title": "The Map Room",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.maproomblog.com/feed/",
+      "summary": "Blogging about maps since 2003.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "The Map Room",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Germany",
+        "USA",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "maps",
+        "geography",
+        "cartography",
+        "Gulf of America"
+      ]
+    },
+    {
+      "id": "feed:https://googlemapsmania.blogspot.com/feeds/posts/default",
+      "title": "Maps Mania",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://googlemapsmania.blogspot.com/feeds/posts/default",
+      "summary": "Dedicated to tracking the very best digital interactive maps on the internet and the tools used to create them.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "Maps Mania",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Germany",
+        "USA",
+        "Europe",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "interactive maps",
+        "digital maps",
+        "mapping tools"
+      ]
+    },
+    {
+      "id": "feed:https://somethingaboutmaps.wordpress.com/feed/",
+      "title": "somethingaboutmaps",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://somethingaboutmaps.wordpress.com/feed/",
+      "summary": "My name is Daniel Huffman, and I am a cartographer.",
+      "details": "Original Category: humanities -> geography -> maps.opml",
+      "cleaned_title": "somethingaboutmaps",
+      "cleaned_author": "Daniel Huffman",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Germany",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "cartography",
+        "maps",
+        "Kickstarter",
+        "ebooks"
+      ]
+    },
+    {
+      "title": "tagesschau.de",
+      "popularity_score": 3.0666666666666664,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.tagesschau.de/xml/rss2",
+      "kind": "feed",
+      "id": "feed:http://www.tagesschau.de/xml/rss2",
+      "cleaned_title": "tagesschau.de",
+      "cleaned_author": null,
+      "summary": "Germany's leading news source, providing comprehensive coverage of current affairs and significant events both locally and internationally.",
+      "tags": [
+        "News",
+        "Germany",
+        "World News"
+      ],
+      "language": "de",
+      "keywords": [
+        "news",
+        "current affairs",
+        "Germany"
+      ]
+    },
+    {
+      "title": "Meduza.io",
+      "popularity_score": 4.573448773448773,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://meduza.io/feed/all",
+      "kind": "feed",
+      "id": "feed:https://meduza.io/feed/all",
+      "cleaned_title": "Meduza.io",
+      "cleaned_author": null,
+      "summary": "A platform delivering significant news and well-crafted articles about events in Russia and around the world, focusing on critical reporting.",
+      "tags": [
+        "News",
+        "World News",
+        "Journalism",
+        "Russia"
+      ],
+      "language": "ru",
+      "keywords": [
+        "news",
+        "Russia",
+        "current events",
+        "reporting"
+      ]
+    },
+    {
+      "title": "Aktuell - FAZ.NET",
+      "popularity_score": 3.2888888888888896,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.faz.net/rss/aktuell/",
+      "kind": "feed",
+      "id": "feed:http://www.faz.net/rss/aktuell/",
+      "cleaned_title": "Aktuell",
+      "cleaned_author": "FAZ.NET",
+      "summary": "A comprehensive source for current events and news across various sectors, including politics, economy, sports, and financial updates.",
+      "tags": [
+        "News",
+        "Politics",
+        "USA",
+        "Germany",
+        "World News"
+      ],
+      "language": "de",
+      "keywords": [
+        "politics",
+        "economy",
+        "sports",
+        "news"
+      ]
+    },
+    {
+      "title": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "popularity_score": 2.967857142857143,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "kind": "feed",
+      "id": "feed:https://www.aljazeera.com/xml/rss/all.xml",
+      "cleaned_title": "Al Jazeera",
+      "cleaned_author": null,
+      "summary": "A trusted source for breaking news and global updates, Al Jazeera covers important stories from around the world.",
+      "tags": [
+        "News",
+        "Politics",
+        "Middle East",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "news",
+        "breaking news",
+        "global news"
+      ]
+    },
+    {
+      "title": "\u0420\u0418\u0410 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u2013 ria.ru",
+      "popularity_score": 2.1666666666666665,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://ria.ru/export/rss2/index.xml",
+      "kind": "feed",
+      "id": "feed:http://ria.ru/export/rss2/index.xml",
+      "cleaned_title": "\u0420\u0418\u0410 \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+      "cleaned_author": null,
+      "summary": "A major Russian news agency providing comprehensive coverage of current events in Russia and around the world.",
+      "tags": [
+        "News",
+        "World News"
+      ],
+      "language": "ru",
+      "keywords": [
+        "news",
+        "Russia",
+        "current events",
+        "updates"
+      ]
+    },
+    {
+      "title": "China - South China Morning Post \u2013 scmp.com",
+      "popularity_score": 2.0,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.scmp.com/rss/china.xml",
+      "kind": "feed",
+      "id": "feed:http://www.scmp.com/rss/china.xml",
+      "cleaned_title": "China - South China Morning Post",
+      "cleaned_author": null,
+      "summary": "A reliable source for the latest updates on Chinese news and breaking stories affecting the region and beyond.",
+      "tags": [
+        "News",
+        "World News",
+        "China"
+      ],
+      "language": "en",
+      "keywords": [
+        "Chinese News",
+        "Current Affairs",
+        "Breaking News"
+      ]
+    },
+    {
+      "id": "feed:atlasobscura.com:Atlas Obscura - Latest Articles and Places",
+      "cleaned_title": "Atlas Obscura",
+      "summary": "A curious exploration of the world, Atlas Obscura introduces readers to off-the-beaten-path destinations and fascinating stories behind various locations.",
+      "title": "Atlas Obscura - Latest Articles and Places",
+      "kind": "feed",
+      "feed_url": "https://www.atlasobscura.com/feeds/latest",
+      "details": "Original category: Travel",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular",
+        "ooh_directory"
+      ],
+      "popularity_score": 1.9696687370600412,
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cities",
+        "Wanderlust",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "curiosities",
+        "history",
+        "locations"
+      ]
+    }
+  ],
+  "child_categories": []
+}

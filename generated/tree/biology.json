@@ -1,0 +1,521 @@
+{
+  "id": "biology",
+  "display_name": "Biology",
+  "feeds": [
+    {
+      "id": "feed:india.mongabay.com:Mongabay-India",
+      "cleaned_title": "Mongabay-India",
+      "summary": "An environmental science and conservation news website that focuses on biodiversity, forests, wildlife, and more.",
+      "title": "Mongabay-India",
+      "kind": "feed",
+      "feed_url": "https://india.mongabay.com/feed/",
+      "details": "Original category: News -> Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "News",
+        "Climate & Environment",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "environmental news",
+        "biodiversity",
+        "wildlife conservation",
+        "India"
+      ]
+    },
+    {
+      "id": "feed:feeds.nature.com:Nature Medicine",
+      "cleaned_title": "Nature Medicine",
+      "summary": "Nature Medicine is a prestigious scientific journal that publishes cutting-edge research in the field of medical science.",
+      "title": "Nature Medicine",
+      "kind": "feed",
+      "feed_url": "http://feeds.nature.com/nm/rss/current",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Health",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "biomedical research",
+        "cancer biology",
+        "neurology",
+        "infectious disease",
+        "metabolic disorders"
+      ]
+    },
+    {
+      "id": "feed:stm.sciencemag.org:AAAS: Science Translational Medicine: Table of Contents",
+      "cleaned_title": "AAAS: Science Translational Medicine",
+      "summary": "Science Translational Medicine publishes research that bridges the gap between basic science and clinical applications, focusing on translational research in medicine.",
+      "title": "AAAS: Science Translational Medicine: Table of Contents",
+      "kind": "feed",
+      "feed_url": "http://stm.sciencemag.org/rss/current.xml",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Biology",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "translational research",
+        "clinical applications",
+        "medical science"
+      ]
+    },
+    {
+      "id": "reddit:Science",
+      "cleaned_title": "Science",
+      "summary": "A subreddit for the discussion of scientific research, news, and related topics across various disciplines.",
+      "title": "Science",
+      "kind": "reddit",
+      "subreddit": "Science",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Biology",
+        "Physics",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific research",
+        "community discussions",
+        "latest publications"
+      ]
+    },
+    {
+      "id": "youtube:SciShow",
+      "cleaned_title": "SciShow",
+      "summary": "A YouTube channel that explores scientific topics with a focus on making complex concepts accessible and engaging for a general audience, including academic research.",
+      "title": "SciShow",
+      "kind": "youtube",
+      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
+      "thumbnail_url": "https://yt3.ggpht.com/QYr8VgYcdA4FBDExWgAqUHCrBq0dgJvPPy-S4hUa_H00wVlIej_otvyHMLmRFYz5FqH6zPlrvg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "science education",
+        "explaining science",
+        "accessibility in science"
+      ]
+    },
+    {
+      "id": "youtube:BBC Earth",
+      "cleaned_title": "BBC Earth",
+      "summary": "BBC Earth's YouTube channel showcases stunning wildlife documentaries, including footage of rare and endangered species from around the world.",
+      "title": "BBC Earth",
+      "kind": "youtube",
+      "channel_id": "UCwmZiChSryoWQCZMIQezgTg",
+      "thumbnail_url": "https://yt3.ggpht.com/ENqrWbIENEEkPzhincJKsAZNIMo0j0Y6yqp9BQizNIYqPlZrUA8fUqD49wh3BDnLFbUXdNoEV2E=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment -> Wildlife",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "World News",
+        "Climate & Environment",
+        "Biology",
+        "_high_quality"
+      ],
+      "language": "en",
+      "keywords": [
+        "wildlife",
+        "documentaries",
+        "nature"
+      ]
+    },
+    {
+      "id": "feed:https://johncarlosbaez.wordpress.com/feed/",
+      "title": "Azimuth",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://johncarlosbaez.wordpress.com/feed/",
+      "summary": "From math to physics to earth science and biology, computer science \u2026 centered around the theme of what scientists, engineers and programmers can do to help save a planet in crisis.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "Azimuth",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "environment",
+        "engineering",
+        "mathematics",
+        "physics"
+      ]
+    },
+    {
+      "id": "feed:https://markgelbart.wordpress.com/feed/",
+      "title": "Georgia Before People",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://markgelbart.wordpress.com/feed/",
+      "summary": "I\u2019m writing this blog because I\u2019m fascinated with what the ecology of southeastern North America was before people colonized the region and ruined it.",
+      "details": "Original Category: countries -> usa.opml",
+      "cleaned_title": "Georgia Before People",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "ecology",
+        "Southeastern North America",
+        "colonization",
+        "megafauna"
+      ]
+    },
+    {
+      "id": "feed:https://www.plengegen.com/feed/",
+      "title": "Plenge Gen @rplenge",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.plengegen.com/feed/",
+      "summary": "Discovery Research | Better Health.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "Plenge Gen",
+      "cleaned_author": "R Plenge",
+      "tags": [
+        "Science",
+        "Health",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "drug discovery",
+        "health",
+        "immunotherapy",
+        "research"
+      ]
+    },
+    {
+      "id": "feed:https://virology.ws/feed/",
+      "title": "virology blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://virology.ws/feed/",
+      "summary": "About viruses and viral disease.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "Virology Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "viruses",
+        "viral disease",
+        "vaccines",
+        "research"
+      ]
+    },
+    {
+      "id": "feed:http://astroblogger.blogspot.com/feeds/posts/default",
+      "title": "Astroblog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://astroblogger.blogspot.com/feeds/posts/default",
+      "summary": "Obscured by Clouds. The rough and ready blog of a cloud benighted biologist and amateur astronomer.",
+      "details": "Original Category: science -> space.opml",
+      "cleaned_title": "Astroblog",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Astronomy",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "astronomy",
+        "space",
+        "celestial events"
+      ]
+    },
+    {
+      "id": "feed:https://fossilhuntress.blogspot.com/feeds/posts/default",
+      "title": "Fossil Huntress",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://fossilhuntress.blogspot.com/feeds/posts/default",
+      "summary": "Musings in natural history meant to captivate, educate & inspire. Deepen your world.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Fossil Huntress",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Fiction",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fossils",
+        "Natural History",
+        "Education"
+      ]
+    },
+    {
+      "id": "feed:https://glacierchange.blog/feed/",
+      "title": "From a Glacier's Perspective - AGU Blogosphere",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://glacierchange.blog/feed/",
+      "summary": "Glacier change in a world of climate change.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "From a Glacier's Perspective",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "Glaciers",
+        "Climate Change",
+        "Environmental Science"
+      ]
+    },
+    {
+      "id": "feed:https://www.southernfriedscience.com/feed/",
+      "title": "Southern Fried Science",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.southernfriedscience.com/feed/",
+      "summary": "Over 15 years of ocean science and conservation online.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Southern Fried Science",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Climate & Environment"
+      ],
+      "language": "en",
+      "keywords": [
+        "Ocean Conservation",
+        "Marine Science",
+        "Education"
+      ]
+    },
+    {
+      "id": "feed:https://julian-hoffman.com/feed/",
+      "title": "Julian Hoffman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://julian-hoffman.com/feed/",
+      "summary": "Notes from Near and Far.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Julian Hoffman",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://natural-history-journal.blogspot.com/feeds/posts/default",
+      "title": "Natural History Journal",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://natural-history-journal.blogspot.com/feeds/posts/default",
+      "summary": "Notes from a California Naturalist.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Natural History Journal",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://pandasthumb.org/feed",
+      "title": "The Panda\u2019s Thumb",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://pandasthumb.org/feed",
+      "summary": "A blog dedicated to evolutionary biology and the latest scientific findings, with a focus on some of nature's most fascinating creatures.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "The Panda\u2019s Thumb",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://tetzoo.com/blog?format=rss",
+      "title": "Tetrapod Zoology",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tetzoo.com/blog?format=rss",
+      "summary": "Discussion of all things tetrapod and vertebrate palaeontology, and many things not.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Tetrapod Zoology",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "paleontology",
+        "tetrapods",
+        "zoology",
+        "vertebrates"
+      ]
+    },
+    {
+      "id": "feed:https://freethoughtblogs.com/pharyngula/feed/",
+      "title": "Pharyngula",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://freethoughtblogs.com/pharyngula/feed/",
+      "summary": "Evolution, development, and random biological ejaculations from a godless liberal.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Pharyngula",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "evolution",
+        "biological sciences",
+        "secularism"
+      ]
+    },
+    {
+      "title": "Nature",
+      "popularity_score": 2.378787878787879,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.nature.com/nature/current_issue/rss",
+      "kind": "feed",
+      "id": "feed:http://www.nature.com/nature/current_issue/rss",
+      "cleaned_title": "Nature",
+      "cleaned_author": null,
+      "summary": "One of the leading international scientific journals, publishing significant research and advances in all areas of science and technology.",
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "research",
+        "innovation"
+      ]
+    },
+    {
+      "id": "feed:quantamagazine.org:Quanta Magazine",
+      "cleaned_title": "Quanta Magazine",
+      "summary": "A source that illuminates complex scientific concepts, making them accessible to a broader audience. Its intriguing articles cover a range of topics from theoretical physics to biology.",
+      "title": "Quanta Magazine",
+      "kind": "feed",
+      "feed_url": "http://www.quantamagazine.org/feed/",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular",
+        "ooh_directory"
+      ],
+      "popularity_score": 6.348774433451852,
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Physics",
+        "Astronomy"
+      ],
+      "language": "en",
+      "keywords": [
+        "science",
+        "mathematics",
+        "research",
+        "coral reefs",
+        "black holes"
+      ]
+    }
+  ],
+  "child_categories": []
+}

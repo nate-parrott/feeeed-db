@@ -1,0 +1,303 @@
+{
+  "id": "cycling",
+  "display_name": "Cycling",
+  "feeds": [
+    {
+      "id": "feed:bicycling.co.za:Bicycling",
+      "cleaned_title": "Bicycling",
+      "summary": "A South African cycling magazine that provides reviews, maintenance tips, and training advice for cyclists at all levels, blending enthusiasm with practical insights.",
+      "title": "Bicycling",
+      "kind": "feed",
+      "feed_url": "http://www.bicycling.co.za/feed/",
+      "details": "Original category: Hobbies -> Cycling",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cycling"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling",
+        "gear reviews",
+        "training plans",
+        "bike maintenance"
+      ]
+    },
+    {
+      "id": "feed:cyclingindependent.com:The Cycling Independent",
+      "cleaned_title": "The Cycling Independent",
+      "summary": "A cycling podcast that embraces all aspects of cycling culture, discussing everything from gear reviews to the bicycle's societal impact in an engaging manner.",
+      "title": "The Cycling Independent",
+      "kind": "feed",
+      "feed_url": "https://cyclingindependent.com/feed/",
+      "details": "Original category: Hobbies -> Cycling",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cycling"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling",
+        "podcast",
+        "gear reviews",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:https://www.freewheelingfrance.com/freewheeling-france-rss-feed.xml",
+      "title": "Freewheeling France",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.freewheelingfrance.com/freewheeling-france-rss-feed.xml",
+      "summary": "Cycling in France and velotourisme including bike routes, cycling books and information on French cycling holidays.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "Freewheeling France",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cycling"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling",
+        "France",
+        "bike routes",
+        "tours"
+      ]
+    },
+    {
+      "id": "feed:https://bicycledutch.wordpress.com/feed/",
+      "title": "BICYCLE DUTCH",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bicycledutch.wordpress.com/feed/",
+      "summary": "All about cycling in the Netherlands.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "BICYCLE DUTCH",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Cycling"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling",
+        "Netherlands",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "feed:https://therantyhighwayman.blogspot.com/feeds/posts/default",
+      "title": "The Ranty Highwayman",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://therantyhighwayman.blogspot.com/feeds/posts/default",
+      "summary": "The adventures in time & space of a Chartered Civil Engineer, specialising in designing for walking and cycling.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "The Ranty Highwayman",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Cycling"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling",
+        "engineering",
+        "infrastructure"
+      ]
+    },
+    {
+      "id": "feed:https://www.eatsleepcycle.com/journal/feed/",
+      "title": "Eat Sleep Cycle Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.eatsleepcycle.com/journal/feed/",
+      "summary": "Written by those who love to eat, sleep, cycle. From our base in Girona, Catalunya, we ride bikes all over Europe.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "Eat Sleep Cycle Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Cycling",
+        "Europe"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling",
+        "tours",
+        "adventure",
+        "Europe"
+      ]
+    },
+    {
+      "id": "feed:https://bikepacking.com/feed/",
+      "title": "BIKEPACKING.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bikepacking.com/feed/",
+      "summary": "The resource for the latest bikepacking routes, gear reviews, insight & adventure stories.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "BIKEPACKING.com",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Cycling",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "bikepacking",
+        "routes",
+        "gear reviews",
+        "adventure stories"
+      ]
+    },
+    {
+      "id": "feed:https://biketoeverything.com/feed/",
+      "title": "Bike to Everything - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://biketoeverything.com/feed/",
+      "summary": "Bike commuting for everyone.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "Bike to Everything - Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Cycling",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "bike commuting",
+        "gear reviews",
+        "bicycle tips"
+      ]
+    },
+    {
+      "id": "feed:http://coastkid.blogspot.com/feeds/posts/default",
+      "title": "coastrider",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://coastkid.blogspot.com/feeds/posts/default",
+      "summary": "coastal cycling in East Lothian, Scotland and related outdoor interests.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "coastrider",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Cycling",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "coastal cycling",
+        "outdoor interests",
+        "Scotland"
+      ]
+    },
+    {
+      "id": "feed:https://www.dcrainmaker.com/feed",
+      "title": "DC Rainmaker | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.dcrainmaker.com/feed",
+      "summary": "I\u2019m just a triathlete and runner like you:  I run, I bike, and I do something resembling swimming.  And at the end of the day\u2026I blog about it.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "DC Rainmaker | Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Running",
+        "Cycling"
+      ],
+      "language": "en",
+      "keywords": [
+        "fitness gear",
+        "triathlon",
+        "running tips"
+      ]
+    },
+    {
+      "id": "feed:https://themanfromicon.net/feed/",
+      "title": "the man from icon",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://themanfromicon.net/feed/",
+      "summary": "A personal blog exploring cycling and the experiences that come with it.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "the man from icon",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Cycling",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling",
+        "personal stories",
+        "adventure"
+      ]
+    },
+    {
+      "id": "feed:https://theradavist.com/feed/",
+      "title": "The Radavist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://theradavist.com/feed/",
+      "summary": "The Radavist is a group of individuals who share a love of cycling and the outdoors.",
+      "details": "Original Category: recreation -> sport -> cycling.opml",
+      "cleaned_title": "The Radavist",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Living",
+        "Cycling",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "cycling community",
+        "outdoor passion",
+        "gear reviews"
+      ]
+    }
+  ],
+  "child_categories": []
+}

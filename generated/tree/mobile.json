@@ -1,0 +1,209 @@
+{
+  "id": "mobile",
+  "display_name": "Mobile",
+  "feeds": [
+    {
+      "id": "feed:9to5google.com:9to5Google",
+      "cleaned_title": "9to5Google",
+      "summary": "An essential source for the latest developments relating to Google, including updates on Pixel devices, Android, and other Google-related technologies.",
+      "title": "9to5Google",
+      "kind": "feed",
+      "feed_url": "http://9to5google.com/feed/",
+      "popularity_score": 5.814714860303096,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Google",
+        "Mobile"
+      ],
+      "language": "en",
+      "keywords": [
+        "Google news",
+        "Android",
+        "technology updates"
+      ]
+    },
+    {
+      "id": "feed:newmobilelife.com:\u6d41\u52d5\u65e5\u5831 \u2013 newmobilelife.com",
+      "cleaned_title": "\u6d41\u52d5\u65e5\u5831",
+      "summary": "NewMobileLife offers insights into the latest trends in mobile technology, including app updates and new features across platforms.",
+      "title": "\u6d41\u52d5\u65e5\u5831 \u2013 newmobilelife.com",
+      "kind": "feed",
+      "feed_url": "http://www.newmobilelife.com/feed/atom/",
+      "details": "Original category: Popular",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Mobile"
+      ],
+      "language": "zh",
+      "keywords": [
+        "mobile technology",
+        "apps",
+        "software updates",
+        "gaming"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Android Authority",
+      "cleaned_title": "Android Authority",
+      "summary": "Android Authority is a website that focuses on Android-related news, reviews, and tutorials, covering smartphones, apps, and more.",
+      "title": "Android Authority",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/androidauthority",
+      "details": "Original category: Tech -> Software & Apps",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.0899338354517836,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Mobile",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "Android",
+        "smartphones",
+        "reviews",
+        "apps",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:multicore.blog:Multicore",
+      "cleaned_title": "Multicore",
+      "summary": "Multicore covers the latest in technology hardware and design from Tokyo. With insights on smartphones and innovative gadgets, it attracts tech enthusiasts interested in cutting-edge developments.",
+      "title": "Multicore",
+      "kind": "feed",
+      "feed_url": "https://www.multicore.blog/feed",
+      "details": "Original category: Tech -> Hardware",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Sam Byford",
+      "tags": [
+        "Tech",
+        "Mobile",
+        "Gadgets",
+        "Japan"
+      ],
+      "language": "en",
+      "keywords": [
+        "hardware design",
+        "smartphones",
+        "Oppo",
+        "E Ink",
+        "Japanese tech"
+      ]
+    },
+    {
+      "id": "feed:https://initialcharge.net/feed/",
+      "title": "Initial Charge",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://initialcharge.net/feed/",
+      "summary": "A daily weblog written and produced by Mike Rockwell which focuses on Apple products, mobile applications, the web, and other geek-related topics.",
+      "details": "Original Category: technology -> apple.opml",
+      "cleaned_title": "Initial Charge",
+      "cleaned_author": "Mike Rockwell",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Mobile"
+      ],
+      "language": "en",
+      "keywords": [
+        "Apple news",
+        "mobile applications",
+        "technology commentary"
+      ]
+    },
+    {
+      "id": "feed:https://www.swiftjectivec.com/feed.xml",
+      "title": "Swiftjective-C",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.swiftjectivec.com/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Swiftjective-C",
+      "cleaned_author": null,
+      "summary": "A blog for iOS developers and indie programmers that delves into Swift programming and Apple technologies.",
+      "tags": [
+        "Tech",
+        "Mobile",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Swift",
+        "iOS",
+        "Apple"
+      ]
+    },
+    {
+      "title": "iPhones.ru \u2014 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0432\u044b\u0441\u043e\u043a\u0438\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439, \u043e\u0431\u0437\u043e\u0440\u044b \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u0432, \u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0438 Apple",
+      "popularity_score": 2.2857142857142856,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "http://www.iphones.ru/feed/",
+      "kind": "feed",
+      "id": "feed:http://www.iphones.ru/feed/",
+      "cleaned_title": "iPhones.ru",
+      "cleaned_author": null,
+      "summary": "A Russian site dedicated to the latest in technology news, smartphone reviews, and Apple product presentations.",
+      "tags": [
+        "Tech",
+        "Apple",
+        "Mobile"
+      ],
+      "language": "ru",
+      "keywords": [
+        "smartphones",
+        "technology",
+        "reviews",
+        "Apple"
+      ]
+    },
+    {
+      "title": "Rozetked.me",
+      "popularity_score": 2.1777777777777776,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://rozetked.me/rss.xml",
+      "kind": "feed",
+      "id": "feed:https://rozetked.me/rss.xml",
+      "cleaned_title": "Rozetked",
+      "cleaned_author": null,
+      "summary": "A digital media outlet focusing on the latest advancements in technology, especially mobile and AI-related news.",
+      "tags": [
+        "Tech",
+        "Mobile",
+        "AI"
+      ],
+      "language": "ru",
+      "keywords": [
+        "OpenAI",
+        "Xiaomi",
+        "technology",
+        "innovation"
+      ]
+    }
+  ],
+  "child_categories": []
+}

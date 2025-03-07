@@ -1,0 +1,2520 @@
+{
+  "id": "education",
+  "display_name": "Education",
+  "feeds": [
+    {
+      "id": "substack:top:computer,_enhance!_-_casey_muratori",
+      "title": "Computer, Enhance! - Casey Muratori",
+      "cleaned_title": "Computer, Enhance!",
+      "summary": "Offering a range of programming courses and engaging commentary, this newsletter caters to enthusiasts eager to enhance their coding skills and technical knowledge.",
+      "kind": "feed",
+      "feed_url": "https://www.computerenhance.com/feed",
+      "details": "Original category: Substack top newsletters about technology",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Tech",
+        "Coding",
+        "Education",
+        "_intellectual"
+      ],
+      "cleaned_author": "Casey Muratori",
+      "language": "en",
+      "keywords": [
+        "programming",
+        "courses",
+        "technical skills"
+      ]
+    },
+    {
+      "id": "substack:top:lenny's_newsletter_-_lenny_rachitsky",
+      "title": "Lenny's Newsletter - Lenny Rachitsky",
+      "cleaned_title": "Lenny's Newsletter",
+      "summary": "A practical guide for professionals centered on product development and growth strategies, offering actionable advice and insights tailored for those looking to accelerate their careers.",
+      "kind": "feed",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top",
+        "original_feed_db"
+      ],
+      "tags": [
+        "Money",
+        "Education",
+        "Finance",
+        "_high_quality"
+      ],
+      "cleaned_author": "Lenny Rachitsky",
+      "language": "en",
+      "keywords": [
+        "product management",
+        "growth strategies",
+        "career advice"
+      ]
+    },
+    {
+      "id": "substack:top:knowingless_-_aella",
+      "title": "Knowingless - Aella",
+      "cleaned_title": "Knowingless",
+      "summary": "Aella's Substack examines the intersections of sex, psychedelics, and social analysis. It serves as a platform for exploring modern relationships and societal norms in a provocative and engaging manner.",
+      "kind": "feed",
+      "feed_url": "https://aella.substack.com/feed",
+      "details": "Original category: Substack top newsletters about education",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "cleaned_author": "Aella",
+      "language": "en",
+      "keywords": [
+        "sex",
+        "psychedelics",
+        "social analysis"
+      ]
+    },
+    {
+      "id": "substack:top:the_official_ryan_mcbeth_substack_-_ryan_mcbeth",
+      "title": "The official Ryan McBeth Substack - Ryan McBeth",
+      "cleaned_title": "The official Ryan McBeth Substack",
+      "summary": "Ryan McBeth's newsletter is a rich resource for insights on education and social commentary, featuring his personal perspectives and analyses that resonate with a broad audience. Followers can expect a thoughtful mix of content.",
+      "kind": "feed",
+      "feed_url": "https://ryanmcbeth.substack.com/feed",
+      "details": "Original category: Substack top newsletters about education",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "cleaned_author": "Ryan McBeth",
+      "language": "en",
+      "keywords": [
+        "education",
+        "perspectives",
+        "analysis"
+      ]
+    },
+    {
+      "id": "substack:top:write_with_ai_-_nicolas_cole",
+      "title": "Write With AI - Nicolas Cole",
+      "cleaned_title": "Write With AI",
+      "summary": "Nicolas Cole's newsletter delves into the world of AI writing assistants, offering actionable insights and advice on utilizing technology to enhance writing. It's an essential guide for anyone looking to harness AI's potential.",
+      "kind": "feed",
+      "feed_url": "https://writewithai.substack.com/feed",
+      "details": "Original category: Substack top newsletters about education",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Writing",
+        "Education"
+      ],
+      "cleaned_author": "Nicolas Cole",
+      "language": "en",
+      "keywords": [
+        "AI",
+        "writing",
+        "technology"
+      ]
+    },
+    {
+      "id": "substack:top:soulstack_by_beth_kempton",
+      "title": "SoulStack by Beth Kempton",
+      "cleaned_title": "SoulStack",
+      "summary": "Beth Kempton\u2019s newsletter provides insights into the creative process, encouraging readers to explore their own writing journeys. As part of a larger community, it welcomes writers from all backgrounds to engage and grow together.",
+      "kind": "feed",
+      "feed_url": "https://bethkempton.substack.com/feed",
+      "details": "Original category: Substack top newsletters about education",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "cleaned_author": "Beth Kempton",
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "writing",
+        "community"
+      ]
+    },
+    {
+      "title": "r/TodayILearned",
+      "popularity_score": 63.123126643895425,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "subreddit": "TodayILearned",
+      "kind": "reddit",
+      "id": "reddit:TodayILearned",
+      "cleaned_title": "r/TodayILearned",
+      "cleaned_author": null,
+      "summary": "An engaging community on Reddit where users share interesting and often surprising facts that spark curiosity and learning.",
+      "tags": [
+        "Living",
+        "Learning",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "interesting facts",
+        "community",
+        "learning"
+      ]
+    },
+    {
+      "id": "youtube:CrashCourse",
+      "cleaned_title": "CrashCourse",
+      "summary": "A YouTube channel that provides engaging educational videos on a wide range of subjects, including history, science, and literature.",
+      "title": "CrashCourse",
+      "kind": "youtube",
+      "channel_id": "UCX6b17PVsYBQ0ip5gyeme-Q",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNDCC3BJ44W3MDohf4nPpubWUJjtUNZj335w-0UiA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Online Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "educational videos",
+        "learning resources",
+        "various subjects"
+      ]
+    },
+    {
+      "id": "reddit:education",
+      "cleaned_title": "education",
+      "summary": "A subreddit for discussions and news related to education, including teaching methods, educational policy, and student experiences.",
+      "title": "education",
+      "kind": "reddit",
+      "subreddit": "education",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Local",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education discussions",
+        "policy",
+        "teaching methods"
+      ]
+    },
+    {
+      "id": "youtube:TED-Ed",
+      "cleaned_title": "TED-Ed",
+      "summary": "A YouTube channel that features educational videos on a wide range of topics, presented in an engaging and animated format.",
+      "title": "TED-Ed",
+      "kind": "youtube",
+      "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
+      "thumbnail_url": "https://yt3.ggpht.com/HjXKmDGoAp6b-JdGYpqJYYeN4S_CMpD_kqWvldpN53cbzn-i73t6mVNo8mNki-xLPwi0BVSFi-o=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Online Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "animated videos",
+        "educational content",
+        "learning"
+      ]
+    },
+    {
+      "id": "feed:blog.coursera.org:Coursera Blog",
+      "cleaned_title": "Coursera Blog",
+      "summary": "An online learning platform that offers courses from top universities and institutions around the world, covering a wide range of subjects.",
+      "title": "Coursera Blog",
+      "kind": "feed",
+      "feed_url": "http://blog.coursera.org/rss",
+      "details": "Original category: Education -> Online Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "online courses",
+        "educational resources",
+        "learning platform"
+      ]
+    },
+    {
+      "id": "feed:blog.mywonderfulworld.org:National Geographic Education Blog",
+      "cleaned_title": "National Geographic Education Blog",
+      "summary": "A website that provides educational resources, lesson plans, and activities focused on geography, science, and exploration.",
+      "title": "National Geographic Education Blog",
+      "kind": "feed",
+      "feed_url": "http://blog.mywonderfulworld.org/atom.xml",
+      "details": "Original category: Education",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "geography resources",
+        "lesson plans",
+        "exploration education"
+      ]
+    },
+    {
+      "id": "youtube:Vsauce",
+      "cleaned_title": "Vsauce",
+      "summary": "A YouTube channel that explores fascinating scientific and philosophical questions through entertaining and thought-provoking videos.",
+      "title": "Vsauce",
+      "kind": "youtube",
+      "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNx1IvwpJ-9sFULjVZHecThPUxDKUCgeRVm5vhMtw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Online Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "science questions",
+        "philosophical exploration",
+        "entertaining videos"
+      ]
+    },
+    {
+      "id": "youtube:National Geographic",
+      "cleaned_title": "National Geographic",
+      "summary": "The official YouTube channel of National Geographic, featuring documentaries, explorations, and stories about the natural world and environmental issues.",
+      "title": "National Geographic",
+      "kind": "youtube",
+      "channel_id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+      "thumbnail_url": "https://yt3.ggpht.com/13FpK4FfJb_I-aTMNRQTmaxLO2vjEi_NzWm1KxOzr-vjYLX7QmfHwn6XC3PfEf4Oay5WjP0CXw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Environment",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Climate & Environment",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "documentaries",
+        "natural history",
+        "environmental education",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Creative Penn",
+      "cleaned_title": "The Creative Penn",
+      "summary": "A website and podcast hosted by author Joanna Penn, providing guidance and resources for writers on self-publishing, marketing, and writing craft.",
+      "title": "The Creative Penn",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/TheCreativePenn",
+      "details": "Original category: Hobbies -> Writing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Joanna Penn",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing tips",
+        "self-publishing",
+        "book marketing"
+      ]
+    },
+    {
+      "id": "youtube:Self Publishing Formula",
+      "cleaned_title": "Self Publishing Formula",
+      "summary": "A YouTube channel hosted by Mark Dawson, offering tips, strategies, and interviews for self-published authors.",
+      "title": "Self Publishing Formula",
+      "kind": "youtube",
+      "channel_id": "UC5Qu8GvA0lUm3GmzBqmmfeg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTw8ycVvDIewf4kcOcq3cMzU9urfid4tlK-VmNPZQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Mark Dawson",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "self-publishing",
+        "author strategies",
+        "marketing tips"
+      ]
+    },
+    {
+      "id": "feed:janefriedman.com:Jane Friedman",
+      "cleaned_title": "Jane Friedman",
+      "summary": "A website by Jane Friedman, a publishing industry expert, offering advice, resources, and courses for writers and authors.",
+      "title": "Jane Friedman",
+      "kind": "feed",
+      "feed_url": "http://janefriedman.com/feed/",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Jane Friedman",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "publishing advice",
+        "resources for authors",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "youtube:The Creative Penn",
+      "cleaned_title": "The Creative Penn",
+      "summary": "The YouTube channel of Joanna Penn, featuring interviews, tutorials, and insights on writing, self-publishing, and book marketing.",
+      "title": "The Creative Penn",
+      "kind": "youtube",
+      "channel_id": "UCdug0jLfpkayiiRyU4WqPPQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaSnrH5Ja-2fOID2zWilmFkV0HKoW8MI0yLaaUU8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Joanna Penn",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "videos on writing",
+        "self-publishing tips",
+        "author interviews"
+      ]
+    },
+    {
+      "id": "youtube:The Futur",
+      "cleaned_title": "The Futur",
+      "summary": "A YouTube channel that offers educational content on design, UX, and product strategy, featuring interviews, tutorials, and industry insights.",
+      "title": "The Futur",
+      "kind": "youtube",
+      "channel_id": "UC-b3c7kxa5vU-bnmaROgvog",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKYtvuAkzT9TJa65004lS55DEYSnF7crXqwMCzOg8A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> UX and Product",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Design",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "UX",
+        "education"
+      ]
+    },
+    {
+      "id": "youtube:Engineering Explained",
+      "cleaned_title": "Engineering Explained",
+      "summary": "Engineering Explained is a YouTube channel that focuses on explaining the engineering behind cars and automotive technology.",
+      "title": "Engineering Explained",
+      "kind": "youtube",
+      "channel_id": "UClqhvGmHcvWL9w3R48t9QXQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/APkrFKZKwJ5be5LBkhR4393YZNI1xhUVtZOzdCACkB-xPw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Cars",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Cars",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "engineering",
+        "automotive technology",
+        "YouTube"
+      ]
+    },
+    {
+      "id": "feed:jamanetwork.com:JAMA Network Open New Online",
+      "cleaned_title": "JAMA Network Open",
+      "summary": "The JAMA Network consists of a range of medical journals published by the American Medical Association, covering various specialties and research areas.",
+      "title": "JAMA Network Open New Online",
+      "kind": "feed",
+      "feed_url": "https://jamanetwork.com/rss/site_214/187.xml",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "medical research",
+        "healthcare",
+        "clinical studies"
+      ]
+    },
+    {
+      "id": "youtube:TEDMED",
+      "cleaned_title": "TEDMED",
+      "summary": "TEDMED is a YouTube channel that features talks and presentations from leading experts in the field of medical research, covering a wide range of topics.",
+      "title": "TEDMED",
+      "kind": "youtube",
+      "channel_id": "UC6Arrv8WD3Z2CehgFefCXTA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqN6KPfLLpjEs0Ldl8Dx90GbSDML86il2lLgojgQOA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "medical research",
+        "TED talks",
+        "health insights"
+      ]
+    },
+    {
+      "id": "youtube:NIH VideoCast",
+      "cleaned_title": "NIH VideoCast",
+      "summary": "The NIH Videocasting channel on YouTube provides access to a wealth of videos related to medical research, including lectures, conferences, and interviews with experts.",
+      "title": "NIH VideoCast",
+      "kind": "youtube",
+      "channel_id": "UCgyzPgagPZxXM8dOAjE9B2w",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqPcVs8Thm0E-WtN3DFfd96ZhBNWVqS0tmfCJqpo1A=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "medical research",
+        "lectures",
+        "interviews"
+      ]
+    },
+    {
+      "id": "reddit:Science",
+      "cleaned_title": "Science",
+      "summary": "A subreddit for the discussion of scientific research, news, and related topics across various disciplines.",
+      "title": "Science",
+      "kind": "reddit",
+      "subreddit": "Science",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Biology",
+        "Physics",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "scientific research",
+        "community discussions",
+        "latest publications"
+      ]
+    },
+    {
+      "id": "reddit:AskScience",
+      "cleaned_title": "AskScience",
+      "summary": "r/AskScience is a subreddit where users can ask questions and receive answers from a community of knowledgeable individuals, including experts in the field of medical research.",
+      "title": "AskScience",
+      "kind": "reddit",
+      "subreddit": "AskScience",
+      "details": "Original category: Health -> Medical Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "science questions",
+        "expert answers",
+        "community knowledge"
+      ]
+    },
+    {
+      "id": "feed:unbound.bookbub.com:BookBub Partners Blog",
+      "cleaned_title": "BookBub Partners Blog",
+      "summary": "BookBub is a website that offers personalized book recommendations, deals, and free ebooks across various genres.",
+      "title": "BookBub Partners Blog",
+      "kind": "feed",
+      "feed_url": "http://unbound.bookbub.com/rss",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Writing",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "book marketing",
+        "publishing tips",
+        "author resources"
+      ]
+    },
+    {
+      "id": "feed:readbyexample.substack.com:Read by Example",
+      "cleaned_title": "Read by Example",
+      "summary": "A newsletter aimed at educators, focusing on literacy initiatives and strategies to enhance reading instruction.",
+      "title": "Read by Example",
+      "kind": "feed",
+      "feed_url": "https://readbyexample.substack.com/feed",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "literacy",
+        "teaching",
+        "reading instruction"
+      ]
+    },
+    {
+      "id": "feed:eduwonk.substack.com:Eduwonk",
+      "cleaned_title": "Eduwonk",
+      "summary": "A platform for education news and analysis, providing insightful commentary on current events and trends in academia.",
+      "title": "Eduwonk",
+      "kind": "feed",
+      "feed_url": "https://eduwonk.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Education",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "education news",
+        "analysis",
+        "commentary"
+      ]
+    },
+    {
+      "id": "feed:canweread.substack.com:Can we read?",
+      "cleaned_title": "Can we read?",
+      "summary": "A weekly guide exploring children\u2019s literature and the importance of fostering a reading culture at home.",
+      "title": "Can we read?",
+      "kind": "feed",
+      "feed_url": "https://canweread.substack.com/feed",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "children's books",
+        "reading culture",
+        "parenting"
+      ]
+    },
+    {
+      "id": "feed:schoolofthought.substack.com:School of Thought",
+      "cleaned_title": "School of Thought",
+      "summary": "A blog focusing on evidence-based ideas and making them usable, emphasizing the importance of learning with visual tools.",
+      "title": "School of Thought",
+      "kind": "feed",
+      "feed_url": "https://schoolofthought.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Learning",
+        "Thinking"
+      ],
+      "language": "en",
+      "keywords": [
+        "evidence-based learning",
+        "visual learning",
+        "learning strategies"
+      ]
+    },
+    {
+      "id": "feed:daily.jstor.org:JSTOR Daily",
+      "cleaned_title": "JSTOR Daily",
+      "summary": "A digital library that provides access to academic journals, books, and primary sources in the humanities, social sciences, and natural sciences.",
+      "title": "JSTOR Daily",
+      "kind": "feed",
+      "feed_url": "http://daily.jstor.org/feed/",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db",
+        "curated"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "academic research",
+        "scholarly articles",
+        "humanities",
+        "social sciences"
+      ]
+    },
+    {
+      "id": "youtube:TED",
+      "cleaned_title": "TED",
+      "summary": "The official YouTube channel of TED Talks, featuring inspiring and thought-provoking talks from experts in various fields, including academic research.",
+      "title": "TED",
+      "kind": "youtube",
+      "channel_id": "UCAuUUnT6oDeKwE6v1NGQxug",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNnFV3H1lIKv43VSVdknMH6aJPNAbyTmpSK173s3w=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Education",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "TED Talks",
+        "inspiration",
+        "education"
+      ]
+    },
+    {
+      "id": "youtube:SciShow",
+      "cleaned_title": "SciShow",
+      "summary": "A YouTube channel that explores scientific topics with a focus on making complex concepts accessible and engaging for a general audience, including academic research.",
+      "title": "SciShow",
+      "kind": "youtube",
+      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
+      "thumbnail_url": "https://yt3.ggpht.com/QYr8VgYcdA4FBDExWgAqUHCrBq0dgJvPPy-S4hUa_H00wVlIej_otvyHMLmRFYz5FqH6zPlrvg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Biology"
+      ],
+      "language": "en",
+      "keywords": [
+        "science education",
+        "explaining science",
+        "accessibility in science"
+      ]
+    },
+    {
+      "id": "reddit:AskAcademia",
+      "cleaned_title": "AskAcademia",
+      "summary": "A subreddit where academics and researchers can ask and answer questions related to academic life, research methodologies, publishing, and more.",
+      "title": "AskAcademia",
+      "kind": "reddit",
+      "subreddit": "AskAcademia",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "academic questions",
+        "research advice",
+        "PhD guidance"
+      ]
+    },
+    {
+      "id": "reddit:AcademicPublishing",
+      "cleaned_title": "AcademicPublishing",
+      "summary": "A subreddit dedicated to discussions and resources related to academic publishing, including journals, conferences, peer review, and open access.",
+      "title": "AcademicPublishing",
+      "kind": "reddit",
+      "subreddit": "AcademicPublishing",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Journalism"
+      ],
+      "language": "en",
+      "keywords": [
+        "academic publishing",
+        "peer review",
+        "scholarly communication"
+      ]
+    },
+    {
+      "id": "feed:mattsclancy.substack.com:What's New Under the Sun",
+      "cleaned_title": "What's New Under the Sun",
+      "summary": "A thoughtful exploration of academia's insights into innovation, focusing on government funding and research dynamics.",
+      "title": "What's New Under the Sun",
+      "kind": "feed",
+      "feed_url": "https://mattsclancy.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "innovation",
+        "R&D",
+        "government funding"
+      ]
+    },
+    {
+      "id": "feed:oneusefulthing.org:One Useful Thing",
+      "cleaned_title": "One Useful Thing",
+      "summary": "A blog dedicated to dissecting the implications of artificial intelligence on work and education, featuring insightful guides and analyses.",
+      "title": "One Useful Thing",
+      "kind": "feed",
+      "feed_url": "https://www.oneusefulthing.org/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Prof. Ethan Mollick",
+      "tags": [
+        "Tech",
+        "Science",
+        "AI",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "artificial intelligence",
+        "education",
+        "work"
+      ]
+    },
+    {
+      "id": "feed:gradingforgrowth.com:Grading for Growth",
+      "cleaned_title": "Grading for Growth",
+      "summary": "A research-based blog discussing innovative grading practices in higher education, emphasizing alternative and constructive approaches.",
+      "title": "Grading for Growth",
+      "kind": "feed",
+      "feed_url": "https://gradingforgrowth.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "grading reform",
+        "higher education"
+      ]
+    },
+    {
+      "id": "feed:freaktakes.com:FreakTakes",
+      "cleaned_title": "FreakTakes",
+      "summary": "A resource for aspiring researchers, offering insights into the operations of historically significant R&D organizations.",
+      "title": "FreakTakes",
+      "kind": "feed",
+      "feed_url": "https://www.freaktakes.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "research",
+        "innovation",
+        "R&D"
+      ]
+    },
+    {
+      "id": "feed:pershmail.substack.com:Pershmail",
+      "cleaned_title": "Pershmail",
+      "summary": "A blog reflecting on teaching methodologies and mathematical concepts, inviting debate around educational practices.",
+      "title": "Pershmail",
+      "kind": "feed",
+      "feed_url": "https://pershmail.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "teaching",
+        "math",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:joshuadolezal.substack.com:The Recovering Academic",
+      "cleaned_title": "The Recovering Academic",
+      "summary": "A personal narrative on rediscovering life and writing after leaving academia, blending reflections and experiences in higher education.",
+      "title": "The Recovering Academic",
+      "kind": "feed",
+      "feed_url": "https://joshuadolezal.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "academia",
+        "personal growth",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:loleen.substack.com:Academia Made Easier",
+      "cleaned_title": "Academia Made Easier",
+      "summary": "A blog serving educators in academia with tips on productivity, teaching strategies, and achieving a work-life balance.",
+      "title": "Academia Made Easier",
+      "kind": "feed",
+      "feed_url": "https://loleen.substack.com/feed",
+      "details": "Original category: Education -> Academic Research",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "productivity",
+        "teaching",
+        "work-life balance"
+      ]
+    },
+    {
+      "id": "feed:insidehighered.com:Inside Higher Ed",
+      "cleaned_title": "Inside Higher Ed",
+      "summary": "A leading source for news, analysis, and opinion on higher education institutions and issues.",
+      "title": "Inside Higher Ed",
+      "kind": "feed",
+      "feed_url": "http://www.insidehighered.com/rss/feed/ihe",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Living",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "higher education",
+        "news",
+        "analysis"
+      ]
+    },
+    {
+      "id": "reddit:college",
+      "cleaned_title": "college",
+      "summary": "A subreddit for college students and those interested in college life, where users can share experiences, ask questions, and discuss related topics.",
+      "title": "college",
+      "kind": "reddit",
+      "subreddit": "college",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "college life",
+        "student experiences",
+        "college advice"
+      ]
+    },
+    {
+      "id": "youtube:Khan Academy",
+      "cleaned_title": "Khan Academy",
+      "summary": "A nonprofit organization that provides free educational resources, including video lessons, practice exercises, and personalized learning tools.",
+      "title": "Khan Academy",
+      "kind": "youtube",
+      "channel_id": "UC4a-Gbdw7vOaccHmFo40b9g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNL-mJbhcGBphzkMF6OIxzjMDbLqfkHw23k8WIW=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "free education",
+        "learning resources",
+        "Khan Academy"
+      ]
+    },
+    {
+      "id": "feed:edsurge.com:EdSurge Articles",
+      "cleaned_title": "EdSurge Articles",
+      "summary": "A website that covers the latest news, trends, and insights in education technology and innovation.",
+      "title": "EdSurge Articles",
+      "kind": "feed",
+      "feed_url": "https://www.edsurge.com/articles_rss.rss",
+      "details": "Original category: Education -> Schools & Colleges",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education technology",
+        "EdSurge",
+        "teaching insights"
+      ]
+    },
+    {
+      "id": "reddit:OnlineEducation",
+      "cleaned_title": "OnlineEducation",
+      "summary": "A subreddit dedicated to online education, where users can share resources, ask questions, and discuss online learning experiences.",
+      "title": "OnlineEducation",
+      "kind": "reddit",
+      "subreddit": "OnlineEducation",
+      "details": "Original category: Education -> Online Learning",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "online learning",
+        "education resources",
+        "subreddit"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Hechinger Report",
+      "cleaned_title": "The Hechinger Report",
+      "summary": "An independent nonprofit news organization that covers educational policy and issues, with a focus on equity and innovation.",
+      "title": "The Hechinger Report",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/HechingerReport",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education policy",
+        "innovation",
+        "inequality"
+      ]
+    },
+    {
+      "id": "youtube:The Education Trust",
+      "cleaned_title": "The Education Trust",
+      "summary": "A YouTube channel that focuses on educational equity and policy, featuring videos on research, advocacy, and initiatives aimed at improving educational opportunities for all students.",
+      "title": "The Education Trust",
+      "kind": "youtube",
+      "channel_id": "UCiqYR2mQaHITNUtVn6kXI-g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNjRqGpizzgwLvwV1JDIM6Zlt9vu8M3P5vtGA8s=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Money",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "educational equity",
+        "YouTube content",
+        "policy advocacy"
+      ]
+    },
+    {
+      "id": "youtube:EdSource",
+      "cleaned_title": "EdSource",
+      "summary": "A YouTube channel that covers education policy and issues in California, providing videos on news, analysis, and interviews with experts in the field.",
+      "title": "EdSource",
+      "kind": "youtube",
+      "channel_id": "UC9xCeMuB9TmzrPxWzoBOMfw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOcNbZuKMCjLxKPFsra9x665RdsYzL3g74SFahLcw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Local",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "California education",
+        "YouTube news",
+        "education policy"
+      ]
+    },
+    {
+      "id": "feed:ecs.org:Education Commission of the States",
+      "cleaned_title": "Education Commission of the States",
+      "summary": "An organization that tracks education policy and provides research, analysis, and resources to inform policy decisions at the state level.",
+      "title": "Education Commission of the States",
+      "kind": "feed",
+      "feed_url": "http://www.ecs.org/feed/",
+      "details": "Original category: Education -> Educational Policy",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Science",
+        "Education",
+        "USA"
+      ],
+      "language": "en",
+      "keywords": [
+        "education policy",
+        "state policy",
+        "research",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:perfectdailygrind.com:Perfect Daily Grind",
+      "cleaned_title": "Perfect Daily Grind",
+      "summary": "An online coffee publication that provides educational articles, brewing guides, and industry insights.",
+      "title": "Perfect Daily Grind",
+      "kind": "feed",
+      "feed_url": "http://www.perfectdailygrind.com/feed/",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee education",
+        "brewing techniques",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "youtube:James Hoffmann",
+      "cleaned_title": "James Hoffmann",
+      "summary": "A popular YouTube channel hosted by James Hoffmann, a coffee expert and author, who shares brewing techniques, coffee reviews, and industry insights.",
+      "title": "James Hoffmann",
+      "kind": "youtube",
+      "channel_id": "UCMb0O2CdPBNi-QqPk5T3gsQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqM5dw5ZVAuz4UkSPxoKSqagE17Q1pj4zkGPS9L3=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "James Hoffmann",
+      "tags": [
+        "Living",
+        "Education",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "brewing techniques",
+        "coffee reviews",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "feed:baristahustle.com:Barista Hustle",
+      "cleaned_title": "Barista Hustle",
+      "summary": "A website and online learning platform created by a renowned barista, offering courses, articles, and resources for coffee professionals and enthusiasts.",
+      "title": "Barista Hustle",
+      "kind": "feed",
+      "feed_url": "http://baristahustle.com/feed/",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee skills",
+        "barista training",
+        "education"
+      ]
+    },
+    {
+      "id": "feed:news.google.com:\"wine spectator\" - Google News",
+      "cleaned_title": "Wine Spectator",
+      "summary": "A leading authority on wine, providing expert ratings, reviews, and news about the world of wine.",
+      "title": "\"wine spectator\" - Google News",
+      "kind": "feed",
+      "feed_url": "http://news.google.com/news?hl=en&gl=us&q=wine%20spectator&um=1&ie=UTF-8&output=rss",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "USA",
+        "Restaurants",
+        "Finance",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine",
+        "reviews",
+        "restaurant recommendations",
+        "events"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Decanter",
+      "cleaned_title": "Decanter",
+      "summary": "A trusted source for wine lovers, offering wine news, reviews, and articles from around the globe.",
+      "title": "Decanter",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/wwwdecantercomfeedsrssnewsxml",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine",
+        "reviews",
+        "news",
+        "educational articles"
+      ]
+    },
+    {
+      "id": "youtube:Wine Folly",
+      "cleaned_title": "Wine Folly",
+      "summary": "A YouTube channel dedicated to making wine easy to understand, with educational videos, wine tastings, and tips for wine enthusiasts.",
+      "title": "Wine Folly",
+      "kind": "youtube",
+      "channel_id": "UCyHNNb7v43Xyeg3oE_XW4Pw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOoQBCG2eeP8kLXn3R9yjSLJbDOfGw572AxqIyuOA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine education",
+        "tasting",
+        "tips",
+        "videos"
+      ]
+    },
+    {
+      "id": "feed:vinepair.com:VinePair",
+      "cleaned_title": "VinePair",
+      "summary": "An online publication that covers wine, spirits, and beer, offering articles, reviews, and guides for the curious drinker.",
+      "title": "VinePair",
+      "kind": "feed",
+      "feed_url": "http://vinepair.com/feed/",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine",
+        "spirits",
+        "reviews",
+        "cultural insights"
+      ]
+    },
+    {
+      "id": "reddit:wine",
+      "cleaned_title": "wine",
+      "summary": "A subreddit for wine enthusiasts to discuss and share their love for wine, ask questions, and discover new bottles and wineries.",
+      "title": "wine",
+      "kind": "reddit",
+      "subreddit": "wine",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Social",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine",
+        "discussion",
+        "community",
+        "questions"
+      ]
+    },
+    {
+      "id": "feed:winemag.com:Ratings: The Best Sparkling Ros\u00e9 Wine for Every Budget | Wine Enthusiast",
+      "cleaned_title": "Ratings: The Best Sparkling Ros\u00e9 Wine for Every Budget",
+      "summary": "A comprehensive resource for wine lovers, featuring wine ratings, reviews, and articles on wine regions, varietals, and food pairings.",
+      "title": "Ratings: The Best Sparkling Ros\u00e9 Wine for Every Budget | Wine Enthusiast",
+      "kind": "feed",
+      "feed_url": "http://www.winemag.com/feed/",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Wine Enthusiast Magazine",
+      "tags": [
+        "Living",
+        "Education",
+        "Finance"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine ratings",
+        "reviews",
+        "wine education",
+        "food pairing"
+      ]
+    },
+    {
+      "id": "youtube:GuildSomm",
+      "cleaned_title": "GuildSomm",
+      "summary": "A YouTube channel dedicated to wine education, offering videos on wine tasting, sommelier tips, and interviews with industry professionals.",
+      "title": "GuildSomm",
+      "kind": "youtube",
+      "channel_id": "UC8pfV0swKa6nZUo11rD0t_g",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqODuQAabtKo2-CsezWeaOEoP6-RYrLvNNoakJ659g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Wine & Spirits",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "wine education",
+        "sommeliers",
+        "tutorials",
+        "interviews"
+      ]
+    },
+    {
+      "id": "youtube:freeCodeCamp.org",
+      "cleaned_title": "freeCodeCamp.org",
+      "summary": "A YouTube channel associated with the FreeCodeCamp platform, providing tutorials and projects for learning web development.",
+      "title": "freeCodeCamp.org",
+      "kind": "youtube",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTs1IEit9EUooQAJkWS4SkpUE7oMDXYrjIgnOk1Kw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Code",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "web development",
+        "tutorials",
+        "AI",
+        "machine learning",
+        "full-stack"
+      ]
+    },
+    {
+      "id": "feed:http://donaldclarkplanb.blogspot.com/feeds/posts/default",
+      "title": "Donald Clark Plan B",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://donaldclarkplanb.blogspot.com/feeds/posts/default",
+      "summary": "What is Plan B? Not Plan A!",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Donald Clark Plan B",
+      "cleaned_author": "Donald Clark",
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "AI",
+        "learning methods",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.eduwonk.com/feed",
+      "title": "Eduwonk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.eduwonk.com/feed",
+      "summary": "Education News, Analysis, and Commentary.",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Eduwonk",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education news",
+        "analysis",
+        "commentary",
+        "policies"
+      ]
+    },
+    {
+      "id": "feed:https://larrycuban.wordpress.com/feed/",
+      "title": "Larry Cuban on School Reform and Classroom Practice",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://larrycuban.wordpress.com/feed/",
+      "summary": "Scholar/ Practitioner's thoughts on education.",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Larry Cuban on School Reform and Classroom Practice",
+      "cleaned_author": "Larry Cuban",
+      "tags": [
+        "Politics",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "reform",
+        "classroom"
+      ]
+    },
+    {
+      "id": "feed:https://learningfrommymistakesenglish.blogspot.com/feeds/posts/default",
+      "title": "Learning from my mistakes: an English teacher's blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://learningfrommymistakesenglish.blogspot.com/feeds/posts/default",
+      "summary": "A 'warts and all' view of my teaching career. Hopefully, some of my thoughts will inspire you. Or, they will prevent you from making some of the mistakes I have made in the past.",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Learning from my mistakes: an English teacher's blog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "teaching",
+        "English",
+        "experience"
+      ]
+    },
+    {
+      "id": "feed:https://bergman-udl.blogspot.com/feeds/posts/default",
+      "title": "Learn Lead Grow",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bergman-udl.blogspot.com/feeds/posts/default",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Learn Lead Grow",
+      "cleaned_author": "Matt Bergman",
+      "summary": "A resourceful blog aimed at educators, focusing on innovative ways to incorporate technology into learning. It shares tools, tips, and insights into enhancing educational experiences through tech.",
+      "tags": [
+        "Tech",
+        "Education",
+        "Software Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "technology",
+        "learning tools"
+      ]
+    },
+    {
+      "id": "feed:https://idstuff.blogspot.com/feeds/posts/default",
+      "title": "Multilitteratus Incognitus",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://idstuff.blogspot.com/feeds/posts/default",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Multilitteratus Incognitus",
+      "cleaned_author": null,
+      "summary": "This blog features ponderings on various aspects of education, including teaching, learning, and instructional design, while raising important questions without claiming to have all the answers.",
+      "tags": [
+        "Living",
+        "Education",
+        "_academic"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "instructional design",
+        "edtech"
+      ]
+    },
+    {
+      "id": "feed:https://punyamishra.com/feed/",
+      "title": "Punya Mishra's Web | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://punyamishra.com/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Punya Mishra's Web",
+      "cleaned_author": "Punya Mishra",
+      "summary": "A blog exploring the intersection of education, creativity, technology, and design. The posts provide insightful discussions on modern educational practices and innovative uses of AI in learning.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "creativity",
+        "technology",
+        "design",
+        "AI"
+      ]
+    },
+    {
+      "id": "feed:https://researchwhisperer.org/feed/",
+      "title": "The Research Whisperer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://researchwhisperer.org/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "The Research Whisperer",
+      "cleaned_author": null,
+      "summary": "This blog offers practical advice and insights on research processes, aiding scholars in navigating the complexities of academia, particularly post-dissertation challenges.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "research",
+        "academia",
+        "dissertation",
+        "peer review",
+        "integrity"
+      ]
+    },
+    {
+      "id": "feed:https://www.resourceaholic.com/feeds/posts/default",
+      "title": "Resourceaholic",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.resourceaholic.com/feeds/posts/default",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "Resourceaholic",
+      "cleaned_author": null,
+      "summary": "A dedicated resource for educators focusing on secondary school mathematics, providing innovative teaching ideas and practical resources to engage students effectively.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Math"
+      ],
+      "language": "en",
+      "keywords": [
+        "mathematics",
+        "teaching resources",
+        "education",
+        "secondary school"
+      ]
+    },
+    {
+      "id": "feed:https://www.specialneedsjungle.com/feed/",
+      "title": "Special Needs Jungle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.specialneedsjungle.com/feed/",
+      "summary": "News, info, resources & informed opinion about Special Educational Needs, disability, children\u2019s physical and mental health, rare disease. Campaigning to #FixSEND.",
+      "details": "Original Category: science -> medicine.opml",
+      "cleaned_title": "Special Needs Jungle",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "special education",
+        "disability",
+        "advocacy",
+        "health",
+        "education policy"
+      ]
+    },
+    {
+      "id": "feed:https://www.teachertoolkit.co.uk/feed/",
+      "title": "TeacherToolkit - Teacher Blog Articles",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.teachertoolkit.co.uk/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "TeacherToolkit",
+      "cleaned_author": null,
+      "summary": "Considered one of the most influential education blogs in the UK, TeacherToolkit provides insightful articles aimed at enhancing teaching practices and understanding contemporary educational challenges.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "education blog",
+        "teaching strategies",
+        "UK education",
+        "classroom practices"
+      ]
+    },
+    {
+      "id": "feed:https://www.teachthefuture.org/blog-feed.xml",
+      "title": "Teach the Future | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.teachthefuture.org/blog-feed.xml",
+      "summary": "Get inspired by ideas on teaching the future from our global team of volunteers, facilitators, trainers, academics and teachers.",
+      "details": "Original Category: humanities -> futures.opml",
+      "cleaned_title": "Teach the Future",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Science",
+        "Education",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "education",
+        "future",
+        "innovation",
+        "sustainability",
+        "global education"
+      ]
+    },
+    {
+      "id": "feed:https://thesiswhisperer.com/feed/",
+      "title": "The Thesis Whisperer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thesiswhisperer.com/feed/",
+      "details": "Original Category: education.opml",
+      "cleaned_title": "The Thesis Whisperer",
+      "cleaned_author": null,
+      "summary": "An informative blog dedicated to demystifying the thesis writing process, offering tips, advice, and reflections on academic life to help students successfully navigate their scholarly journeys.",
+      "tags": [
+        "Living",
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "thesis",
+        "academia",
+        "academic life",
+        "scholarship",
+        "writing"
+      ]
+    },
+    {
+      "id": "feed:https://alexanderobenauer.com/assets/feed/rss.xml",
+      "title": "Alexander Obenauer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alexanderobenauer.com/assets/feed/rss.xml",
+      "summary": "Exploring new and renewed ideas for how personal computing and the interfaces we think with can better serve people\u2019s lives \u2013 expanding opportunity, agency, curiosity, and creativity.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Alexander Obenauer",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "AI",
+        "Future",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://zettelkasten.de/feed.atom",
+      "title": "Zettelkasten knowledge and info management",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://zettelkasten.de/feed.atom",
+      "summary": "A Zettelkasten is a personal tool for thinking and writing that creates an interconnected web of thought. Its emphasis is on connection and not mere collection of ideas.",
+      "details": "Original Category: humanities.opml",
+      "cleaned_title": "Zettelkasten knowledge and info management",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Writing",
+        "Thinking",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "Zettelkasten",
+        "knowledge management",
+        "personal development"
+      ]
+    },
+    {
+      "id": "feed:https://www.timemachinego.com/linkmachinego/feed/",
+      "title": "LinkMachineGo",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.timemachinego.com/linkmachinego/feed/",
+      "summary": "UK based, Daily Link Blog. This is Lima Mike Golf. Shall we blog?",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "LinkMachineGo",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Literature",
+        "Gaming",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "links",
+        "UK",
+        "blog",
+        "culture"
+      ]
+    },
+    {
+      "id": "feed:https://roblog.co.uk/feed.xml",
+      "title": "Roblog, the blog of Rob Miller",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://roblog.co.uk/feed.xml",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Roblog",
+      "cleaned_author": "Rob Miller",
+      "summary": "Rob Miller\u2019s blog explores the themes of creativity, sustainability, and navigating an uncertain world. It features thoughtful reflections and curated content that challenge conventional thinking.",
+      "tags": [
+        "Arts & Culture",
+        "Education",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "sustainability",
+        "uncertainty",
+        "thought-provoking"
+      ]
+    },
+    {
+      "id": "feed:https://tywkiwdbi.blogspot.com/feeds/posts/default",
+      "title": "TYWKIWDBI (\"Tai-Wiki-Widbee\")",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tywkiwdbi.blogspot.com/feeds/posts/default",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "TYWKIWDBI",
+      "cleaned_author": null,
+      "summary": "This blog curates unusual and fascinating facts that may have been overlooked elsewhere. With its eclectic content, it brings to light things readers likely wouldn\u2019t know without the blog's intermittent updates.",
+      "tags": [
+        "Arts & Culture",
+        "Education",
+        "Science"
+      ],
+      "language": "en",
+      "keywords": [
+        "curated facts",
+        "interesting knowledge",
+        "obscure topics"
+      ]
+    },
+    {
+      "id": "feed:https://captainawkward.com/feed/",
+      "title": "CaptainAwkward.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://captainawkward.com/feed/",
+      "summary": "Don't need to be cool to be kind.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "CaptainAwkward.com",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Activism",
+        "Mental Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "relationships",
+        "friendship advice",
+        "ADHD",
+        "couples",
+        "community"
+      ]
+    },
+    {
+      "id": "feed:https://www.newthingsunderthesun.com/rss.xml",
+      "title": "New Things Under the Sun",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.newthingsunderthesun.com/rss.xml",
+      "summary": "A living literature review on social science research about innovation.",
+      "details": "Original Category: science.opml",
+      "cleaned_title": "New Things Under the Sun",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "innovation",
+        "social science",
+        "government funding"
+      ]
+    },
+    {
+      "id": "feed:https://journeysofdrg.org/feed/",
+      "title": "Journeys of Dr. G",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://journeysofdrg.org/feed/",
+      "summary": "Earth science and creative science communication, with Dr. Laura Guertin.",
+      "details": "Original Category: science -> earth-science.opml",
+      "cleaned_title": "Journeys of Dr. G",
+      "cleaned_author": "Dr. Laura Guertin",
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "earth science",
+        "science communication"
+      ]
+    },
+    {
+      "id": "feed:https://alhfam.blog/feed/",
+      "title": "ALHFAM \u2013 the Association for Living History, Farm and Agricultural Museums",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://alhfam.blog/feed/",
+      "summary": "An international organization serving the interests and needs of its individual and institutional members and supporting experiential interpretations of history.",
+      "details": "Original Category: arts -> museums.opml",
+      "cleaned_title": "ALHFAM \u2013 the Association for Living History, Farm and Agricultural Museums",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "living history",
+        "museums",
+        "agriculture",
+        "heritage"
+      ]
+    },
+    {
+      "id": "feed:https://cstonline.net/feed/",
+      "title": "CST Online | Television Studies Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cstonline.net/feed/",
+      "summary": "We are a blog devoted to international TV studies.",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "CST Online | Television Studies Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "television studies",
+        "media analysis",
+        "international TV",
+        "critical research"
+      ]
+    },
+    {
+      "id": "feed:https://jarango.com/feed.xml",
+      "title": "Jorge Arango",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jarango.com/feed.xml",
+      "summary": "Information architect, author, and educator.",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Jorge Arango",
+      "cleaned_author": "Jorge Arango",
+      "tags": [
+        "Tech",
+        "Design",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "information architecture",
+        "AI",
+        "consulting"
+      ]
+    },
+    {
+      "id": "feed:https://kieranhealy.org/index.xml",
+      "title": "kieranhealy.org",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kieranhealy.org/index.xml",
+      "summary": "I am Professor of Sociology at Duke University.",
+      "details": "Original Category: arts -> design -> data-visualization.opml",
+      "cleaned_title": "kieranhealy.org",
+      "cleaned_author": "Kieran Healy",
+      "tags": [
+        "Arts & Culture",
+        "Data",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "sociology",
+        "data visualization",
+        "Kieran Healy"
+      ]
+    },
+    {
+      "id": "feed:https://maggieappleton.com/rss.xml",
+      "title": "Maggie Appleton",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://maggieappleton.com/rss.xml",
+      "summary": "Maggie's digital garden filled with visual essays on programming, design, and anthropology.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "Maggie Appleton",
+      "cleaned_author": "Maggie Appleton",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Education",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "design",
+        "anthropology"
+      ]
+    },
+    {
+      "id": "feed:https://uxknowledgebase.com/feed",
+      "title": "UX Knowledge Base Sketch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://uxknowledgebase.com/feed",
+      "summary": "For UX designers and anyone interested in UX design, UI design (and some related fields) or in sketching.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "UX Knowledge Base Sketch",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "UX design",
+        "UI design",
+        "best practices",
+        "sketching"
+      ]
+    },
+    {
+      "id": "feed:https://popularhistorybooks.com/feed.xml",
+      "title": "Popular history books homepage",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://popularhistorybooks.com/feed.xml",
+      "details": "Original Category: humanities -> history.opml",
+      "cleaned_title": "Popular History Books",
+      "cleaned_author": null,
+      "summary": "A blog dedicated to reading and reviewing popular history books, providing insights and critical assessments for avid history enthusiasts.",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "history books",
+        "book reviews",
+        "reading"
+      ]
+    },
+    {
+      "id": "feed:https://vickiboykis.com/index.xml",
+      "title": "Tech Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://vickiboykis.com/index.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Tech Blog",
+      "cleaned_author": "Vicki Boykis",
+      "summary": "A technology blog that covers a range of topics, from coding practices to personal reflections on favorite books.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "books",
+        "coding"
+      ]
+    },
+    {
+      "id": "feed:http://rolandtanglao.com/feed.xml",
+      "title": "Roland Tanglao",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://rolandtanglao.com/feed.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Roland Tanglao",
+      "cleaned_author": "Roland Tanglao",
+      "summary": "A blog that collates thoughts and resources on creative coding and programming education, combining personal insights with broader discussions on teaching techniques.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "pedagogy",
+        "creative coding",
+        "blog"
+      ]
+    },
+    {
+      "id": "feed:https://www.andreagrandi.it/index.xml",
+      "title": "Andrea Grandi",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.andreagrandi.it/index.xml",
+      "summary": "A blog dedicated to Python development, offering tutorials and reflections that cater to both new learners and experienced developers in the community.",
+      "details": "Original Category: technology -> development -> python.opml",
+      "cleaned_title": "Andrea Grandi",
+      "cleaned_author": "Andrea Grandi",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Education",
+        "Coding"
+      ],
+      "language": "en",
+      "keywords": [
+        "Python",
+        "virtual environment",
+        "open source"
+      ]
+    },
+    {
+      "id": "feed:https://everythingchanges.us/feed.xml",
+      "title": "everything changes",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://everythingchanges.us/feed.xml",
+      "summary": "I work with individuals, teams, and organizations who are looking to make a change in their work with intention and integrity.",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "everything changes",
+      "cleaned_author": "Mandy Brown",
+      "tags": [
+        "Living",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "work coaching",
+        "professional development",
+        "change management",
+        "intention",
+        "integrity"
+      ]
+    },
+    {
+      "id": "feed:https://rmukeshgupta.com/feed/",
+      "title": "MUKESH GUPTA",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rmukeshgupta.com/feed/",
+      "summary": "Leading Transformation.",
+      "details": "Original Category: society -> self-improvement.opml",
+      "cleaned_title": "MUKESH GUPTA",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Money",
+        "Education",
+        "Future"
+      ],
+      "language": "en",
+      "keywords": [
+        "leadership",
+        "smart machines",
+        "strategies",
+        "practitioners",
+        "success"
+      ]
+    },
+    {
+      "id": "feed:https://thecommontable.eu/feed/",
+      "title": "The Common Table",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thecommontable.eu/feed/",
+      "summary": "by studio_lovell.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "The Common Table",
+      "cleaned_author": "studio_lovell",
+      "tags": [
+        "Living",
+        "Cooking",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "food culture",
+        "gastronomy",
+        "food politics"
+      ]
+    },
+    {
+      "id": "feed:https://www.foodpolitics.com/feed/",
+      "title": "Food Politics by Marion Nestle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.foodpolitics.com/feed/",
+      "summary": "A critical examination of food industry practices and policies, by prominent nutrition expert Marion Nestle.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Food Politics by Marion Nestle",
+      "cleaned_author": "Marion Nestle",
+      "tags": [
+        "Politics",
+        "Health",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "food policy",
+        "nutrition",
+        "Marion Nestle"
+      ]
+    },
+    {
+      "id": "feed:https://freethoughtblogs.com/pharyngula/feed/",
+      "title": "Pharyngula",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://freethoughtblogs.com/pharyngula/feed/",
+      "summary": "Evolution, development, and random biological ejaculations from a godless liberal.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Pharyngula",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Biology",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "evolution",
+        "biological sciences",
+        "secularism"
+      ]
+    },
+    {
+      "id": "feed:http://observationalepidemiology.blogspot.com/feeds/posts/default",
+      "title": "West Coast Stat Views (on Observational Epidemiology and more)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://observationalepidemiology.blogspot.com/feeds/posts/default",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "West Coast Stat Views",
+      "cleaned_author": null,
+      "summary": "A collaborative blog shedding light on applied statistics, epidemiology, and higher education, featuring insights from two knowledgeable bloggers.",
+      "tags": [
+        "Science",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "statistics",
+        "epidemiology",
+        "higher education"
+      ]
+    },
+    {
+      "id": "feed:https://www.askamanager.org/feed",
+      "title": "Ask a Manager",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.askamanager.org/feed",
+      "summary": "Not sure what the hell your manager is thinking, how to ask for a raise, whether you might be in danger of getting fired, or more? Ask your workplace questions here.",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "Ask a Manager",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Academia",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "workplace advice",
+        "management",
+        "career"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.feedburner.com/StudyHacks",
+      "title": "Study Hacks - Decoding Patterns of Success - Cal Newport",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.feedburner.com/StudyHacks",
+      "summary": "On deep work, success, productivity, work-life balance.",
+      "details": "Original Category: economics -> work.opml",
+      "cleaned_title": "Study Hacks",
+      "cleaned_author": "Cal Newport",
+      "tags": [
+        "Money",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "productivity",
+        "work-life balance",
+        "deep work",
+        "success patterns"
+      ]
+    },
+    {
+      "id": "feed:http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+      "title": "The Enlightened Economist",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.enlightenmenteconomics.com/blog/index.php/feed/",
+      "summary": "Economics and business books.",
+      "details": "Original Category: economics -> economics.opml",
+      "cleaned_title": "The Enlightened Economist",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Education",
+        "Academia"
+      ],
+      "language": "en",
+      "keywords": [
+        "economics books",
+        "business literature",
+        "critical analysis"
+      ]
+    }
+  ],
+  "child_categories": []
+}

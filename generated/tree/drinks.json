@@ -1,0 +1,329 @@
+{
+  "id": "drinks",
+  "display_name": "Drinks",
+  "feeds": [
+    {
+      "id": "youtube:Seattle Coffee Gear",
+      "cleaned_title": "Seattle Coffee Gear",
+      "summary": "A YouTube channel that provides coffee machine reviews, brewing tutorials, and tips for home baristas.",
+      "title": "Seattle Coffee Gear",
+      "kind": "youtube",
+      "channel_id": "UC9VhfQi-D-7morDdwjVcJPA",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqOfyHjYPu2uWnAIBCOuSBBVyJJWe7WtTdR6Tyxi_g=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Food & Drink -> Coffee & Tea",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "DIY",
+        "Cooking",
+        "Drinks"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee",
+        "brewing",
+        "reviews",
+        "tutorials",
+        "home barista"
+      ]
+    },
+    {
+      "id": "feed:https://baileysbeerblog.blogspot.com/feeds/posts/default",
+      "title": "Paul's Beer & Travel Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://baileysbeerblog.blogspot.com/feeds/posts/default",
+      "summary": "A blog about beer,  travel and the enjoyment of  them both.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Paul's Beer & Travel Blog",
+      "cleaned_author": "Paul",
+      "tags": [
+        "Living",
+        "Drinks",
+        "Cities"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer",
+        "travel",
+        "restaurants"
+      ]
+    },
+    {
+      "id": "feed:https://ultimatemaitai.com/feed/",
+      "title": "The Search for the Ultimate Mai Tai",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ultimatemaitai.com/feed/",
+      "summary": "Traveling the Bay Area and beyond to find the best Mai Tai in the world! Tiki, cocktails, and adventures by Kevin Crossman.",
+      "details": "Original Category: recreation -> food-and-drink -> drink.opml",
+      "cleaned_title": "The Search for the Ultimate Mai Tai",
+      "cleaned_author": "Kevin Crossman",
+      "tags": [
+        "Living",
+        "Drinks"
+      ],
+      "language": "en",
+      "keywords": [
+        "Mai Tai",
+        "cocktail reviews",
+        "tiki culture"
+      ]
+    },
+    {
+      "id": "feed:https://boakandbailey.com/feed/",
+      "title": "Boak & Bailey's Beer Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://boakandbailey.com/feed/",
+      "summary": "UK beer blog running since 2007, with tasting notes, beer history, pub reports and commentary on British booze culture.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Boak & Bailey's Beer Blog",
+      "cleaned_author": "Boak & Bailey",
+      "tags": [
+        "Living",
+        "Science",
+        "Drinks",
+        "Restaurants",
+        "UK",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "craft beer",
+        "real ale",
+        "pub culture",
+        "beer history"
+      ]
+    },
+    {
+      "id": "feed:https://simeyeveritt.wixsite.com/brapa/blog-feed.xml",
+      "title": "BRAPA | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://simeyeveritt.wixsite.com/brapa/blog-feed.xml",
+      "summary": "On 5th April 2014, I had a dream.  Or was it a nightmare?  To tick every pub in the Good Beer Guide!",
+      "details": "Original Category: uncategorizable -> completionists.opml",
+      "cleaned_title": "BRAPA",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Drinks",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "pubs",
+        "Good Beer Guide",
+        "beer"
+      ]
+    },
+    {
+      "id": "feed:https://mappiman.blogspot.com/feeds/posts/default",
+      "title": "Mappiman's Real Ale Walks",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mappiman.blogspot.com/feeds/posts/default",
+      "summary": "Walking the UK, ticking off CAMRA Good Beer Guide Pubs and hunting for Geocaches.",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "Mappiman's Real Ale Walks",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Drinks",
+        "Restaurants",
+        "UK"
+      ],
+      "language": "en",
+      "keywords": [
+        "walking",
+        "CAMRA",
+        "Geocaching"
+      ]
+    },
+    {
+      "id": "feed:https://pubcurmudgeon.blogspot.com/feeds/posts/default",
+      "title": "The Pub Curmudgeon",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://pubcurmudgeon.blogspot.com/feeds/posts/default",
+      "summary": "A jaundiced view of life from the darkest recess of the saloon bar...",
+      "details": "Original Category: recreation -> food-and-drink -> restaurants -> pubs.opml",
+      "cleaned_title": "The Pub Curmudgeon",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Restaurants",
+        "Poetry",
+        "Drinks"
+      ],
+      "language": "en",
+      "keywords": [
+        "pubs",
+        "culture",
+        "beer"
+      ]
+    },
+    {
+      "id": "feed:http://feeds.feedburner.com/Blog-WillHawkes",
+      "title": "Will Hawkes \u2014 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://feeds.feedburner.com/Blog-WillHawkes",
+      "summary": "Beer, food and travel journalist.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Will Hawkes \u2014 Blog",
+      "cleaned_author": "Will Hawkes",
+      "tags": [
+        "Living",
+        "Restaurants",
+        "Poetry",
+        "Drinks"
+      ],
+      "language": "en",
+      "keywords": [
+        "pubs",
+        "food",
+        "travel"
+      ]
+    },
+    {
+      "id": "feed:https://beerinsider.com/feed/",
+      "title": "Beer Insider",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://beerinsider.com/feed/",
+      "summary": "Taking a look behind the obvious.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Beer Insider",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Drinks",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer trends",
+        "brewery culture"
+      ]
+    },
+    {
+      "id": "feed:https://thebeernut.blogspot.com/feeds/posts/default",
+      "title": "The Beer Nut",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://thebeernut.blogspot.com/feeds/posts/default",
+      "summary": "Why is that man photographing his pint?",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "The Beer Nut",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Drinks",
+        "Poetry"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer culture",
+        "reviews",
+        "tasting"
+      ]
+    },
+    {
+      "id": "feed:http://abetterbeerblog427.com/feed/",
+      "title": "A Good Beer Blog \u2013 Second Gen (2003-2016, 2016- )",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://abetterbeerblog427.com/feed/",
+      "summary": "Allegedly the second oldest beer blog on the planet.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "A Good Beer Blog \u2013 Second Gen",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Drinks",
+        "Restaurants"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer news",
+        "tasting notes"
+      ]
+    },
+    {
+      "id": "feed:https://ohgoodale.wordpress.com/feed/",
+      "title": "Oh Good Ale",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://ohgoodale.wordpress.com/feed/",
+      "summary": "Phil's beer blog.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "Oh Good Ale",
+      "cleaned_author": "Phil",
+      "tags": [
+        "Living",
+        "Drinks",
+        "Beauty",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer",
+        "brewing",
+        "musings"
+      ]
+    },
+    {
+      "id": "feed:https://saintjohnswort.ca/feed/",
+      "title": "St. John's Wort",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://saintjohnswort.ca/feed/",
+      "summary": "Beery Musings And Amusing Beers.",
+      "details": "Original Category: recreation -> food-and-drink -> drink -> beer.opml",
+      "cleaned_title": "St. John's Wort",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Drinks",
+        "Crafts",
+        "Social"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer",
+        "insights",
+        "humor"
+      ]
+    }
+  ],
+  "child_categories": []
+}

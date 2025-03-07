@@ -1,0 +1,58 @@
+{
+  "id": "chicago",
+  "display_name": "Chicago",
+  "feeds": [
+    {
+      "id": "feed:https://jestressforgottenstories.com/feed/",
+      "title": "Jestress's Forgotten Books and Stories",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://jestressforgottenstories.com/feed/",
+      "summary": "Nostalgic Children's Books.",
+      "details": "Original Category: arts -> books -> fiction-books -> childrens.opml",
+      "cleaned_title": "Jestress's Forgotten Books and Stories",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Chicago",
+        "Rock"
+      ],
+      "language": "en",
+      "keywords": [
+        "children's literature",
+        "nostalgia",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:https://www.mrripleysenchantedbooks.com/feeds/posts/default",
+      "title": "Mr Ripleys Enchanted Books",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.mrripleysenchantedbooks.com/feeds/posts/default",
+      "summary": "A blog about books and reading, the enjoyment of a good story. A place you can find children's and young adult literature reviews, news and giveaways.",
+      "details": "Original Category: arts -> books -> fiction-books -> childrens.opml",
+      "cleaned_title": "Mr Ripleys Enchanted Books",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Chicago"
+      ],
+      "language": "en",
+      "keywords": [
+        "children's books",
+        "book reviews",
+        "literary competitions"
+      ]
+    }
+  ],
+  "child_categories": []
+}

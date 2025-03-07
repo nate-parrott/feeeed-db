@@ -1,0 +1,2323 @@
+{
+  "id": "writing",
+  "display_name": "Writing",
+  "feeds": [
+    {
+      "id": "substack:top:drawtogether_with_wendymac_-_wendy_macnaughton",
+      "title": "DrawTogether with WendyMac - Wendy MacNaughton",
+      "cleaned_title": "DrawTogether with WendyMac",
+      "summary": "An art-focused platform that combines drawing lessons, creative explorations, and community engagement to inspire creativity and expression.",
+      "kind": "feed",
+      "feed_url": "https://club.drawtogether.studio/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Art",
+        "Writing"
+      ],
+      "cleaned_author": "Wendy MacNaughton",
+      "language": "en",
+      "keywords": [
+        "drawing lessons",
+        "art community",
+        "creativity",
+        "assignments"
+      ]
+    },
+    {
+      "id": "substack:top:austin_kleon",
+      "title": "Austin Kleon",
+      "cleaned_title": "Austin Kleon",
+      "summary": "Weekly insights on creativity, writing, and art from the bestselling author, encouraging readers to harness their creative potential.",
+      "kind": "feed",
+      "feed_url": "https://austinkleon.substack.com/feed",
+      "details": "Original category: Substack top newsletters about art",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Writing",
+        "Art"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "writing advice",
+        "art inspiration",
+        "bestselling author"
+      ]
+    },
+    {
+      "id": "substack:top:the_shit_no_one_tells_you_about_writing_-_the_shit_about_writing_team",
+      "title": "The Shit No One Tells You About Writing - The Shit About Writing Team",
+      "cleaned_title": "The Shit No One Tells You About Writing",
+      "summary": "An insightful newsletter filled with tips and interviews from industry insiders, geared towards helping writers navigate their craft.",
+      "kind": "feed",
+      "feed_url": "https://theshitaboutwriting.substack.com/feed",
+      "details": "Original category: Substack top newsletters about fiction",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "writing tips",
+        "author interviews"
+      ]
+    },
+    {
+      "id": "substack:top:sarah_blondin",
+      "title": "Sarah Blondin",
+      "cleaned_title": "Sarah Blondin",
+      "summary": "A philosophical newsletter offering reflections that inspire emotional clarity and understanding.",
+      "kind": "feed",
+      "feed_url": "https://sarahblondin.substack.com/feed",
+      "details": "Original category: Substack top newsletters about philosophy",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Writing"
+      ],
+      "cleaned_author": null,
+      "language": "en",
+      "keywords": [
+        "philosophy",
+        "self-reflection",
+        "emotional growth"
+      ]
+    },
+    {
+      "id": "substack:top:our_best_jackett_-_scott_snyder",
+      "title": "Our Best Jackett - Scott Snyder",
+      "cleaned_title": "Our Best Jackett",
+      "summary": "A newsletter by Scott Snyder that delves into the world of comic writing, featuring insights from industry professionals like Mark Waid.",
+      "kind": "feed",
+      "feed_url": "https://bestjackettpress.substack.com/feed",
+      "details": "Original category: Substack top newsletters about comics",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Arts & Culture",
+        "Comics",
+        "Writing"
+      ],
+      "cleaned_author": "Scott Snyder",
+      "language": "en",
+      "keywords": [
+        "comics",
+        "Scott Snyder",
+        "Mark Waid",
+        "writing"
+      ]
+    },
+    {
+      "id": "substack:top:write_with_ai_-_nicolas_cole",
+      "title": "Write With AI - Nicolas Cole",
+      "cleaned_title": "Write With AI",
+      "summary": "Nicolas Cole's newsletter delves into the world of AI writing assistants, offering actionable insights and advice on utilizing technology to enhance writing. It's an essential guide for anyone looking to harness AI's potential.",
+      "kind": "feed",
+      "feed_url": "https://writewithai.substack.com/feed",
+      "details": "Original category: Substack top newsletters about education",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Living",
+        "Writing",
+        "Education"
+      ],
+      "cleaned_author": "Nicolas Cole",
+      "language": "en",
+      "keywords": [
+        "AI",
+        "writing",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:feeds.kottke.org:kottke.org",
+      "cleaned_title": "kottke.org",
+      "summary": "A personal weblog highlighting interesting finds across the web since 1998, offering a unique blend of culture, ideas, and observations.",
+      "title": "kottke.org",
+      "kind": "feed",
+      "feed_url": "http://feeds.kottke.org/main",
+      "popularity_score": 8.35838011626055,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": "Jason Kottke",
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "weblog",
+        "hypertext",
+        "internet culture"
+      ]
+    },
+    {
+      "id": "reddit:writing",
+      "cleaned_title": "writing",
+      "summary": "r/writing is a subreddit dedicated to discussions about writing, including publishing-related topics, writing advice, and feedback on works in progress.",
+      "title": "writing",
+      "kind": "reddit",
+      "subreddit": "writing",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing advice",
+        "publishing",
+        "feedback",
+        "creative writing"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:The Creative Penn",
+      "cleaned_title": "The Creative Penn",
+      "summary": "A website and podcast hosted by author Joanna Penn, providing guidance and resources for writers on self-publishing, marketing, and writing craft.",
+      "title": "The Creative Penn",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/TheCreativePenn",
+      "details": "Original category: Hobbies -> Writing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Joanna Penn",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing tips",
+        "self-publishing",
+        "book marketing"
+      ]
+    },
+    {
+      "id": "youtube:Self Publishing Formula",
+      "cleaned_title": "Self Publishing Formula",
+      "summary": "A YouTube channel hosted by Mark Dawson, offering tips, strategies, and interviews for self-published authors.",
+      "title": "Self Publishing Formula",
+      "kind": "youtube",
+      "channel_id": "UC5Qu8GvA0lUm3GmzBqmmfeg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTw8ycVvDIewf4kcOcq3cMzU9urfid4tlK-VmNPZQ=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Mark Dawson",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "self-publishing",
+        "author strategies",
+        "marketing tips"
+      ]
+    },
+    {
+      "id": "feed:janefriedman.com:Jane Friedman",
+      "cleaned_title": "Jane Friedman",
+      "summary": "A website by Jane Friedman, a publishing industry expert, offering advice, resources, and courses for writers and authors.",
+      "title": "Jane Friedman",
+      "kind": "feed",
+      "feed_url": "http://janefriedman.com/feed/",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Jane Friedman",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "publishing advice",
+        "resources for authors",
+        "industry insights"
+      ]
+    },
+    {
+      "id": "reddit:selfpublish",
+      "cleaned_title": "selfpublish",
+      "summary": "A subreddit for self-published authors to discuss their experiences, share tips, and support each other in the publishing journey.",
+      "title": "selfpublish",
+      "kind": "reddit",
+      "subreddit": "selfpublish",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "indie publishing",
+        "author community",
+        "self-promotion"
+      ]
+    },
+    {
+      "id": "youtube:The Creative Penn",
+      "cleaned_title": "The Creative Penn",
+      "summary": "The YouTube channel of Joanna Penn, featuring interviews, tutorials, and insights on writing, self-publishing, and book marketing.",
+      "title": "The Creative Penn",
+      "kind": "youtube",
+      "channel_id": "UCdug0jLfpkayiiRyU4WqPPQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaSnrH5Ja-2fOID2zWilmFkV0HKoW8MI0yLaaUU8=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Joanna Penn",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "videos on writing",
+        "self-publishing tips",
+        "author interviews"
+      ]
+    },
+    {
+      "id": "feed:selfpublishingadvice.org:Self-Publishing Advice Center from the Alliance of Independent Authors",
+      "cleaned_title": "Self-Publishing Advice Center from the Alliance of Independent Authors",
+      "summary": "An organization supporting self-publishing authors, offering resources, advice, and a community for indie authors.",
+      "title": "Self-Publishing Advice Center from the Alliance of Independent Authors",
+      "kind": "feed",
+      "feed_url": "http://selfpublishingadvice.org/feed/",
+      "details": "Original category: Arts -> Publishing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "indie author resources",
+        "publishing advice",
+        "author community"
+      ]
+    },
+    {
+      "id": "feed:astrostyle.com:Astrostyle: Astrology and Daily, Weekly, Monthly Horoscopes by The AstroTwins",
+      "cleaned_title": "Astrostyle",
+      "summary": "A website founded by astrologers Tali and Ophira Edut, providing horoscopes, compatibility guides, and astrological insights.",
+      "title": "Astrostyle: Astrology and Daily, Weekly, Monthly Horoscopes by The AstroTwins",
+      "kind": "feed",
+      "feed_url": "http://astrostyle.com/feed/",
+      "details": "Original category: Hobbies -> Astrology",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "The AstroTwins",
+      "tags": [
+        "Living",
+        "Astronomy",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "horoscopes",
+        "astrology",
+        "compatibility",
+        "career"
+      ]
+    },
+    {
+      "id": "feed:rjgoodrich.substack.com:The Peripatetic Historian",
+      "cleaned_title": "The Peripatetic Historian",
+      "summary": "Written by a seasoned historian and traveler, this bulletin reflects on the connections between history and contemporary life, offering insights and observations from around the globe.",
+      "title": "The Peripatetic Historian",
+      "kind": "feed",
+      "feed_url": "https://rjgoodrich.substack.com/feed",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Richard J. Goodrich",
+      "tags": [
+        "Arts & Culture",
+        "History",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "history",
+        "connections"
+      ]
+    },
+    {
+      "id": "feed:michaelmarshallsmith.substack.com:So Here\u2019s a Thing",
+      "cleaned_title": "So Here\u2019s a Thing",
+      "summary": "A reflective blog that intertwines thoughts on writing, the world at large, and the peculiarities of existence, encouraging a deeper appreciation of the ordinary.",
+      "title": "So Here\u2019s a Thing",
+      "kind": "feed",
+      "feed_url": "https://michaelmarshallsmith.substack.com/feed",
+      "details": "Original category: Hobbies -> History",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing",
+        "reflections",
+        "life"
+      ]
+    },
+    {
+      "id": "feed:writersdigest.com:Write Better Fiction - Writer's Digest",
+      "cleaned_title": "Write Better Fiction",
+      "summary": "A website dedicated to providing resources, advice, and inspiration for writers of all levels.",
+      "title": "Write Better Fiction - Writer's Digest",
+      "kind": "feed",
+      "feed_url": "https://www.writersdigest.com/.rss/full/write-better-fiction",
+      "details": "Original category: Hobbies -> Writing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Living",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing advice",
+        "resources",
+        "inspiration",
+        "publishing"
+      ]
+    },
+    {
+      "id": "youtube:Writing with Jenna Moreci",
+      "cleaned_title": "Writing with Jenna Moreci",
+      "summary": "Jenna Moreci is a popular YouTuber and author who shares writing advice, book recommendations, and insights into the publishing industry.",
+      "title": "Writing with Jenna Moreci",
+      "kind": "youtube",
+      "channel_id": "UCS_fcv9kBpDN4WWrfcbCrgw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqNzl-0tQ2OrFbKqReaIh3CAYOkjf1NjmU7uXN-K=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Jenna Moreci",
+      "tags": [
+        "Living",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing advice",
+        "book recommendations",
+        "publishing industry"
+      ]
+    },
+    {
+      "id": "youtube:ShaelinWrites",
+      "cleaned_title": "ShaelinWrites",
+      "summary": "A YouTube channel by author Shaelin Bishop, offering writing advice, tips, and discussions on various aspects of the writing process.",
+      "title": "ShaelinWrites",
+      "kind": "youtube",
+      "channel_id": "UCb-wzF6DrSslXq3qE61YL7A",
+      "thumbnail_url": "https://yt3.ggpht.com/c1K0rOwYVY0TZCWdG5GmMUSWGSX1crq0vWkKzciBlvVkV55D8Hj1n6uqoCh7E2nC7rQT4oDBcA=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Writing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Shaelin Bishop",
+      "tags": [
+        "Living",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing tips",
+        "author discussions",
+        "MFA vlog"
+      ]
+    },
+    {
+      "id": "youtube:Ellen Brock",
+      "cleaned_title": "Ellen Brock",
+      "summary": "A YouTube channel by editor and writing coach Ellen Brock, offering writing advice, editing tips, and insights into the publishing industry.",
+      "title": "Ellen Brock",
+      "kind": "youtube",
+      "channel_id": "UCgvu0q49l3BfsMyp9WSTQLw",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaSVJKKVO1umzD2-8IkKvZdPF-O9Bxgq6z-RFDwV=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Writing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Ellen Brock",
+      "tags": [
+        "Living",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "editing tips",
+        "writing advice",
+        "novel structure"
+      ]
+    },
+    {
+      "id": "feed:thewritelife.com:The Write Life",
+      "cleaned_title": "The Write Life",
+      "summary": "A website that provides resources, tools, and advice for writers, covering various aspects of the writing journey.",
+      "title": "The Write Life",
+      "kind": "feed",
+      "feed_url": "http://thewritelife.com/feed/",
+      "details": "Original category: Hobbies -> Writing",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "freelance writing",
+        "writing residencies",
+        "writing contests"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:Digital Photography School",
+      "cleaned_title": "Digital Photography School",
+      "summary": "A website that offers tutorials, tips, and resources for photographers of all levels.",
+      "title": "Digital Photography School",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/DigitalPhotographySchool",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography tips",
+        "tutorials",
+        "learning",
+        "digital photography"
+      ]
+    },
+    {
+      "id": "youtube:Peter McKinnon",
+      "cleaned_title": "Peter McKinnon",
+      "summary": "A popular YouTube channel hosted by photographer Peter McKinnon, featuring tutorials, gear reviews, and creative photography ideas.",
+      "title": "Peter McKinnon",
+      "kind": "youtube",
+      "channel_id": "UC3DkFux8Iv-aYnTRWzwaiBA",
+      "thumbnail_url": "https://yt3.ggpht.com/fmoVrSCJFMwKQWCeyyQHsSOO2B8V5mUVTauWK7zNnjwPsbsM5TVAPZ91lHF32UxPoSgj_VJQyg=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "gear reviews",
+        "YouTube channel",
+        "tutorials"
+      ]
+    },
+    {
+      "id": "youtube:Tony & Chelsea Northrup",
+      "cleaned_title": "Tony & Chelsea Northrup",
+      "summary": "A YouTube channel hosted by Tony and Chelsea Northrup, offering photography tutorials, gear reviews, and tips for improving your photography skills.",
+      "title": "Tony & Chelsea Northrup",
+      "kind": "youtube",
+      "channel_id": "UCDkJEEIifDzR_2K2p9tnwYQ",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AOPolaTzJcoXCFh633Lszlf47lRjaO_qOeLqUZbuwQuB2Hk=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography tutorials",
+        "YouTube channel",
+        "gear reviews"
+      ]
+    },
+    {
+      "id": "feed:diyphotography.net:DIYPhotography",
+      "cleaned_title": "DIYPhotography",
+      "summary": "A website that focuses on do-it-yourself photography projects, hacks, and creative techniques.",
+      "title": "DIYPhotography",
+      "kind": "feed",
+      "feed_url": "http://www.diyphotography.net/node/feed",
+      "details": "Original category: Hobbies -> Photography",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Arts & Culture",
+        "Design",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "DIY photography",
+        "creative techniques",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:unbound.bookbub.com:BookBub Partners Blog",
+      "cleaned_title": "BookBub Partners Blog",
+      "summary": "BookBub is a website that offers personalized book recommendations, deals, and free ebooks across various genres.",
+      "title": "BookBub Partners Blog",
+      "kind": "feed",
+      "feed_url": "http://unbound.bookbub.com/rss",
+      "details": "Original category: Education -> Books & Reading",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Education",
+        "Writing",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "book marketing",
+        "publishing tips",
+        "author resources"
+      ]
+    },
+    {
+      "id": "feed:https://cabel.com/feed/",
+      "title": "cabel.com",
+      "kind": "feed",
+      "feed_url": "https://cabel.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "cabel.com",
+      "cleaned_author": "Cabel Sasser",
+      "summary": "Cabel.com is a personal blog by Cabel Sasser, featuring reflections on creativity, experiences, and insights from the tech industry.",
+      "tags": [
+        "Tech",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "blog",
+        "tech",
+        "creativity",
+        "personal"
+      ]
+    },
+    {
+      "id": "feed:https://www.robinsloan.com/feed.xml",
+      "title": "Robin Sloan",
+      "kind": "feed",
+      "feed_url": "https://www.robinsloan.com/feed.xml",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "Robin Sloan",
+      "cleaned_author": "Robin Sloan",
+      "summary": "The blog of Robin Sloan, featuring a mix of personal reflections and musings on technology and creativity, particularly in the realm of storytelling.",
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "storytelling",
+        "technology",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://petharmonytraining.com/feed/",
+      "title": "Pet Harmony",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://petharmonytraining.com/feed/",
+      "summary": "Helping you and your pet live harmoniously.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Pet Harmony",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Parenting",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "pet care",
+        "dog training",
+        "behavior tracking",
+        "pet aging"
+      ]
+    },
+    {
+      "id": "feed:https://stationery.pizza/feed.rss",
+      "title": "Stationery \ud83c\udf55",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://stationery.pizza/feed.rss",
+      "summary": "Anything related to stationery that I\u2019ve been thinking about or think is interesting.",
+      "details": "Original Category: recreation.opml",
+      "cleaned_title": "Stationery",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Crafts",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "stationery",
+        "fountain pens",
+        "inks",
+        "writing tools"
+      ]
+    },
+    {
+      "id": "feed:https://anderegg.ca/feed.xml",
+      "title": "anderegg.ca",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://anderegg.ca/feed.xml",
+      "summary": "Something (slightly) less boring than nothing.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "anderegg.ca",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Internet",
+        "Social",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://cadence.moe/blog/rss.xml?limit=30",
+      "title": "cadence's weblog (personal blog)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cadence.moe/blog/rss.xml?limit=30",
+      "summary": "A grab bag of stories, computers, photos, mind, and all the other thoughts that won't let me go.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "cadence's weblog",
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "sexuality",
+        "nail biting",
+        "human badges",
+        "Racket macro"
+      ]
+    },
+    {
+      "id": "feed:https://cennydd.com/writing?format=rss",
+      "title": "Cennydd Bowles \u00b7 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cennydd.com/writing?format=rss",
+      "summary": "Cennydd Bowles is a designer and tech ethicist. He is a principal technology adviser at the ICO, author of Future Ethics, and a visiting lecturer at the RCA and Manchester Met.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Cennydd Bowles \u00b7 Writing",
+      "cleaned_author": "Cennydd Bowles",
+      "tags": [
+        "Tech",
+        "Writing",
+        "AI",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech ethics",
+        "Hallucinations",
+        "AI maximalism",
+        "Future Ethics"
+      ]
+    },
+    {
+      "id": "feed:https://www.chrbutler.com/feed.rss",
+      "title": "Christopher Butler",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.chrbutler.com/feed.rss",
+      "summary": "A thought-provoking blog exploring design principles and technologies shaping modern life.",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Christopher Butler",
+      "cleaned_author": "Christopher Butler",
+      "tags": [
+        "Tech",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "simplification",
+        "text labels",
+        "AI debate",
+        "productive void"
+      ]
+    },
+    {
+      "id": "feed:https://headey.net/feed.xml",
+      "title": "Olly Headey \u2014 Writing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://headey.net/feed.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Olly Headey \u2014 Writing",
+      "cleaned_author": "Olly Headey",
+      "summary": "The thoughts and observations of a tech entrepreneur and co-founder of FreeAgent, delving into technology ethics and personal reflections.",
+      "tags": [
+        "Tech",
+        "Money",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "entrepreneurship",
+        "technology",
+        "writing",
+        "ethics"
+      ]
+    },
+    {
+      "id": "feed:https://olu.online/feed/?type=rss",
+      "title": "Olu Online | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://olu.online/feed/?type=rss",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Olu Online",
+      "cleaned_author": null,
+      "summary": "A reflective blog exploring the intersections of technology, social justice, and personal growth through thoughtful commentary and weekly updates.",
+      "tags": [
+        "Tech",
+        "Activism",
+        "Social",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "tech ethics",
+        "social justice",
+        "personal development"
+      ]
+    },
+    {
+      "id": "feed:https://morrick.me/feed",
+      "title": "Riccardo Mori",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://morrick.me/feed",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Riccardo Mori",
+      "cleaned_author": "Riccardo Mori",
+      "summary": "A writer and translator sharing insights and commentary on technology, literature, and cultural reflections.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "writing",
+        "translations",
+        "cultural commentary"
+      ]
+    },
+    {
+      "id": "feed:https://zettelkasten.de/feed.atom",
+      "title": "Zettelkasten knowledge and info management",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://zettelkasten.de/feed.atom",
+      "summary": "A Zettelkasten is a personal tool for thinking and writing that creates an interconnected web of thought. Its emphasis is on connection and not mere collection of ideas.",
+      "details": "Original Category: humanities.opml",
+      "cleaned_title": "Zettelkasten knowledge and info management",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Writing",
+        "Thinking",
+        "Education"
+      ],
+      "language": "en",
+      "keywords": [
+        "Zettelkasten",
+        "knowledge management",
+        "personal development"
+      ]
+    },
+    {
+      "id": "feed:https://1000awesomethings.com/feed/",
+      "title": "1000 Awesome Things",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://1000awesomethings.com/feed/",
+      "summary": "A time-ticking countdown of 1000 awesome things by Neil Pasricha.",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "1000 Awesome Things",
+      "cleaned_author": "Neil Pasricha",
+      "tags": [
+        "Living",
+        "Humor",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "happiness",
+        "gratitude",
+        "countdown"
+      ]
+    },
+    {
+      "id": "feed:https://roblog.co.uk/feed.xml",
+      "title": "Roblog, the blog of Rob Miller",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://roblog.co.uk/feed.xml",
+      "details": "Original Category: uncategorizable.opml",
+      "cleaned_title": "Roblog",
+      "cleaned_author": "Rob Miller",
+      "summary": "Rob Miller\u2019s blog explores the themes of creativity, sustainability, and navigating an uncertain world. It features thoughtful reflections and curated content that challenge conventional thinking.",
+      "tags": [
+        "Arts & Culture",
+        "Education",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "sustainability",
+        "uncertainty",
+        "thought-provoking"
+      ]
+    },
+    {
+      "id": "feed:https://www.hermitary.com/thatch/?feed=rss2",
+      "title": "Hermitary \u2013 hermit's thatch",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.hermitary.com/thatch/?feed=rss2",
+      "summary": "journal of reflections by the resident of the Hermitary.",
+      "details": "Original Category: society.opml",
+      "cleaned_title": "Hermitary \u2013 hermit's thatch",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Photos",
+        "Writing",
+        "Gardens"
+      ],
+      "language": "en",
+      "keywords": [
+        "reflections",
+        "solitude",
+        "nature",
+        "medieval hermits",
+        "literary themes"
+      ]
+    },
+    {
+      "id": "feed:https://austinkleon.com/feed/",
+      "title": "Austin Kleon is a writer who draws.",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://austinkleon.com/feed/",
+      "summary": "Austin Kleon merges the literary and visual arts, providing insights into creativity, with posts that encourage readers to explore their artistic endeavors.",
+      "details": "Original Category: arts -> books -> writing.opml",
+      "cleaned_title": "Austin Kleon is a writer who draws.",
+      "cleaned_author": "Austin Kleon",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "creativity",
+        "writing",
+        "drawing"
+      ]
+    },
+    {
+      "id": "feed:http://josenaranja.blogspot.com/feeds/posts/default",
+      "title": "Jos\u00e9 Naranja",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://josenaranja.blogspot.com/feeds/posts/default",
+      "summary": "Notebookmaker, artjournaling, writer of irrelevant things, beginner calligrapher and dreamer. Author of The Orange Manuscript and The Nautilus Manuscript.Art, notebook, journals, travel, photography, watercolor, cuadernos, illustration, design, handwriting.",
+      "details": "Original Category: arts -> illustration.opml",
+      "cleaned_title": "Jos\u00e9 Naranja",
+      "cleaned_author": "Jos\u00e9 Naranja",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Design",
+        "Writing",
+        "_artsy",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "notebooks",
+        "art",
+        "journals",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://www.frankching.com/wordpress/?feed=rss2",
+      "title": "Seeing.Thinking.Drawing",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.frankching.com/wordpress/?feed=rss2",
+      "summary": "Drawing thoughts and observations.",
+      "details": "Original Category: arts -> illustration.opml",
+      "cleaned_title": "Seeing.Thinking.Drawing",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "drawing",
+        "observations",
+        "art",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://dru-withoutamap.blogspot.com/feeds/posts/default",
+      "title": "upside down in cloud",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://dru-withoutamap.blogspot.com/feeds/posts/default",
+      "summary": "Illustrator in Bristol, England. I blog local interest, poetry, wildlife, travel, and art. Also LGBT and gender politics!",
+      "details": "Original Category: arts -> illustration.opml",
+      "cleaned_title": "upside down in cloud",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing",
+        "_intellectual",
+        "_artsy"
+      ],
+      "language": "en",
+      "keywords": [
+        "poetry",
+        "local interest",
+        "art",
+        "exploration"
+      ]
+    },
+    {
+      "id": "feed:https://www.gentlemanstationer.com/blog?format=rss",
+      "title": "The Gentleman Stationer",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.gentlemanstationer.com/blog?format=rss",
+      "summary": "Consumer reviews and commentary on a wide range of modern and vintage stationery products, with a focus on fountain pens, fountain pen inks, woodcase pencils, and high-end paper.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "The Gentleman Stationer",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Writing",
+        "Crafts"
+      ],
+      "language": "en",
+      "keywords": [
+        "stationery",
+        "pens",
+        "reviews",
+        "ink"
+      ]
+    },
+    {
+      "id": "feed:https://www.penaddict.com/blog?format=rss",
+      "title": "The Pen Addict",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.penaddict.com/blog?format=rss",
+      "summary": "The best pen review site on the internet. Gel pens, Fountain Pens, Japanese pens, and more!",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "The Pen Addict",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "pen reviews",
+        "stationery"
+      ]
+    },
+    {
+      "id": "feed:https://www.wellappointeddesk.com/feed/",
+      "title": "The Well-Appointed Desk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.wellappointeddesk.com/feed/",
+      "summary": "For the love of pens, paper, office supplies and a beautiful place to work.",
+      "details": "Original Category: recreation -> edc.opml",
+      "cleaned_title": "The Well-Appointed Desk",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Writing",
+        "Design"
+      ],
+      "language": "en",
+      "keywords": [
+        "office supplies",
+        "workspace",
+        "product reviews"
+      ]
+    },
+    {
+      "id": "feed:http://notanovelistyet.blogspot.com/feeds/posts/default",
+      "title": "Not a Novelist (Yet)",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://notanovelistyet.blogspot.com/feeds/posts/default",
+      "summary": "The blog of writer and radio producer Paul Hayes.",
+      "details": "Original Category: arts -> books -> writing.opml",
+      "cleaned_title": "Not a Novelist (Yet)",
+      "cleaned_author": "Paul Hayes",
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://www.simondunn.me.uk/?feed=rss2",
+      "title": "Simon Dunn",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.simondunn.me.uk/?feed=rss2",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Simon Dunn",
+      "cleaned_author": null,
+      "summary": "A humorous blog chronicling the thoughts and experiences of scriptwriter and comedian Simon Dunn, focusing on pop culture and television nostalgia.",
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:https://timworthington.org/feed/",
+      "title": "Tim Worthington",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://timworthington.org/feed/",
+      "details": "Original Category: arts -> tv.opml",
+      "cleaned_title": "Tim Worthington",
+      "cleaned_author": "Tim Worthington",
+      "summary": "A playful blog from writer Tim Worthington that dives into the world of television and media, blending insights with a comedic touch.",
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": []
+    },
+    {
+      "id": "feed:http://gurneyjourney.blogspot.com/feeds/posts/default",
+      "title": "Gurney Journey",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://gurneyjourney.blogspot.com/feeds/posts/default",
+      "details": "Original Category: arts -> art.opml",
+      "cleaned_title": "Gurney Journey",
+      "cleaned_author": "James Gurney",
+      "summary": "A blog offering practical tips and insights for artists, sharing experiences from art schools and museums with a focus on illustration and plein-air painting.",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "art",
+        "illustration",
+        "painting",
+        "tips"
+      ]
+    },
+    {
+      "id": "feed:https://craigmod.com/index.xml",
+      "title": "Collected Essays of Craig Mod",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://craigmod.com/index.xml",
+      "summary": "Craig Mod shares a collection of essays and reflections on topics ranging from photography to his experiences, offering creative insights shaped by his personal journey and philosophy.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Collected Essays of Craig Mod",
+      "cleaned_author": "Craig Mod",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Photos"
+      ],
+      "language": "en",
+      "keywords": [
+        "essays",
+        "photography",
+        "Craig Mod"
+      ]
+    },
+    {
+      "id": "feed:https://aworkinglibrary.com/feed/index.xml",
+      "title": "A Working Library",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://aworkinglibrary.com/feed/index.xml",
+      "details": "Original Category: arts -> books.opml",
+      "cleaned_title": "A Working Library",
+      "cleaned_author": "Mandy Brown",
+      "summary": "A Working Library is a reflective blog by Mandy Brown that delves into the relationships between work, reading, and technology. It features insightful commentary on a variety of topics, encouraging a deeper engagement with literature and the digital world.",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Writing",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "work",
+        "reading",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://guytal.blog/feed/",
+      "title": "Guy Tal | Photographer, Author",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://guytal.blog/feed/",
+      "summary": "This is a reader-supported, ad-free zone. New posts added monthly.",
+      "details": "Original Category: arts -> photography.opml",
+      "cleaned_title": "Guy Tal",
+      "cleaned_author": "Guy Tal",
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing",
+        "Photos",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "photography",
+        "creative expression",
+        "art"
+      ]
+    },
+    {
+      "id": "feed:https://scottboms.com/rss",
+      "title": "Scott Boms | Documenting",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scottboms.com/rss",
+      "details": "Original Category: arts -> design.opml",
+      "cleaned_title": "Scott Boms",
+      "cleaned_author": null,
+      "summary": "A personal blog documenting the thoughts and creative works of Scott Boms, featuring insights on design and creativity.",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "design",
+        "creativity",
+        "personal blog",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://maggieappleton.com/rss.xml",
+      "title": "Maggie Appleton",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://maggieappleton.com/rss.xml",
+      "summary": "Maggie's digital garden filled with visual essays on programming, design, and anthropology.",
+      "details": "Original Category: arts -> design -> digital-design.opml",
+      "cleaned_title": "Maggie Appleton",
+      "cleaned_author": "Maggie Appleton",
+      "tags": [
+        "Arts & Culture",
+        "Design",
+        "Education",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "programming",
+        "design",
+        "anthropology"
+      ]
+    },
+    {
+      "id": "feed:https://accidentalwoodworker.blogspot.com/feeds/posts/default",
+      "title": "Accidental Woodworker",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://accidentalwoodworker.blogspot.com/feeds/posts/default",
+      "summary": "The daily dribble from my workshop.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Accidental Woodworker",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "Writing",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "workshop",
+        "crafts",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:https://www.byhandandeye.com/feed/",
+      "title": "By Hand & Eye Online | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.byhandandeye.com/feed/",
+      "summary": "An on-line atelier (design studio) dedicated to help you unlock your potential as a builder or maker by honing your design skills.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "By Hand & Eye Online",
+      "cleaned_author": "George R. Walker & Jim Tolpin",
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "Writing",
+        "DIY"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "design skills",
+        "craftsmanship",
+        "artistry"
+      ]
+    },
+    {
+      "id": "feed:https://toolsforworkingwood.com/store/merch_rss_start_1.php",
+      "title": "Joel's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://toolsforworkingwood.com/store/merch_rss_start_1.php",
+      "summary": "A blog dedicated to woodworking, exploring various aspects of the craft through insightful posts and practical advice.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Joel's Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "Writing",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "crafts",
+        "projects",
+        "tools"
+      ]
+    },
+    {
+      "id": "feed:https://blog.lostartpress.com/feed/",
+      "title": "Lost Art Press",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.lostartpress.com/feed/",
+      "summary": "A destination for woodworking enthusiasts, offering resources and insights on craftsmanship and a variety of woodworking topics.",
+      "details": "Original Category: arts -> crafts -> woodworking.opml",
+      "cleaned_title": "Lost Art Press",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Crafts",
+        "DIY",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "woodworking",
+        "craftsmanship",
+        "resources",
+        "projects"
+      ]
+    },
+    {
+      "id": "feed:https://loudpoet.com/feed/",
+      "title": "\u2014 As in guillotine...",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://loudpoet.com/feed/",
+      "summary": "Guy LeCharles Gonzalez: As in guillotine. Old/new media pragmatist. Sometimes loud, one-time poet, still opinionated.",
+      "details": "Original Category: arts -> books -> publishing.opml",
+      "cleaned_title": "\u2014 As in guillotine...",
+      "cleaned_author": "Guy LeCharles Gonzalez",
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "media commentary",
+        "poetry",
+        "blogging"
+      ]
+    },
+    {
+      "id": "feed:https://literaticat.tumblr.com/rss",
+      "title": "Ask the Agent",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://literaticat.tumblr.com/rss",
+      "summary": "I'm Jennifer Laughran. I'm a Senior Agent at the Andrea Brown Literary Agency, representing great authors and illustrators\u2026.",
+      "details": "Original Category: arts -> books -> publishing.opml",
+      "cleaned_title": "Ask the Agent",
+      "cleaned_author": "Jennifer Laughran",
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "literary agent",
+        "writing advice",
+        "children's literature"
+      ]
+    },
+    {
+      "id": "feed:https://janefriedman.com/blog/feed/",
+      "title": "Jane Friedman | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://janefriedman.com/blog/feed/",
+      "summary": "Information and resources for writers, from a 20-year veteran of the publishing industry.",
+      "details": "Original Category: arts -> books -> publishing.opml",
+      "cleaned_title": "Jane Friedman | Blog",
+      "cleaned_author": "Jane Friedman",
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "publishing industry",
+        "writer resources",
+        "Jane Friedman"
+      ]
+    },
+    {
+      "id": "feed:https://publishedtodeath.blogspot.com/feeds/posts/default",
+      "title": "Publishing ... and Other Forms of Insanity",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://publishedtodeath.blogspot.com/feeds/posts/default",
+      "summary": "Erica Verrillo has written seven books and published five. She doesn't know why anyone with an ounce of self-preservation would ever want to publish\u2026.",
+      "details": "Original Category: arts -> books -> publishing.opml",
+      "cleaned_title": "Publishing ... and Other Forms of Insanity",
+      "cleaned_author": "Erica Verrillo",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "publishing",
+        "writing",
+        "marketing",
+        "literary agents"
+      ]
+    },
+    {
+      "id": "feed:https://robertkingett.com/feed/",
+      "title": "Robert Kingett",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://robertkingett.com/feed/",
+      "summary": "A fabulously gay blind author.",
+      "details": "Original Category: arts -> books -> publishing.opml",
+      "cleaned_title": "Robert Kingett",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Literature"
+      ],
+      "language": "en",
+      "keywords": [
+        "blind author",
+        "romance",
+        "diversity"
+      ]
+    },
+    {
+      "id": "feed:https://writerbeware.blog/feed/",
+      "title": "Writer Beware",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://writerbeware.blog/feed/",
+      "summary": "\u2026shines a bright light into the dark corners of the shadow-world of literary scams, schemes, and pitfalls. Also providing advice for writers, industry news, and commentary.",
+      "details": "Original Category: arts -> books -> publishing.opml",
+      "cleaned_title": "Writer Beware",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "scams",
+        "literary advice",
+        "copyright"
+      ]
+    },
+    {
+      "id": "feed:https://kaggsysbookishramblings.wordpress.com/feed/",
+      "title": "Kaggsy's Bookish Ramblings",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kaggsysbookishramblings.wordpress.com/feed/",
+      "summary": "\"Vivre le livre!\".",
+      "details": "Original Category: arts -> books -> fiction-books.opml",
+      "cleaned_title": "Kaggsy's Bookish Ramblings",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "book reviews",
+        "literary discussions",
+        "reading"
+      ]
+    },
+    {
+      "id": "feed:https://www.notebookstories.com/feed/",
+      "title": "Notebook Stories",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.notebookstories.com/feed/",
+      "summary": "Notebooks, journals, sketchbooks, diaries: in search of the perfect page\u2026.",
+      "details": "Original Category: arts -> books -> writing.opml",
+      "cleaned_title": "Notebook Stories",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "notebooks",
+        "journals",
+        "diaries",
+        "writing tools",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://writingwithcolor.tumblr.com/rss",
+      "title": "Writing With Color",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://writingwithcolor.tumblr.com/rss",
+      "summary": "We are dedicated to writing and resources centered on racial, ethnic and religious diversity.",
+      "details": "Original Category: arts -> books -> writing.opml",
+      "cleaned_title": "Writing With Color",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "diversity",
+        "writing resources",
+        "racial representation",
+        "ethnic voices",
+        "literature"
+      ]
+    },
+    {
+      "id": "feed:http://www.antipope.org/charlie/blog-static/atom.xml",
+      "title": "Charlie's Diary",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.antipope.org/charlie/blog-static/atom.xml",
+      "summary": "Being the blog of Charles Stross, author, and occasional guests.",
+      "details": "Original Category: politics -> politics.opml",
+      "cleaned_title": "Charlie's Diary",
+      "cleaned_author": "Charles Stross",
+      "tags": [
+        "Politics",
+        "Writing",
+        "Science",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Charles Stross",
+        "politics",
+        "writing tips"
+      ]
+    },
+    {
+      "id": "feed:https://christopherlbennett.wordpress.com/feed/",
+      "title": "Christopher L. Bennett: Written Worlds",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://christopherlbennett.wordpress.com/feed/",
+      "summary": "An author's journal.",
+      "details": "Original Category: arts -> books -> fiction-books -> science-fiction.opml",
+      "cleaned_title": "Christopher L. Bennett: Written Worlds",
+      "cleaned_author": "Christopher L. Bennett",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Science",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "author insights",
+        "writing process",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://granary.io/url?input=html&output=rss&url=https://jamesg.blog",
+      "title": "James' Coffee Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://granary.io/url?input=html&output=rss&url=https://jamesg.blog",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "James' Coffee Blog",
+      "cleaned_author": "James",
+      "summary": "A personal blog that blends reflections on coffee culture with technical insights into web development. It offers a unique look at creativity in both coffee and code.",
+      "tags": [
+        "Tech",
+        "Coding",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "coffee",
+        "web development",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://www.cabeda.dev/rss.xml",
+      "title": "Jos\u00e9 Cabeda",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.cabeda.dev/rss.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Jos\u00e9 Cabeda",
+      "cleaned_author": "Jos\u00e9 Cabeda",
+      "summary": "A contemplative blog where the author shares personal thoughts and observations on technology and workflow management, providing insights into everyday challenges.",
+      "tags": [
+        "Tech",
+        "Writing",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "workflow",
+        "personal reflections",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://kevquirk.com/feed",
+      "title": "Kev Quirk",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://kevquirk.com/feed",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Kev Quirk",
+      "cleaned_author": null,
+      "summary": "A candid blog with personal commentary on technology, daily life, and various observations. It showcases a mix of experiences and thoughts from the author's daily activities.",
+      "tags": [
+        "Tech",
+        "Writing",
+        "Humor"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal commentary",
+        "daily life",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://samestuffdifferentday.net/feed.xml",
+      "title": "same stuff, different day",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://samestuffdifferentday.net/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "same stuff, different day",
+      "cleaned_author": null,
+      "summary": "A personal blog that discusses technology and leadership, with occasional reflections on culture, music, and books.",
+      "tags": [
+        "Tech",
+        "Writing",
+        "_personal"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "leadership",
+        "culture",
+        "music",
+        "books"
+      ]
+    },
+    {
+      "id": "feed:https://feeds.thejeshgn.com/thejeshgn",
+      "title": "Thejesh GN \u23da \u0ca4\u0cc7\u0c9c\u0cc7\u0cb6\u0ccd \u0c9c\u0cbf.\u0c8e\u0ca8\u0ccd",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://feeds.thejeshgn.com/thejeshgn",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Thejesh GN",
+      "cleaned_author": "Thejesh GN",
+      "summary": "An eclectic blog featuring technology, travel, and personal insights, appealing to a diverse audience.",
+      "tags": [
+        "Tech",
+        "Living",
+        "Writing",
+        "Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "travel",
+        "technology",
+        "personal"
+      ]
+    },
+    {
+      "id": "feed:https://rachsmith.com/feed.xml",
+      "title": "Rach Smith's digital garden",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://rachsmith.com/feed.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Rach Smith's digital garden",
+      "cleaned_author": "Rach Smith",
+      "summary": "A personal digital garden from a productive developer that balances tech insights with reflections on family and life, fostering a unique blend of software and personal growth.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "productivity",
+        "notes",
+        "planner",
+        "social skills"
+      ]
+    },
+    {
+      "id": "feed:https://robinrendle.com/feed.xml",
+      "title": "Robin Rendle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://robinrendle.com/feed.xml",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Robin Rendle",
+      "cleaned_author": null,
+      "summary": "A reflective blog showcasing personal insights and observations from the world of technology, emphasizing a thoughtful approach to coding and blogging.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "blogging",
+        "work",
+        "reflection"
+      ]
+    },
+    {
+      "id": "feed:https://www.sciencebase.com/science-blog/feed",
+      "title": "David Bradley",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.sciencebase.com/science-blog/feed",
+      "summary": "Science Communication since 1989.",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "David Bradley",
+      "cleaned_author": "David Bradley",
+      "tags": [
+        "Science",
+        "Science",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "science communication",
+        "photography",
+        "wildlife"
+      ]
+    },
+    {
+      "id": "feed:https://www.goatorama.com/feed/",
+      "title": "Goat-O-Rama",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.goatorama.com/feed/",
+      "summary": "Put some color in your herd!",
+      "details": "Original Category: science -> natural-world.opml",
+      "cleaned_title": "Goat-O-Rama",
+      "cleaned_author": null,
+      "tags": [
+        "Science",
+        "Writing",
+        "Urban"
+      ],
+      "language": "en",
+      "keywords": [
+        "goat herding",
+        "livestock",
+        "colorful practices"
+      ]
+    },
+    {
+      "id": "feed:https://benviveur.blogspot.com/feeds/posts/default",
+      "title": "Ben Viveur",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://benviveur.blogspot.com/feeds/posts/default",
+      "summary": "The Epicurean musings of Benjamin Nunn. Recipes. Reviews. Beer. Swearing.",
+      "details": "Original Category: recreation -> food-and-drink.opml",
+      "cleaned_title": "Ben Viveur",
+      "cleaned_author": "Benjamin Nunn",
+      "tags": [
+        "Living",
+        "Cooking",
+        "Restaurants",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "beer",
+        "recipes",
+        "food reviews"
+      ]
+    },
+    {
+      "id": "feed:https://cafleurebon.com/feed/",
+      "title": "\u00c7aFleureBon Perfume Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://cafleurebon.com/feed/",
+      "summary": "A top 5 award-winning fragrance site featuring perfume reviews, interviews with master perfumers and articles on ingredients in perfumery.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "\u00c7aFleureBon",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gadgets",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance",
+        "perfume reviews",
+        "interviews",
+        "perfume ingredients"
+      ]
+    },
+    {
+      "id": "feed:https://nstperfume.com/feed/",
+      "title": "Now Smell This",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://nstperfume.com/feed/",
+      "summary": "A perfume blog, featuring perfume reviews and the latest on new perfume launches, online fragrance discounts, home fragrance products, perfume books and more.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Now Smell This",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Gadgets",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "perfume reviews",
+        "new fragrance",
+        "fragrance discounts"
+      ]
+    },
+    {
+      "id": "feed:http://perfumeposse.com/feed/",
+      "title": "Perfume Posse",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://perfumeposse.com/feed/",
+      "summary": "Perfume Reviews.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Perfume Posse",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance reviews",
+        "scent discussions"
+      ]
+    },
+    {
+      "id": "feed:https://perfumeprofessor.net/feed/",
+      "title": "PERFUME PROFESSOR",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://perfumeprofessor.net/feed/",
+      "summary": "studying the art of fragrance...and writing about it here since 2017.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Perfume Professor",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance study",
+        "perfume reviews",
+        "interviews"
+      ]
+    },
+    {
+      "id": "feed:http://perfumeshrine.blogspot.com/feeds/posts/default",
+      "title": "Perfume Shrine",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://perfumeshrine.blogspot.com/feeds/posts/default",
+      "summary": "A Perfume, Beauty, Style, Food Blog: fragrance reviews, interviews, comparison of classics and vintages, new launches, candles, beauty, and arts.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Perfume Shrine",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance history",
+        "scent comparisons",
+        "perfume reviews"
+      ]
+    },
+    {
+      "id": "feed:https://scentsandsensibilities.co/feed/",
+      "title": "Serenity Now Scents and Sensibilities",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://scentsandsensibilities.co/feed/",
+      "summary": "I am a lover of beauty, an introvert, an empath and INTJ. I have an inquiring mind, dozens of perfumes, and thousands of books.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "Serenity Now Scents and Sensibilities",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Art"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance discussions",
+        "perfume community"
+      ]
+    },
+    {
+      "id": "feed:https://takeonethingoff.com/feed/",
+      "title": "takeonethingoff.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://takeonethingoff.com/feed/",
+      "summary": "A quest to pare it down to the best.",
+      "details": "Original Category: recreation -> perfume.opml",
+      "cleaned_title": "takeonethingoff.com",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Art",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "fragrance reviews",
+        "standout perfumes"
+      ]
+    },
+    {
+      "id": "feed:https://heatherburns.tech/feed/",
+      "title": "Hi, I'm Heather Burns \u2013 Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://heatherburns.tech/feed/",
+      "summary": "at home in the world.",
+      "details": "Original Category: countries -> uk.opml",
+      "cleaned_title": "Hi, I'm Heather Burns \u2013 Blog",
+      "cleaned_author": "Heather Burns",
+      "tags": [
+        "Arts & Culture",
+        "Writing",
+        "Social",
+        "Mental Health"
+      ],
+      "language": "en",
+      "keywords": [
+        "personal",
+        "stories",
+        "creativity"
+      ]
+    },
+    {
+      "id": "feed:https://randsinrepose.com/feed/",
+      "title": "Rands in Repose",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://randsinrepose.com/feed/",
+      "summary": "This blog is a collection of reflections on management and software development, offering insights and advice for leaders and developers alike. It emphasizes thoughtful approaches to complex work environments.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "Rands in Repose",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Software Design",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "management",
+        "software",
+        "insights"
+      ]
+    },
+    {
+      "id": "feed:https://xplane.com/feed/",
+      "title": "X Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://xplane.com/feed/",
+      "summary": "Read our latest posts on ideas for designing, facilitating, and creating lasting change for people and organizations.",
+      "details": "Original Category: economics -> business.opml",
+      "cleaned_title": "X Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Money",
+        "Writing",
+        "Data"
+      ],
+      "language": "en",
+      "keywords": [
+        "change management",
+        "leadership",
+        "storytelling"
+      ]
+    },
+    {
+      "id": "feed:https://www.rubick.com/rss.xml",
+      "title": "Jade Rubick - Rubick.com",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.rubick.com/rss.xml",
+      "summary": "Jade Rubick.",
+      "details": "Original Category: economics -> business -> management.opml",
+      "cleaned_title": "Jade Rubick - Rubick.com",
+      "cleaned_author": "Jade Rubick",
+      "tags": [
+        "Money",
+        "Finance",
+        "Writing"
+      ],
+      "language": "en",
+      "keywords": [
+        "business management",
+        "team collaboration",
+        "cross-functional teams"
+      ]
+    },
+    {
+      "title": "\u6f6e\u6d41\u5468\u520a \u2013 tw93.fun",
+      "popularity_score": 4.583333333333333,
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "feed_url": "https://weekly.tw93.fun/rss.xml",
+      "kind": "feed",
+      "id": "feed:https://weekly.tw93.fun/rss.xml",
+      "cleaned_title": "\u6f6e\u6d41\u5468\u520a",
+      "cleaned_author": "Tw93",
+      "summary": "A personal blog by engineer Tw93, documenting daily life and personal experiences with a creative twist.",
+      "tags": [
+        "Living",
+        "Japan",
+        "Writing"
+      ],
+      "language": "zh",
+      "keywords": [
+        "personal blog",
+        "life experiences",
+        "engineer",
+        "stories"
+      ]
+    }
+  ],
+  "child_categories": []
+}

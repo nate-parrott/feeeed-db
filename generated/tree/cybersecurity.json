@@ -1,0 +1,445 @@
+{
+  "id": "cybersecurity",
+  "display_name": "Cybersecurity",
+  "feeds": [
+    {
+      "id": "feed:feeds.arstechnica.com:Ars Technica",
+      "cleaned_title": "Ars Technica",
+      "summary": "A prominent technology news site that covers a spectrum of tech-related topics, from gadgets to science, often with a deep dive into the implications of new technologies.",
+      "title": "Ars Technica",
+      "kind": "feed",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index/",
+      "popularity_score": 15.744693339786506,
+      "details": "Original category: Popular",
+      "sources": [
+        "crowdsourced_popular"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity",
+        "Gadgets"
+      ],
+      "language": "en",
+      "keywords": [
+        "technology",
+        "news",
+        "deep dive"
+      ]
+    },
+    {
+      "id": "feed:krebsonsecurity.com:Krebs on Security",
+      "cleaned_title": "Krebs on Security",
+      "summary": "A blog focusing on cybersecurity news and investigations, offering deep dives into vulnerabilities and threats.",
+      "title": "Krebs on Security",
+      "kind": "feed",
+      "feed_url": "http://krebsonsecurity.com/feed/",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 3.652429631833218,
+      "cleaned_author": "Brian Krebs",
+      "tags": [
+        "Tech",
+        "Cybersecurity",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity",
+        "data breaches",
+        "security news"
+      ]
+    },
+    {
+      "id": "feed:thehackernews.com:The Hacker News",
+      "cleaned_title": "The Hacker News",
+      "summary": "A leading cybersecurity news platform that covers the latest vulnerabilities, exploits, data breaches, and hacking incidents.",
+      "title": "The Hacker News",
+      "kind": "feed",
+      "feed_url": "http://thehackernews.com/feeds/posts/default",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db",
+        "crowdsourced_popular"
+      ],
+      "popularity_score": 2.9696065892624683,
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity news",
+        "data breaches",
+        "exploits",
+        "hacking news"
+      ]
+    },
+    {
+      "id": "youtube:Malwarebytes",
+      "cleaned_title": "Malwarebytes",
+      "summary": "The official YouTube channel of Malwarebytes Labs, offering educational videos, threat analyses, and cybersecurity tips.",
+      "title": "Malwarebytes",
+      "kind": "youtube",
+      "channel_id": "UCRAxwkquV9-2NK5bmS_IHAQ",
+      "thumbnail_url": "https://yt3.ggpht.com/7AxmDfwQ-3OIWlHFlGxtPp16ffUY9DP8ilgX93nTviz6Y8DXKCyhmqheWIHZWdD5q5EDOPZ0=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity tips",
+        "threat analysis",
+        "data protection"
+      ]
+    },
+    {
+      "id": "youtube:Cybercrime Magazine",
+      "cleaned_title": "Cybercrime Magazine",
+      "summary": "A YouTube channel focused on cybersecurity trends, news, and interviews with industry experts.",
+      "title": "Cybercrime Magazine",
+      "kind": "youtube",
+      "channel_id": "UCRikWa5PGyQZw0yATk8iZWg",
+      "thumbnail_url": "https://yt3.ggpht.com/ytc/AGIKgqMkymY3DRHpDC_zVfzeRBv0AeZGcy73sob5sG9brw=s240-c-k-c0xffffffff-no-rj-mo",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity trends",
+        "interviews",
+        "crypto theft"
+      ]
+    },
+    {
+      "id": "feed:feeds.feedburner.com:SecurityWeek",
+      "cleaned_title": "SecurityWeek",
+      "summary": "A comprehensive source for cybersecurity news, analysis, and insights, providing coverage on various aspects of information security.",
+      "title": "SecurityWeek",
+      "kind": "feed",
+      "feed_url": "http://feeds.feedburner.com/Securityweek",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity news",
+        "threat analysis",
+        "compliance"
+      ]
+    },
+    {
+      "id": "feed:ventureinsecurity.net:Venture in Security",
+      "cleaned_title": "Venture in Security",
+      "summary": "This blog focuses on enhancing cybersecurity through insights for practitioners, entrepreneurs, and investors. It covers topics from pentesting to founding strategies in the cybersecurity landscape.",
+      "title": "Venture in Security",
+      "kind": "feed",
+      "feed_url": "https://ventureinsecurity.net/feed",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity",
+        "technology",
+        "investors",
+        "startups"
+      ]
+    },
+    {
+      "id": "feed:franklyspeaking.substack.com:Frankly Speaking",
+      "cleaned_title": "Frankly Speaking",
+      "summary": "This blog offers a holistic view of security issues, blending insights from an experienced security engineer and former VC. It shares thoughts ranging from AI security evolution to organizational types in the sector.",
+      "title": "Frankly Speaking",
+      "kind": "feed",
+      "feed_url": "https://franklyspeaking.substack.com/feed",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "security",
+        "AI",
+        "technology",
+        "thoughts"
+      ]
+    },
+    {
+      "id": "feed:detectionengineering.net:Detection Engineering",
+      "cleaned_title": "Detection Engineering",
+      "summary": "A resource dedicated to detection engineering that offers the latest news and tips to engage professionals in understanding and improving detection methodologies.",
+      "title": "Detection Engineering",
+      "kind": "feed",
+      "feed_url": "https://www.detectionengineering.net/feed",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "detection engineering",
+        "technology",
+        "news",
+        "how-tos"
+      ]
+    },
+    {
+      "id": "feed:techletters.substack.com:Lukasz Olejnik on Cyber, Privacy and Tech Policy Critique",
+      "cleaned_title": "Lukasz Olejnik on Cyber, Privacy and Tech Policy Critique",
+      "summary": "Offering a critical perspective on current events in cybersecurity, privacy, and technology policy, this blog provides insights that matter in today's tech landscape.",
+      "title": "Lukasz Olejnik on Cyber, Privacy and Tech Policy Critique",
+      "kind": "feed",
+      "feed_url": "https://techletters.substack.com/feed",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": "Lukasz Olejnik",
+      "tags": [
+        "Tech",
+        "Cybersecurity",
+        "_intellectual"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity",
+        "privacy",
+        "technology policy",
+        "analysis"
+      ]
+    },
+    {
+      "id": "feed:secwale.com:Security Wale",
+      "cleaned_title": "Security Wale",
+      "summary": "This blog merges discussions on cloud computing, cybersecurity, and AI, providing readers with insights into the intersections of these critical fields.",
+      "title": "Security Wale",
+      "kind": "feed",
+      "feed_url": "https://www.secwale.com/feed",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db"
+      ],
+      "cleaned_author": null,
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cloud",
+        "AI",
+        "cybersecurity",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://www.eff.org/rss/updates.xml",
+      "title": "Deeplinks Blog | Electronic Frontier Foundation",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.eff.org/rss/updates.xml",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "Deeplinks Blog | Electronic Frontier Foundation",
+      "cleaned_author": null,
+      "summary": "A blog from the Electronic Frontier Foundation focused on the intersection of technology, privacy, and civil liberties, providing important updates and analysis.",
+      "tags": [
+        "Tech",
+        "Activism",
+        "Cybersecurity",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "privacy",
+        "internet rights",
+        "EFF",
+        "technology",
+        "civil liberties"
+      ]
+    },
+    {
+      "id": "feed:https://blog.zsec.uk/rss/",
+      "title": "ZephrSec - ZSEC Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://blog.zsec.uk/rss/",
+      "details": "Original Category: technology.opml",
+      "cleaned_title": "ZephrSec - ZSEC Blog",
+      "cleaned_author": "Andy Gill",
+      "summary": "A tech-focused blog that features security explorations and projects, offering insights into modern cybersecurity challenges.",
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "security projects",
+        "cybersecurity insights",
+        "technology"
+      ]
+    },
+    {
+      "id": "feed:https://soatok.blog/feed/",
+      "title": "Dhole Moments - Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://soatok.blog/feed/",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Dhole Moments - Blog",
+      "cleaned_author": null,
+      "summary": "This blog discusses the nuances of software development, security, and cryptography while also addressing broader societal issues related to these topics, all from a unique perspective.",
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cryptography",
+        "security researchers",
+        "software development"
+      ]
+    },
+    {
+      "id": "feed:https://www.skrasser.com/feed.xml",
+      "title": "Sven Krasser's Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.skrasser.com/feed.xml",
+      "details": "Original Category: technology -> development.opml",
+      "cleaned_title": "Sven Krasser's Blog",
+      "cleaned_author": "Sven Krasser",
+      "summary": "A blog focused on technology and cybersecurity, featuring insights into malware detection and retro computing.",
+      "tags": [
+        "Tech",
+        "Cybersecurity",
+        "Internet"
+      ],
+      "language": "en",
+      "keywords": [
+        "malware",
+        "Commodore 64",
+        "cybersecurity"
+      ]
+    },
+    {
+      "id": "feed:https://tantek.com/updates.atom",
+      "title": "Tantek \u00c7elik",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://tantek.com/updates.atom",
+      "details": "Original Category: technology -> development -> web.opml",
+      "cleaned_title": "Tantek \u00c7elik",
+      "cleaned_author": "Tantek \u00c7elik",
+      "summary": "A platform for sharing thoughts and insights on web development and the IndieWeb movement, focusing on personal contributions to web security and privacy.",
+      "tags": [
+        "Tech",
+        "WebDev",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "cybersecurity",
+        "IndieWeb"
+      ]
+    },
+    {
+      "id": "feed:https://www.pogowasright.org/feed/",
+      "title": "PogoWasRight.org: Privacy News & Issues",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.pogowasright.org/feed/",
+      "summary": "My attempt to increase awareness of privacy news and issues.",
+      "details": "Original Category: politics -> law.opml",
+      "cleaned_title": "PogoWasRight.org: Privacy News & Issues",
+      "cleaned_author": null,
+      "tags": [
+        "Politics",
+        "Law",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "privacy news",
+        "data protection",
+        "digital rights"
+      ]
+    },
+    {
+      "id": "feed:schneier.com:Schneier on Security",
+      "cleaned_title": "Schneier on Security",
+      "summary": "Bruce Schneier's blog on security, privacy, and trust, providing analysis and commentary on the latest cybersecurity issues.",
+      "title": "Schneier on Security",
+      "kind": "feed",
+      "feed_url": "http://www.schneier.com/blog/index.rdf",
+      "details": "Original category: Tech -> Cybersecurity",
+      "sources": [
+        "original_feed_db",
+        "ooh_directory"
+      ],
+      "cleaned_author": "Bruce Schneier",
+      "tags": [
+        "Tech",
+        "Cybersecurity"
+      ],
+      "language": "en",
+      "keywords": [
+        "security",
+        "privacy",
+        "cybersecurity analysis",
+        "trust"
+      ]
+    }
+  ],
+  "child_categories": []
+}

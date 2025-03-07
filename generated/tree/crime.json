@@ -1,0 +1,302 @@
+{
+  "id": "crime",
+  "display_name": "Crime",
+  "feeds": [
+    {
+      "id": "substack:top:the_bear_cave_-_edwin_dorsey",
+      "title": "The Bear Cave - Edwin Dorsey",
+      "cleaned_title": "The Bear Cave",
+      "summary": "Dedicated to uncovering corporate misdeeds, this investigative newsletter sheds light on ethical issues within the business landscape and promotes accountability.",
+      "kind": "feed",
+      "feed_url": "https://thebearcave.substack.com/feed",
+      "details": "Original category: Substack top newsletters about business",
+      "sources": [
+        "substack_top"
+      ],
+      "tags": [
+        "Money",
+        "Crime",
+        "Justice",
+        "_intellectual"
+      ],
+      "cleaned_author": "Edwin Dorsey",
+      "language": "en",
+      "keywords": [
+        "corporate misconduct",
+        "investigation",
+        "accountability"
+      ]
+    },
+    {
+      "id": "feed:https://bellingcat.com/feed/",
+      "title": "bellingcat",
+      "kind": "feed",
+      "feed_url": "https://bellingcat.com/feed/",
+      "sources": [
+        "curated"
+      ],
+      "cleaned_title": "bellingcat",
+      "cleaned_author": null,
+      "summary": "Bellingcat is renowned for its groundbreaking online investigations and open-source intelligence work, covering critical global issues.",
+      "tags": [
+        "News",
+        "Journalism",
+        "Crime",
+        "World News"
+      ],
+      "language": "en",
+      "keywords": [
+        "investigations",
+        "open source",
+        "global issues",
+        "journalism"
+      ]
+    },
+    {
+      "id": "feed:http://moonlight-detective.blogspot.com/feeds/posts/default",
+      "title": "Beneath the Stains of Time",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://moonlight-detective.blogspot.com/feeds/posts/default",
+      "summary": "Welcome to the niche corner, dedicated to the great detective stories of yore and their neo-classical descendants.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Beneath the Stains of Time",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "detective stories",
+        "classic crime fiction",
+        "modern mysteries"
+      ]
+    },
+    {
+      "id": "feed:http://bitterteaandmystery.blogspot.com/feeds/posts/default",
+      "title": "Bitter Tea and Mystery",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://bitterteaandmystery.blogspot.com/feeds/posts/default",
+      "summary": "Where I list what I read and my reactions. Mystery is my genre, leaning towards \u00a0traditional mysteries and police procedurals.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Bitter Tea and Mystery",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "mystery",
+        "traditional mysteries",
+        "police procedurals"
+      ]
+    },
+    {
+      "id": "feed:https://www.criminalelement.com/feed/",
+      "title": "Criminal Element",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.criminalelement.com/feed/",
+      "summary": "Mysteries, Thrillers, and all things Killer!",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Criminal Element",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "mysteries",
+        "thrillers",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:https://crossexaminingcrime.wordpress.com/feed/",
+      "title": "Cross Examining Crime",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://crossexaminingcrime.wordpress.com/feed/",
+      "summary": "A comprehensive blog that tracks various aspects of crime fiction, from reviews to themed discussions, making it a must-read for enthusiasts.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Cross Examining Crime",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "crime fiction",
+        "reviews",
+        "discussion"
+      ]
+    },
+    {
+      "id": "feed:https://mysteryfile.com/blog/?feed=rss2",
+      "title": "Mystery*File",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://mysteryfile.com/blog/?feed=rss2",
+      "summary": "Devoted to mystery and detective fiction.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Mystery*File",
+      "cleaned_author": "Steve Lewis",
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "mystery",
+        "detective fiction",
+        "reviews"
+      ]
+    },
+    {
+      "id": "feed:http://thepassingtramp.blogspot.com/feeds/posts/default",
+      "title": "The Passing Tramp",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://thepassingtramp.blogspot.com/feeds/posts/default",
+      "summary": "Wandering through the mystery genre, book by book.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "The Passing Tramp",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "mystery genre",
+        "book reviews",
+        "critical analysis"
+      ]
+    },
+    {
+      "id": "feed:https://prettysinister.blogspot.com/feeds/posts/default",
+      "title": "Pretty Sinister Books",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://prettysinister.blogspot.com/feeds/posts/default",
+      "summary": "Crime, Supernatural and Adventure fiction. Obscure, Forgotten and Well Worth Reading.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Pretty Sinister Books",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "crime fiction",
+        "supernatural",
+        "adventure"
+      ]
+    },
+    {
+      "id": "feed:https://spywrite.com/feed/podcast/",
+      "title": "Spy Write",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://spywrite.com/feed/podcast/",
+      "summary": "Reviewing and collecting spy fiction and nonfiction.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Spy Write",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "spy fiction",
+        "literature",
+        "book reviews"
+      ]
+    },
+    {
+      "id": "feed:https://donherron.com/feed/",
+      "title": "Up and Down These Mean Streets",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://donherron.com/feed/",
+      "summary": "In 1977 Don Herron began leading The Dashiell Hammett Tour, now the longest-running literary tour in the nation.",
+      "details": "Original Category: arts -> books -> fiction-books -> crime.opml",
+      "cleaned_title": "Up and Down These Mean Streets",
+      "cleaned_author": "Don Herron",
+      "tags": [
+        "Arts & Culture",
+        "Literature",
+        "Fiction",
+        "Crime"
+      ],
+      "language": "en",
+      "keywords": [
+        "Dashiell Hammett",
+        "literary tour",
+        "crime fiction"
+      ]
+    },
+    {
+      "id": "feed:https://peoplevsarbuckle.com/feed/",
+      "title": "Spite Work: The Trials of Virginia Rappe and Fatty Arbuckle",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://peoplevsarbuckle.com/feed/",
+      "summary": "A reconsideration of the Fatty Arbuckle case of 1921-22 and the life and death of the victim, Virginia Rappe.",
+      "details": "Original Category: arts -> movies -> silent-film.opml",
+      "cleaned_title": "Spite Work: The Trials of Virginia Rappe and Fatty Arbuckle",
+      "cleaned_author": null,
+      "tags": [
+        "Arts & Culture",
+        "Movies",
+        "Cinema",
+        "Crime",
+        "History"
+      ],
+      "language": "en",
+      "keywords": [
+        "Fatty Arbuckle",
+        "Virginia Rappe",
+        "Hollywood scandals",
+        "silent film history"
+      ]
+    }
+  ],
+  "child_categories": []
+}

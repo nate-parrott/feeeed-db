@@ -1,0 +1,132 @@
+{
+  "id": "running",
+  "display_name": "Running",
+  "feeds": [
+    {
+      "id": "feed:https://www.dcrainmaker.com/feed",
+      "title": "DC Rainmaker | Blog",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://www.dcrainmaker.com/feed",
+      "summary": "I\u2019m just a triathlete and runner like you:  I run, I bike, and I do something resembling swimming.  And at the end of the day\u2026I blog about it.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "DC Rainmaker | Blog",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Tech",
+        "Running",
+        "Cycling"
+      ],
+      "language": "en",
+      "keywords": [
+        "fitness gear",
+        "triathlon",
+        "running tips"
+      ]
+    },
+    {
+      "id": "feed:https://bestpartday.blogspot.com/feeds/posts/default",
+      "title": "best part of the day",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://bestpartday.blogspot.com/feeds/posts/default",
+      "summary": "A personal blog that captures the beauty of everyday moments, particularly focusing on the joy of running in nature, with posts that reflect on seasonal experiences and personal reflections.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "best part of the day",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Running"
+      ],
+      "language": "en",
+      "keywords": [
+        "running",
+        "nature",
+        "reflections",
+        "winter",
+        "parks"
+      ]
+    },
+    {
+      "id": "feed:http://www.blog7t.com/feeds/posts/default",
+      "title": "blog7t",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "http://www.blog7t.com/feeds/posts/default",
+      "summary": "parkrun venue guides.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "blog7t",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Running"
+      ],
+      "language": "en",
+      "keywords": [
+        "parkrun",
+        "running guides",
+        "venues",
+        "fitness",
+        "sport"
+      ]
+    },
+    {
+      "id": "feed:https://go-feet.blogspot.com/feeds/posts/default",
+      "title": "Go Feet",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://go-feet.blogspot.com/feeds/posts/default",
+      "summary": "A blog about running, its history and culture.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "Go Feet",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Running"
+      ],
+      "language": "en",
+      "keywords": [
+        "running culture",
+        "history",
+        "reflections",
+        "health",
+        "fitness"
+      ]
+    },
+    {
+      "id": "feed:https://trailrunningforlife.com/feed/",
+      "title": "Trail Running for Life",
+      "kind": "feed",
+      "sources": [
+        "ooh_directory"
+      ],
+      "feed_url": "https://trailrunningforlife.com/feed/",
+      "summary": "Trail running to explore the unbeaten path.",
+      "details": "Original Category: recreation -> sport -> athletics -> running.opml",
+      "cleaned_title": "Trail Running for Life",
+      "cleaned_author": null,
+      "tags": [
+        "Living",
+        "Running"
+      ],
+      "language": "en",
+      "keywords": [
+        "trail running",
+        "nature exploration",
+        "adventures",
+        "fitness",
+        "challenges"
+      ]
+    }
+  ],
+  "child_categories": []
+}
