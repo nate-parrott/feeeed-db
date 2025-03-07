@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://www.andreagrandi.it",
+    "title": "Andrea Grandi",
+    "description": ""
+  },
+  {
+    "url": "https://blog.pecar.me/",
+    "title": "An\u017ee's Blog",
+    "description": "Python, webdev, and surfing."
+  },
+  {
+    "url": "https://djangoandy.com",
+    "title": "Django Andy",
+    "description": "My travels through the worlds of Django, Python, DevOps and Full Stack web development."
+  },
+  {
+    "url": "https://hakibenita.com",
+    "title": "Haki Benita",
+    "description": "The writings of Haki Benita."
+  },
+  {
+    "url": "https://hynek.me/articles/",
+    "title": "Hynek\u2019s Blog",
+    "description": "Hynek Schlawack: Pythonista, Gopher, blogger, and speaker from Berlin/Germany."
+  },
+  {
+    "url": "https://kurtmckee.org/",
+    "title": "Kurt McKee",
+    "description": "lessons learned in production."
+  },
+  {
+    "url": "https://mathspp.com/blog",
+    "title": "Mathspp Blog",
+    "description": "A blog dedicated to mathematics and programming!"
+  },
+  {
+    "url": "https://palletsprojects.com/blog/",
+    "title": "The Pallets Projects",
+    "description": "A collection of Python web development libraries that are associated with the Flask microframework."
+  },
+  {
+    "url": "https://new.pythonforengineers.com/",
+    "title": "Python for Engineers",
+    "description": "Now Powered by Flux Capacitors! And with 100% more Electrolytes."
+  },
+  {
+    "url": "https://reinout.vanrees.org/",
+    "title": "Reinout van Rees' personal website",
+    "description": "Personal website of Reinout van Rees. Django/Python software developer. Ligfietsen."
+  },
+  {
+    "url": "https://www.rockandnull.com",
+    "title": "Rock and Null",
+    "description": "Tech, software and whatever comes to mind."
+  },
+  {
+    "url": "https://simonwillison.net/",
+    "title": "Simon Willison\u2019s Weblog",
+    "description": ""
+  },
+  {
+    "url": "https://snarky.ca/",
+    "title": "Tall, Snarky Canadian",
+    "description": "Python core developer. Dev manager for the Python extension for VS Code. Tall, snarky Canadian."
+  },
+  {
+    "url": "https://www.b-list.org/weblog/",
+    "title": "Weblog archive",
+    "description": ""
+  },
+  {
+    "url": "https://yasoob.me/",
+    "title": "Yasoob Khalid",
+    "description": "The author of Intermediate Python and the Practical Python Projects books."
+  }
+]

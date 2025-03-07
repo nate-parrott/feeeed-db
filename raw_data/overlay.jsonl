@@ -1,0 +1,23 @@
+%% Feed modification overlay file - DO NOT EDIT MANUALLY %%
+{"feed_id": "feed:quantamagazine.org:Quanta Magazine", "hidden": false}
+{"feed_id": "feed:theverge.com:The Verge", "hidden": false}
+{"feed_id": "curated:gothamist", "tags": ["NYC"]}
+{"feed_id": "feed:newyorkyimby.com:New York YIMBY", "tags": ["Urban"]}
+{"feed_id": "feed:techcrunch.com:TechCrunch", "removed_tags": ["Software Design"]}
+{"feed_id": "feed:news.cnet.com:CNET", "removed_tags": ["Tech", "Software Design"], "tags": ["Tech"]}
+{"feed_id": "feed:pomp.substack.com:The Pomp Letter", "removed_tags": ["AI"]}
+{"feed_id": "feed:https://simonwillison.net/atom/everything/", "tags": ["AI"]}
+{"feed_id": "feed:https://news.ycombinator.com/rss", "high_quality": true}
+{"feed_id": "feed:blog.pragmaticengineer.com:The Pragmatic Engineer", "hidden": true}
+{"feed_id": "feed:news.codecademy.com:Codecademy Blog", "hidden": true}
+{"feed_id": "feed:medium.com:Expedia Group Technology - Medium", "hidden": true}
+{"feed_id": "feed:https://www.joshwcomeau.com/rss.xml", "high_quality": true}
+{"feed_id": "youtube:The Dodo", "removed_tags": ["LGBTQ"]}
+{"feed_id": "feed:laist.com:RSS feed", "removed_tags": ["LGBTQ"], "hidden": true}
+{"feed_id": "substack:top:dr._mercola's_censored_library_(private_membership)_-_dr._joseph_mercola", "hidden": true}
+{"feed_id": "substack:top:paris_by_mouth__-_meg_zimbeck", "tags": ["France"]}
+{"feed_id": "feed:https://growinguptransgender.com/feed/", "tags": ["LGBTQ"]}
+{"feed_id": "feed:businessoffashion.com:Business of Fashion", "removed_tags": ["Trains"]}
+{"feed_id": "feed:https://lincolnmullen.com/blog/index.xml", "removed_tags": ["Soccer"]}
+{"feed_id": "feed:https://thesimplecatholic.blog/feed/", "removed_tags": ["Soccer"]}
+{"feed_id": "feed:https://feeds.feedblitz.com/marginalrevolution", "removed_tags": ["Activism"]}

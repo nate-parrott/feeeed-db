@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block title %}{{ tag }} Feeds{% endblock %}
+
+{% block content %}
+<div class="section-header">
+    <h1>{{ tag }}</h1>
+    <span class="feed-count">{{ feed_count }} feeds</span>
+</div>
+
+{% for feed in feeds %}
+<div class="feed-card {% if feed._hidden %}feed-hidden{% endif %}">
+    <h2 class="feed-title {% if feed._hidden %}feed-hidden{% endif %}">
+        {% if feed.kind != 'feed' %}
+        <span class="feed-prefix">[{{ feed.kind|upper }}]</span>
+        {% endif %}
+        {{ feed.cleaned_title or feed.title }}
+    </h2>
+    {% if feed.cleaned_author %}
+    <div class="feed-author">by {{ feed.cleaned_author }}</div>
+    {% endif %}
+    
+    {% if feed.summary %}
+    <div class="feed-summary">{{ feed.summary }}</div>
+    {% endif %}
+    
+    <div class="feed-meta">
+        {% if feed.language %}
+        <span class="feed-language">{{ feed.language|upper }}</span>
+        {% endif %}
+        <span class="feed-score badge">Score: {{ feed.computed_score if feed.computed_score is defined else (feed.popularity_score or 0)|int }}</span>
+        {% if feed.sources %}
+        <span class="feed-source badge source-badge">From: {{ feed.sources|join(', ') }}</span>
+        {% endif %}
+        {% if feed._hidden %}
+        <span class="feed-hidden-badge">HIDDEN</span>
+        {% endif %}
+        {% if '_high_quality' in feed.tags %}
+        <span class="feed-quality-badge">HIGH QUALITY</span>
+        {% endif %}
+    </div>
+    
+    <div class="tag-list">
+        {% for tag in feed.tags %}
+        <a href="{{ url_for('category', tag=tag) }}" class="tag">{{ tag }}</a>
+        {% endfor %}
+    </div>
+    
+    <a href="{{ url_for('feed', id=feed.id) }}" class="edit-feed-link">Edit Feed</a>
+    <a href="{{ feed_url(feed) }}" class="feed-url" target="_blank">View Feed</a>
+</div>
+{% endfor %}
+{% endblock %}

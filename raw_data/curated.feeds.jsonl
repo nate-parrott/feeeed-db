@@ -1,0 +1,60 @@
+{"id": "bluesky:did:plc:a4pqq234yw7fqbddawjo7y35", "cleaned_title": "The Onion", "summary": "Popular satirical news site.", "title": "The Onion", "kind": "bluesky", "bluesky_did": "did:plc:a4pqq234yw7fqbddawjo7y35", "sources": ["curated"]}
+{"id": "bluesky:did:plc:cyyd366g3hrxp5rynixm2mm3", "cleaned_title": "Depths of Wikipedia", "summary": "Wikipedia is weird!", "title": "Depths of Wikipedia", "kind": "bluesky", "bluesky_did": "did:plc:a4pqq234yw7fqbddawjo7y35", "sources": ["curated"]}
+{"id": "curated:gothamist", "title": "Gothamist", "kind": "feed", "sources": ["curated"], "summary": "Local news and culture from New York City.", "feed_url": "https://gothamist.com/feed" }
+{"id": "feed:http://www.instapaper.com/daily.rss", "title": "Instapaper Daily", "kind": "feed", "feed_url": "http://www.instapaper.com/daily.rss", "sources": ["curated"]}
+{"id": "feed:https://simpleflying.com/feed/", "title": "Simple Flying", "kind": "feed", "feed_url": "https://simpleflying.com/feed/", "sources": ["curated"]}
+{"id": "feed:http://www.scotusblog.com/feed/", "title": "SCOTUSblog", "kind": "feed", "feed_url": "http://www.scotusblog.com/feed/", "sources": ["curated"]}
+{"id": "feed:https://www.historynet.com/feed/", "title": "HistoryNet", "kind": "feed", "feed_url": "https://www.historynet.com/feed/", "sources": ["curated"]}
+{"id": "feed:http://www.theinfatuation.com/feed/atom", "title": "The Infatuation New York Feed", "kind": "feed", "feed_url": "http://www.theinfatuation.com/feed/atom", "sources": ["curated"]}
+{"id": "feed:http://www.niemanlab.org/feed/", "title": "Nieman Lab", "kind": "feed", "feed_url": "http://www.niemanlab.org/feed/", "sources": ["curated"]}
+{"id": "feed:http://www.techmeme.com/index.xml", "title": "Techmeme", "kind": "feed", "feed_url": "http://www.techmeme.com/index.xml", "sources": ["curated"]}
+{"id": "feed:http://chriscoyier.net/feed/", "title": "Chris Coyier", "kind": "feed", "feed_url": "http://chriscoyier.net/feed/", "sources": ["curated"]}
+{"id": "feed:https://www.semafor.com/rss.xml", "title": "Semafor", "kind": "feed", "feed_url": "https://www.semafor.com/rss.xml", "sources": ["curated"]}
+{"id": "feed:http://www.messynessychic.com/feed/", "title": "Messy Nessy Chic", "kind": "feed", "feed_url": "http://www.messynessychic.com/feed/", "sources": ["curated"]}
+{"id": "feed:http://www.rollcall.com/rss/all_news.xml", "title": "Roll Call", "kind": "feed", "feed_url": "http://www.rollcall.com/rss/all_news.xml", "sources": ["curated"]}
+{"id": "feed:https://bellingcat.com/feed/", "title": "bellingcat", "kind": "feed", "feed_url": "https://bellingcat.com/feed/", "sources": ["curated"]}
+{"id": "feed:https://www.techemails.com/feed", "title": "Internal Tech Emails", "kind": "feed", "feed_url": "https://www.techemails.com/feed", "sources": ["curated"]}
+{"id": "feed:https://daily.jstor.org/feed/", "title": "JSTOR Daily", "kind": "feed", "feed_url": "https://daily.jstor.org/feed/", "sources": ["curated"]}
+{"id": "feed:http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml", "title": "NYT > Food \u2013 nytimes.com", "kind": "feed", "feed_url": "http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml", "sources": ["curated"]}
+{"id": "feed:http://feeds.feedburner.com/eater/nyc", "title": "Eater NY -  All", "kind": "feed", "feed_url": "http://feeds.feedburner.com/eater/nyc", "sources": ["curated"]}
+{"id": "feed:https://nysfocus.com/feed", "title": "New York Focus \u2013 nysfocus.com", "kind": "feed", "feed_url": "https://nysfocus.com/feed", "sources": ["curated"]}
+{"id": "feed:https://cabel.com/feed/", "title": "cabel.com", "kind": "feed", "feed_url": "https://cabel.com/feed/", "sources": ["curated"]}
+{"id": "feed:http://nymag.com/feeds/intelligencer/flipboard.rss", "title": "New York Magazine -- Intelligencer \u2013 nymag.com", "kind": "feed", "feed_url": "http://nymag.com/feeds/intelligencer/flipboard.rss", "sources": ["curated"]}
+{"id": "feed:https://talkingpointsmemo.com/feed", "title": "TPM \u2013 Talking Points Memo", "kind": "feed", "feed_url": "https://talkingpointsmemo.com/feed", "sources": ["curated"]}
+{"id": "feed:http://feedpress.me/sixcolors", "title": "Six Colors \u2013 feedpress.me", "kind": "feed", "feed_url": "http://feedpress.me/sixcolors", "sources": ["curated"]}
+{"id": "feed:http://www.grubstreet.com/feeds/flipboard.rss", "title": "Grub Street", "kind": "feed", "feed_url": "http://www.grubstreet.com/feeds/flipboard.rss", "sources": ["curated"]}
+{"id": "feed:http://pxlnv.com/feed/", "title": "Pixel Envy \u2013 pxlnv.com", "kind": "feed", "feed_url": "http://pxlnv.com/feed/", "sources": ["curated"]}
+{"id": "feed:http://foreignpolicy.com/feed/", "title": "FP Foreign Policy", "kind": "feed", "feed_url": "http://foreignpolicy.com/feed/", "sources": ["curated"]}
+{"id": "feed:https://noahpinion.substack.com/feed/", "title": "Noahpinion \u2013 substack.com", "kind": "feed", "feed_url": "https://noahpinion.substack.com/feed/", "sources": ["curated"]}
+{"id": "feed:http://feeds2.feedburner.com/itsnicethat/SlXC", "title": "It's Nice That", "kind": "feed", "feed_url": "http://feeds2.feedburner.com/itsnicethat/SlXC", "sources": ["curated"]}
+{"id": "reddit:AskHistorians", "title": "r/AskHistorians", "kind": "reddit", "subreddit": "AskHistorians", "sources": ["curated"]}
+{"id": "feed:http://nyc.streetsblog.org/feed/", "title": "Streetsblog New York City", "kind": "feed", "feed_url": "http://nyc.streetsblog.org/feed/", "sources": ["curated"]}
+{"id": "feed:http://www.npr.org/rss/rss.php?id=1001", "title": "News : NPR", "kind": "feed", "feed_url": "http://www.npr.org/rss/rss.php?id=1001", "sources": ["curated"]}
+{"id": "feed:http://www.wnyc.org/feeds/channels/wnyc-news", "title": "WNYC News", "kind": "feed", "feed_url": "http://www.wnyc.org/feeds/channels/wnyc-news", "sources": ["curated"]}
+{"id": "reddit:nyc", "title": "r/nyc", "kind": "reddit", "subreddit": "nyc", "sources": ["curated"]}
+{"id": "feed:https://hellgatenyc.com/all-posts/rss/", "title": "Hell Gate \u2013 hellgatenyc.com", "kind": "feed", "feed_url": "https://hellgatenyc.com/all-posts/rss/", "sources": ["curated"]}
+{"id": "feed:https://heated.world/feed/", "title": "HEATED", "kind": "feed", "feed_url": "https://heated.world/feed/", "sources": ["curated"]}
+{"id": "feed:https://stratechery.com/feed/", "title": "Stratechery by Ben Thompson", "kind": "feed", "feed_url": "https://stratechery.com/feed/", "sources": ["curated"]}
+{"id": "feed:http://feeds.feedburner.com/codinghorror/", "title": "Coding Horror", "kind": "feed", "feed_url": "http://feeds.feedburner.com/codinghorror/", "sources": ["curated"]}
+{"id": "feed:https://www.popsci.com/feed/", "title": "Popular Science \u2013 popsci.com", "kind": "feed", "feed_url": "https://www.popsci.com/feed/", "sources": ["curated"]}
+{"id": "feed:http://feeds.feedburner.com/FontsInUsePicks", "title": "Fonts In Use: Staff Picks", "kind": "feed", "feed_url": "http://feeds.feedburner.com/FontsInUsePicks", "sources": ["curated"]}
+{"id": "feed:http://decider.com/feed/", "title": "Decider", "kind": "feed", "feed_url": "http://decider.com/feed/", "sources": ["curated"]}
+{"id": "feed:https://www.construction-physics.com/feed", "title": "Construction Physics \u2013 construction-physics.com", "kind": "feed", "feed_url": "https://www.construction-physics.com/feed", "sources": ["curated"]}
+{"id": "feed:https://www.outofpocket.health/p/rss.xml", "title": "Out-of-Pocket Blog \u2013 outofpocket.health", "kind": "feed", "feed_url": "https://www.outofpocket.health/p/rss.xml", "sources": ["curated"]}
+{"id": "feed:https://www.notboring.co/feed", "title": "Not Boring by Packy McCormick", "kind": "feed", "feed_url": "https://www.notboring.co/feed", "sources": ["curated"]}
+{"id": "reddit:science", "title": "r/science", "kind": "reddit", "subreddit": "science", "sources": ["curated"]}
+{"id": "bluesky:did:plc:cyyd366g3hrxp5rynixm2mm3", "title": "depthsofwikipedia.bsky.social", "kind": "bluesky", "bluesky_did": "did:plc:cyyd366g3hrxp5rynixm2mm3", "sources": ["curated"]}
+{"id": "feed:https://spyglass.org/rss/", "title": "Spyglass", "kind": "feed", "feed_url": "https://spyglass.org/rss/", "sources": ["curated"]}
+{"id": "youtube:channel:UCVo63lbKHjC04KqYhwSZ_Pg", "title": "Defunctland", "kind": "youtube", "channel_id": "UCVo63lbKHjC04KqYhwSZ_Pg", "sources": ["curated"]}
+{"id": "youtube:channel:UCBJycsmduvYEL83R_U4JriQ", "title": "Marques Brownlee", "kind": "youtube", "channel_id": "UCBJycsmduvYEL83R_U4JriQ", "sources": ["curated"]}
+{"id": "feed:https://simonwillison.net/atom/everything/", "title": "Simon Willison's Weblog", "kind": "feed", "feed_url": "https://simonwillison.net/atom/everything/", "sources": ["curated"]}
+{"id": "feed:https://nygroove.nyc/rss/", "title": "The New York Groove \u2013 nygroove.nyc", "kind": "feed", "feed_url": "https://nygroove.nyc/rss/", "sources": ["curated"]}
+{"id": "feed:https://www.platformer.news/feed", "title": "Platformer", "kind": "feed", "feed_url": "https://www.platformer.news/feed", "sources": ["curated"]}
+{"id": "feed:https://www.robinsloan.com/feed.xml", "title": "Robin Sloan", "kind": "feed", "feed_url": "https://www.robinsloan.com/feed.xml", "sources": ["curated"]}
+{"id": "feed:https://us-east1-ml-feeds.cloudfunctions.net/pwc/trending", "title": "Papers with Code: Trending (unofficial) \u2013 us-east1-ml-feeds.cloudfunctions.net", "kind": "feed", "feed_url": "https://us-east1-ml-feeds.cloudfunctions.net/pwc/trending", "sources": ["curated"]}
+{"id": "feed:http://nrn.com/rss.xml", "title": "Nation's Restaurant News \u2013 nrn.com", "kind": "feed", "feed_url": "http://nrn.com/rss.xml", "sources": ["curated"]}
+{"id": "feed:https://intellectualinting.substack.com/feed/", "title": "Chris Arnade Walks the World \u2013 substack.com", "kind": "feed", "feed_url": "https://intellectualinting.substack.com/feed/", "sources": ["curated"]}
+{"id": "feed:https://www.thecut.com/feeds/flipboard.rss", "title": "The Cut", "kind": "feed", "feed_url": "https://www.thecut.com/feeds/flipboard.rss", "sources": ["curated"]}
+{"id": "feed:https://www.eater.com/rss/front-page/index.xml", "title": "Eater", "kind": "feed", "feed_url": "https://www.eater.com/rss/front-page/index.xml", "sources": ["curated"]}
+{"id": "feed:https://grist.org/feed/", "title": "Grist", "kind": "feed", "feed_url": "https://grist.org/feed/", "sources": ["curated"]}
+{"id": "feed:https://paulkrugman.substack.com/feed", "title": "Krugman wonks out \u2013 substack.com", "kind": "feed", "feed_url": "https://paulkrugman.substack.com/feed", "sources": ["curated"]}

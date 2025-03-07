@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://adamj.eu/tech/",
+    "title": "Adam Johnson",
+    "description": "I'm an author and solo consultant working with Ansible, AWS, Django, and Python."
+  },
+  {
+    "url": "https://brandur.org/articles",
+    "title": "brandur.org \u2014 Articles",
+    "description": ""
+  },
+  {
+    "url": "https://dusted.codes",
+    "title": "Dusted Codes",
+    "description": "Programming Adventures."
+  },
+  {
+    "url": "https://james.brooks.page/blog",
+    "title": "James Brooks - Articles",
+    "description": "Sometimes I write things and put them here."
+  },
+  {
+    "url": "https://blog.laravel.com",
+    "title": "The Laravel Blog",
+    "description": ""
+  },
+  {
+    "url": "https://mattsegal.dev/",
+    "title": "Matt's Dev Blog",
+    "description": "Matt's blog on backend web development."
+  },
+  {
+    "url": "https://michaelhebblethwaite.com",
+    "title": "Michael's Blog",
+    "description": "The personal website and blog of Michael Hebblethwaite, a web developer based in Nagoya, Japan."
+  },
+  {
+    "url": "https://palletsprojects.com/blog/",
+    "title": "The Pallets Projects",
+    "description": "A collection of Python web development libraries that are associated with the Flask microframework."
+  },
+  {
+    "url": "https://www.patrickdap.com/",
+    "title": "Patrick D'appollonio",
+    "description": "Notes about engineering, programming, Kubernetes, go, infra-as-code and other interesting things."
+  },
+  {
+    "url": "https://pawelurbanek.com/blog",
+    "title": "Pawe\u0142 U.",
+    "description": "Ruby on Rails Web Development Consultant Full Stack Blog."
+  },
+  {
+    "url": "https://php.watch/",
+    "title": "PHP.Watch",
+    "description": "A source for PHP News, upcoming changes to the language core and extensions, and articles."
+  },
+  {
+    "url": "https://railsnotes.xyz",
+    "title": "RailsNotes",
+    "description": "A collection of the Ruby on Rails guides you wished you had, when you were first starting out."
+  },
+  {
+    "url": "https://www.rockandnull.com",
+    "title": "Rock and Null",
+    "description": "Tech, software and whatever comes to mind."
+  },
+  {
+    "url": "https://spapas.github.io/",
+    "title": "/var/",
+    "description": "Various programming stuff."
+  },
+  {
+    "url": "https://www.b-list.org/weblog/",
+    "title": "Weblog archive",
+    "description": ""
+  }
+]

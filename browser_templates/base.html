@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Feed Database Browser{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h2>Feed Database</h2>
+                <p><a href="{{ url_for('home') }}">Home</a></p>
+                <form action="{{ url_for('search') }}" method="get" class="search-form">
+                    <input type="text" name="q" placeholder="Search feeds..." value="{{ query if query else '' }}">
+                    <button type="submit">Search</button>
+                </form>
+            </div>
+            
+            <h3>Categories</h3>
+            <ul class="category-list">
+                {% for tag in categories.tags.top_level %}
+                <li><a href="{{ url_for('category', tag=tag) }}">{{ tag }}</a></li>
+                {% endfor %}
+            </ul>
+            
+            <h3>Topics</h3>
+            <ul class="category-list">
+                {% for tag in categories.tags.mid_level %}
+                <li><a href="{{ url_for('category', tag=tag) }}">{{ tag }}</a></li>
+                {% endfor %}
+            </ul>
+            
+            <h3>Detailed Topics</h3>
+            <ul class="category-list">
+                {% for tag in categories.tags.detailed %}
+                <li><a href="{{ url_for('category', tag=tag) }}">{{ tag }}</a></li>
+                {% endfor %}
+            </ul>
+            
+            <h3>Specialized Topics</h3>
+            <ul class="category-list">
+                {% for tag in categories.tags.super_detailed %}
+                <li><a href="{{ url_for('category', tag=tag) }}">{{ tag }}</a></li>
+                {% endfor %}
+            </ul>
+            
+            {% if popular_languages %}
+            <h3>Languages</h3>
+            <ul class="category-list">
+                {% for lang_code, count in popular_languages.items() %}
+                <li><a href="{{ url_for('language', lang_code=lang_code) }}">{{ lang_code }} ({{ count }})</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+        
+        <div class="main-content">
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+</body>
+</html>

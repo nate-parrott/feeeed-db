@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}Feed Database Browser - Home{% endblock %}
+
+{% block content %}
+<h1>Feed Database Browser</h1>
+<p>Welcome to the feed database browser. Browse curated feeds organized by categories.</p>
+
+<div class="section-header">
+    <h2>Stats</h2>
+</div>
+<p>Total feeds in database: <strong>{{ total_feeds }}</strong></p>
+
+<div class="section-header">
+    <h2>Categories</h2>
+</div>
+<div class="tag-list">
+    {% for tag, count in tag_counts.items() %}
+    <a href="{{ url_for('category', tag=tag) }}" class="tag">{{ tag }} ({{ count }})</a>
+    {% endfor %}
+</div>
+{% endblock %}
